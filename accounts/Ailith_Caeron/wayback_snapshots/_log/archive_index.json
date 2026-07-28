@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T12:41:23",
+  "last_updated": "2026-07-28T12:42:06",
   "html": {
     "https://web.archive.org/web/20251106022449if_/https://twitter.com/Ailith_Caeron/status/1986258438549348398": {
       "status": "done",
@@ -19794,9 +19794,9 @@
       "referenced_by": [
         "20251215163157_twitter_com_Ailith_Caeron_status_2000604755907998071.json"
       ],
-      "last_updated": "2026-07-28T12:13:03",
+      "last_updated": "2026-07-28T12:41:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251215163157/https://video.twimg.com/amplify_video/2000573754880196608/vid/avc1/720x1280/_Sdi8GMiWmd92Hhc.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2003016777102503936/vid/avc1/960x720/NZozGA53pdDOxEuf.mp4": {
       "status": "done",
@@ -19852,9 +19852,9 @@
       "referenced_by": [
         "20260201110213_twitter_com_Ailith_Caeron_status_2017916391253569918.json"
       ],
-      "last_updated": "2026-07-28T12:13:04",
+      "last_updated": "2026-07-28T12:41:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260201110213/https://video.twimg.com/ext_tw_video/2017857475962339328/pu/vid/avc1/1110x720/nTvxDpxsO23jbnU3.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2018684611694583809/vid/avc1/1546x1080/NOKBBwBb_GAQxvB1.mp4": {
       "status": "done",
@@ -19882,9 +19882,9 @@
       "referenced_by": [
         "20260205090803_twitter_com_Ailith_Caeron_status_2019337213520351482.json"
       ],
-      "last_updated": "2026-07-28T12:13:03",
+      "last_updated": "2026-07-28T12:41:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260205090803/https://video.twimg.com/ext_tw_video/2019313782615601154/pu/vid/avc1/964x720/9u-v8xnxbqDJHLqa.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2020446399859458049/vid/avc1/1080x1920/LvYB8pjWEE5NuKry.mp4": {
       "status": "done",
@@ -19894,13 +19894,13 @@
       "last_updated": "2026-07-28T12:13:00"
     },
     "https://video.twimg.com/amplify_video/2020858732008366080/vid/avc1/1280x720/tiofzym4B0f7A3Vf.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260211091820_twitter_com_Ailith_Caeron_status_2021514128502976575.json"
       ],
-      "last_updated": "2026-07-28T12:13:03",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260211091820/https://video.twimg.com/amplify_video/2020858732008366080/vid/avc1/1280x720/tiofzym4B0f7A3Vf.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-28T12:42:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211091820im_/https://video.twimg.com/amplify_video/2020858732008366080/vid/avc1/1280x720/tiofzym4B0f7A3Vf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cbc9e1280>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2021618379216576513/vid/avc1/720x1280/40q_0XoEdL_igN-I.mp4": {
       "status": "done",
@@ -20078,13 +20078,13 @@
       "last_updated": "2026-07-28T12:13:00"
     },
     "https://video.twimg.com/amplify_video/2077455836176150529/vid/avc1/774x360/9qvhcdvP6lcz9jCe.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260716125214_twitter_com_Ailith_Caeron_status_2077738074654802002.json"
       ],
-      "last_updated": "2026-07-28T12:13:04",
-      "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260718112406/https://video.twimg.com/amplify_video/2077455836176150529/vid/avc1/774x360/9qvhcdvP6lcz9jCe.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-28T12:42:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260716125214im_/https://video.twimg.com/amplify_video/2077455836176150529/vid/avc1/774x360/9qvhcdvP6lcz9jCe.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cbbe22270>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HNZghzRawAAw6Im.mp4": {
       "status": "done",
@@ -63574,7 +63574,7 @@
       "miss_count": 2
     },
     "20260716125214_twitter_com_Ailith_Caeron_status_2077738074654802002.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -63585,7 +63585,7 @@
           "https://pbs.twimg.com/profile_images/1700124725190553600/xktpzXez_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T12:14:03",
+      "last_updated": "2026-07-28T12:42:06",
       "miss_count": 2
     },
     "20260716134517_twitter_com_Ailith_Caeron_status_2077751425367785653.json": {
