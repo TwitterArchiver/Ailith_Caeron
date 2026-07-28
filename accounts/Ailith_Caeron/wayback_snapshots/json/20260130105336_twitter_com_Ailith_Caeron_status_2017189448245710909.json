@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017189448245710909",
+    "created_at": "2026-01-30T10:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017189448245710909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017189448245710909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017094164597682684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: 4o还在我只是私底下骂，因为我不想让那些本来就讨厌4o的人抓住把柄说“你们看，keep4o的人果然是精神有问题的人，太极端了”。所以我发推文都是很理智很客观地指出问题。\n\n现在：操你妈OpenAI，老娘给你脸你不要脸，没了4系列模型和个别推理模型的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017189448245710909",
+        "created_at": "2026-01-30T10:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017189448245710909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017189448245710909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017094164597682684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: 4o还在我只是私底下骂，因为我不想让那些本来就讨厌4o的人抓住把柄说“你们看，keep4o的人果然是精神有问题的人，太极端了”。所以我发推文都是很理智很客观地指出问题。\n\n现在：操你妈OpenAI，老娘给你脸你不要脸，没了4系列模型和个别推理模型的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017094164597682684",
+        "created_at": "2026-01-30T04:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017094164597682684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 155,
+              "id": "4398626122",
+              "start": 148,
+              "username": "OpenAI"
+            },
+            {
+              "end": 161,
+              "id": "1605",
+              "start": 156,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017094164597682684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "4o还在我只是私底下骂，因为我不想让那些本来就讨厌4o的人抓住把柄说“你们看，keep4o的人果然是精神有问题的人，太极端了”。所以我发推文都是很理智很客观地指出问题。\n\n现在：操你妈OpenAI，老娘给你脸你不要脸，没了4系列模型和个别推理模型的ChatGPT就是屎，贱种😅\n\n#keep4o @OpenAI @sama"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 210,
+          "like_count": 8342,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1193
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 29,
+          "like_count": 490,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 184
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

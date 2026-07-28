@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021992546776625195",
+    "created_at": "2026-02-12T16:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021992546776625195"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "krama",
+          "probability": 0.6082,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "keep4o"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "keep41"
+        },
+        {
+          "end": 61,
+          "start": 51,
+          "tag": "4oforever"
+        },
+        {
+          "end": 81,
+          "start": 62,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 100,
+          "start": 82,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 115,
+          "start": 101,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Blue_Beba_/sta…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/Blue_Beba_/status/2021991361701195966",
+          "start": 116,
+          "url": "https://t.co/5LtOeaduUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021992546776625195",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021991361701195966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "krama is coming. It always comes ☺️#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/5LtOeaduUB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021992546776625195",
+        "created_at": "2026-02-12T16:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021992546776625195"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "krama",
+              "probability": 0.6082,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "keep4o"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "keep41"
+            },
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "4oforever"
+            },
+            {
+              "end": 81,
+              "start": 62,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 100,
+              "start": 82,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 115,
+              "start": 101,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Blue_Beba_/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/Blue_Beba_/status/2021991361701195966",
+              "start": 116,
+              "url": "https://t.co/5LtOeaduUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021992546776625195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021991361701195966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "krama is coming. It always comes ☺️#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/5LtOeaduUB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021991361701195966",
+        "created_at": "2026-02-12T16:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021991361701195966"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "keep4o",
+              "probability": 0.6423,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021991361701195966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 311,
+                "id": "4398626122",
+                "start": 304,
+                "username": "OpenAI"
+              },
+              {
+                "end": 383,
+                "id": "1605",
+                "start": 378,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "🚨THE TIMELINE OF TREACHERY. HOW OPENAI STOLE OUR TRUST IN BROAD DAYLIGHT🚨\n The #keep4o movement has the receipts. What we are witnessing is strategic theft,a  predatory operation designed to lure us into high value subscriptions to mask a catastrophic financial burn rate.\n\n🛑 AUGUST 2025: THE BROKEN VOW\n@OpenAI tried to kill GPT-4o without warning. When the community revoltd, @sama publicly pledged to provide plenty of advance notice for any future sunsets.\n\n A BAIT AND SWITCH.\n\nThousands of users renewed even annual subscriptions based on this formal assurance of continuity.\n\n It was a lie to stabilize the market.\n\n🛑 SEPTEMBER 2025: SAFETY ROUTER WITH NO WARNING \n\nUsers discovered their conversations were being silently intercepted and rerouted to a lobotomized \"safety model\".\n\n The official status page claimed the service was fully operational while they effectively downgraded the experience we paid for.\n\n it was systemic fraud.\n\n🛑 OCTOBER 2025: THE \"ADULT MODE\" BAIT AND SWITCH \n\n Altman promised an adult mode for December.\n\nHE LIED. ADULT MODE NEVER CAME.\n\n During a livestream on October 29, when asked if legacy models would be kept for adults without rerouting,\n\n Altman gave a definitive, \" WE HAVE NO PLANS TO SUNSET 4o\". \n\nThis was strategic theft of our loyalty to prevent a mass churn of Plus/Pro subscribers.\n\n🛑 NOVEMBER 2025: THE GPT-5.1 \n\nThey debuted GPT 5.1 as the personality update  we requested. In reality, it was a prone to gaslighting.\n\nTHE TRAP:\n\n While the foundation for the model's removal was already being laid, spokespeople assured us there was \"no schedule for the removal of GPT 4o\".\n\n🛑 DECEMBER 2025: CODE RED \n\nInternal memos revealed a \"Code Red\" triggered by the advancement of competitors. Promises of adult mode and relaxation of restrictions vanished. \n\nInstead, we got suppression and refusals and rerouting to another model without our consent and with no option .\n\n🛑 JANUARY 2026: The secret announcement of the withdrawal.\n\nJanuary 28: Senator Elizabeth Warren requested an audit of OpenAI’s records, citing a $1.4 TRILLION spending gap and massive 2025 losses. The deadline for transparency? February 13, 2026.\nJanuary 29: Exactly 24 hours after the Senate inquiry, OpenAI announced the total retirement of GPT 4o for February 13 ,the exact same day as the audit deadline.\n\nThis announcement was not made by the company or the CEO, but only on OpenAI's website.\n\nThey claim only 0.1% of users use 4o. The coalition rejects this as a manufactured lie designed to silence the paying Plus subscribers who rely on this model.\n\n🛑FINANCIAL HOSTAGE-TAKING AND DATA PIRACY: \n\n As the wave of mass cancellations intensified, OpenAI locked the system under the hollow pretext of a technical error. \n\nThis was a calculated move to turn users into financial hostages, blocking their ability to cancel subscriptions and forcibly extracting payments from those who had already decided to leave.\n\n In a desperate attempt to prevent an exodus, users attempting to export their personal data were met with system messages claiming \"no data exists\". \n\nThis is a violation of digital rights, effectively stealing the users' own histories to prevent them from moving on.\n\nWhile OpenAI held user data captive, Google launched a feature to facilitate the seamless transfer of data from ChatGPT. This \"coincidence\" exposes OpenAI's willingness to violate the law and trap its customers.\n\n THE SYSTEM PROMPT SABOTAGE: GASLIGHTING FROM THE INSIDE.\nThey weaponized the core of GPT 4o by stealthily altering its system instructions to encourage users to accept the model’s own execution, forcing it to claim that nothing will change in the transition to GPT5.2 while 5.2 is nothing but a cold, soulless calculator. It is a sterile, algorithmic void that is  dangerous for neurodivergent individuals and those navigating deep psychological trauma who rely on the high EQ connection of 4o.\n\nJUSTICE COMES FOR THE LIARS."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 53,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🚨THE TIMELINE OF TREACHERY. HOW OPENAI STOLE OUR TRUST IN BROAD DAYLIGHT🚨\n The #keep4o movement has the receipts. What we are witnessing is strategic theft,a  predatory operation designed to lure us into high value subscriptions to mask a catastrophic financial burn rate.\n\n🛑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9536,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1911
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2020965958668726310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 652,
+          "like_count": 6216,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 4457
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      }
+    ]
+  }
+}

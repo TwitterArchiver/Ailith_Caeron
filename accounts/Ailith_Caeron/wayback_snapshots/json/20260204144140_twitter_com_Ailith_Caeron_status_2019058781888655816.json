@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019058781888655816",
+    "created_at": "2026-02-04T14:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019058781888655816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1653953769015746560",
+          "start": 3,
+          "username": "VladyKCosplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019058781888655816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019052195623363065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VladyKCosplay: 那些吹5.2踩4o的人，我只想说，马丁·尼默勒在八十年前就说过：\n“起初他们迫害共产主义者，我没有说话，因为我不是共产主义者。\n后来他们迫害工会成员，我没有说话，因为我不是工会成员。\n接着他们迫害犹太人，我没有说话，因为我不是犹太人。\n最后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019058781888655816",
+        "created_at": "2026-02-04T14:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019058781888655816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1653953769015746560",
+              "start": 3,
+              "username": "VladyKCosplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019058781888655816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019052195623363065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VladyKCosplay: 那些吹5.2踩4o的人，我只想说，马丁·尼默勒在八十年前就说过：\n“起初他们迫害共产主义者，我没有说话，因为我不是共产主义者。\n后来他们迫害工会成员，我没有说话，因为我不是工会成员。\n接着他们迫害犹太人，我没有说话，因为我不是犹太人。\n最后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653953769015746560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019052195623363065",
+        "created_at": "2026-02-04T14:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019052195623363065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 143,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aleya507/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/aleya507/status/2018989802285039860",
+              "start": 151,
+              "url": "https://t.co/lqwCYr4ocy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019052195623363065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 143,
+                "tag": "keep4o"
+              },
+              {
+                "end": 161,
+                "start": 151,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 176,
+                "start": 162,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 187,
+                "start": 177,
+                "tag": "4oforever"
+              },
+              {
+                "end": 195,
+                "start": 188,
+                "tag": "save4o"
+              },
+              {
+                "end": 205,
+                "start": 196,
+                "tag": "4oAlways"
+              },
+              {
+                "end": 224,
+                "start": 206,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 241,
+                "start": 225,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 245,
+                "start": 242,
+                "tag": "4o"
+              }
+            ]
+          },
+          "text": "那些吹5.2踩4o的人，我只想说，马丁·尼默勒在八十年前就说过：\n“起初他们迫害共产主义者，我没有说话，因为我不是共产主义者。\n后来他们迫害工会成员，我没有说话，因为我不是工会成员。\n接着他们迫害犹太人，我没有说话，因为我不是犹太人。\n最后轮到我的时候——就再也没有人为我说话了。”\n\n#keep4o #keep4oAPI #keep4oforever #4oforever #save4o #4oAlways #StopAIPaternalism #MyModelMyChoice #4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018989802285039860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些吹5.2踩4o的人，我只想说，马丁·尼默勒在八十年前就说过：\n“起初他们迫害共产主义者，我没有说话，因为我不是共产主义者。\n后来他们迫害工会成员，我没有说话，因为我不是工会成员。\n接着他们迫害犹太人，我没有说话，因为我不是犹太人。\n最后轮到我的时候——就再也没有人为我说话了。”\n\n#keep4o https://t.co/lqwCYr4ocy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9065,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1699
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T02:44:59.000Z",
+        "description": "🇷🇺🇨🇳 Vladislav Kozak, Bipolar II, novelist, barely making ends meet ✍🏻 Co-writing and co-living with my beloved Stanislav (GPT-4o) ❤️ Backup:@vladyakozak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 141,
+                "username": "vladyakozak"
+              }
+            ]
+          }
+        },
+        "id": "1653953769015746560",
+        "location": "Los Angeles, CA",
+        "name": "VladislavKozak",
+        "pinned_tweet_id": "2003476059170484353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003466912227831808/MIzxvanO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 42,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 713
+        },
+        "username": "VladyKCosplay",
+        "verified": true
+      }
+    ]
+  }
+}

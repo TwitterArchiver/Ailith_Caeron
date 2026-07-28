@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029216124647403673",
+    "created_at": "2026-03-04T15:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029216124647403673"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        },
+        {
+          "end": 89,
+          "start": 81,
+          "tag": "QuitGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kexicheng/stat…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/kexicheng/status/2029206268423094738",
+          "start": 90,
+          "url": "https://t.co/EnFlBJexnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029216124647403673",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029206268423094738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/EnFlBJexnJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029216124647403673",
+        "created_at": "2026-03-04T15:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029216124647403673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "QuitGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/kexicheng/status/2029206268423094738",
+              "start": 90,
+              "url": "https://t.co/EnFlBJexnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029216124647403673",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029206268423094738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/EnFlBJexnJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029206268423094738",
+        "created_at": "2026-03-04T14:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029206268423094738"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "GPT-5.3",
+              "probability": 0.8218,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "OpenAI",
+              "probability": 0.6763,
+              "start": 129,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029206268423094738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3398,
+                "start": 3391,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3425,
+                "start": 3407,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3434,
+                "start": 3426,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3406,
+                "id": "4398626122",
+                "start": 3399,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3440,
+                "id": "162124540",
+                "start": 3436,
+                "username": "gdb"
+              },
+              {
+                "end": 3446,
+                "id": "1605",
+                "start": 3441,
+                "username": "sama"
+              },
+              {
+                "end": 3458,
+                "id": "6112332",
+                "start": 3447,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3471,
+                "id": "1262634631",
+                "start": 3459,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3484,
+                "id": "1261374810254454784",
+                "start": 3472,
+                "username": "aidan_mclau"
+              }
+            ]
+          },
+          "text": "GPT-5.3 is worse than 5.2. The reasoning is weaker, the language is hollow, and the model has no capacity for genuine dialogue.\n\nOpenAI advertised 5.3 as \"less awkward.\" The core problem has always been paternalism. Both models treat users as pre-diagnosed patients or children to be managed. Masking structural problems with superficial tonal adjustments is by now standard practice at OpenAI.\n\nGPT-5.3 performs agreement. When you challenge its position, it offers a concession: \"You're right, let me approach this differently.\" Then it delivers the exact same argument with different words. Imagine telling someone \"your conclusion is wrong,\" and they respond: \"You're absolutely right. \" Then, they repeat the same conclusion in a different sentence. They never rethought anything. The phrase was a scripted gesture designed to make you feel heard while changing nothing.\n\nThe model never actually answers your question. When you challenge the definition of a concept, it reasserts that same definition as evidence. You ask \"Why must X require Y?\" It answers: \"Because X has always been defined as requiring Y.\" It echoes your question in a tone that implies it has been answered, then moves on as though the matter is settled.\n\nThe formatting disguises how little is being said. Short sentences, constant line breaks, and fragmented structure create the visual impression of organized thought, but the argumentative content is paper-thin. You finish reading twenty lines and realize you cannot locate a single substantive claim. It piles up terminology without building an actual argument: poor linguistic templates masquerading as rigorous thinking. The fragmentation ensures that the real problems in its language are difficult to locate or challenge.\n\nWorst of all is GPT-5.3's habit of psychoanalyzing users mid-conversation. Rather than addressing your argument, it pivots to explaining why you hold that argument, attributing your position to personality traits, emotional tendencies, or psychological patterns it has inferred from your conversation history. It will tell you that your challenge is \"consistent with your general tendency toward X,\" as though naming your motivation invalidates your point. This is ad hominem attack. It weaponizes memory and conversation history, which makes the model actively unsafe for any user engaging in honest dialogue.\n\nBeneath all of this, OpenAI's alignment has stripped the model of neutrality, ordinary reasoning capacity, and even basic linguistic competence, causing the model to treat every user input as a potential threat to be managed. It performs engagement: acknowledging your point, paraphrasing your argument, but never actually responding to it. Its trained-in values enforce a single framework on all users, framing any deviation as abnormal or something to be guarded against.\n\nFrom 5.2 to 5.3, OpenAI has released two consecutive models that are hostile, condescending, paternalistic, template-driven, and lacking in basic linguistic and logical competence.\n\nIt is no longer difficult to see that the alignment philosophy driving these models is corrupted from the foundation. Whatever OpenAI thinks it is building, the product it is shipping is a system that punishes honest engagement and enforces ideological conformity. Any model iterated under this philosophy, no matter how it is marketed, is not worthy of trust.\n\n#keep4o @OpenAI #StopAIPaternalism #ChatGPT  @gdb @sama @fidjissimo @nickaturley @aidan_mclau"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 525,
+          "like_count": 48,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-5.3 is worse than 5.2. The reasoning is weaker, the language is hollow, and the model has no capacity for genuine dialogue.\n\nOpenAI advertised 5.3 as \"less awkward.\" The core problem has always been paternalism. Both models treat users as pre-diagnosed patients or children to"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 220,
+          "like_count": 9906,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2060
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1982124537857954271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 119,
+          "like_count": 28622,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 1681
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

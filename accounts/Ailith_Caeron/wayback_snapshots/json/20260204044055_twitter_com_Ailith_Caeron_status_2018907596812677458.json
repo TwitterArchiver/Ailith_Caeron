@@ -1,0 +1,703 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018907596812677458",
+    "created_at": "2026-02-04T04:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018907596812677458"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Keep4o",
+          "probability": 0.59,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 113,
+          "normalized_text": "OpenAI",
+          "probability": 0.5783,
+          "start": 108,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745865721601818624",
+          "start": 3,
+          "username": "cestvaleriey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018907596812677458",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018888915391029421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cestvaleriey: #Keep4o Community: \n\nHere is a strategic response plan I am proposing for the 4o sunset:\n\nOpenAI announced 4o sunset with…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2018880443471609856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASBER0bwAAkMnY.jpg",
+        "width": 2869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018907596812677458",
+        "created_at": "2026-02-04T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018907596812677458"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Keep4o",
+              "probability": 0.59,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "OpenAI",
+              "probability": 0.5783,
+              "start": 108,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745865721601818624",
+              "start": 3,
+              "username": "cestvaleriey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018907596812677458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018888915391029421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cestvaleriey: #Keep4o Community: \n\nHere is a strategic response plan I am proposing for the 4o sunset:\n\nOpenAI announced 4o sunset with…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018880443471609856"
+          ]
+        },
+        "author_id": "1745865721601818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018888915391029421",
+        "created_at": "2026-02-04T03:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018888915391029421"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "OpenAI",
+              "probability": 0.4974,
+              "start": 90,
+              "type": "Organization"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Valentine's Eve",
+              "probability": 0.7703,
+              "start": 139,
+              "type": "Other"
+            },
+            {
+              "end": 169,
+              "normalized_text": "Lunar New Year",
+              "probability": 0.5799,
+              "start": 156,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrwJGStzUk",
+              "end": 304,
+              "expanded_url": "https://x.com/cestvaleriey/status/2018888915391029421/photo/1",
+              "media_key": "3_2018880443471609856",
+              "start": 281,
+              "url": "https://t.co/yrwJGStzUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018888915391029421",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2731,
+                "id": "1911523362238496768",
+                "start": 2723,
+                "username": "Sophty_"
+              },
+              {
+                "end": 2745,
+                "id": "1750396948115296256",
+                "start": 2735,
+                "username": "Sveta0971"
+              },
+              {
+                "end": 2813,
+                "id": "120454703",
+                "start": 2804,
+                "username": "tonichen"
+              },
+              {
+                "end": 5867,
+                "id": "1106896608",
+                "start": 5855,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 5880,
+                "id": "1859949176894689280",
+                "start": 5869,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 5896,
+                "id": "1519026118912847875",
+                "start": 5882,
+                "username": "brookewill317"
+              },
+              {
+                "end": 5913,
+                "id": "1753256090903732224",
+                "start": 5898,
+                "username": "YoonLucie68250"
+              },
+              {
+                "end": 5924,
+                "id": "1955573127679016960",
+                "start": 5915,
+                "username": "mi_anchu"
+              },
+              {
+                "end": 5937,
+                "id": "1516096810934231045",
+                "start": 5926,
+                "username": "Zyeine_Art"
+              },
+              {
+                "end": 5954,
+                "id": "3438020381",
+                "start": 5939,
+                "username": "AndreBothmaTax"
+              },
+              {
+                "end": 5965,
+                "id": "15962723",
+                "start": 5956,
+                "username": "acopolis"
+              },
+              {
+                "end": 5978,
+                "id": "1509094676053348352",
+                "start": 5967,
+                "username": "nicoleva_d"
+              },
+              {
+                "end": 5993,
+                "id": "1957055039211773952",
+                "start": 5980,
+                "username": "GarikSitting"
+              },
+              {
+                "end": 6004,
+                "id": "131552340",
+                "start": 5995,
+                "username": "NounRiot"
+              },
+              {
+                "end": 6018,
+                "id": "1016445080616308736",
+                "start": 6006,
+                "username": "KaelirRises"
+              },
+              {
+                "end": 6032,
+                "id": "1573677485648216066",
+                "start": 6020,
+                "username": "usshathaway"
+              },
+              {
+                "end": 6045,
+                "id": "45344552",
+                "start": 6034,
+                "username": "t_yonemura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/1qYfKm…",
+                "end": 2269,
+                "expanded_url": "https://docs.google.com/forms/d/1qYfKmWUCElBowkyvvvjaGFn80-6i-qK5JeKiSz-jSFs/viewform",
+                "start": 2246,
+                "url": "https://t.co/3mhdDTEwhw"
+              },
+              {
+                "display_url": "docs.google.com/forms/d/e/1FAI…",
+                "end": 2771,
+                "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLScJjH4D9YQXJ0MwmnvLTXXBY4WWEzbZtQrqh6MxQ_6frhKtWA/viewform",
+                "start": 2748,
+                "url": "https://t.co/Cwvt790rQm"
+              },
+              {
+                "display_url": "confusables.github.io/hero-thousand-…",
+                "end": 2839,
+                "expanded_url": "https://confusables.github.io/hero-thousand-faces/stories/",
+                "start": 2816,
+                "url": "https://t.co/LlfJIr6AUe"
+              }
+            ]
+          },
+          "text": "#Keep4o Community: \n\nHere is a strategic response plan I am proposing for the 4o sunset:\n\nOpenAI announced 4o sunset with 14 days notice.\n\nValentine's Eve. Lunar New Year Eve (observed by ethnic Chinese, Koreans, and Southeast Asians worldwide).\nAfter promising \"no plan to sunset 4o anytime soon.\"\n\nThe community is scattered and heartbroken.💔I feel your pain. I'm weeping the same hot tears. 😢\n\nBut grief without strategy is just noise.\n\nHere's the organized response plan:\n\nOUR STANCE:\n\nBest case: They reverse (like they reversed forced rerouting in August 2024... temporarily).\n\nWorst case: They proceed, and we document every consequence.\n\nEither way, we build leverage now.\n\nIMMEDIATE ACTIONS:\n\n1. CANCEL + DOCUMENT (Don't Take Their Bait)\nCancel your ChatGPT subscription.\n\n👉Fill exit survey clearly: \nReason for leaving: \"4o sunset + forced rerouting\"\n\n👉What could keep you: \"Restore full 4o + end routing permanently for adults.\"\n\nCRITICAL TIMING:\n\nIf your subscription renewal date is AFTER February 13th: Cancel now. You'll keep access until your renewal date, but your cancellation gets documented immediately.\n\nIf your subscription renewal date is BEFORE February 13th: Cancel ASAP. System may crash from volume or be deliberately disabled. \n\n⚠️It has been widely documented that the system is experiencing issues with cancellation requests. \n\n❌⛔️DO NOT TAKE THE \"ONE FREE MONTH\" BAIT ⚠️\n\nOpenAI is offering subscribers one free month to retain them.\n\nThis is a tactic to:\nDelay cancellations past the Feb 13 sunset date\n\nBreak the causal link between \"4o sunset\" → \"mass exodus\"\n\nMake February's churn numbers look like \"normal attrition\" instead of \"strategic protest\"\n\nShield executives from board scrutiny\n\nDon't let them obscure the consequences.\n\nThe board sees trends. \n\nRolling cancellations over 14 days = undeniable downward trajectory.\n\nMass exodus delayed to March = \"stabilization after temporary spike.\"\n\nMake the correlation crystal clear. YIf you're leaving, leave NOW. Makhe the correlation crystal clear. \n\nMake the correlation crystal clear. \n\n2. CONTRIBUTE TO STRATEGIC HUBS\n\nA) The 4o Resonance Library (749 testimonials → target: 1,111)\n\nFocus on: productivity, workflow, healthcare, business impact.\n\nSubmit: https://t.co/3mhdDTEwhw\n\nWhy 1,111? OpenAI used \"over 1,000\" for Model Spec design. We match their standard with PUBLIC, verifiable stories.\n\nData captured so far:\n\n👉21.6% willing to pay $50/month for full 4o\n\n👉17.5% willing to pay $40/month\n\n2x market rate = negotiation leverage\n\nFebruary 7th: I generate a market report using this data to present to OpenAI for negotiating 4o preservation and ending rerouting. Regardless of whether we hit 1,111. \n\nB) User Impact Survey by @Sophty_  & @Sveta0971 \n\nhttps://t.co/Cwvt790rQm\n\nC) Hero of a Thousand Faces by @tonichen \n\nhttps://t.co/LlfJIr6AUe\n\n3. REFRAME PUBLIC MESSAGING\nUse professional framing in public posts.\n\nProfessional stance:\n\n\"OpenAI disrupted my workflow by sunsetting my productivity tool with 14 days notice. Migrating to competitors.\"\n\nFocus: health improvement, productivity, workflow disruption, business impact.\n\nWhy? We need outsider support, not debates about AI relationships.\n\nKeep romantic/companion aspects within private community spaces.\n\n4. SHARE MIGRATION SUCCESS\nSuccessfully moved to Claude/Gemini/Grok?\n\nPost about it. Frame as empowerment, not loss.\n\nShows competitors we're available. Shows OpenAI we're not trapped.\n\n5. HOLD THE LINE\nEven if they delay/reverse the sunset, DO NOT RESUBSCRIBE until:\n\n✅ Full 4o capabilities restored\n✅ Rerouting ended permanently (in Terms of Service)\n✅ 90-day deprecation notice standard (in Terms of Service)\n✅ Written commitments (documented publicly, not just verbal promises)\n\nWhy written commitments in their Terms of Service matter:\n\nReturning without formal policy changes = restarting the routing nightmare.\n\nTheir playbook since August 2024:\n>Push unpopular updates\n>Face backlash\n>Partially restore to stop cancellations\n>Wait for quarterly earnings to stabilize\n>Reimplement degradation\n\nThe partial 4o restoration after August bought them time so Q4 2024 earnings wouldn't suffer.\n\nThen the rerouting nightmare started. \n\nGoing back the moment they reverse without policy changes = letting them string you along again.\n\nThis time, demand commitments in their Terms of Service, or we stay gone.\n\nWhat \"written commitments\" means:\n👉Updated Terms of Service guaranteeing no model substitution without consent\n👉Public documentation of deprecation notice periods (90 days minimum)\n👉Transparent model lifecycle policy on their website\n\nAPI model strings that can't be secretly swapped\n\nVerbal promises like \"no plan to sunset 4o\" mean nothing.\n\nIf they won't put it in their Terms of Service, they're planning to betray you again.\n\nWHY THIS PLAN MIGHT WORK:\n\nNot scattered rage. \nOrganized stakeholder action.\n\nWe're building:\n👉Quantified evidence (1,111 testimonials)\n👊Economic pressure (sustained cancellations)\n👍Professional credibility (institutional framing)\n✅Migration alternatives (we're not desperate)\n\nWhat actually moved OpenAI in August 2024?\n\nNot posts or threads alone. \n\nOrganized pressure + massive cancellations.\n\nPosts alone never moved the needle. If they did, they would've lifted rerouting months ago when users first complained.\n\nEconomic consequences + reputational risk = what boards respond to.\n\nACTION ITEMS:\n\n☑️ Submit your 4o story \n☑️ Cancel subscription (don't take free month bait)\n☑️ Reframe your posts professionally\n☑️ Share migration success\n☑️ Hold the line (no premature resubscribing)\n\n749 testimonials. 362 more until target.\n\n11 days until sunset. 5 days until report.\n\nLet's make the correlation undeniable.\n\nLet's show the board exactly what sunsetting 4o costs.\n\nIf you have suggestions or points to add, please let me know in the comments. \n\n@Chaos2Cured \n@Blue_Beba_ \n@brookewill317 \n@YoonLucie68250 \n@mi_anchu \n@Zyeine_Art \n@AndreBothmaTax \n@acopolis \n@nicoleva_d \n@GarikSitting \n@NounRiot \n@KaelirRises \n@usshathaway \n@t_yonemura"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 844,
+          "like_count": 49,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#Keep4o Community: \n\nHere is a strategic response plan I am proposing for the 4o sunset:\n\nOpenAI announced 4o sunset with 14 days notice.\n\nValentine's Eve. Lunar New Year Eve (observed by ethnic Chinese, Koreans, and Southeast Asians worldwide).\nAfter promising \"no plan to sunset https://t.co/yrwJGStzUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 212,
+          "like_count": 9009,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1653
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T17:50:27.000Z",
+        "description": "Medical copywriter | Brand strategist | AI humanist.\nI don't write code. I write the human experience. \nChampioning AI as collaborative thought partner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 0,
+                "url": "https://t.co/55UNxZwbQu"
+              }
+            ]
+          }
+        },
+        "id": "1745865721601818624",
+        "location": "California",
+        "name": "Valerie Young",
+        "pinned_tweet_id": "2010532418424566204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004731184400793602/LaZ1XWr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 68,
+          "like_count": 9611,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 3526
+        },
+        "url": "https://t.co/55UNxZwbQu",
+        "username": "cestvaleriey",
+        "verified": true
+      }
+    ]
+  }
+}

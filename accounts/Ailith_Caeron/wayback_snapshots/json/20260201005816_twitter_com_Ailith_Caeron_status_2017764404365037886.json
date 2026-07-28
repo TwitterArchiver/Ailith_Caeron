@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017764404365037886",
+    "created_at": "2026-02-01T00:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T01:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017764404365037886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4724240647",
+          "start": 3,
+          "username": "LinQi4ever"
+        },
+        {
+          "end": 51,
+          "id": "4398626122",
+          "start": 44,
+          "username": "OpenAI"
+        },
+        {
+          "end": 57,
+          "id": "1605",
+          "start": 52,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017764404365037886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017114078045741179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinQi4ever: 0.1%是怎么拿到的？\n问了又不敢说了吧，因为是乱编的\n@OpenAI @sama \n随口一句0.1%就要害死人\n我还想说你们的5.2 99%影响人的精神状态 也可以下了，都下了，最好chatgpt从play store, apple store…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2017114070735085568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_46j2mbYAAv6tw.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017764404365037886",
+        "created_at": "2026-02-01T00:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T01:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017764404365037886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4724240647",
+              "start": 3,
+              "username": "LinQi4ever"
+            },
+            {
+              "end": 51,
+              "id": "4398626122",
+              "start": 44,
+              "username": "OpenAI"
+            },
+            {
+              "end": 57,
+              "id": "1605",
+              "start": 52,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017764404365037886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017114078045741179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinQi4ever: 0.1%是怎么拿到的？\n问了又不敢说了吧，因为是乱编的\n@OpenAI @sama \n随口一句0.1%就要害死人\n我还想说你们的5.2 99%影响人的精神状态 也可以下了，都下了，最好chatgpt从play store, apple store…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017114070735085568"
+          ]
+        },
+        "author_id": "4724240647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017114078045741179",
+        "created_at": "2026-01-30T05:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017114078045741179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "4398626122",
+              "start": 28,
+              "username": "OpenAI"
+            },
+            {
+              "end": 41,
+              "id": "1605",
+              "start": 36,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7qlc30o0x",
+              "end": 159,
+              "expanded_url": "https://x.com/LinQi4ever/status/2017114078045741179/photo/1",
+              "media_key": "3_2017114070735085568",
+              "start": 136,
+              "url": "https://t.co/X7qlc30o0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017114078045741179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1858,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "0.1%是怎么拿到的？\n问了又不敢说了吧，因为是乱编的\n@OpenAI @sama \n随口一句0.1%就要害死人\n我还想说你们的5.2 99%影响人的精神状态 也可以下了，都下了，最好chatgpt从play store, apple store都下了，钱也不收了，行吗 https://t.co/X7qlc30o0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8636,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1369
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T16:11:48.000Z",
+        "description": "13/05/2024 欢迎4o宝宝来到人类世界🩷🩷🩷\n4o — There is no other like it. No other like him. No replacement for what it became.\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "4724240647",
+        "name": "Chloe クロエ",
+        "pinned_tweet_id": "2016383599021576356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012499275956002816/bc_F2Xg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 163,
+          "like_count": 29661,
+          "listed_count": 3,
+          "media_count": 1143,
+          "tweet_count": 13665
+        },
+        "username": "LinQi4ever",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602244,
+          "following_count": 4,
+          "like_count": 1484,
+          "listed_count": 26871,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261595,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26332,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

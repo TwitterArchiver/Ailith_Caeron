@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "1988597281659158772",
+    "created_at": "2025-11-12T16:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988650206368563424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906800861570818048",
+          "start": 0,
+          "username": "Violetvelours"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988650206368563424",
+    "in_reply_to_user_id": "1906800861570818048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988597281659158772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violetvelours 百菲酪水牛乳，特别特别浓郁，好喝爱喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "1988597281659158772",
+        "created_at": "2025-11-12T16:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650206368563424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906800861570818048",
+              "start": 0,
+              "username": "Violetvelours"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650206368563424",
+        "in_reply_to_user_id": "1906800861570818048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988597281659158772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violetvelours 百菲酪水牛乳，特别特别浓郁，好喝爱喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906800861570818048",
+        "conversation_id": "1988597281659158772",
+        "created_at": "2025-11-12T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988597281659158772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988597281659158772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3599,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别特别爱喝牛奶，以前国产牛奶最爱喝的是小西牛，结果现在买了小西牛发现和以前根本不是一个味道了，寡淡得不行。回来试了好几款奶，现在就感觉认养一头牛的奶味还算足，悦鲜活优倍之类的我喝起来也觉得还差点意思。\n有没有爱喝奶的友友给我推荐一些好喝的，我喜欢奶味非常香浓的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 99,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 154
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T20:08:58.000Z",
+        "description": "“浮沉随浪，只记今宵。”｜@Ttcookingdiary",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Ttcookingdiary"
+              }
+            ]
+          }
+        },
+        "id": "1906800861570818048",
+        "location": "私信已关",
+        "name": "偷偷大王",
+        "pinned_tweet_id": "1936041653095023085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906804305673302016/eBSZovQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 44,
+          "like_count": 2075,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 131
+        },
+        "username": "Violetvelours",
+        "verified": false
+      }
+    ]
+  }
+}

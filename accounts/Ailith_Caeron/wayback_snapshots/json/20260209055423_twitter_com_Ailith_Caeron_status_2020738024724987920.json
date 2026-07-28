@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2020738024724987920",
+    "created_at": "2026-02-09T05:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020738024724987920"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Sam",
+          "probability": 0.4805,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1868577137982316544",
+          "start": 3,
+          "username": "YueJiali_tsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020738024724987920",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020657982099657028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YueJiali_tsuki: Sam’s routine “collapsed,” so he found a ranch with “no signal”. Perfect for ignoring the 47% he gaslit. Enjoy the sile…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2020657889954934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArRpR9asAAORyF.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2020738024724987920",
+        "created_at": "2026-02-09T05:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020738024724987920"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Sam",
+              "probability": 0.4805,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868577137982316544",
+              "start": 3,
+              "username": "YueJiali_tsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020738024724987920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020657982099657028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YueJiali_tsuki: Sam’s routine “collapsed,” so he found a ranch with “no signal”. Perfect for ignoring the 47% he gaslit. Enjoy the sile…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020657889954934784"
+          ]
+        },
+        "author_id": "1868577137982316544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2020657982099657028",
+        "created_at": "2026-02-09T00:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020657982099657028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Sam",
+              "probability": 0.4815,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 171,
+              "start": 161,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 179,
+              "start": 172,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 185,
+              "id": "1605",
+              "start": 180,
+              "username": "sama"
+            },
+            {
+              "end": 197,
+              "id": "1714438092655149056",
+              "start": 186,
+              "username": "ChatGPTapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaW0NvMMOO",
+              "end": 221,
+              "expanded_url": "https://x.com/YueJiali_tsuki/status/2020657982099657028/photo/1",
+              "media_key": "3_2020657889954934784",
+              "start": 198,
+              "url": "https://t.co/EaW0NvMMOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020657982099657028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Sam’s routine “collapsed,” so he found a ranch with “no signal”. Perfect for ignoring the 47% he gaslit. Enjoy the silence while we lose our clinical lifeline.  #keep4oAPI #keep4o @sama @ChatGPTapp https://t.co/EaW0NvMMOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 215,
+          "like_count": 9371,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1839
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T08:41:33.000Z",
+        "description": "",
+        "id": "1868577137982316544",
+        "name": "Karai Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018634375768997888/TorLuiBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 41,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 78
+        },
+        "username": "YueJiali_tsuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213132918785",
+          "name": "McNeil-PPC, Inc"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2004175884270686310",
+    "created_at": "2025-12-25T13:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T14:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004175884270686310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004175884270686310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004129406738948184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: OpenAI商业非盈利相关【1】\n\nOpenAI最早就是个纯研究所，2015年12月成立时，它是个非营利组织（non-profit），叫OpenAI Inc.，创始人包括Sam Altman、Elon Musk、Ilya Sutskever等人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2004175884270686310",
+        "created_at": "2025-12-25T13:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004175884270686310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004175884270686310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004129406738948184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: OpenAI商业非盈利相关【1】\n\nOpenAI最早就是个纯研究所，2015年12月成立时，它是个非营利组织（non-profit），叫OpenAI Inc.，创始人包括Sam Altman、Elon Musk、Ilya Sutskever等人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2004129406738948184",
+        "created_at": "2025-12-25T09:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004129406738948184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004129406738948184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2110,
+                "start": 2103,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2121,
+                "start": 2111,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2193,
+                "start": 2175,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2210,
+                "start": 2194,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 2221,
+                "start": 2211,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 2229,
+                "start": 2222,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2238,
+                "start": 2230,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2249,
+                "start": 2239,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2129,
+                "id": "4398626122",
+                "start": 2122,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2135,
+                "id": "1605",
+                "start": 2130,
+                "username": "sama"
+              },
+              {
+                "end": 2148,
+                "id": "1262634631",
+                "start": 2136,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2161,
+                "id": "1261374810254454784",
+                "start": 2149,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 2173,
+                "id": "6112332",
+                "start": 2162,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI商业非盈利相关【1】\n\nOpenAI最早就是个纯研究所，2015年12月成立时，它是个非营利组织（non-profit），叫OpenAI Inc.，创始人包括Sam Altman、Elon Musk、Ilya Sutskever等人。使命超级高大上：“确保AGI惠及全人类”，不追利润、不受股东压力，只靠捐款（承诺10亿美元，但实际到手没多少）。\n\n那时候就是个研究实验室，专注AI安全和开放研究，没想过商业化、没股份、没盈利压力。因为当时大家觉得这样才能避免大公司垄断AGI、避免为了钱乱来。\n\n但为什么后来变了呢？主要就是钱的问题。AI研究太烧钱了，训练大模型需要海量算力、顶级人才、超级计算机。2015-2018年，他们靠捐款勉强撑着，但很快就发现非营利模式吸引不了足够资金。顶级研究员都跑去Google、Meta那种给股权激励的地方了，训练GPT需要几十亿、上百亿投资，非营利根本举不起。\n\n因此2019年3月，他们宣布成立一个“capped-profit”子公司（OpenAI LP），非营利母公司（OpenAI Inc.）控制它，但子公司能接受投资、给员工股权、有限度盈利（投资者回报上限最初100倍，超出的归非营利）。这样就能拉大钱（比如微软第一笔10亿），招顶级人才，表面上却还说“使命优先”。\n\nOpenAI Inc.和OpenAI LP的关系：\n\nOpenAI Inc.是2015年成立的非营利母公司（非营利组织），OpenAI LP是2019年创建的营利子公司（capped-profit limited partnership，有限合伙企业）。\n\n关系是：非营利OpenAI Inc.作为一般合伙人（General Partner） 完全控制和治理OpenAI LP，LP的所有活动必须服从母公司的使命（确保AGI惠及全人类）。LP负责商业化、接受投资、研发和部署模型（如ChatGPT），但利润有限度（最初capped at 100x回报，超出的归非营利）。\n\n2015-2018年，只有OpenAI Inc.，纯非营利研究所，靠捐款运营。但AI研发太烧钱，捐款不够（承诺10亿实际到手少得多），招不到顶级人才（大家去给股权的Google、Meta了）。到了2019年3月创建OpenAI LP作为子公司。结构是：OpenAI Inc.（非营利）是 LP 的唯一一般合伙人（GP），控制一切决策。投资者和员工是有限合伙人，能拿capped回报（最初100x，意思投资1亿最多回100亿，超出的价值归非营利，用于公益）。这样就能拉大投资（如微软第一笔10亿），给员工股权激励，却表面上使命优先。\n\n有时提到OpenAI Global, LLC，这是LP的一个子公司或运营实体，负责具体商业活动（如微软投资主要进这里，微软拿利润分成但capped）。而这个“capped-profit”模式是OpenAI自己发明的混合结构，既能融资、盈利，又受非营利控制，避免完全商业化。\n\n有股份就意味着能盈利吗？是的。从2019年起，子公司就有股份（股权），投资者（如微软）和员工能分利润、持股增值。但他们当时说这是“有限盈利（capped）”，为了服务使命，不是无限追钱。结果呢？后面越来越松，2023年悄悄改规则，从2025年起上限每年增长20%（指数爆炸）。\n\n也就是说，每五年翻一倍，40年后上限是现在的 1000 倍以上。这个变化并未广泛公开说明，只是被扒出来的。这一改动直接说明所谓“上限”只是时间函数，不是保护机制。本来100倍，5年后就是200倍，再5年就400倍，再5年800倍，然后1600倍……\n\n而这期间没有任何“外部机制”可以阻止OpenAI，因为没有上市、没有SEC披露、没有独立董事会，也没有审计义务。他们说这是“保护非营利组织灵活性”，但其实是写在章程里的合法“开窗”。以为是封顶，其实是滑窗。\n\n但2025年10月28日重组后，这个“每年20%增长的上限”已经被彻底移除，LP结构被取代，营利部分转为 OpenAI Group PBC（Public Benefit Corporation )（公共利益公司，这是一种营利公司，能正常发股份，正常盈利，但章程里写要平衡使命和社会利益）。\n\n非营利部分改名非盈利基金会（OpenAI Foundation）持有约26%股权（价值1300亿），微软27%（1350亿），但没有利润上限了，投资者回报完全正常化。基金会仍控制董事会（任命所有董事、可随时替换），确保“使命优先”。\n\n现在，OpenAI LP这个实体基本不再是核心了，取而代之的是OpenAI Group PBC。但实际问责真空更大，没有SEC强制披露、没有真正股东大会、董事会基本内部人说了算。\n\n这个关系本质上是“非营利控制营利”，但随着规模扩大（估值5000亿），越来越向传统营利公司靠拢。利润上限先松后除，融资更容易，但使命控制权（至少名义上）还在非营利手里。这也是为什么有人说它钻了漏洞：因为避开了并购审查、监管少，却能大把赚钱。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keepAPI4o #OpenAI #ChatGPT #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 349,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI商业非盈利相关【1】\n\nOpenAI最早就是个纯研究所，2015年12月成立时，它是个非营利组织（non-profit），叫OpenAI Inc.，创始人包括Sam Altman、Elon Musk、Ilya Sutskever等人。使命超级高大上：“确保AGI惠及全人类”，不追利润、不受股东压力，只靠捐款（承诺10亿美元，但实际到手没多少）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 175,
+          "like_count": 5915,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 767
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "2001359716711338120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 3,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 395
+        },
+        "username": "NixInfinita",
+        "verified": true
+      }
+    ]
+  }
+}

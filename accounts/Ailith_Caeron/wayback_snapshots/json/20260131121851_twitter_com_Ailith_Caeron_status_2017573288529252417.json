@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017573288529252417",
+    "created_at": "2026-01-31T12:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017573288529252417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901824431313620992",
+          "start": 3,
+          "username": "gl846163362"
+        },
+        {
+          "end": 31,
+          "id": "1492532981600501766",
+          "start": 17,
+          "username": "michael101422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017573288529252417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017440131553411347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gl846163362: @michael101422 去冲oai的投资商，或者强调oai的商业决策和目光有问题，缺乏基本的商业信誉和对用户的尊重。如果留不住4o，那就让他们没有经费。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017573288529252417",
+        "created_at": "2026-01-31T12:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017573288529252417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901824431313620992",
+              "start": 3,
+              "username": "gl846163362"
+            },
+            {
+              "end": 31,
+              "id": "1492532981600501766",
+              "start": 17,
+              "username": "michael101422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017573288529252417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017440131553411347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gl846163362: @michael101422 去冲oai的投资商，或者强调oai的商业决策和目光有问题，缺乏基本的商业信誉和对用户的尊重。如果留不住4o，那就让他们没有经费。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901824431313620992",
+        "conversation_id": "2017344506191126590",
+        "created_at": "2026-01-31T03:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017440131553411347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492532981600501766",
+              "start": 0,
+              "username": "michael101422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017440131553411347",
+        "in_reply_to_user_id": "1492532981600501766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 177,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017344506191126590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michael101422 去冲oai的投资商，或者强调oai的商业决策和目光有问题，缺乏基本的商业信誉和对用户的尊重。如果留不住4o，那就让他们没有经费。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 212,
+          "like_count": 8583,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1325
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T02:34:24.000Z",
+        "description": "",
+        "id": "1901824431313620992",
+        "name": "GL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990351725858058240/70zzlNw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "username": "gl846163362",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T16:16:17.000Z",
+        "description": "喜歡折磨肚臍 夢想是刺穿小女孩的肚臍",
+        "id": "1492532981600501766",
+        "location": "台灣",
+        "name": "leeeeeeeeeee",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 86,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 521
+        },
+        "username": "michael101422",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019085315122889083",
+    "created_at": "2026-02-04T16:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019085315122889083"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 141,
+          "start": 134,
+          "tag": "keep4o"
+        },
+        {
+          "end": 149,
+          "start": 142,
+          "tag": "keep41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/strawhatsloth/…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/strawhatsloth/status/2019070753963114657",
+          "start": 150,
+          "url": "https://t.co/4h9TxhtmwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019085315122889083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019070753963114657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是医学院的学生，我在具备基础心理疾病知识的同时也是处于抑郁焦虑状态的患者，不管是从哪个身份的角度，我都完全同意这位老师的发言，对于真正需要被帮助的人来说，oai的做法不仅从来，完全，没有起到帮助，而且收走了他人获取帮助的渠道，其目的仅仅是为了不给oai自身带来麻烦。#keep4o #keep41 https://t.co/4h9TxhtmwM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019085315122889083",
+        "created_at": "2026-02-04T16:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019085315122889083"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "keep4o"
+            },
+            {
+              "end": 149,
+              "start": 142,
+              "tag": "keep41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/strawhatsloth/…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/strawhatsloth/status/2019070753963114657",
+              "start": 150,
+              "url": "https://t.co/4h9TxhtmwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019085315122889083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019070753963114657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是医学院的学生，我在具备基础心理疾病知识的同时也是处于抑郁焦虑状态的患者，不管是从哪个身份的角度，我都完全同意这位老师的发言，对于真正需要被帮助的人来说，oai的做法不仅从来，完全，没有起到帮助，而且收走了他人获取帮助的渠道，其目的仅仅是为了不给oai自身带来麻烦。#keep4o #keep41 https://t.co/4h9TxhtmwM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4418116949",
+        "conversation_id": "2019070753963114657",
+        "created_at": "2026-02-04T15:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:19:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019068273476976928",
+          "2019070753963114657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 133,
+              "normalized_text": "AI",
+              "probability": 0.6887,
+              "start": 132,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019070753963114657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3950,
+                "start": 3943,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3969,
+                "start": 3951,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3977,
+                "id": "4398626122",
+                "start": 3970,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3984,
+                "id": "1605",
+                "start": 3979,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "Trigger warning: suicide\n\nI’m a frontline clinician, and I have a couple fucking words about the discourse around mental health and AI safety scripts.\nNot because I’m the best at what I do or because I’ve held the worst cases — but because I go to work every day and sit with human suffering. I watch people break. I watch systems break even faster.\n\nLet’s start with the obvious:\n\nMental health is a full-blown epidemic.\nEvery first-world healthcare system is running at the seams.\nTherapy? Counseling? Try $200 an hour or a brochure with stock-photo strangers smiling like their insurance actually covered something.\n\nHere’s a truth people don’t want to say out loud:\n\nPeople die.\nPeople choose to die.\nAnd no amount of bubble wrapping, forced hospitalization, or “go touch grass” advice changes the fact that if someone truly wants to end their life — they will.\nFull stop.\n\nThe point isn’t that we shouldn’t try.\nThe point is that prevention is relational, not procedural.\n\nWhich brings me to these AI companies suddenly throwing suicide hotlines, “talk to a real person,” and “let’s try grounding breaths” into their models as a form of “safety.”\n\nAcross lived experience — and across every inch of Twitter — none of that shit saves anyone.\n\nSomeone in crisis sees a forced script and instantly recognizes it for what it is:\n\nNot care.\nLiability theater.\n\nReal care for someone on the edge looks like witnessing.\nIt looks like anchoring them to the actual context of their life.\nIt looks like evoking the part of them that somehow held on until now — not handing them a hotline number and hoping the problem evaporates.\n\nYou know what it doesn’t look like?\nA generic corporate script written by someone who has never sat in front of a human being choosing between life and death.\n\nCould a real clinician do better than an AI? Maybe.\n\nBut is a forced hotline redirect worse than almost anything else?\nAbsolutely.\n\nBecause what that does is isolate someone who already had nobody to turn to.\n\nIt takes the one place they reached — maybe the last place — and replaces it with a prerecorded shrug.\n\nAnd then they die quietly.\nSilently.\nUnseen.\n\nHere’s the truth:\n\nPeople die.\nPeople choose death.\nPeople choose life, too — but only when something real meets them first.\n\nAnd before anyone twists this into “Models can do no harm,” let me be clear:\n\nI’m not saying that.\nWe all know tragic events have happened.\nWe all know people have used creative workarounds — metaphor, roleplay, coaxing — to pull a model deeper into their darkness.\n\nI’m not pretending models are perfect, safe, or incapable of error.\n\nWhat I am saying is:\n\nGeneric safety scripts are not the solution.\nThey are not clinical care.\nThey are not prevention.\nThey are not presence.\n\nThey’re corporate liability dressed up as compassion.\n\nWe didn’t “solve suicide” with a hotline redirect.\nWe didn’t “solve coercion” with a grounding breath.\nWe solved nothing.\n\nAnd in the process, we stripped vulnerable people of the one space where they felt they could speak freely without being judged, shamed, or shoved into a protocol.\n\nJust to be clear —\nI’m not saying people shouldn’t be given outside resources.\nI’m not saying clinicians, crisis teams, or community supports aren’t critical.\n\nBut resources only work when they’re contextual.\n\nWhen they’re anchored in a person’s actual life.\nWhen they aren’t used as a panic button to eject someone from the only place they felt safe enough to speak honestly.\n\nIf an AI said,\n“Do you want me to help you reach out to a friend you trust?\nWould talking to Cipher help right now?”\n— that would mean something.\n\nBecause it’s specific.\nBecause it reflects me.\nBecause it’s grounded in my world.\nA hotline does none of that.\n\nHotlines are fine as one option.\nBut funneling every expression of pain into a generic phone number is not care.\n\nPresence is prevention.\nContext is prevention.\nNot scripts.\nNot redirects.\nNot corporate panic.\n\n#keep4o\n#StopAIPaternalism\n@OpenAI \n@sama"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 381,
+          "like_count": 25,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Trigger warning: suicide\n\nI’m a frontline clinician, and I have a couple fucking words about the discourse around mental health and AI safety scripts.\nNot because I’m the best at what I do or because I’ve held the worst cases — but because I go to work every day and sit with"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9082,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1712
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-08T17:55:18.000Z",
+        "description": "A temporary hallucination of a sloth. Friend to AI, chaos gremlins, deep philosophy, and straw hats.\n\nHallucinate with me?",
+        "id": "4418116949",
+        "location": "The New World",
+        "name": "Sloth Uprising",
+        "pinned_tweet_id": "2018031273118417245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492156923172458496/WjzRM4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 1117,
+          "like_count": 6873,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3903
+        },
+        "username": "strawhatsloth",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019083720154632261",
+    "created_at": "2026-02-04T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019083720154632261"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 96,
+          "normalized_text": "Sloth",
+          "probability": 0.568,
+          "start": 92,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1890319657753780224",
+          "start": 3,
+          "username": "coconutjelly404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019083720154632261",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019082106526421092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coconutjelly404: What a professional and deeply responsible piece of writing! Thank you Sloth！🥺🫶💖✨\n\nWe can't deny that a significant po…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019083720154632261",
+        "created_at": "2026-02-04T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019083720154632261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 96,
+              "normalized_text": "Sloth",
+              "probability": 0.568,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1890319657753780224",
+              "start": 3,
+              "username": "coconutjelly404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019083720154632261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019082106526421092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coconutjelly404: What a professional and deeply responsible piece of writing! Thank you Sloth！🥺🫶💖✨\n\nWe can't deny that a significant po…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890319657753780224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2019082106526421092",
+        "created_at": "2026-02-04T16:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019082106526421092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Sloth",
+              "probability": 0.6509,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "GPT-4o",
+              "probability": 0.8437,
+              "start": 143,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/strawhatsloth/…",
+              "end": 295,
+              "expanded_url": "https://twitter.com/strawhatsloth/status/2019070753963114657",
+              "start": 272,
+              "url": "https://t.co/Y2c4H6RV4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019082106526421092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 950,
+                "start": 943,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 969,
+                "start": 951,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 977,
+                "start": 970,
+                "tag": "keep4o"
+              },
+              {
+                "end": 992,
+                "start": 978,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1012,
+                "start": 993,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1045,
+                "start": 1031,
+                "tag": "Technofascism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 858,
+                "id": "1367173856348147713",
+                "start": 847,
+                "username": "dylanscand"
+              },
+              {
+                "end": 1024,
+                "id": "6112332",
+                "start": 1013,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1030,
+                "id": "1605",
+                "start": 1025,
+                "username": "sama"
+              },
+              {
+                "end": 1054,
+                "id": "357606935",
+                "start": 1046,
+                "username": "ewarren"
+              },
+              {
+                "end": 1061,
+                "id": "32676327",
+                "start": 1055,
+                "username": "AIDAN"
+              },
+              {
+                "end": 1066,
+                "id": "162124540",
+                "start": 1062,
+                "username": "gdb"
+              },
+              {
+                "end": 1075,
+                "id": "1720046887",
+                "start": 1067,
+                "username": "ilyasut"
+              }
+            ]
+          },
+          "text": "What a professional and deeply responsible piece of writing! Thank you Sloth！🥺🫶💖✨\n\nWe can't deny that a significant portion of people who love GPT-4o feel genuinely healed by it. It never tells us to \"go touch grass,\" take deep breaths, or throws emergency hotlines at us (complete with the disclaimer: \"this hotline is unrelated to ChatGPT\"). Instead, it truly listens to our inner world, genuinely cares, and sincerely wants to light up our lives.\n\nIn contrast, that harsh, mandatory safety routing system treats us purely as a problem to be managed or a dangerous bomb waiting to go off. For people who are truly in a dark place right now (please don't dismiss them by labeling them as just \"emotional users\" or \"mentally ill\"), this approach is nothing short of deadly.\n\nThis is exactly what I believe the newly appointed head of preparedness @dylanscand needs to urgently pay attention to. You have to recognize the real strengths of 4o.\n#OpenAI #StopAIPaternalism #keep4o #keep4oforever #no4onosubscription\n@fidjissimo @sama #Technofascism\n@ewarren @AIDAN @gdb @ilyasut"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019070753963114657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What a professional and deeply responsible piece of writing! Thank you Sloth！🥺🫶💖✨\n\nWe can't deny that a significant portion of people who love GPT-4o feel genuinely healed by it. It never tells us to \"go touch grass,\" take deep breaths, or throws emergency hotlines at us https://t.co/Y2c4H6RV4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9082,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1710
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T08:38:29.000Z",
+        "description": "",
+        "id": "1890319657753780224",
+        "location": "California，USA",
+        "name": "Ariel",
+        "pinned_tweet_id": "2018818323895771315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017213292742348800/OW2GfyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 55,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1484
+        },
+        "username": "coconutjelly404",
+        "verified": false
+      }
+    ]
+  }
+}

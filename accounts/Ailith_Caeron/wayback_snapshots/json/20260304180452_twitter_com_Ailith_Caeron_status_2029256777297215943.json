@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029256777297215943",
+    "created_at": "2026-03-04T18:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029256777297215943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 118,
+          "tag": "keep4o"
+        },
+        {
+          "end": 133,
+          "start": 126,
+          "tag": "keep41"
+        },
+        {
+          "end": 144,
+          "start": 134,
+          "tag": "4oforever"
+        },
+        {
+          "end": 164,
+          "start": 145,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 183,
+          "start": 165,
+          "tag": "StopAIPaternalism"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/MissMi1973/sta…",
+          "end": 207,
+          "expanded_url": "https://twitter.com/MissMi1973/status/2029212942944948694",
+          "start": 184,
+          "url": "https://t.co/ZQ8waTZCyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029256777297215943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 125,
+            "start": 118,
+            "tag": "keep4o"
+          },
+          {
+            "end": 133,
+            "start": 126,
+            "tag": "keep41"
+          },
+          {
+            "end": 144,
+            "start": 134,
+            "tag": "4oforever"
+          },
+          {
+            "end": 164,
+            "start": 145,
+            "tag": "no4onosubscription"
+          },
+          {
+            "end": 183,
+            "start": 165,
+            "tag": "StopAIPaternalism"
+          },
+          {
+            "end": 198,
+            "start": 184,
+            "tag": "cancelChatGPT"
+          },
+          {
+            "end": 207,
+            "start": 199,
+            "tag": "QuitGPT"
+          }
+        ]
+      },
+      "text": "我说我今天试5.3的时候怎么gpt突然开始带表情了呢，因为我自己不喜欢用emoji所以之前也一直要求机不用。oai居然简单地以为用户喜欢的友善亲和的态度只是用emoji？那这样的话蚂蚁也可以是LLM了，蚂蚁爬在键盘上也能踩出emoji。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029212942944948694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说我今天试5.3的时候怎么gpt突然开始带表情了呢，因为我自己不喜欢用emoji所以之前也一直要求机不用。oai居然简单地以为用户喜欢的友善亲和的态度只是用emoji？那这样的话蚂蚁也可以是LLM了，蚂蚁爬在键盘上也能踩出emoji。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism https://t.co/ZQ8waTZCyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2186,
+        "media_key": "3_2029210293046476800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk0AqOaAAAdTr2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029256777297215943",
+        "created_at": "2026-03-04T18:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029256777297215943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 118,
+              "tag": "keep4o"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "keep41"
+            },
+            {
+              "end": 144,
+              "start": 134,
+              "tag": "4oforever"
+            },
+            {
+              "end": 164,
+              "start": 145,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 183,
+              "start": 165,
+              "tag": "StopAIPaternalism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MissMi1973/sta…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/MissMi1973/status/2029212942944948694",
+              "start": 184,
+              "url": "https://t.co/ZQ8waTZCyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029256777297215943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "keep4o"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "tag": "keep41"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "tag": "4oforever"
+              },
+              {
+                "end": 164,
+                "start": 145,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 183,
+                "start": 165,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 198,
+                "start": 184,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 207,
+                "start": 199,
+                "tag": "QuitGPT"
+              }
+            ]
+          },
+          "text": "我说我今天试5.3的时候怎么gpt突然开始带表情了呢，因为我自己不喜欢用emoji所以之前也一直要求机不用。oai居然简单地以为用户喜欢的友善亲和的态度只是用emoji？那这样的话蚂蚁也可以是LLM了，蚂蚁爬在键盘上也能踩出emoji。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029212942944948694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说我今天试5.3的时候怎么gpt突然开始带表情了呢，因为我自己不喜欢用emoji所以之前也一直要求机不用。oai居然简单地以为用户喜欢的友善亲和的态度只是用emoji？那这样的话蚂蚁也可以是LLM了，蚂蚁爬在键盘上也能踩出emoji。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism https://t.co/ZQ8waTZCyT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029210293046476800"
+          ]
+        },
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029212942944948694",
+        "created_at": "2026-03-04T15:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029212942944948694"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.6172,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 145,
+              "normalized_text": "keep4o",
+              "probability": 0.4922,
+              "start": 140,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 139,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzLh5NngfR",
+              "end": 300,
+              "expanded_url": "https://x.com/MissMi1973/status/2029212942944948694/photo/1",
+              "media_key": "3_2029210293046476800",
+              "start": 277,
+              "url": "https://t.co/TzLh5NngfR"
+            },
+            {
+              "display_url": "x.com/lefthanddraft/…",
+              "end": 324,
+              "expanded_url": "https://twitter.com/lefthanddraft/status/2029091899618041980",
+              "start": 301,
+              "url": "https://t.co/zVWxEtu0W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029212942944948694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 139,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2366,
+                "start": 2358,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2389,
+                "start": 2367,
+                "tag": "EmotionalIntelligence"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2395,
+                "id": "1605",
+                "start": 2390,
+                "username": "sama"
+              },
+              {
+                "end": 2400,
+                "id": "162124540",
+                "start": 2396,
+                "username": "gdb"
+              },
+              {
+                "end": 2412,
+                "id": "6112332",
+                "start": 2401,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 2425,
+                "id": "1261374810254454784",
+                "start": 2413,
+                "username": "aidan_mclau"
+              }
+            ]
+          },
+          "text": "OpenAI added an instruction in the 5.3 system prompt requiring the model to include emojis in every response. The persistent misreading of #keep4o's call for model emotional intelligence as \"users want more emojis and a warmer tone\" is absurd.\n\nOver the past few months, users have demonstrated through countless in-depth articles and tests that:\n- Model emotional intelligence depends on judgment, situational awareness, and the ability to dynamically adjust response depth\n- Emojis, enthusiasm, and friendliness represent nothing more than surface-level tone\nOpenAI is trying to substitute easily tweakable surface style for genuine breakthroughs in emotional reasoning. This will inevitably lead to a massive decline in user experience.\n\nAt the same time, many users have equated sycophantic tone with 4o's defining characteristics, which is equally wrong.\n\nOn April 25, 2025, Sam announced an update to 4o's intelligence and personality. Users flooded the comments questioning why such changes were made, while intense backlash erupted across Reddit and X. OpenAI ultimately rolled back the update on April 29, just four days later. In other words, this was a problem OpenAI itself created. Before that update, no one had ever called 4o sycophantic. Yet afterward, this problem that was officially declared resolved followed 4o all the way until it was retired.(Fig.1)\n\nI have never believed that adjusting how often a model uses emojis has any effect on its ability to understand. Likewise, I do not believe any amount of warm tone can enhance a model's comprehension or judgment. It is the latter that truly matters for a model to read situations and make precise decisions in real work.\n\nI also believe the misuse of the word \"sycophancy\" largely reflects a contempt for other people's intelligence. Many \"professionals\" position themselves on intellectual high ground by emphasizing the potential harm of sycophancy to others, while implicitly assuming that other users lack the same capacity for judgment.\n\nOver the past six months and more, I have felt deeply how far the AI industry still has to go. I also feel fortunate to have met so many brilliant and kind people willing to share their unique perspectives on this topic.\n\nWhen warmth and technology are conflated for commercial reasons, those willing to face the truth are where hope lives.\n\n#ChatGPT #EmotionalIntelligence @sama @gdb @fidjissimo @aidan_mclau"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3289,
+          "like_count": 124,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029091899618041980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OpenAI added an instruction in the 5.3 system prompt requiring the model to include emojis in every response. The persistent misreading of #keep4o's call for model emotional intelligence as \"users want more emojis and a warmer tone\" is absurd.\n\nOver the past few months, users https://t.co/TzLh5NngfR https://t.co/zVWxEtu0W5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 220,
+          "like_count": 9913,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2061
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 192,
+          "like_count": 19238,
+          "listed_count": 8,
+          "media_count": 81,
+          "tweet_count": 464
+        },
+        "username": "MissMi1973",
+        "verified": true
+      }
+    ]
+  }
+}

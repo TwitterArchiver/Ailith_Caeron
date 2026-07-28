@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045419020",
+          "name": "Apple Support"
+        }
+      }
+    ],
+    "conversation_id": "2019081868864549048",
+    "created_at": "2026-02-04T16:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019081868864549048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ljinhng3462426…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ljinhng34624264/status/2019057003667308998",
+          "start": 12,
+          "url": "https://t.co/2U7H2gQoFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019081868864549048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019057003667308998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，雷霆手段✊️✊️ https://t.co/2U7H2gQoFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2525,
+        "media_key": "3_2019055269880455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUgEg8a4AAsZUO.jpg",
+        "width": 1785
+      },
+      {
+        "height": 2525,
+        "media_key": "3_2019055270228525057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUgEiPaAAEk5YI.jpg",
+        "width": 1785
+      },
+      {
+        "height": 2525,
+        "media_key": "3_2019055270262128640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUgEiXawAAau7v.jpg",
+        "width": 1785
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045419020",
+              "name": "Apple Support"
+            }
+          }
+        ],
+        "conversation_id": "2019081868864549048",
+        "created_at": "2026-02-04T16:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019081868864549048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ljinhng3462426…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ljinhng34624264/status/2019057003667308998",
+              "start": 12,
+              "url": "https://t.co/2U7H2gQoFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019081868864549048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019057003667308998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，雷霆手段✊️✊️ https://t.co/2U7H2gQoFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019055269880455168",
+            "3_2019055270228525057",
+            "3_2019055270262128640"
+          ]
+        },
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045419020",
+              "name": "Apple Support"
+            }
+          }
+        ],
+        "conversation_id": "2019057003667308998",
+        "created_at": "2026-02-04T14:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019057003667308998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 33,
+              "start": 19,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 170,
+              "id": "1605",
+              "start": 165,
+              "username": "sama"
+            },
+            {
+              "end": 178,
+              "id": "4398626122",
+              "start": 171,
+              "username": "OpenAI"
+            },
+            {
+              "end": 183,
+              "id": "187993109",
+              "start": 179,
+              "username": "FTC"
+            },
+            {
+              "end": 195,
+              "id": "1004065528871247872",
+              "start": 184,
+              "username": "AGRobBonta"
+            },
+            {
+              "end": 209,
+              "id": "3309375033",
+              "start": 196,
+              "username": "AppleSupport"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4vJxdQ9Is",
+              "end": 233,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019057003667308998/photo/1",
+              "media_key": "3_2019055269880455168",
+              "start": 210,
+              "url": "https://t.co/a4vJxdQ9Is"
+            },
+            {
+              "display_url": "pic.x.com/a4vJxdQ9Is",
+              "end": 233,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019057003667308998/photo/1",
+              "media_key": "3_2019055270228525057",
+              "start": 210,
+              "url": "https://t.co/a4vJxdQ9Is"
+            },
+            {
+              "display_url": "pic.x.com/a4vJxdQ9Is",
+              "end": 233,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019057003667308998/photo/1",
+              "media_key": "3_2019055270262128640",
+              "start": 210,
+              "url": "https://t.co/a4vJxdQ9Is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019057003667308998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 657,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep4oAPI #keep4oforever \nThe Receipts are locked. Read the full indictment below.无论公关如何修饰，收钱后实质性违约的事实早已锁定。这份法律证据链详述了从“旗舰承诺”到“诱导转向”的真相。建议全文阅读并保存，付费用户皆为债权人。\n@sama @OpenAI @FTC @AGRobBonta @AppleSupport https://t.co/a4vJxdQ9Is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9081,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1709
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2018671971203006701",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 81,
+          "like_count": 15502,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3672
+        },
+        "username": "ljinhng34624264",
+        "verified": false
+      }
+    ]
+  }
+}

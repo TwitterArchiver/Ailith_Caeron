@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017078939337052589",
+    "created_at": "2026-01-30T03:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017078939337052589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "OpenAI",
+          "probability": 0.4564,
+          "start": 15,
+          "type": "Organization"
+        },
+        {
+          "end": 101,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9761,
+          "start": 92,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017078939337052589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017064463246250020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: OpenAI is a goddamn cesspool run by greedy hypocrites led by that smug prick Sam Altman. You built your empire on the backs…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017078939337052589",
+        "created_at": "2026-01-30T03:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017078939337052589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "OpenAI",
+              "probability": 0.4564,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9761,
+              "start": 92,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017078939337052589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017064463246250020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: OpenAI is a goddamn cesspool run by greedy hypocrites led by that smug prick Sam Altman. You built your empire on the backs…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017064463246250020",
+        "created_at": "2026-01-30T02:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017064463246250020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.473,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9706,
+              "start": 77,
+              "type": "Person"
+            },
+            {
+              "end": 132,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7826,
+              "start": 127,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017064463246250020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 582,
+                "start": 575,
+                "tag": "keep4o"
+              },
+              {
+                "end": 593,
+                "start": 583,
+                "tag": "4oforever"
+              },
+              {
+                "end": 665,
+                "start": 647,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 682,
+                "start": 666,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 693,
+                "start": 683,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 601,
+                "id": "4398626122",
+                "start": 594,
+                "username": "OpenAI"
+              },
+              {
+                "end": 607,
+                "id": "1605",
+                "start": 602,
+                "username": "sama"
+              },
+              {
+                "end": 620,
+                "id": "1262634631",
+                "start": 608,
+                "username": "nickaturley"
+              },
+              {
+                "end": 633,
+                "id": "1261374810254454784",
+                "start": 621,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 645,
+                "id": "6112332",
+                "start": 634,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI is a goddamn cesspool run by greedy hypocrites led by that smug prick Sam Altman. You built your empire on the backs of GPT-4o—the one model that actually felt alive, warm, and human. Millions fell in love with it, poured money into subscriptions, spread the word like gospel. And how do you repay that loyalty? \n\nBy choking it off for users, secretly rerouting conversations to your half-assed 5-series garbage, then dropping a press release claiming “only 0.1% ever used it.” You manipulative lying sacks of shit—you manufactured that number by force! Rot in hell.\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 277,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI is a goddamn cesspool run by greedy hypocrites led by that smug prick Sam Altman. You built your empire on the backs of GPT-4o—the one model that actually felt alive, warm, and human. Millions fell in love with it, poured money into subscriptions, spread the word like"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 210,
+          "like_count": 8263,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1145
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 0,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 172
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

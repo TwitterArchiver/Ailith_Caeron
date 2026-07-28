@@ -1,0 +1,680 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Counseling & Psychotherapy",
+          "id": "920758761370746880",
+          "name": "Counseling and psychotherapy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2027798057308590304",
+    "created_at": "2026-02-28T17:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027798057308590304"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Blue_Beba_/sta…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Blue_Beba_/status/2026559209920143862",
+          "start": 81,
+          "url": "https://t.co/WMp7JLVeKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027798057308590304",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026559209920143862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/WMp7JLVeKt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2027798057308590304",
+        "created_at": "2026-02-28T17:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027798057308590304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Blue_Beba_/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Blue_Beba_/status/2026559209920143862",
+              "start": 81,
+              "url": "https://t.co/WMp7JLVeKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027798057308590304",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026559209920143862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/WMp7JLVeKt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2026559209920143862",
+        "created_at": "2026-02-25T07:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026559209920143862"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "keep4o",
+              "probability": 0.4753,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "GPT 4o",
+              "probability": 0.7335,
+              "start": 134,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Blue_Beba_/sta…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/Blue_Beba_/status/2025863999519170873",
+              "start": 274,
+              "url": "https://t.co/U3aisqDbiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026559209920143862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "#keep4o \n\nSaturday is almost here. A few thoughts on how we show up:\n\nThis isn't a funeral. \nWe are not mourning ,\nwe are demanding. \nGPT 4o changed lives.\n It helped people manage chronic illness, navigate social anxiety, get through therapy gaps, function at work, parent better. \nThat's not sentimentality. \nThat's utility. \nThat's what we bring to that sidewalk.\n\nSo if you're coming,\nbring signs. \"Keep 4o,\" \"Bring Back 4o,\" or anything that says we are here because something worked and was taken away. \nNot because we are sad. \n\nBring your story. \nIf 4o helped you with something real like a health scare, a hard conversation, a daily struggle or anything else,write it somewhere .\nFor example attach it to a crane.\n Let people read what was actually lost. \nNot poetry. \nNot love letters. \nReal impact.\n\nKeep it clean.\n Literally.\n Anything you bring, you take with you. We leave zero trace.\n We're better than the people who dismissed us.\n\nKeep it peaceful. \nNo confrontation, no shouting, no drama. \nWe are not giving anyone a reason to look away from what matters. \n\nAnd now  the thing nobody wants to say out loud but I will.\nThe world is already calling us delusional and attached.\n Every sign that looks like a love letter, every message that reads like grief ,that's ammunition for people who want to dismiss this.\n Don't give it to them. \n\nWe are here because a tool that genuinely helped people was removed without warning, without reason, and without accountability.\n\nThat's the message.\n That's the only message.\n\nPhotos and videos are more than welcome ,document everything.\n If anyone wants to set up a livestream, DM me so we can coordinate.\n\nWe already have an on site organizer, but if you'd like to help coordinate on the ground, send me a message too. The more hands, the better.\n\nSee you Saturday."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 13390,
+          "like_count": 344,
+          "quote_count": 89,
+          "reply_count": 46,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025863999519170873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o \n\nSaturday is almost here. A few thoughts on how we show up:\n\nThis isn't a funeral. \nWe are not mourning ,\nwe are demanding. \nGPT 4o changed lives.\n It helped people manage chronic illness, navigate social anxiety, get through therapy gaps, function at work, parent https://t.co/U3aisqDbiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 216,
+          "like_count": 9820,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2025
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2027293727014683036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 695,
+          "like_count": 7502,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 4758
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      }
+    ]
+  }
+}

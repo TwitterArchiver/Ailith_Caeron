@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986389171779653752",
+    "created_at": "2025-11-06T11:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T12:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986390748489785799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986390748489785799",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986389171779653752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 我笑晕了我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986389171779653752",
+        "created_at": "2025-11-06T11:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986390748489785799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986390748489785799",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986389171779653752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 我笑晕了我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979568208530321408",
+        "conversation_id": "1986389171779653752",
+        "created_at": "2025-11-06T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986389171779653752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986389171779653752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我懒到啥程度，打emoji的时候都是打的字，打字emoji就会跳出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 69,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "不是你想的那个人 别猜了",
+        "id": "1979568208530321408",
+        "location": "天行市",
+        "name": "你活着干啥",
+        "pinned_tweet_id": "1984729168719028394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983887005508628480/OHWXhyVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 50,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 546
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

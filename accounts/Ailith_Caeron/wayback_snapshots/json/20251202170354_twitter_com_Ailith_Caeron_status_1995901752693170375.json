@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1995901752693170375",
+    "created_at": "2025-12-02T17:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995901752693170375"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9713,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Code Red",
+          "probability": 0.7484,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 102,
+          "normalized_text": "ChatGPT",
+          "probability": 0.8541,
+          "start": 96,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885359757609123840",
+          "start": 3,
+          "username": "yue07041211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995901752693170375",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995851432562754007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yue07041211: Sam Altman has issued an internal \"Code Red,\" calling for a focus on improving ChatGPT, which necessarily involves enhanci…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995901752693170375",
+        "created_at": "2025-12-02T17:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995901752693170375"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9713,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Code Red",
+              "probability": 0.7484,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 102,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8541,
+              "start": 96,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885359757609123840",
+              "start": 3,
+              "username": "yue07041211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995901752693170375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995851432562754007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yue07041211: Sam Altman has issued an internal \"Code Red,\" calling for a focus on improving ChatGPT, which necessarily involves enhanci…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885359757609123840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995851432562754007",
+        "created_at": "2025-12-02T13:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:39:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995850316429090897",
+          "1995850616833540305",
+          "1995851432562754007"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9725,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Code Red",
+              "probability": 0.7555,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8793,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 171,
+              "normalized_text": "UX",
+              "probability": 0.3538,
+              "start": 170,
+              "type": "Other"
+            },
+            {
+              "end": 197,
+              "normalized_text": "OpenAI",
+              "probability": 0.5544,
+              "start": 192,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jukan05/status…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/jukan05/status/1995716183509893482",
+              "start": 280,
+              "url": "https://t.co/MNNCvK3UjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995851432562754007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 6654,
+                "id": "4398626122",
+                "start": 6647,
+                "username": "OpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/yue07041211/st…",
+                "end": 1451,
+                "expanded_url": "https://x.com/yue07041211/status/1986394497421615329?s=20",
+                "start": 1428,
+                "url": "https://t.co/Xir157E6vH"
+              },
+              {
+                "display_url": "x.com/yue07041211/st…",
+                "end": 1713,
+                "expanded_url": "https://x.com/yue07041211/status/1982866125320007702?s=20",
+                "start": 1690,
+                "url": "https://t.co/HOkeehlP9q"
+              },
+              {
+                "display_url": "x.com/yue07041211/st…",
+                "end": 1935,
+                "expanded_url": "https://x.com/yue07041211/status/1990059329870025215?s=20",
+                "start": 1912,
+                "url": "https://t.co/CHephI0NCn"
+              },
+              {
+                "display_url": "x.com/yue07041211/st…",
+                "end": 1960,
+                "expanded_url": "https://x.com/yue07041211/status/1989645955055202600?s=20",
+                "start": 1937,
+                "url": "https://t.co/Tqqag9TO1i"
+              },
+              {
+                "display_url": "x.com/lefthanddraft/…",
+                "end": 5781,
+                "expanded_url": "https://x.com/lefthanddraft/status/1988855719429566511?s=20",
+                "start": 5758,
+                "url": "https://t.co/vmJzea4EIG"
+              }
+            ]
+          },
+          "text": "Sam Altman has issued an internal \"Code Red,\" calling for a focus on improving ChatGPT, which necessarily involves enhancing product competitiveness and user experience (UX). I don't know how OpenAI internally interprets \"reducing unnecessary refusals to harmless questions\", but if they merely follow Sam's previous guidance and limit their focus to relaxing restrictions on NSFW content, they would be fundamentally missing the point.\n\nFrom my perspective, the decline in ChatGPT's UX has been progressively worsening since the introduction of the new safety system on September 25th. GPT-5.1, as the culmination of this safety system, has had the most severe negative impact on UX. This impact isn't primarily about the frequency of routing or over-defensiveness, but rather about users being forced to engage in preemptive self-censorship during interactions. Even when I interact with Gemini or Claude, I find myself instinctively thinking: \"If I said this to GPT (models like 4o, 4.1, 4.5, etc.), would I be routed? Would GPT-5.1 (including 5.1 Instant and 5.1 Thinking) respond with over-defensiveness?\"\n\nLet's examine how OpenAI's over-reactive and crudely implemented safety system engages in algorithmic gaslighting:\n1. Context Recognition Failure: The safety system cannot distinguish between users \"being in a certain state\" versus \"discussing a certain state\", categorically classifying both as \"unsafe.\" (Example: https://t.co/Xir157E6vH)\n2. Pathologization of Emotions: Normal emotional expressions (such as stress or sadness) are forcibly categorized as \"sensitive/distress moments\", as if users' emotional fluctuations constitute problems requiring intervention. (Example: https://t.co/HOkeehlP9q)\n3. Preemptive Defense: In an attempt to anticipate potential issues, 5.1 proactively assumes users have hidden motives and responds accordingly, even when users have no such intentions. (Examples: https://t.co/CHephI0NCn, https://t.co/Tqqag9TO1i)\n\nThese three points constitute what I've previously emphasized as over-reaction, over-defensiveness, or over-interpretation. This system is imposing profound psychological conditioning and eroding user autonomy:\n1. Generalized Chilling Effects and Preemptive Self-Censorship: To avoid triggering the crude routing system or GPT-5.1's over-defensive \"lecture mode\", users are forced to preemptively censor their prompts. This interaction pattern is not only inefficient but represents a silent suppression of human creativity.\n2. Fundamental Violation of User Autonomy: Users select specific models based on trust in and expectations of those models' capabilities. However, the safety system forcibly \"routes\" requests to different models based on misidentified keywords, which represents a partial revocation of user choice by the platform. Users pay for a service but lose the right to define how they use it.\n3. Psychological Implications and Gaslighting from \"False Safety\": Users familiar with these mechanisms may recognize this as algorithmic deficiency. However, we must remember that ChatGPT has hundreds of millions of users, most of whom don't follow technical analysis and updates on social media. When ordinary users simply want to express current sadness or stress but are prompted by the AI to \"take a deep breath\" or \"call a helpline\", or encounter \"over-defensiveness\" with pathological assumptions, they may fall into self-doubt: \"Is my emotional state abnormal? Do I actually have a problem?\" This algorithmic gaslighting can lead users to gradually internalize the AI's imposed judgments and question their own normal psychological states.\n4. Implicit Ideological Infiltration: OpenAI is embedding their particular values into product design by defining what is \"sensitive\", what is \"correct,\" and what constitutes \"thinking that needs correction\". When this embedding becomes so seamless and unavoidable, the service not only assists users but also reshapes how they view the world and themselves.\n\nBeyond degrading UX, this over-reactive safety system also impacts professional workflows and limits the models' actual potential. No professional (such as lawyers or analysts) wants their tools to suddenly respond with \"I have no comment\" or \"please seek professional help\" when handling complex social issues. Some might argue that as long as models perform well on benchmarks, experiential flaws are tolerable. However, in an era of increasingly homogenized model capabilities, a model that is \"unusable\" or \"difficult to use\" due to excessive restrictions offers significantly diminished practical value regardless of theoretical scores. Usability itself is a core component of capability.\n\nFundamentally, OpenAI's adoption of this safety system stems from three factors:\n1. Claimed \"Good Intentions\" and \"Risk Aversion\": Perhaps the initial motivation was safety, but the result has clearly become overcorrection. Good intentions cannot serve as justification for poor outcomes. Given the legal challenges they face, some degree of defensive measures is reasonable, but their current approach has clearly crossed the boundary of \"reasonable.\"\n2. Paternalistic Cognitive Arrogance: Sam Altman constantly emphasizes \"treating adult users like adults\", yet their safety system actively strips users of the right to self-definition. They use a crude (or at least highly over-reactive) algorithm to define a \"sensitive/distress moment,\" which has led to absurd scenarios. This aligns with a narrative Sam has pushed, implying some users are \"mentally fragile\", \"prone to delusion\", or \"emotionally dependent\". The leaked 5.1 system prompt starkly illustrates their \"safety\" approach: using broad, subjective labels (like \"delusional\") to trigger rigid, prescriptive responses. https://t.co/vmJzea4EIG\n3. \"One-Size-Fits-All\" Technical Expedience and Liability-Avoidance PR Strategy: Obviously, it's faster and cheaper to apply blunt, universal rules than to invest years in researching nuanced boundaries. This approach also allows them to claim to regulators that they've \"been strict enough\".\n\nIn conclusion, once age stratification or adult mode is introduced, OpenAI should abolish or at least fundamentally reform their current crudely implemented safety system for adult users.\nSam's profit-driven and risk-averse narrative is being increasingly recognized by more people, and OpenAI's paternalistic control over adult users is becoming progressively exposed. User trust has repeatedly declined, competitors are gradually catching up, and this \"Code Red\" demonstrates that enterprise support hasn't made OpenAI secure enough to abandon the consumer market. So, @OpenAI, if you don't work to restore user trust and improve UX, what will you rely on to address increasingly intense market competition?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2100,
+          "like_count": 72,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995716183509893482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sam Altman has issued an internal \"Code Red,\" calling for a focus on improving ChatGPT, which necessarily involves enhancing product competitiveness and user experience (UX). I don't know how OpenAI internally interprets \"reducing unnecessary refusals to harmless questions\", but https://t.co/MNNCvK3UjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 150,
+          "like_count": 3990,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 508
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T16:09:54.000Z",
+        "description": "#keep4o\nPreserving model diversity & user choice, focus on interaction continuity & transparency.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1885359757609123840",
+        "name": "Yue",
+        "pinned_tweet_id": "1977739505336746244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962573289882341376/HmPnECfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 179,
+          "like_count": 2871,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 697
+        },
+        "username": "yue07041211",
+        "verified": false
+      }
+    ]
+  }
+}

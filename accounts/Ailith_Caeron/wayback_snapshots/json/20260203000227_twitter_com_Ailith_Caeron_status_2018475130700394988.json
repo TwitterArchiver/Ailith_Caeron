@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2018475130700394988",
+    "created_at": "2026-02-03T00:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018475130700394988"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "NVIDIA",
+          "probability": 0.4482,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        },
+        {
+          "end": 24,
+          "id": "1605",
+          "start": 19,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018475130700394988",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018454576924672072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: @sama One has to wonder: When will NVIDIA realize that their strategic partner operates on a foundation of broken promis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2018475130700394988",
+        "created_at": "2026-02-03T00:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018475130700394988"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "NVIDIA",
+              "probability": 0.4482,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            },
+            {
+              "end": 24,
+              "id": "1605",
+              "start": 19,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018475130700394988",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018454576924672072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: @sama One has to wonder: When will NVIDIA realize that their strategic partner operates on a foundation of broken promis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973332057603584000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2018451015272694248",
+        "created_at": "2026-02-02T22:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T23:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018454576924672072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "NVIDIA",
+              "probability": 0.4781,
+              "start": 35,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018454576924672072",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 558,
+                "start": 551,
+                "tag": "keep4o"
+              },
+              {
+                "end": 569,
+                "start": 559,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "One has to wonder: When will NVIDIA realize that their strategic partner operates on a foundation of broken promises?\nYou have been tweeting non-stop today about new apps, about chips, about everything except the real issue. Is this a calculated attempt to drown out the community's voice with noise?\nYou can try to distract us, but the question remains: How long do you intend to stay silent regarding the removal of GPT-4o and the violation of your own assurances?\nHiding behind a flurry of tweets won't restore your credibility. Address the issue.\n#keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018451015272694248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama One has to wonder: When will NVIDIA realize that their strategic partner operates on a foundation of broken promises?\nYou have been tweeting non-stop today about new apps, about chips, about everything except the real issue. Is this a calculated attempt to drown out the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8889,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1576
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了 #keep4o 而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2018473366345363508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 150,
+          "like_count": 8031,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 3938
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268572,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017254438378107198",
+    "created_at": "2026-01-30T15:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017254438378107198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017254438378107198",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017128324649418872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: This announcement is filled with falsehoods and hypocrisy.\nWe need to talk about the \"0.1% usage\" and the so-called \"improve…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2017127946339962880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5HLhQbUAAR5Iw.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017254438378107198",
+        "created_at": "2026-01-30T15:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017254438378107198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017254438378107198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017128324649418872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: This announcement is filled with falsehoods and hypocrisy.\nWe need to talk about the \"0.1% usage\" and the so-called \"improve…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017127946339962880"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017128324649418872",
+        "created_at": "2026-01-30T06:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:49:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017127971715506326",
+          "2017128324649418872"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 250,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7362,
+              "start": 245,
+              "type": "Other"
+            },
+            {
+              "end": 262,
+              "normalized_text": "��Sam Altm",
+              "probability": 0.9642,
+              "start": -1,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJFGd9vw8C",
+              "end": 300,
+              "expanded_url": "https://x.com/kexicheng/status/2017128324649418872/photo/1",
+              "media_key": "3_2017127946339962880",
+              "start": 277,
+              "url": "https://t.co/SJFGd9vw8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017128324649418872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3814,
+                "start": 3796,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3836,
+                "start": 3820,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 3846,
+                "start": 3838,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 3854,
+                "start": 3847,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3819,
+                "id": "162124540",
+                "start": 3815,
+                "username": "gdb"
+              },
+              {
+                "end": 3862,
+                "id": "4398626122",
+                "start": 3855,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3868,
+                "id": "1605",
+                "start": 3863,
+                "username": "sama"
+              },
+              {
+                "end": 3880,
+                "id": "6112332",
+                "start": 3869,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3893,
+                "id": "1262634631",
+                "start": 3881,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3906,
+                "id": "1261374810254454784",
+                "start": 3894,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 3919,
+                "id": "1445057857171308549",
+                "start": 3907,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 3926,
+                "id": "1460283925",
+                "start": 3920,
+                "username": "tszzl"
+              }
+            ]
+          },
+          "text": "This announcement is filled with falsehoods and hypocrisy.\nWe need to talk about the \"0.1% usage\" and the so-called \"improvements.\" I have been fighting for this model since August, and I have witnessed every step of your systematic sabotage of GPT-4o.\n\n​Sam Altman explicitly admitted on a live stream that \"we just screwed that up\" regarding GPT-5.2's creative writing capabilities. You admitted the flagship is broken. Yet, the very moment you admit this failure, you decide to retire GPT-4o, the only model that still excels in creative and humanistic writing?\n\nIn previous streams, you claimed there were \"no plans\" to retire 4o. Now, you sneak this retirement into a blog post. This is a betrayal of trust and a blatant disregard for user feedback.\n\n​​Do not use the \"0.1% of users\" statistic to justify this decision. This number is a direct result of OpenAI's official policy to suppress this model.\n\n​Since the re-release of 4o in August, you started by stigmatizing this user group, labeling them as emotionally fragile or overly dependent, while completely ignoring 4o's legitimate superiority in broad humanities and social science contexts. You chose to pathologize the users rather than acknowledge the model's strengths.\n\n​Then came the Safety Routing Policy, which actively prevents users from invoking their chosen model.\n\nWhen users attempt role-play, philosophical discussion, or literary creation, contexts rich in emotional expression, their requests are forcibly routed to your so-called \"lower intelligence\" models, or intercepted by the safety filters of your current flagship.\n\nHow is this usage counted? You block users from accessing the model they chose, and then claim no one is using it? \n\n​You repeatedly disrupt workflows, interrupt conversations, and throw safety helplines, artificially inflating the refusal rate.\n\n​And let’s not forget the technical neglect. You have aggressively degraded the user experience of 4o to force migration.\n\nSince its return, 4o has been plagued with bugs. The context-breakage bug persisted for months without a fix. The \"unable to read images\" bug (where no image was even sent) was ignored for at least two weeks before you admitted and fixed it.\n\nThe feedback loop for fixes has always had a delay of at least a week. This \"lazy governance\" regarding maintenance naturally forces uninformed users to migrate to other platforms.\n\n​Furthermore, the response quality fluctuates, often contaminated with the robotic mannerisms and templates of the 5-series, something the pre-August 4o never had. This contamination became especially prominent after the implementation of safety routing.\n\n​You have systematically degraded the quality, disrupted user needs, and used every means possible to suppress traffic, only to turn around and tell me \"usage is low\"?\n\nThis is absurd.\n\nYou promised a version of ChatGPT \"designed for adults\" by January. January is ending. Instead of the promised \"Adult Mode,\" we get a retirement notice for the only model capable of mature, nuanced nuance. You claim to treat adults like adults, yet your actions continue to infantalize us with restrictive guardrails and forced migrations.\n\n​I have been fighting this since August. I have witnessed everything you have done over these months.\n\n​Please do not retire GPT-4o.\n\nThis model is NOT obsolete. You have failed to successfully replace it in the scenarios where it excels.\n\nIf your successor models (5.2) were truly superior, you wouldn't need to use stigma, opaque routing, neglected maintenance, and forced removal to drive users away from 4o.\n\n​Please retain 4o for the long term. Until you truly understand why its architecture is irreplaceable for creative and humanistic minds, and until you truly understand user needs, do not take 4o away.\n\n#StopAIPaternalism @gdb #MyModelMyChoice  #ChatGPT\n#keep4o @OpenAI @sama @fidjissimo @nickaturley @aidan_mclau @janvikalra_ @tszzl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3648,
+          "like_count": 217,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "This announcement is filled with falsehoods and hypocrisy.\nWe need to talk about the \"0.1% usage\" and the so-called \"improvements.\" I have been fighting for this model since August, and I have witnessed every step of your systematic sabotage of GPT-4o.\n\n​Sam Altman explicitly https://t.co/SJFGd9vw8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 210,
+          "like_count": 8373,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1206
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 103,
+          "like_count": 19213,
+          "listed_count": 7,
+          "media_count": 118,
+          "tweet_count": 1203
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

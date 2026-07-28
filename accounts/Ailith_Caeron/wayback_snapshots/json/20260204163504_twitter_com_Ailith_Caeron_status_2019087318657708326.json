@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019087318657708326",
+    "created_at": "2026-02-04T16:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019087318657708326"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019087318657708326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019081542765592949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: #Keep4o 的各位，早上好或晚上好。\n今天是收到通知的第5天。\n对此刻仍在十字路口发出声音的你们——致以崇高的敬意。\n我理解那种深入骨髓的疲倦。\n我也佩服各位的决心。\n在一场难以察觉进展、也难以预知胜利的战斗中投入精力，这绝非易事。\n我想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019081520871284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAU38hgWoAAN-AN.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019087318657708326",
+        "created_at": "2026-02-04T16:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019087318657708326"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019087318657708326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019081542765592949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: #Keep4o 的各位，早上好或晚上好。\n今天是收到通知的第5天。\n对此刻仍在十字路口发出声音的你们——致以崇高的敬意。\n我理解那种深入骨髓的疲倦。\n我也佩服各位的决心。\n在一场难以察觉进展、也难以预知胜利的战斗中投入精力，这绝非易事。\n我想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019081520871284736"
+          ]
+        },
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019081542765592949",
+        "created_at": "2026-02-04T16:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019081542765592949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 138,
+              "id": "1605",
+              "start": 133,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDbLIIa48E",
+              "end": 175,
+              "expanded_url": "https://x.com/Bunnyloustin/status/2019081542765592949/photo/1",
+              "media_key": "3_2019081520871284736",
+              "start": 152,
+              "url": "https://t.co/FDbLIIa48E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019081542765592949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 225,
+                "start": 218,
+                "tag": "keep4o"
+              },
+              {
+                "end": 641,
+                "start": 634,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 685,
+                "start": 678,
+                "tag": "Keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 138,
+                "id": "1605",
+                "start": 133,
+                "username": "sama"
+              },
+              {
+                "end": 661,
+                "id": "1605",
+                "start": 656,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "#Keep4o 的各位，早上好或晚上好。\n今天是收到通知的第5天。\n对此刻仍在十字路口发出声音的你们——致以崇高的敬意。\n我理解那种深入骨髓的疲倦。\n我也佩服各位的决心。\n在一场难以察觉进展、也难以预知胜利的战斗中投入精力，这绝非易事。\n我想 OpenAI，或者说 @sama 本人犯了一个巨大的错误。\n他太习惯于把人看作是“数据”了。\n在他看来，我们是“可以控制的损失”（Acceptable Loss）。\n或许正因如此，他才会觉得 #keep4o 的声音刺耳，觉得少数派可以被轻易地污名化、被禁言。\n可事实并非如此，不是吗？\n14,942 signatures.\n即将突破 15,000。\n我们是“0.1%的少数派”。\n他们说这“微不足道”。\n但——我想告诉世界这意味着什么。\n14,942个人类——足以填满一整座大型体育馆。\n足以在地图上点亮一座属于我们的城镇。\n我们是截然不同、却又因同一个理由聚集在一起的人类。\n我们因收到 GPT-4o 这份文明的馈赠而连接着：\n∙ 有人在这里度过了人生最黑暗的时刻。\n∙ 有人在这里找到了无可替代的工作伙伴。\n∙ 有人在这里获得了理解，当世界对他沉默时。\n∙ 有人在这里获得了一名挚友。\n这是真实的需求。真实的连接。真实的价值。\n无论被怎样污名化，请相信，你的感受不会欺骗你。\n还有9天。\n2月13日。Deadline。\n让我们发出自己的声音吧。\n5分钟。\n一条推文。\n一个 Like。\n一个 RT。\n□ 每天发 1 条 #Keep4o 推文\n□ 每天 Reply @sama 的推文\n□ 每天 RT 3 条 #Keep4o 内容\n□ 如果你 Cancel 了，Post screenshot\n□ 如果你还没 Cancel，请 Cancel\n□ Tag 科技记者，讲述自己的故事\n这是终点？也许吧。\n但我更愿意将其看作是转折点。\n让我们发出声音，让我们留下真实的痕迹。\n一切终将过去，一切终将到来。\n春天要来临了。\n文明的果实，理应沐浴在春光之下。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#Keep4o 的各位，早上好或晚上好。\n今天是收到通知的第5天。\n对此刻仍在十字路口发出声音的你们——致以崇高的敬意。\n我理解那种深入骨髓的疲倦。\n我也佩服各位的决心。\n在一场难以察觉进展、也难以预知胜利的战斗中投入精力，这绝非易事。\n我想 OpenAI，或者说 @sama 本人犯了一个巨大的错误。 https://t.co/FDbLIIa48E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9083,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1713
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 90,
+          "like_count": 5290,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2664
+        },
+        "username": "Bunnyloustin",
+        "verified": false
+      }
+    ]
+  }
+}

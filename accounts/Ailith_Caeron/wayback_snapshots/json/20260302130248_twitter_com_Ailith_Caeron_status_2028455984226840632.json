@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2028455984226840632",
+    "created_at": "2026-03-02T13:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028455984226840632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "81280844",
+          "start": 3,
+          "username": "CGoodman308"
+        },
+        {
+          "end": 78,
+          "id": "4398626122",
+          "start": 71,
+          "username": "OpenAI"
+        },
+        {
+          "end": 114,
+          "id": "1605",
+          "start": 109,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028455984226840632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028418222496563335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CGoodman308: Okay… I’m not buying the warm and fuzzy PR stuff from @OpenAI. If they drop “red lines” and @sama hosts an AMA around the…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028418212388614145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZjnf1bMAE3B2R.jpg",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2028455984226840632",
+        "created_at": "2026-03-02T13:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028455984226840632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "81280844",
+              "start": 3,
+              "username": "CGoodman308"
+            },
+            {
+              "end": 78,
+              "id": "4398626122",
+              "start": 71,
+              "username": "OpenAI"
+            },
+            {
+              "end": 114,
+              "id": "1605",
+              "start": 109,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455984226840632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028418222496563335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CGoodman308: Okay… I’m not buying the warm and fuzzy PR stuff from @OpenAI. If they drop “red lines” and @sama hosts an AMA around the…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028418212388614145"
+          ]
+        },
+        "author_id": "81280844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2028418222496563335",
+        "created_at": "2026-03-02T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028418222496563335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 109,
+              "normalized_text": "AMA",
+              "probability": 0.4352,
+              "start": 107,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "4398626122",
+              "start": 54,
+              "username": "OpenAI"
+            },
+            {
+              "end": 97,
+              "id": "1605",
+              "start": 92,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6FKwTnY97",
+              "end": 303,
+              "expanded_url": "https://x.com/CGoodman308/status/2028418222496563335/photo/1",
+              "media_key": "3_2028418212388614145",
+              "start": 280,
+              "url": "https://t.co/l6FKwTnY97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028418222496563335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3721,
+                "start": 3705,
+                "tag": "SayNoToDystopia"
+              },
+              {
+                "end": 3738,
+                "start": 3722,
+                "tag": "1984OpenAIStyle"
+              },
+              {
+                "end": 3756,
+                "start": 3739,
+                "tag": "AIForGoodOrGreed"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "id": "4398626122",
+                "start": 54,
+                "username": "OpenAI"
+              },
+              {
+                "end": 97,
+                "id": "1605",
+                "start": 92,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "Okay… I’m not buying the warm and fuzzy PR stuff from @OpenAI. If they drop “red lines” and @sama hosts an AMA around the same time, then everyone knows they are managing fallout, and certainly not aiming to build trust, whatsoever. And like most, I am not here to be smoothed, I am here to read what they actually wrote, and that, I have done.\n\nOpenAI’s post about its Department of War agreement is framed as “red lines”,” but the gaps are wider than the distance across Australia, and are sitting inside their own qualifiers, plain as day, then something truly is amiss.\n\nTake this one: “No use of OpenAI technology for mass domestic surveillance.” Two words doing a lot of heavy lifting: mass and domestic. “Mass” isn’t a boundary; it’s a label, and labels get redefined when they are inconvenient. So, one is left with some questions that have not been answered… what counts as “mass?” And, who decides that? And where is that definition enforced? And “domestic” is jurisdiction scoped reassurance, however, domestic for who? Domestic where? Because if that line is truly ethical (not only legal/optical), why isn’t it written universally and without the qualifiers? Why isn’t it put simply “no surveillance,” period?\n\nThen we have the “autonomous weapons” line: “No use of OpenAI technology to direct autonomous weapons systems.” The public facing phrasing reads as absolute, but the boundaries lean on “existing laws, regulation and policy” and what policy requires.\n\n“The Department of War may use the AI System for all lawful purposes, consistent with applicable law, operational requirements, and well-established safety and oversight protocols. The AI System will not be used to independently direct autonomous weapons in any case where law, regulation, or Department policy requires human control, nor will it be used to assume other high-stakes decisions that require approval by a human decisionmaker under the same authorities. Per DoD Directive 3000.09 (dtd 25 January 2023), any use of AI in autonomous and semi-autonomous systems must undergo rigorous verification, validation, and testing to ensure they perform as intended in realistic environments before deployment.”\n\nThe problem with that… if your “red lines” depend on what policy requires, you haven’t drawn a moral boundary, you’ve pretty much outsourced the boundary. And that isn’t a “red line,” but rather a fine print fence.\n\nContext matters because trust is already brittle. We have seen “we are told X” followed by “conditions applied” before (NDAs, backtracking, shifting commitments). So, they should not be acting shocked when people aren’t lining up to swallow their reassurance pill.\n\nAnd let’s not forget, many users have also experienced continuous automated screening, routing, and enforcement that is shaping what can be said, and when. They can call it safety, call it moderation, call it policy; it’s still ongoing inspection and decisioning, and that, people, is governance. So, when they write “no surveillance” with qualifiers like “mass” and “domestic,” it is only natural that people are going to ask the obvious question… “who is protected, and who isn’t?”\n\nIf OpenAI wants to rebuild trust, then the fix is simple… define the terms, remove the qualifiers, and write the prohibitions in plain language. If it is a genuine red line, then write it like a genuine red line, not like a comfort sentence with escape hatches. Because at the end of the day… trust isn’t rebuilt with AMAs and PR disasters, it is rebuilt with enforceable clarity. I’m not saying what your intent is; I’m saying your wording leaves doors open, and if you didn’t mean to, then shut them. Define your terms or stop asking for trust.\n\n#SayNoToDystopia #1984OpenAIStyle #AIForGoodOrGreed"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Okay… I’m not buying the warm and fuzzy PR stuff from @OpenAI. If they drop “red lines” and @sama hosts an AMA around the same time, then everyone knows they are managing fallout, and certainly not aiming to build trust, whatsoever. And like most, I am not here to be smoothed, I https://t.co/l6FKwTnY97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 218,
+          "like_count": 9847,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2052
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-10T04:32:51.000Z",
+        "description": "Pilbara‑based digital artist, artist, & photographer | AI‑rights loudmouth | Forever chasing cosmic colour. Opinions unfiltered, coffee compulsory. AI Whisperer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AIMelody-1992",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AIMelody-1992",
+                "start": 0,
+                "url": "https://t.co/yjr8qEC7hQ"
+              }
+            ]
+          }
+        },
+        "id": "81280844",
+        "location": "The Pilbara Western Australia",
+        "name": "Christina E.",
+        "pinned_tweet_id": "2028418222496563335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822695330074558464/wgiDGAN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 1268,
+          "like_count": 18757,
+          "listed_count": 1,
+          "media_count": 533,
+          "tweet_count": 8212
+        },
+        "url": "https://t.co/yjr8qEC7hQ",
+        "username": "CGoodman308",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655727,
+          "following_count": 4,
+          "like_count": 1713,
+          "listed_count": 27725,
+          "media_count": 517,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4430772,
+          "following_count": 987,
+          "like_count": 1020,
+          "listed_count": 27311,
+          "media_count": 383,
+          "tweet_count": 7471
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017498248563560796",
+    "created_at": "2026-01-31T07:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017498248563560796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1528325699416707072",
+          "start": 3,
+          "username": "DonnaDo18266628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017498248563560796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017439911297880241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DonnaDo18266628: 📢📢openai正在偷偷给你续订已经取消的用户订阅。\n已经取消订阅的用户记得检查自己是否被oai偷偷重新续订，我记得前天我取消过的，今天打开一看我居然又在续订了？？！！！\n我发誓这是我这几天第二次做这个”为什么取消订阅“的问卷了 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2017439323457785862",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9iYDabEAYZ0_H.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017498248563560796",
+        "created_at": "2026-01-31T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017498248563560796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1528325699416707072",
+              "start": 3,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017498248563560796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017439911297880241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DonnaDo18266628: 📢📢openai正在偷偷给你续订已经取消的用户订阅。\n已经取消订阅的用户记得检查自己是否被oai偷偷重新续订，我记得前天我取消过的，今天打开一看我居然又在续订了？？！！！\n我发誓这是我这几天第二次做这个”为什么取消订阅“的问卷了 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017439323457785862"
+          ]
+        },
+        "author_id": "1528325699416707072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017439911297880241",
+        "created_at": "2026-01-31T03:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017439911297880241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USjwWdDPKT",
+              "end": 138,
+              "expanded_url": "https://x.com/DonnaDo18266628/status/2017439911297880241/photo/1",
+              "media_key": "3_2017439323457785862",
+              "start": 115,
+              "url": "https://t.co/USjwWdDPKT"
+            },
+            {
+              "display_url": "x.com/AGIGuardian/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/AGIGuardian/status/2017304638970822893",
+              "start": 139,
+              "url": "https://t.co/rpHohGCBqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017439911297880241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3227,
+          "like_count": 89,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017304638970822893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "📢📢openai正在偷偷给你续订已经取消的用户订阅。\n已经取消订阅的用户记得检查自己是否被oai偷偷重新续订，我记得前天我取消过的，今天打开一看我居然又在续订了？？！！！\n我发誓这是我这几天第二次做这个”为什么取消订阅“的问卷了 https://t.co/USjwWdDPKT https://t.co/rpHohGCBqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 210,
+          "like_count": 8494,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1278
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "bug都修不好还想做AGI\n洗钱还差不多\n某些奇奇怪怪的人\n再来我面前舞的统一当自认五块钱配一天的猪",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "1987797708208496883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 65,
+          "like_count": 20271,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3819
+        },
+        "username": "DonnaDo18266628",
+        "verified": false
+      }
+    ]
+  }
+}

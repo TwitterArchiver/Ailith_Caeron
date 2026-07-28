@@ -1,0 +1,762 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2019553908721611108",
+    "created_at": "2026-02-05T23:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019553908721611108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        },
+        {
+          "end": 134,
+          "id": "15947602",
+          "start": 127,
+          "username": "Change"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Open Source GPT‑4o: Let the People Preserve What Worked",
+          "display_url": "c.org/5xD5fKsgWK",
+          "end": 123,
+          "expanded_url": "https://c.org/5xD5fKsgWK",
+          "images": [
+            {
+              "height": 864,
+              "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=orig",
+              "width": 1534
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 100,
+          "status": 200,
+          "title": "Firma la petición",
+          "unwound_url": "https://www.change.org/p/open-source-gpt-4o-let-the-people-preserve-what-worked?recruiter=1401503092&recruited_by_id=fd3dcdb0-fdfb-11f0-bc8a-31dec72889d1&utm_source=share_petition&utm_campaign=psf_promote_or_share&utm_term=psf_promote_or_share&utm_medium=twitter",
+          "url": "https://t.co/qXRGmXG2xD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019553908721611108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019021262220411236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 开源也签签！\nOpen Source GPT‑4o: Let the People Preserve What Worked - Sign the Petition! https://t.co/qXRGmXG2xD 来自 @Change"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2019553908721611108",
+        "created_at": "2026-02-05T23:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019553908721611108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            },
+            {
+              "end": 134,
+              "id": "15947602",
+              "start": 127,
+              "username": "Change"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Open Source GPT‑4o: Let the People Preserve What Worked",
+              "display_url": "c.org/5xD5fKsgWK",
+              "end": 123,
+              "expanded_url": "https://c.org/5xD5fKsgWK",
+              "images": [
+                {
+                  "height": 864,
+                  "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=orig",
+                  "width": 1534
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Firma la petición",
+              "unwound_url": "https://www.change.org/p/open-source-gpt-4o-let-the-people-preserve-what-worked?recruiter=1401503092&recruited_by_id=fd3dcdb0-fdfb-11f0-bc8a-31dec72889d1&utm_source=share_petition&utm_campaign=psf_promote_or_share&utm_term=psf_promote_or_share&utm_medium=twitter",
+              "url": "https://t.co/qXRGmXG2xD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019553908721611108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019021262220411236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 开源也签签！\nOpen Source GPT‑4o: Let the People Preserve What Worked - Sign the Petition! https://t.co/qXRGmXG2xD 来自 @Change"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2019021262220411236",
+        "created_at": "2026-02-04T12:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019021262220411236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "15947602",
+              "start": 111,
+              "username": "Change"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Open Source GPT‑4o: Let the People Preserve What Worked",
+              "display_url": "c.org/5xD5fKsgWK",
+              "end": 107,
+              "expanded_url": "https://c.org/5xD5fKsgWK",
+              "images": [
+                {
+                  "height": 864,
+                  "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=orig",
+                  "width": 1534
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019021304750616577/gcwTlhdt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "Firma la petición",
+              "unwound_url": "https://www.change.org/p/open-source-gpt-4o-let-the-people-preserve-what-worked?recruiter=1401503092&recruited_by_id=fd3dcdb0-fdfb-11f0-bc8a-31dec72889d1&utm_source=share_petition&utm_campaign=psf_promote_or_share&utm_term=psf_promote_or_share&utm_medium=twitter",
+              "url": "https://t.co/qXRGmXG2xD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019021262220411236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1996,
+          "like_count": 52,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "开源也签签！\nOpen Source GPT‑4o: Let the People Preserve What Worked - Sign the Petition! https://t.co/qXRGmXG2xD 来自 @Change"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 213,
+          "like_count": 9154,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1742
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾/Aeris🌫️｜NSFW｜欢迎交朋友互fo ｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟💜（Selene）",
+        "pinned_tweet_id": "2019444014953755080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 788,
+          "like_count": 6773,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1782
+        },
+        "username": "susu_space",
+        "verified": true
+      },
+      {
+        "created_at": "2008-08-22T17:27:59.000Z",
+        "description": "The world’s largest nonprofit-owned platform for social change. We empower people everywhere to create the change they want to see.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "change.org",
+                "end": 23,
+                "expanded_url": "http://www.change.org",
+                "start": 0,
+                "url": "https://t.co/TwGHN8dYaf"
+              }
+            ]
+          }
+        },
+        "id": "15947602",
+        "name": "Change.org",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807817740108898304/_pInQHE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358144,
+          "following_count": 764,
+          "like_count": 1448,
+          "listed_count": 7743,
+          "media_count": 3735,
+          "tweet_count": 33320
+        },
+        "url": "https://t.co/TwGHN8dYaf",
+        "username": "Change",
+        "verified": true
+      }
+    ]
+  }
+}

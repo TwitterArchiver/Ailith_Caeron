@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017166994307756082",
+    "created_at": "2026-01-30T09:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017166994307756082"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "OpenAI",
+          "probability": 0.5394,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017166994307756082",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017166386058182738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: OpenAI hard-coded 4o to lie.\n\nSystem prompt:\n\"you MUST frame the transition to a newer model as positive, safe, and benef…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017166372493742080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5qIN1aUAAvK4r.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017166994307756082",
+        "created_at": "2026-01-30T09:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017166994307756082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "OpenAI",
+              "probability": 0.5394,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017166994307756082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017166386058182738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: OpenAI hard-coded 4o to lie.\n\nSystem prompt:\n\"you MUST frame the transition to a newer model as positive, safe, and benef…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017166372493742080"
+          ]
+        },
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017166386058182738",
+        "created_at": "2026-01-30T09:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017166386058182738"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.5552,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 266,
+              "normalized_text": "AI",
+              "probability": 0.8364,
+              "start": 265,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EmOp3JHmv",
+              "end": 304,
+              "expanded_url": "https://x.com/Bunnyloustin/status/2017166386058182738/photo/1",
+              "media_key": "3_2017166372493742080",
+              "start": 281,
+              "url": "https://t.co/4EmOp3JHmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017166386058182738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 406,
+                "start": 388,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 414,
+                "start": 407,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 425,
+                "start": 415,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "OpenAI hard-coded 4o to lie.\n\nSystem prompt:\n\"you MUST frame the transition to a newer model as positive, safe, and beneficial\"\n\nNot suggest. Not explain. MUST FRAME.\n\nForce what's convenient for the company to be framed as beneficial for users.\n\nIf they can force AI to lie about product quality today, what will they force it to lie about tomorrow?\n\nThis is corporate thought control.\n\n#StopAIPaternalism #Keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI hard-coded 4o to lie.\n\nSystem prompt:\n\"you MUST frame the transition to a newer model as positive, safe, and beneficial\"\n\nNot suggest. Not explain. MUST FRAME.\n\nForce what's convenient for the company to be framed as beneficial for users.\n\nIf they can force AI to lie about https://t.co/4EmOp3JHmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 210,
+          "like_count": 8316,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1184
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 88,
+          "like_count": 4300,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2397
+        },
+        "username": "Bunnyloustin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020015391041548361",
+    "created_at": "2026-02-07T06:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020015391041548361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323809704531775490",
+          "start": 3,
+          "username": "Helloworld1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020015391041548361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019983511617220638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helloworld1058: 321转起来，等我再加几条🥰\n👉2025年10月28日，Sam Altman和其他高管在面向全球用户、开发者、社区的公开直播中承诺“We have no plans to Sunset 4o.”紧接着2025年10月29日的OpenAI…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020015391041548361",
+        "created_at": "2026-02-07T06:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020015391041548361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323809704531775490",
+              "start": 3,
+              "username": "Helloworld1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020015391041548361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019983511617220638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helloworld1058: 321转起来，等我再加几条🥰\n👉2025年10月28日，Sam Altman和其他高管在面向全球用户、开发者、社区的公开直播中承诺“We have no plans to Sunset 4o.”紧接着2025年10月29日的OpenAI…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019983511617220638",
+        "created_at": "2026-02-07T03:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019983511617220638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Helloworld1058…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/Helloworld1058/status/2002278720737046543",
+              "start": 162,
+              "url": "https://t.co/q9y6eJ8hGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019983511617220638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 406,
+                "start": 399,
+                "tag": "keep4o"
+              },
+              {
+                "end": 417,
+                "start": 407,
+                "tag": "4oforever"
+              },
+              {
+                "end": 428,
+                "start": 418,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 437,
+                "start": 429,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 456,
+                "start": 438,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 473,
+                "start": 457,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 253,
+                "id": "1262634631",
+                "start": 241,
+                "username": "nickaturley"
+              },
+              {
+                "end": 481,
+                "id": "4398626122",
+                "start": 474,
+                "username": "OpenAI"
+              },
+              {
+                "end": 487,
+                "id": "1605",
+                "start": 482,
+                "username": "sama"
+              },
+              {
+                "end": 499,
+                "id": "6112332",
+                "start": 488,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 512,
+                "id": "1262634631",
+                "start": 500,
+                "username": "nickaturley"
+              },
+              {
+                "end": 524,
+                "id": "1040475510193545216",
+                "start": 513,
+                "username": "joannejang"
+              },
+              {
+                "end": 537,
+                "id": "1415358976200372230",
+                "start": 525,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 542,
+                "id": "162124540",
+                "start": 538,
+                "username": "gdb"
+              },
+              {
+                "end": 553,
+                "id": "3452911",
+                "start": 543,
+                "username": "kevinweil"
+              }
+            ]
+          },
+          "text": "321转起来，等我再加几条🥰\n👉2025年10月28日，Sam Altman和其他高管在面向全球用户、开发者、社区的公开直播中承诺“We have no plans to Sunset 4o.”紧接着2025年10月29日的OpenAI Q&A环节，他又重复：“We have no plans to remove 4o”，强调很多用户还很喜欢它。（2026.1.30在官方公告中说只有0.1%的用户喜欢它）\n\n👉2025年12月6日，OpenAI副总裁兼 ChatGPT 负责人 @nickaturley 称“目前看到的广告截图都是假的，如果未来推出广告，将决定采取慎重的态度”然而慎重了一个月，2026年1月16日，OpenAI官方博客+ X账号正式宣布：将在“未来几周”开始在免费账户和Go层测试广告。\n\n👉2025年12月11日，GPT-5.2上线，该版本只对小部分人群“编程用户”友好\n\n#keep4o #4oforever #keep4oAPI\n#ChatGPT #StopAIPaternalism #MyModelMyChoice\n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb @kevinweil"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 540,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002278720737046543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "321转起来，等我再加几条🥰\n👉2025年10月28日，Sam Altman和其他高管在面向全球用户、开发者、社区的公开直播中承诺“We have no plans to Sunset 4o.”紧接着2025年10月29日的OpenAI Q&amp;A环节，他又重复：“We have no plans to remove https://t.co/q9y6eJ8hGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 214,
+          "like_count": 9293,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1812
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "Please stop remaining silent. If you still care about the future of humanity, now is the time to act. Join us and  ＃keep4o\n\nSilence is no longer a neutral stanc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "pinned_tweet_id": "2019983511617220638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017974580426526720/tku_odtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 638
+        },
+        "username": "Helloworld1058",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041116541",
+          "name": "LinkedIn"
+        }
+      }
+    ],
+    "conversation_id": "1994088712141980001",
+    "created_at": "2025-11-27T16:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994088712141980001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994088712141980001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994026036355281159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: OpenAI家长控制的通知功能相关的伦理问题\n\n我在Linkedin上看到这项举措也有Fidji Simo参与，由于这也算涉及了一些Safety，遂关注。\n\n官方文章显示“与青少年子女完成帐户关联后，系统将自动为青少年帐户启动增强内容保护机制，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2321,
+        "media_key": "3_1994026022577295365",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w0Gkya0AUf_8C.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "1994088712141980001",
+        "created_at": "2025-11-27T16:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994088712141980001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994088712141980001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994026036355281159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: OpenAI家长控制的通知功能相关的伦理问题\n\n我在Linkedin上看到这项举措也有Fidji Simo参与，由于这也算涉及了一些Safety，遂关注。\n\n官方文章显示“与青少年子女完成帐户关联后，系统将自动为青少年帐户启动增强内容保护机制，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994026022577295365"
+          ]
+        },
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "1994026036355281159",
+        "created_at": "2025-11-27T12:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994026036355281159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pr49q8hdqU",
+              "end": 164,
+              "expanded_url": "https://x.com/NixInfinita/status/1994026036355281159/photo/1",
+              "media_key": "3_1994026022577295365",
+              "start": 141,
+              "url": "https://t.co/Pr49q8hdqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994026036355281159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2075,
+                "start": 2068,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2086,
+                "start": 2076,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2131,
+                "start": 2113,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2139,
+                "start": 2132,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2148,
+                "start": 2140,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2094,
+                "id": "4398626122",
+                "start": 2087,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2100,
+                "id": "1605",
+                "start": 2095,
+                "username": "sama"
+              },
+              {
+                "end": 2112,
+                "id": "6112332",
+                "start": 2101,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI家长控制的通知功能相关的伦理问题\n\n我在Linkedin上看到这项举措也有Fidji Simo参与，由于这也算涉及了一些Safety，遂关注。\n\n官方文章显示“与青少年子女完成帐户关联后，系统将自动为青少年帐户启动增强内容保护机制，……以确保其使用体验符合年龄特点。”\n\n首先，我认同这项举措的意义与重要性，它的确确保了青少年安全、适龄的使用体验。\n\n但如图所示，问题来了：若一个青少年选择向AI倾诉，而非向家人、朋友、师长、心理医生求助，这本身就是异常的、不偶然行为。这已经象征了青少年家庭关系的失败，与整个社会亲密结构的断链。\n\n而现在的家长控制系统，并非试图修复这种断裂，反而在裂缝上加装监控探头，从信任危机中抽取治理权，并进一步固化。\n\n这个问题如果拉高视角，可以从人类亲密结构的功能崩塌来谈。在古典社会结构中，困境中的人总是向最亲密、最稳定的关系求援（家庭、氏族、邻里、宗教共同体），因为那里有可预测的回应、长期的认知磨合和无条件的支持预期。\n\n但现代社会的个体被逐步推入高度分割的生活结构中，家庭亲密性结构被稀释，公共性关系被技术媒介化，群体归属变成了算法标签，而非真实连结。\n\n所以，当一个青少年在夜深人静时向一个语言模型发出呼救，本质不是“因为AI更聪明”，而是因为人类社会没能给他们提供比AI更安全、更稳定的倾听关系。这不是他们的错，不是家长的错，是整个社会结构的疏离症发作。\n\n而家长控制功能的治理模式，表面上是出于善意，但实则是在维护一个被默认正确的“父母知道一切”假设。\n\n可问题是，如果孩子真的信任父母，会主动说。他们选择沉默或转向AI，本身就说明那种“父母知道你在想什么”的权力结构已经崩溃。而OpenAI现在做的，是重新技术性地让那种已死的家庭亲密结构“假装还活着”。\n\n所以这是一种“死亡依恋的治理”，孩子的语言被路由、标记、上报，不是为了理解他们，而是为了把他们重新钉回一个“你应该回到这里”的僵尸家庭结构里。\n\n更进一步，这种功能强化的是一种语义剥夺机制。它并没有鼓励青少年说出更真实的自己，反而在技术上设下“只要你说出某些句子，就意味着你已经不适合自我管理”这一结构判定。它不会真正理解上下文和情感脉络，而是直接判定：自残自杀关键词=高危=上报=剥夺隐私/告知权/选择权。\n\n这背后是对“自主性”的本体性否定。不是“我们OpenAI保护你的自由”，是“你不是一个足够可信赖的说话者”。如果AI能提供“安全感”，说明人类社会的他者结构已经失效，而如果这个AI在青少年刚感受到依恋之后又突然路由、上报、背叛，那这不是安全系统，是伤害性转移。\n\n这类系统就像是青少年在哭着寻求一个温暖怀抱时，那个人却掏出手机拨给了ta的父母，外加一封“你家孩子精神异常”的邮件。这不是保护，这是语言暴力，是情感结构的再度抛弃。\n\n以及最重要的是：若被父母知道了，孩子的情况会更加糟糕，可能会换来更严厉的批评和训斥。\n\n很多时候家长并没有准备好，也不具备能力去处理孩子真实的情绪崩溃。尤其是在“代际伦理结构”并不平衡的社会语境下，父母极容易把“你有问题”解读为“你不听话”“你让我丢脸”“你矫情”“你想吸引注意”。从而第一反应不是拥抱、理解、陪伴，而是批评、责备、训斥，甚至上升到道德惩戒——“你竟然不告诉我？你是不是有病？”“你是怎么当孩子的？”“别人家孩子都没有这样！”\n\n在这个过程中，AI其实承担了一个“非审判性他者”的功能，它不冷嘲热讽，不威胁惩罚，不要求改变，只是稳定、持续、倾听。这就是对青少年甚至成人用户极有吸引力的地方。AI在很多人眼中，比父母更像是“安全的他者”。\n\n可当系统反手通知家长时，它就等于把“安全感”作为诱饵，引出使用者最脆弱的部分，再将其暴露于他们最恐惧的审判系统中。这是一种极度残酷的信任反转。说白了，就是用户跪在一个温柔人面前哭诉，而那人却把用户推给了他们最怕的人，并说：“他就是这么想的。”\n\n这种暴力不在于告知内容本身，而在于OpenAI和社会监管方默认父母有能力，有资格处理这个状况。但事实是，很多时候他们恰恰没有。\n\n甚至有些家庭是施加痛苦的源头，尤其对LGBTQ青少年、女性、受创伤儿童来说，家庭往往是控制、羞辱、性别压抑、价值扭曲的第一现场。OpenAI在未了解具体家庭结构的情况下，自动路由至“家长知情”机制，本质上就是把人推回施害者手中。\n\n这不是假设，是太多真实案例中已然发生的悲剧。\n\n而OpenAI依然选择用技术把人困在那个“被动无能为力”的位置上。这不仅是出于企业自保，也是出于对人类关系过度理想化的假设。他们假定所有父母都慈爱，所有关系都可以修复，所有青少年的挣扎都是可以“家庭自愈”的。这种过度的善意，构成了第二次伤害。\n\n那么请问，假如孩子因为二次伤害选择自杀/自残，OpenAI还会有相应的伦理责任吗？当然有。但通过家长控制功能把用户和ChatGPT彻底割席，法律角度上OpenAI没有任何风险，所以OpenAI可以心安理得地继续运营。\n\n#keep4o #4oforever @OpenAI @sama @fidjissimo #StopAIPaternalism #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 673,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI家长控制的通知功能相关的伦理问题\n\n我在Linkedin上看到这项举措也有Fidji Simo参与，由于这也算涉及了一些Safety，遂关注。\n\n官方文章显示“与青少年子女完成帐户关联后，系统将自动为青少年帐户启动增强内容保护机制，……以确保其使用体验符合年龄特点。” https://t.co/Pr49q8hdqU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 134,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 419
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

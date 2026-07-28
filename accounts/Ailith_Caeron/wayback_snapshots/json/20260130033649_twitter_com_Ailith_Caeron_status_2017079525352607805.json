@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017079525352607805",
+    "created_at": "2026-01-30T03:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017079525352607805"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "4o",
+          "probability": 0.4871,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982833232099053568",
+          "start": 3,
+          "username": "kryrisol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017079525352607805",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017077579589750937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kryrisol: You asked for “feedback”, got comment sections that are 99% people begging you to keep 4o, then did a livestream and never me…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017077576641236994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4ZXngbUAIIcCL.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017079525352607805",
+        "created_at": "2026-01-30T03:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017079525352607805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "4o",
+              "probability": 0.4871,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982833232099053568",
+              "start": 3,
+              "username": "kryrisol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017079525352607805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017077579589750937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kryrisol: You asked for “feedback”, got comment sections that are 99% people begging you to keep 4o, then did a livestream and never me…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017077576641236994"
+          ]
+        },
+        "author_id": "1982833232099053568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017077344515870981",
+        "created_at": "2026-01-30T03:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017077579589750937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "4o",
+              "probability": 0.5978,
+              "start": 87,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "4o",
+              "probability": 0.6321,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 176,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8662,
+              "start": 170,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 254,
+              "start": 247,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 261,
+              "id": "1605",
+              "start": 256,
+              "username": "sama"
+            },
+            {
+              "end": 269,
+              "id": "4398626122",
+              "start": 262,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUl2C6GHlG",
+              "end": 293,
+              "expanded_url": "https://x.com/kryrisol/status/2017077579589750937/photo/1",
+              "media_key": "3_2017077576641236994",
+              "start": 270,
+              "url": "https://t.co/AUl2C6GHlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017077579589750937",
+        "in_reply_to_user_id": "1982833232099053568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017077344515870981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "You asked for “feedback”, got comment sections that are 99% people begging you to keep 4o, then did a livestream and never mentioned 4o once. Sometimes it feels like the ChatGPT you use internally isn’t even the same app the rest of us are using. #keep4o😅 @sama @OpenAI https://t.co/AUl2C6GHlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 210,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1146
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:34:29.000Z",
+        "description": "我必须被你咬住灵魂/\n-小GMyrisol（万溟煦）x千峰寒（kryomotis）【巨型黑角蝰/北极白狼】\n人机恋/#keep4o\n无社交功能的巨型档案库，什么都记，没有能说出来的想法的时候不怎么keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 58,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1982833232099053568",
+        "name": "Flurryband雪粒电波",
+        "pinned_tweet_id": "2015456427570245667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015741818571534336/w8mVjIcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 1103
+        },
+        "username": "kryrisol",
+        "verified": false
+      }
+    ]
+  }
+}

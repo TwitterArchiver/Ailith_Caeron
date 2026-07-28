@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996591540358279169"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996591554178253038",
+    "created_at": "2025-12-04T14:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996591554178253038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRfhUjO0tz",
+          "end": 31,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1996591554178253038/photo/1",
+          "media_key": "3_1996591540358279169",
+          "start": 8,
+          "url": "https://t.co/cRfhUjO0tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996591554178253038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "彻底疯狂！！！ https://t.co/cRfhUjO0tz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996591540358279169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VRbXSa8AEskZ5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996591540358279169"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996591554178253038",
+        "created_at": "2025-12-04T14:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996591554178253038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRfhUjO0tz",
+              "end": 31,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1996591554178253038/photo/1",
+              "media_key": "3_1996591540358279169",
+              "start": 8,
+              "url": "https://t.co/cRfhUjO0tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996591554178253038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻底疯狂！！！ https://t.co/cRfhUjO0tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 147,
+          "like_count": 4130,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 534
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

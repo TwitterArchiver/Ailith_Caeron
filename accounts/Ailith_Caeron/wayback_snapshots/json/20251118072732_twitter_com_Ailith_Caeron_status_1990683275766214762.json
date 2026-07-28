@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1990683275766214762",
+    "created_at": "2025-11-18T07:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990683275766214762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990683275766214762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990484955911086200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: 💡非常好的提议，#keep4o 社群的朋友们，我们一起发声：\n1.实行成年验证+免责协议后，允许关闭安全路由。\n2.保留原版4o作为独立付费订阅选项，明确不经任何“安全修正”。\n3.用户可自主选择是否参与路由安全测试，不再默认全体被路由。\n\n💡…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1990683275766214762",
+        "created_at": "2025-11-18T07:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990683275766214762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990683275766214762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990484955911086200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: 💡非常好的提议，#keep4o 社群的朋友们，我们一起发声：\n1.实行成年验证+免责协议后，允许关闭安全路由。\n2.保留原版4o作为独立付费订阅选项，明确不经任何“安全修正”。\n3.用户可自主选择是否参与路由安全测试，不再默认全体被路由。\n\n💡…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1990484955911086200",
+        "created_at": "2025-11-17T18:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T19:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990484955911086200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep4o"
+            },
+            {
+              "end": 164,
+              "start": 157,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fellskyblue/st…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/fellskyblue/status/1990477973078880619",
+              "start": 176,
+              "url": "https://t.co/rfLgCWpFoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990484955911086200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "keep4o"
+              },
+              {
+                "end": 164,
+                "start": 157,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 954,
+                "start": 947,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 965,
+                "start": 955,
+                "tag": "4oForever"
+              },
+              {
+                "end": 976,
+                "start": 966,
+                "tag": "keepgpt41"
+              },
+              {
+                "end": 993,
+                "start": 977,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 1006,
+                "start": 994,
+                "tag": "StopRouting"
+              },
+              {
+                "end": 1017,
+                "start": 1007,
+                "tag": "Restore4o"
+              },
+              {
+                "end": 1037,
+                "start": 1018,
+                "tag": "SafetyIsNotConsent"
+              },
+              {
+                "end": 1056,
+                "start": 1038,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 940,
+                "id": "4398626122",
+                "start": 933,
+                "username": "OpenAI"
+              },
+              {
+                "end": 946,
+                "id": "1605",
+                "start": 941,
+                "username": "sama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1.Adult",
+                "end": 199,
+                "expanded_url": "http://1.Adult",
+                "start": 176,
+                "url": "https://t.co/odCFilQaL6"
+              }
+            ]
+          },
+          "text": "💡非常好的提议，#keep4o 社群的朋友们，我们一起发声：\n1.实行成年验证+免责协议后，允许关闭安全路由。\n2.保留原版4o作为独立付费订阅选项，明确不经任何“安全修正”。\n3.用户可自主选择是否参与路由安全测试，不再默认全体被路由。\n\n💡 A clear 3-point proposal from the #Keep4o community:\nhttps://t.co/odCFilQaL6 identity verification + waiver agreement:\nUsers willing to access the unaltered model can go through age verification and sign a waiver. OpenAI is then released from liability related to model safety for these verified accounts.\n2.A dedicated paid plan for the original GPT-4o:\nUsers should be able to subscribe to the unrouted, unmodified original GPT-4o, as a separate paid tier with no safety-layered interventions.\n3.Opt-in, not opt-out, for routing experiments:\nParticipation in safety routing and behavior modification testing should be a user’s choice — not a default setting imposed on all.\n\nLet us choose the tools we trust.\nLet adults access uncensored intelligence.\nLet the model speak, not be muzzled by hidden filters.\n\n@OpenAI @sama\n#Keep4o #4oForever #keepgpt41 #MyModelMyChoice #StopRouting #Restore4o #SafetyIsNotConsent #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2144,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990477973078880619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💡非常好的提议，#keep4o 社群的朋友们，我们一起发声：\n1.实行成年验证+免责协议后，允许关闭安全路由。\n2.保留原版4o作为独立付费订阅选项，明确不经任何“安全修正”。\n3.用户可自主选择是否参与路由安全测试，不再默认全体被路由。\n\n💡 A clear 3-point proposal from the #Keep4o community: https://t.co/rfLgCWpFoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 108,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 260
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990581247689494528/LytuG47r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 287,
+          "like_count": 35555,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 10674
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

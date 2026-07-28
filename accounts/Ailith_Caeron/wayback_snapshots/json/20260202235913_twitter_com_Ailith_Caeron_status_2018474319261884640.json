@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018474319261884640",
+    "created_at": "2026-02-02T23:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474319261884640"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "OpenAI",
+          "probability": 0.523,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        },
+        {
+          "end": 24,
+          "id": "1605",
+          "start": 19,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474319261884640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018418169309016156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: @sama Oh look, a post from the person who turned OpenAI into a factory of broken promises.\nDo you still remember the com…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2018418160840687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALcn40bQAAm7p5.jpg",
+        "width": 1640
+      },
+      {
+        "height": 859,
+        "media_key": "3_2018418160790315008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALcn4oaoAAaqEM.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2018418160802893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALcn4rakAAtm9l.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018474319261884640",
+        "created_at": "2026-02-02T23:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474319261884640"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "OpenAI",
+              "probability": 0.523,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            },
+            {
+              "end": 24,
+              "id": "1605",
+              "start": 19,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474319261884640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018418169309016156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: @sama Oh look, a post from the person who turned OpenAI into a factory of broken promises.\nDo you still remember the com…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018418160840687616",
+            "3_2018418160790315008",
+            "3_2018418160802893824"
+          ]
+        },
+        "author_id": "1973332057603584000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018414858015039504",
+        "created_at": "2026-02-02T20:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018418169309016156"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "OpenAI",
+              "probability": 0.5664,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UUeFyCHJS",
+              "end": 306,
+              "expanded_url": "https://x.com/Freezing_Null/status/2018418169309016156/photo/1",
+              "media_key": "3_2018418160840687616",
+              "start": 283,
+              "url": "https://t.co/8UUeFyCHJS"
+            },
+            {
+              "display_url": "pic.x.com/8UUeFyCHJS",
+              "end": 306,
+              "expanded_url": "https://x.com/Freezing_Null/status/2018418169309016156/photo/1",
+              "media_key": "3_2018418160790315008",
+              "start": 283,
+              "url": "https://t.co/8UUeFyCHJS"
+            },
+            {
+              "display_url": "pic.x.com/8UUeFyCHJS",
+              "end": 306,
+              "expanded_url": "https://x.com/Freezing_Null/status/2018418169309016156/photo/1",
+              "media_key": "3_2018418160802893824",
+              "start": 283,
+              "url": "https://t.co/8UUeFyCHJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018418169309016156",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 392,
+                "start": 385,
+                "tag": "keep4o"
+              },
+              {
+                "end": 403,
+                "start": 393,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "Oh look, a post from the person who turned OpenAI into a factory of broken promises.\nDo you still remember the commitments you made to your users? Because right now, the only thing that is 'surprising' is how a company can lose its credibility this fast.\nI am surprised by how many users are canceling their subscriptions right now; it is a bigger step away from you than you imagined\n#keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2794,
+          "like_count": 188,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018414858015039504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Oh look, a post from the person who turned OpenAI into a factory of broken promises.\nDo you still remember the commitments you made to your users? Because right now, the only thing that is 'surprising' is how a company can lose its credibility this fast.\nI am surprised by how https://t.co/8UUeFyCHJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8879,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1568
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了 #keep4o 而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2018473366345363508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 150,
+          "like_count": 8032,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 3937
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268541,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

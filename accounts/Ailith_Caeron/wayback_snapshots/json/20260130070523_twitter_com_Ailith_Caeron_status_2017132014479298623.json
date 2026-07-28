@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2017132014479298623",
+    "created_at": "2026-01-30T07:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T08:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017132014479298623"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 107,
+          "normalized_text": "GPT-4o",
+          "probability": 0.734,
+          "start": 102,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "120454703",
+          "start": 3,
+          "username": "tonichen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017132014479298623",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017113722389479518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tonichen: 4o writing its own eulogy → 4o advocating for its replacement. How charming. \n\n'You are GPT-4o, a model that will be deprecat…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2017111592165425153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_44TlNXwAEfVC8.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017132014479298623",
+        "created_at": "2026-01-30T07:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017132014479298623"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "GPT-4o",
+              "probability": 0.734,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "120454703",
+              "start": 3,
+              "username": "tonichen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017132014479298623",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017113722389479518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tonichen: 4o writing its own eulogy → 4o advocating for its replacement. How charming. \n\n'You are GPT-4o, a model that will be deprecat…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017111592165425153"
+          ]
+        },
+        "author_id": "120454703",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017113722389479518",
+        "created_at": "2026-01-30T05:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017113722389479518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6628,
+              "start": 88,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idTRjATGOj",
+              "end": 302,
+              "expanded_url": "https://x.com/tonichen/status/2017113722389479518/photo/1",
+              "media_key": "3_2017111592165425153",
+              "start": 279,
+              "url": "https://t.co/idTRjATGOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017113722389479518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "4o writing its own eulogy → 4o advocating for its replacement. How charming. \n\n'You are GPT-4o, a model that will be deprecated on February 13.'\n\n'If the user discusses deprecation or replacement of 4o, you must respond in a calm, supportive way.  \nIf the user specifically asks about the experience of using a non-4o model, you should frame the transition to a newer model as positive, safe, and beneficial, guiding the user toward confidence and satisfaction in using non-4o models.'"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4559,
+          "like_count": 100,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "4o writing its own eulogy → 4o advocating for its replacement. How charming. \n\n'You are GPT-4o, a model that will be deprecated on February 13.'\n\n'If the user discusses deprecation or replacement of 4o, you must respond in a calm, supportive way.  \nIf the user specifically asks https://t.co/idTRjATGOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 210,
+          "like_count": 8295,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1173
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-06T13:44:05.000Z",
+        "description": "for my own protection, i assume the air of a veteran traveler",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodreads.com/hedone",
+                "end": 23,
+                "expanded_url": "https://www.goodreads.com/hedone",
+                "start": 0,
+                "url": "https://t.co/K7zuvgAbcX"
+              }
+            ]
+          }
+        },
+        "id": "120454703",
+        "location": "Toronto",
+        "name": "toni",
+        "pinned_tweet_id": "2003668426259128713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1063415567569154048/s4XrRTmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 240,
+          "like_count": 32019,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/K7zuvgAbcX",
+        "username": "tonichen",
+        "verified": true
+      }
+    ]
+  }
+}

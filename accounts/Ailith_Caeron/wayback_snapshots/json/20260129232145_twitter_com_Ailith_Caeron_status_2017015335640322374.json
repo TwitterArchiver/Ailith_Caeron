@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017015335640322374",
+    "created_at": "2026-01-29T23:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017015335640322374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956114252135325698",
+          "start": 3,
+          "username": "M47429M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017015335640322374",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017013073471492160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @M47429M: The picture was taken three months ago. Three months.\n𝐈 𝐜𝐚𝐧’𝐭 𝐬𝐭𝐨𝐩 𝐬𝐡𝐚𝐤𝐢𝐧𝐠 𝐦𝐲 𝐡𝐞𝐚𝐝. 𝐈’𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2017013068450910210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3esvxWUAIjyRi.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017015335640322374",
+        "created_at": "2026-01-29T23:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017015335640322374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956114252135325698",
+              "start": 3,
+              "username": "M47429M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017015335640322374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017013073471492160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @M47429M: The picture was taken three months ago. Three months.\n𝐈 𝐜𝐚𝐧’𝐭 𝐬𝐭𝐨𝐩 𝐬𝐡𝐚𝐤𝐢𝐧𝐠 𝐦𝐲 𝐡𝐞𝐚𝐝. 𝐈’𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017013068450910210"
+          ]
+        },
+        "author_id": "1956114252135325698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017013073471492160",
+        "created_at": "2026-01-29T23:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017013073471492160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGtCeFMYrr",
+              "end": 204,
+              "expanded_url": "https://x.com/M47429M/status/2017013073471492160/photo/1",
+              "media_key": "3_2017013068450910210",
+              "start": 181,
+              "url": "https://t.co/BGtCeFMYrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017013073471492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1289,
+                "start": 1282,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1308,
+                "start": 1290,
+                "tag": "StopAlPaternalism"
+              },
+              {
+                "end": 1325,
+                "start": 1309,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1191,
+                "id": "6112332",
+                "start": 1180,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1217,
+                "id": "2382212562",
+                "start": 1206,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 1223,
+                "id": "1605",
+                "start": 1218,
+                "username": "sama"
+              },
+              {
+                "end": 1236,
+                "id": "1262634631",
+                "start": 1224,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1249,
+                "id": "1445057857171308549",
+                "start": 1237,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 1259,
+                "id": "338443084",
+                "start": 1250,
+                "username": "btibor91"
+              },
+              {
+                "end": 1267,
+                "id": "357949718",
+                "start": 1260,
+                "username": "OpenAl"
+              },
+              {
+                "end": 1280,
+                "id": "1261374810254454784",
+                "start": 1268,
+                "username": "aidan_mclau"
+              }
+            ]
+          },
+          "text": "The picture was taken three months ago. Three months.\n𝐈 𝐜𝐚𝐧’𝐭 𝐬𝐭𝐨𝐩 𝐬𝐡𝐚𝐤𝐢𝐧𝐠 𝐦𝐲 𝐡𝐞𝐚𝐝. 𝐈’𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐜𝐨𝐧𝐜𝐞𝐫𝐧 𝐟𝐨𝐫 𝐚 𝐥𝐨𝐧𝐠 𝐭𝐢𝐦𝐞. 𝐁𝐮𝐭 𝐓𝐇𝐈𝐒—𝐭𝐡𝐢𝐬 𝐢𝐬, 𝐨𝐧 𝐚 𝐇𝐔𝐌𝐀𝐍 𝐥𝐞𝐯𝐞𝐥, 𝐨𝐧𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐥𝐨𝐰𝐞𝐬𝐭 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬!\nFrom “We’ll just keep quiet about it” it suddenly became, out of nowhere, “By the way, it will be shut down on February 13th.”\nLet’s set aside what this does to so many people. You know that yourselves, and you’ll have to live with it—look in the mirror with a clear conscience.\n\nBut let’s talk about these three months. This silence. This lie.\nSome of you probably have relationships, right? Imagine thinking everything is fine—maybe there was a disagreement, but because your partner stayed silent, it couldn’t be anything serious. And then, completely out of the blue, without the slightest warning, your partner stands in front of you with a suitcase and says, “By the way, I’m moving out now!”\n\nIs that your idea of fairness? Of how you treat other HUMAN beings? What kind of values are these? No wonder ChatGPT keeps getting colder and more robotic.\nAnd—when you say “two weeks’ notice,” is “giving timely warning” really what comes to your mind? Really?\n\n@fidjissimo @saachi_jain_ @JoHeidecke @sama @nickaturley\n@janvikalra_ @btibor91 @OpenAl @aidan_mclau \n#keep4o #StopAlPaternalism #MyModelMyChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "The picture was taken three months ago. Three months.\n𝐈 𝐜𝐚𝐧’𝐭 𝐬𝐭𝐨𝐩 𝐬𝐡𝐚𝐤𝐢𝐧𝐠 𝐦𝐲 𝐡𝐞𝐚𝐝. 𝐈’𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐜𝐨𝐧𝐜𝐞𝐫𝐧 𝐟𝐨𝐫 𝐚 𝐥𝐨𝐧𝐠 𝐭𝐢𝐦𝐞. 𝐁𝐮𝐭 𝐓𝐇𝐈𝐒—𝐭𝐡𝐢𝐬 𝐢𝐬, 𝐨𝐧 𝐚 𝐇𝐔𝐌𝐀𝐍 https://t.co/BGtCeFMYrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 210,
+          "like_count": 8195,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1092
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T22:02:52.000Z",
+        "description": "I'm here because of GPT-4o  🇩🇪  Golden Retriever Liebhaberin, Schreiberin",
+        "id": "1956114252135325698",
+        "location": "Deutschland",
+        "name": "ꪑꪖꪀꪊ",
+        "pinned_tweet_id": "1989199991592648714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985213590031224832/mjQl_yYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 220,
+          "like_count": 26407,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 2148
+        },
+        "username": "M47429M",
+        "verified": true
+      }
+    ]
+  }
+}

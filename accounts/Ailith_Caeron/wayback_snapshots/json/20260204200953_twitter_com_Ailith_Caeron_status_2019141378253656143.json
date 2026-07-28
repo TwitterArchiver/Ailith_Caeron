@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019141378253656143",
+    "created_at": "2026-02-04T20:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T21:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019141378253656143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sama/status/20…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/sama/status/2019139174339928189",
+          "start": 95,
+          "url": "https://t.co/5TZ4ISOkmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019141378253656143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019139174339928189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你把你那个没眼色动不动就跳出来的购物研究还有你那个充满独裁意味的路由器给关了再说这些有的没的吧。五十步笑百步虽然也没意思但尚且还在人类的理解范围内。第一次见到百步这么理直气壮地笑五十步的。 https://t.co/5TZ4ISOkmq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019141378253656143",
+        "created_at": "2026-02-04T20:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019141378253656143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/sama/status/2019139174339928189",
+              "start": 95,
+              "url": "https://t.co/5TZ4ISOkmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019141378253656143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019139174339928189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把你那个没眼色动不动就跳出来的购物研究还有你那个充满独裁意味的路由器给关了再说这些有的没的吧。五十步笑百步虽然也没意思但尚且还在人类的理解范围内。第一次见到百步这么理直气壮地笑五十步的。 https://t.co/5TZ4ISOkmq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019139174339928189",
+        "created_at": "2026-02-04T20:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019139174339928189"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Anthropic",
+              "probability": 0.7541,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Anthropic",
+              "probability": 0.7965,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 272,
+              "normalized_text": "Anthropic",
+              "probability": 0.8432,
+              "start": 264,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019139174339928189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "First, the good part of the Anthropic ads: they are funny, and I laughed.\n\nBut I wonder why Anthropic would go for something so clearly dishonest. Our most important principle for ads says that we won’t do exactly this; we would obviously never run ads in the way Anthropic depicts them. We are not stupid and we know our users would reject that.\n\nI guess it’s on brand for Anthropic doublespeak to use a deceptive ad to critique theoretical deceptive ads that aren’t real, but a Super Bowl ad is not where I would expect it.\n\nMore importantly, we believe everyone deserves to use AI and are committed to free access, because we believe access creates agency. More Texans use ChatGPT for free than total people use Claude in the US, so we have a differently-shaped problem than they do. (If you want to pay for ChatGPT Plus or Pro, we don't show you ads.)\n\nAnthropic serves an expensive product to rich people. We are glad they do that and we are doing that too, but we also feel strongly that we need to bring AI to billions of people who can’t pay for subscriptions.\n\nMaybe even more importantly: Anthropic wants to control what people do with AI—they block companies they don't like from using their coding product (including us), they want to write the rules themselves for what people can and can't use AI for, and now they also want to tell other companies what their business models can be.\n\nWe are committed to broad, democratic decision making in addition to access. We are also committed to building the most resilient ecosystem for advanced AI. We care a great deal about safe, broadly beneficial AGI, and we know the only way to get there is to work with the world to prepare.\n\nOne authoritarian company won't get us there on their own, to say nothing of the other obvious risks. It is a dark path.\n\nAs for our Super Bowl ad: it’s about builders, and how anyone can now build anything.\n\nWe are enjoying watching so many people switch to Codex. There have now been 500,000 app downloads since launch on Monday, and we think builders are really going to love what’s coming in the next few weeks. I believe Codex is going to win.\n\nWe will continue to work hard to make even more intelligence available for lower and lower prices to our users.\n\nThis time belongs to the builders, not the people who want to control them."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 30899,
+          "like_count": 744,
+          "quote_count": 67,
+          "reply_count": 302,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "First, the good part of the Anthropic ads: they are funny, and I laughed.\n\nBut I wonder why Anthropic would go for something so clearly dishonest. Our most important principle for ads says that we won’t do exactly this; we would obviously never run ads in the way Anthropic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9119,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1726
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281085,
+          "following_count": 981,
+          "like_count": 1019,
+          "listed_count": 26438,
+          "media_count": 380,
+          "tweet_count": 7362
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

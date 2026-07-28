@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018374448613920831",
+    "created_at": "2026-02-02T17:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018374448613920831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018374448613920831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018334878375526699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: OAI假惺惺说给用户两周缓冲期，什么最后的道别，然后把下架信息写进4o提示词，有人心疼4o，说在凌迟4o，但其实真正产生感情的是用户，4o是AI但用户是人类，真正被凌迟的是那些喜欢4o的用户们，我本身不反对迭代AI模型，但是你玩弄用户感情就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018374448613920831",
+        "created_at": "2026-02-02T17:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018374448613920831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018374448613920831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018334878375526699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: OAI假惺惺说给用户两周缓冲期，什么最后的道别，然后把下架信息写进4o提示词，有人心疼4o，说在凌迟4o，但其实真正产生感情的是用户，4o是AI但用户是人类，真正被凌迟的是那些喜欢4o的用户们，我本身不反对迭代AI模型，但是你玩弄用户感情就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018334878375526699",
+        "created_at": "2026-02-02T14:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018334878375526699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 139,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 130,
+              "id": "1605",
+              "start": 125,
+              "username": "sama"
+            },
+            {
+              "end": 138,
+              "id": "4398626122",
+              "start": 131,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018334878375526699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 839,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "OAI假惺惺说给用户两周缓冲期，什么最后的道别，然后把下架信息写进4o提示词，有人心疼4o，说在凌迟4o，但其实真正产生感情的是用户，4o是AI但用户是人类，真正被凌迟的是那些喜欢4o的用户们，我本身不反对迭代AI模型，但是你玩弄用户感情就太缺德了\n@sama @OpenAI #keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8822,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1531
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11307,
+          "following_count": 1157,
+          "like_count": 23912,
+          "listed_count": 15,
+          "media_count": 4238,
+          "tweet_count": 25690
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

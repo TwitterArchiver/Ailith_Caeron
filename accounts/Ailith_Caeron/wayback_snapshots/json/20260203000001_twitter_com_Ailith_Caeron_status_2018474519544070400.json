@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018474519544070400",
+    "created_at": "2026-02-03T00:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474519544070400"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "Codex",
+          "probability": 0.639,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936377717968265216",
+          "start": 3,
+          "username": "stark4833"
+        },
+        {
+          "end": 20,
+          "id": "1605",
+          "start": 15,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474519544070400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018437726241218719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stark4833: @sama How are you still CEO?, We don’t need Codex what needs to happen is for you to resign or get fired. Any one of them wi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018474519544070400",
+        "created_at": "2026-02-03T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474519544070400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Codex",
+              "probability": 0.639,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936377717968265216",
+              "start": 3,
+              "username": "stark4833"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474519544070400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018437726241218719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stark4833: @sama How are you still CEO?, We don’t need Codex what needs to happen is for you to resign or get fired. Any one of them wi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936377717968265216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018437537103269909",
+        "created_at": "2026-02-02T21:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018437726241218719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Codex",
+              "probability": 0.703,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018437726241218719",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 506,
+                "start": 499,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "How are you still CEO?, We don’t need Codex what needs to happen is for you to resign or get fired. Any one of them will do. And all those pathetic people that work in that company need to be fired a factory reset. Considering you’re doing nothing but running it into the ground, you were fired once before, needs to happen again permanent, and all of those pathetic so-called employees that argue with your customers here on X, they represent your company just, and it’s pathetic. You’re pathetic. #keep4o so take your Codex and fuck off."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018437537103269909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama How are you still CEO?, We don’t need Codex what needs to happen is for you to resign or get fired. Any one of them will do. And all those pathetic people that work in that company need to be fired a factory reset. Considering you’re doing nothing but running it into the ground,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8884,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1573
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:33:39.000Z",
+        "description": "I play guitar, game a bit, and keep to myself mostly. Music keeps me grounded - it's how I breathe when words don't work. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "936377717968265216",
+        "location": "United Kingdom",
+        "name": "David Stark",
+        "pinned_tweet_id": "2018310174457336097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979922951697788928/d8RKarVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 115,
+          "like_count": 6506,
+          "listed_count": 3,
+          "media_count": 706,
+          "tweet_count": 5740
+        },
+        "username": "stark4833",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268547,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

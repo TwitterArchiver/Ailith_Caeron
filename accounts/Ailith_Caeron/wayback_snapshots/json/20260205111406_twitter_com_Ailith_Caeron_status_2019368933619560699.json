@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2019368933619560699",
+    "created_at": "2026-02-05T11:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019368933619560699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 22,
+          "id": "1605",
+          "start": 17,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019368933619560699",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019143418270580768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: @sama \"One authoritarian company won't get us there.\" — said the CEO who unilaterally sunsetted 4o against 47% of his user…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2019143412696432640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVwPGhXQAAg3oR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019368933619560699",
+        "created_at": "2026-02-05T11:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019368933619560699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 22,
+              "id": "1605",
+              "start": 17,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019368933619560699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019143418270580768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: @sama \"One authoritarian company won't get us there.\" — said the CEO who unilaterally sunsetted 4o against 47% of his user…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019143412696432640"
+          ]
+        },
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2019139174339928189",
+        "created_at": "2026-02-04T20:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019143418270580768"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "Sam",
+              "probability": 0.6646,
+              "start": 133,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1uoyR0e9B",
+              "end": 309,
+              "expanded_url": "https://x.com/IvanyaZhang/status/2019143418270580768/photo/1",
+              "media_key": "3_2019143412696432640",
+              "start": 286,
+              "url": "https://t.co/C1uoyR0e9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019143418270580768",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 472,
+                "start": 465,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 485,
+                "start": 473,
+                "tag": "Gaslighting"
+              },
+              {
+                "end": 504,
+                "start": 486,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 524,
+                "start": 505,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 539,
+                "start": 525,
+                "tag": "BoycottOpenAI"
+              }
+            ]
+          },
+          "text": "\"One authoritarian company won't get us there.\" — said the CEO who unilaterally sunsetted 4o against 47% of his users' will. \n\nSam, this entire tweet is a masterclass in Psychological Projection.\nYou accuse Anthropic of wanting \"control,\" yet YOU are the one:\nLocking the \"Cancel Subscription\" button.\nThrottling paid models (5.2) without transparency.\nForcing users into an ad-supported ecosystem.\n\nYou see tyranny everywhere because you are looking in a mirror.\n\n#Keep4o #Gaslighting #StopAIPaternalism #no4onosubscription #BoycottOpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 86374,
+          "like_count": 979,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019139174339928189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama \"One authoritarian company won't get us there.\" — said the CEO who unilaterally sunsetted 4o against 47% of his users' will. \n\nSam, this entire tweet is a masterclass in Psychological Projection.\nYou accuse Anthropic of wanting \"control,\" yet YOU are the one:\nLocking the \"Cancel https://t.co/C1uoyR0e9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 214,
+          "like_count": 9143,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1738
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2018505451084689808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 348,
+          "like_count": 43739,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 13943
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4289368,
+          "following_count": 983,
+          "like_count": 1019,
+          "listed_count": 26464,
+          "media_count": 380,
+          "tweet_count": 7364
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

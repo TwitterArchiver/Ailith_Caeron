@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2011090207643484239",
+    "created_at": "2026-01-13T15:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011094965548429740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011094965548429740",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011090207643484239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 啊？啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2011090207643484239",
+        "created_at": "2026-01-13T15:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011094965548429740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011094965548429740",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011090207643484239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 啊？啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892250799767449601",
+        "conversation_id": "2011090207643484239",
+        "created_at": "2026-01-13T14:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011090207643484239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hazenlee/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hazenlee/status/2011025693568876995",
+              "start": 13,
+              "url": "https://t.co/QMZyKZjrko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011090207643484239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011025693568876995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，这下是真的人外控了 https://t.co/QMZyKZjrko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 196,
+          "like_count": 7533,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 964
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "你的眼睛比他们二十把剑还要厉害，你只要对我温柔，我不怕他们的敌意。",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463743342845952/r9MZTxzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 256,
+          "like_count": 4553,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 2410
+        },
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

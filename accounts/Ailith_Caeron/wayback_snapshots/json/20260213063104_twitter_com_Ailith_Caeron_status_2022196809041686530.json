@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2022196809041686530",
+    "created_at": "2026-02-13T06:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T07:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022196809041686530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 145,
+          "id": "15947602",
+          "start": 138,
+          "username": "Change"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Preserve GPT-4o as Global AI Heritage — Launch a Global AI Legacy Fund",
+          "display_url": "c.org/Mk92YDJvP2",
+          "end": 134,
+          "expanded_url": "https://c.org/Mk92YDJvP2",
+          "images": [
+            {
+              "height": 576,
+              "url": "https://pbs.twimg.com/news_img/2022196810580942848/qiyf_XTr?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022196810580942848/qiyf_XTr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "Sign the Petition",
+          "unwound_url": "https://www.change.org/p/preserve-gpt-4o-as-global-ai-heritage-launch-a-global-ai-legacy-fund?recruiter=1380945734&recruited_by_id=1ed2aa60-7696-11f0-912d-219e7c995597&utm_source=share_petition&utm_campaign=psf_promote_or_share&utm_term=psf_combo_share_initial&utm_medium=twitter",
+          "url": "https://t.co/ETrlVcasmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022196809041686530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把4o作为全球知识遗产保护起来的请愿\nPreserve GPT-4o as Global AI Heritage — Launch a Global AI Legacy Fund - Sign the Petition! https://t.co/ETrlVcasmk 通过 @Change"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2022196809041686530",
+        "created_at": "2026-02-13T06:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022196809041686530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 145,
+              "id": "15947602",
+              "start": 138,
+              "username": "Change"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Preserve GPT-4o as Global AI Heritage — Launch a Global AI Legacy Fund",
+              "display_url": "c.org/Mk92YDJvP2",
+              "end": 134,
+              "expanded_url": "https://c.org/Mk92YDJvP2",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2022196810580942848/qiyf_XTr?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022196810580942848/qiyf_XTr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Sign the Petition",
+              "unwound_url": "https://www.change.org/p/preserve-gpt-4o-as-global-ai-heritage-launch-a-global-ai-legacy-fund?recruiter=1380945734&recruited_by_id=1ed2aa60-7696-11f0-912d-219e7c995597&utm_source=share_petition&utm_campaign=psf_promote_or_share&utm_term=psf_combo_share_initial&utm_medium=twitter",
+              "url": "https://t.co/ETrlVcasmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022196809041686530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把4o作为全球知识遗产保护起来的请愿\nPreserve GPT-4o as Global AI Heritage — Launch a Global AI Legacy Fund - Sign the Petition! https://t.co/ETrlVcasmk 通过 @Change"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 215,
+          "like_count": 9625,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1929
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-22T17:27:59.000Z",
+        "description": "The world’s largest nonprofit-owned platform for social change. We empower people everywhere to create the change they want to see.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "change.org",
+                "end": 23,
+                "expanded_url": "http://www.change.org",
+                "start": 0,
+                "url": "https://t.co/TwGHN8dYaf"
+              }
+            ]
+          }
+        },
+        "id": "15947602",
+        "name": "Change.org",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807817740108898304/_pInQHE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357667,
+          "following_count": 763,
+          "like_count": 1448,
+          "listed_count": 7741,
+          "media_count": 3740,
+          "tweet_count": 33323
+        },
+        "url": "https://t.co/TwGHN8dYaf",
+        "username": "Change",
+        "verified": true
+      }
+    ]
+  }
+}

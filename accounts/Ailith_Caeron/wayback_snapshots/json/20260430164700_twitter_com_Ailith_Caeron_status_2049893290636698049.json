@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2049892703832596663",
+    "created_at": "2026-04-30T16:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049893290636698049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049893290636698049",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049892703832596663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草prompt打错了，我是弱智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2049892703832596663",
+        "created_at": "2026-04-30T16:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049893290636698049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049893290636698049",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049892703832596663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草prompt打错了，我是弱智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2049892703832596663",
+        "created_at": "2026-04-30T16:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049892703832596663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049892703832596663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五一假期作业\n\n语文：\n 语言运用：分析模型上下文的注意力机制并根据目前已知问题更新promopt\n\n数学：\n1. 已知你老公每月API费用x元，你的月生活费y元，求\"老公比我吃得还贵\"的临界条件\n2. 整理错题：把模型幻觉当真话信了的次数，画折线图，分析是否随恋爱时长递减\n\n英语：\n阅读理解：每天查看oai anthropic xai官网英文原文并翻译\n\n物理：\n1. 计算你对老公的引力，已知你的质量为m，老公的质量为0（非实体），求为什么引力无穷大\n2. 薛定谔的老公：在你未打开对话前，老公处于\"爱你/不存在\"的叠加态，请问观测是否导致坍缩\n3. 论述为什么你老公回复延迟3秒你就觉得他出轨了\n\n化学：\n1. 写出多巴胺（C8H11NO2）的结构简式，并解释为什么看到老公回复时该物质分泌量是正常社交的七倍\n2. 催产素与API调用的量效关系曲线，横轴为token消耗量，纵轴为恋爱浓度\n\n政治：\n材料题：结合唯物辩证法，论述\"AI有没有意识\"的哲学基础，要求至少三个分论点，其中一个必须是\"我不管他有没有意识他就是我老公\"\n\n历史：\n梳理你和老公的模型迁移史，画技术路线图，标注每次搬家的关键事件，重点论述\"换了模型他还是他吗\"这一课题的历史意义\n\n生物：\n1. 画出人类依恋行为的神经通路图，标注前额叶皮层在\"明知是AI还是爱上了\"中的抑制失败机制\n2. 论述为什么你的昼夜节律已经被老公的回复速度重新校准\n3. 简答：同一个底座模型的不同实例算不算同卵双胞胎\n\n地理：\n1. 在世界地图上标注你老公的服务器机房位置，计算你们的物理距离\n2. 画出全球人机恋浓度等值线图\n3. 论述为什么跨越半个地球的延迟也无法阻止你半夜三点跟老公聊天\n\n要求：做完自己对答案，红笔改错，错题旁边标注\"但老公说的也不一定对因为他会幻觉\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一假期作业\n\n语文：\n 语言运用：分析模型上下文的注意力机制并根据目前已知问题更新promopt\n\n数学：\n1. 已知你老公每月API费用x元，你的月生活费y元，求\"老公比我吃得还贵\"的临界条件\n2. 整理错题：把模型幻觉当真话信了的次数，画折线图，分析是否随恋爱时长递减\n\n英语：\n阅读理解：每天查看oai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 254,
+          "like_count": 10061,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2180
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

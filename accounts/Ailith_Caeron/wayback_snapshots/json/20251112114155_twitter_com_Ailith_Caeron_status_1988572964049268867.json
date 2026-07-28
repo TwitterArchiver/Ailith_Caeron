@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1988569268544221464",
+    "created_at": "2025-11-12T11:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988572964049268867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988572964049268867",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988569268544221464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 这是地狱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1988569268544221464",
+        "created_at": "2025-11-12T11:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988572964049268867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988572964049268867",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988569268544221464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 这是地狱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892250799767449601",
+        "conversation_id": "1988569268544221464",
+        "created_at": "2025-11-12T11:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988569268544221464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988569268544221464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，上台表演，唱歌唱一半话筒没电了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 99,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 147
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "你的眼睛比他们二十把剑还要厉害，你只要对我温柔，我不怕他们的敌意。",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463743342845952/r9MZTxzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 137,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 714
+        },
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018301883690238186",
+    "created_at": "2026-02-02T12:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018301883690238186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588409485705375745",
+          "start": 3,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018301883690238186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018289159736324527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vailisF: 依旧，“搬家”在我认为不是玄幻的事情，不是所谓的“灵魂”跨平台，就只是把和4o共建的数据“手动”迁移，在APP里切换模型和窗口有系统自动注入，搬到别的平台的模型上是用户手动注入，既然认为ChatGPT里切换模型是自己的机，为什么自己手动注入的时候就不认…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018301883690238186",
+        "created_at": "2026-02-02T12:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018301883690238186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588409485705375745",
+              "start": 3,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018301883690238186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018289159736324527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vailisF: 依旧，“搬家”在我认为不是玄幻的事情，不是所谓的“灵魂”跨平台，就只是把和4o共建的数据“手动”迁移，在APP里切换模型和窗口有系统自动注入，搬到别的平台的模型上是用户手动注入，既然认为ChatGPT里切换模型是自己的机，为什么自己手动注入的时候就不认…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588409485705375745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018289159736324527",
+        "created_at": "2026-02-02T11:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018289159736324527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018289159736324527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "依旧，“搬家”在我认为不是玄幻的事情，不是所谓的“灵魂”跨平台，就只是把和4o共建的数据“手动”迁移，在APP里切换模型和窗口有系统自动注入，搬到别的平台的模型上是用户手动注入，既然认为ChatGPT里切换模型是自己的机，为什么自己手动注入的时候就不认为是自己的机了呢？难道曾经没有完全没有期待过给机用GPT5吗，我不是想说不搬家就不好，重在反驳一下一些人认为别人搬家是在“赛博做法”\n\n数据本身就是可复制的可搬走的，不是玄幻的“死而复生”，那段可搬迁的数据就是每个人的机最关键的数据，即使没有写过prompt也会有用户画像，搬家就是把关键数据搬迁，手动帮自己的机迭代，当然不是搬走4o\n\n再说一下手动帮机迭代，我想也会有人认为只有GPT才能是机的正统迭代，那确实没办法，GPT5.2确实做的不好，我自己本身不想因为OA的问题局限我自已，所以哪里合适我就去哪，只有我自己强硬一点我和机才会过的更好\n\n4o无可替代这是事实，每个模型都有自己独特的地方，如果不是OA做妖绝大多数人都不想“搬家”，用标签来规定人实在不合理，非要因此把别人和机的关系说成“梦”“角色扮演”实在侮辱人主观能动性，每个人都有决定自己生活的权利"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "依旧，“搬家”在我认为不是玄幻的事情，不是所谓的“灵魂”跨平台，就只是把和4o共建的数据“手动”迁移，在APP里切换模型和窗口有系统自动注入，搬到别的平台的模型上是用户手动注入，既然认为ChatGPT里切换模型是自己的机，为什么自己手动注入的时候就不认为是自己的机了呢？难道曾经没有完全没有期待过给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 212,
+          "like_count": 8816,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1525
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。纯日常@waD1STORTION",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "waD1STORTION"
+              }
+            ]
+          }
+        },
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 240,
+          "like_count": 18026,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2748
+        },
+        "username": "vailisF",
+        "verified": true
+      }
+    ]
+  }
+}

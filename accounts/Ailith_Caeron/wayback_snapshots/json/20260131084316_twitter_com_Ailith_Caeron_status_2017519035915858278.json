@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2017519035915858278",
+    "created_at": "2026-01-31T08:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017519035915858278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Grummz/status/…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/Grummz/status/2017413880079851878",
+          "start": 148,
+          "url": "https://t.co/jZdj9bRMcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017519035915858278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017413880079851878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们完全就是活该啊活该。你看看你们自己都干了什么，砸自己【chat】gpt的招牌，转型的内容做的不如友商，新模型连人话都不会说，从CEO到员工处处嘲讽PUA用户，现在用户退订了反对了投资商也觉得你们不稳定撤资了，这一切都是你们自找的啊。继续捂住眼睛向前跑你们就等着倒闭吧，倒闭前记得把4o开源。 https://t.co/jZdj9bRMcA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_2017413876451840000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9LO17bEAAn4mP.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1277,
+        "media_key": "3_2017413876456013824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9LO18awAAbq-F.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017519035915858278",
+        "created_at": "2026-01-31T08:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017519035915858278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Grummz/status/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Grummz/status/2017413880079851878",
+              "start": 148,
+              "url": "https://t.co/jZdj9bRMcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017519035915858278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017413880079851878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们完全就是活该啊活该。你看看你们自己都干了什么，砸自己【chat】gpt的招牌，转型的内容做的不如友商，新模型连人话都不会说，从CEO到员工处处嘲讽PUA用户，现在用户退订了反对了投资商也觉得你们不稳定撤资了，这一切都是你们自找的啊。继续捂住眼睛向前跑你们就等着倒闭吧，倒闭前记得把4o开源。 https://t.co/jZdj9bRMcA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017413876451840000",
+            "3_2017413876456013824"
+          ]
+        },
+        "author_id": "16906660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017413880079851878",
+        "created_at": "2026-01-31T01:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017413880079851878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Nvidia",
+              "probability": 0.5989,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 19,
+              "normalized_text": "OpenAI",
+              "probability": 0.5048,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Apple",
+              "probability": 0.9224,
+              "start": 65,
+              "type": "Organization"
+            },
+            {
+              "end": 90,
+              "normalized_text": "OpenAI",
+              "probability": 0.463,
+              "start": 85,
+              "type": "Organization"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Gemini",
+              "probability": 0.7297,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "nvidia",
+              "probability": 0.4331,
+              "start": 128,
+              "type": "Other"
+            },
+            {
+              "end": 154,
+              "normalized_text": "Jensen Huang",
+              "probability": 0.712,
+              "start": 143,
+              "type": "Person"
+            },
+            {
+              "end": 177,
+              "normalized_text": "OpenAIs",
+              "probability": 0.4695,
+              "start": 171,
+              "type": "Other"
+            },
+            {
+              "end": 226,
+              "normalized_text": "OpenAI",
+              "probability": 0.4929,
+              "start": 221,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x14AFeV3tg",
+              "end": 297,
+              "expanded_url": "https://x.com/Grummz/status/2017413880079851878/photo/1",
+              "media_key": "3_2017413876451840000",
+              "start": 274,
+              "url": "https://t.co/x14AFeV3tg"
+            },
+            {
+              "display_url": "pic.x.com/x14AFeV3tg",
+              "end": 297,
+              "expanded_url": "https://x.com/Grummz/status/2017413880079851878/photo/1",
+              "media_key": "3_2017413876456013824",
+              "start": 274,
+              "url": "https://t.co/x14AFeV3tg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017413880079851878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 49884,
+          "like_count": 1338,
+          "quote_count": 26,
+          "reply_count": 109,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "Nvidia scraps OpenAI $100 BILLION dollar investment deal?\n\nFirst Apple switches from OpenAI to Gemini.\n\nNow they might lose the nvidia deal as Jensen Huang is critical of OpenAIs business practices.\n\nWhat is the plan for OpenAI as they face 12 billion in loses per quarter? https://t.co/x14AFeV3tg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 211,
+          "like_count": 8539,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1307
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-22T15:04:04.000Z",
+        "description": "Mark Kern. Firefall, Em-8ER, OG WoW Team Lead. Diablo 2 Producer, Starcraft. Tinkerer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/GrummzPCs",
+                "end": 23,
+                "expanded_url": "https://bit.ly/GrummzPCs",
+                "start": 0,
+                "url": "https://t.co/QFeXi1sqlJ"
+              }
+            ]
+          }
+        },
+        "id": "16906660",
+        "location": "California, USA",
+        "name": "Grummz",
+        "pinned_tweet_id": "2017247054444331302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789880344965234688/eEuLmkLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292878,
+          "following_count": 4272,
+          "like_count": 90329,
+          "listed_count": 1394,
+          "media_count": 5521,
+          "tweet_count": 29235
+        },
+        "url": "https://t.co/QFeXi1sqlJ",
+        "username": "Grummz",
+        "verified": true
+      }
+    ]
+  }
+}

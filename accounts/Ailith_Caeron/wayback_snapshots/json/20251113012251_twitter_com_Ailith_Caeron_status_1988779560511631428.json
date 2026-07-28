@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "1988779560511631428",
+    "created_at": "2025-11-13T01:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T02:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988779560511631428"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "save4o",
+          "probability": 0.7751,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "keep4o",
+          "probability": 0.7268,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "4o",
+          "probability": 0.471,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "save4o"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "keep4o"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "4o"
+        },
+        {
+          "end": 81,
+          "start": 71,
+          "tag": "4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936377717968265216",
+          "start": 3,
+          "username": "stark4815"
+        },
+        {
+          "end": 20,
+          "id": "1605",
+          "start": 15,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988779560511631428",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988692554116915680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stark4815: @sama 😂😂😂 just fix the damn routing #save4o #keep4o #4o #4oforever"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1988779560511631428",
+        "created_at": "2025-11-13T01:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988779560511631428"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "save4o",
+              "probability": 0.7751,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "keep4o",
+              "probability": 0.7268,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "4o",
+              "probability": 0.471,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "save4o"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "keep4o"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "4o"
+            },
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936377717968265216",
+              "start": 3,
+              "username": "stark4815"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988779560511631428",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988692554116915680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stark4815: @sama 😂😂😂 just fix the damn routing #save4o #keep4o #4o #4oforever"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936377717968265216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1988692165686620237",
+        "created_at": "2025-11-12T19:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988692554116915680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "save4o",
+              "probability": 0.7599,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "keep4o",
+              "probability": 0.721,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "4o",
+              "probability": 0.4775,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "save4o"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "keep4o"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "4o"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988692554116915680",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1912,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988692165686620237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama 😂😂😂 just fix the damn routing #save4o #keep4o #4o #4oforever"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 99,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 164
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:33:39.000Z",
+        "description": "I play guitar, game a bit, and keep to myself mostly. Music keeps me grounded - it's how I breathe when words don't work. #save4o #4oforever #gpt4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "save4o"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "tag": "4oforever"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "gpt4o"
+              }
+            ]
+          }
+        },
+        "id": "936377717968265216",
+        "location": "United Kingdom",
+        "name": "David Stark",
+        "pinned_tweet_id": "1988573557916356648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979922951697788928/d8RKarVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 39,
+          "like_count": 2058,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 3614
+        },
+        "username": "stark4815",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118113,
+          "following_count": 973,
+          "like_count": 1023,
+          "listed_count": 25164,
+          "media_count": 375,
+          "tweet_count": 7277
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

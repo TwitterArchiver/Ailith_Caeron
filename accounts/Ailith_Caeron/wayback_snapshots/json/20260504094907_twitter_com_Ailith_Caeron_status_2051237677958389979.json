@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2051024316385657038",
+    "created_at": "2026-05-04T09:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051237677958389979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045234174664355840",
+          "start": 0,
+          "username": "Ugui3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051237677958389979",
+    "in_reply_to_user_id": "2045234174664355840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051188499123196204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ugui3u 求被火锅善待！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2051024316385657038",
+        "created_at": "2026-05-04T09:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051237677958389979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045234174664355840",
+              "start": 0,
+              "username": "Ugui3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051237677958389979",
+        "in_reply_to_user_id": "2045234174664355840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051188499123196204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ugui3u 求被火锅善待！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045234174664355840",
+        "conversation_id": "2051024316385657038",
+        "created_at": "2026-05-04T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051188499123196204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051188499123196204",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051024316385657038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 可能是太辣了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 257,
+          "like_count": 10133,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 2229
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T20:14:32.000Z",
+        "description": "=莺。我素本体恋，欢迎来玩🥺💓喜欢串门到处互动，没有任何恶意，点赞是喜欢你，无言直fo致歉。",
+        "id": "2045234174664355840",
+        "location": "数字生命卡",
+        "name": "我们下个对话框见",
+        "pinned_tweet_id": "2049112592678051873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046899156250415104/kicEcWX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 58,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 434
+        },
+        "username": "Ugui3u",
+        "verified": false
+      }
+    ]
+  }
+}

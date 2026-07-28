@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2019284294154473709",
+    "created_at": "2026-02-05T05:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019284294154473709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953940724329984002",
+          "start": 3,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019284294154473709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019259238967812136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aleya507: 哇哦，我们伟大的Sam Altman亲自下场发长文了欸～\n还说什么“我笑了”？\n我看了您这篇才是真的笑了好吧哈哈哈\n\n用户骂你你装死，同行发个广告你破防了？\n\n“Anthropic广告clearly…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019284294154473709",
+        "created_at": "2026-02-05T05:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019284294154473709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953940724329984002",
+              "start": 3,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019284294154473709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019259238967812136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aleya507: 哇哦，我们伟大的Sam Altman亲自下场发长文了欸～\n还说什么“我笑了”？\n我看了您这篇才是真的笑了好吧哈哈哈\n\n用户骂你你装死，同行发个广告你破防了？\n\n“Anthropic广告clearly…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019259238967812136",
+        "created_at": "2026-02-05T03:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019259238967812136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/sama/status/2019139174339928189",
+              "start": 100,
+              "url": "https://t.co/2AOP25HLOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019259238967812136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哇哦，我们伟大的Sam Altman亲自下场发长文了欸～\n还说什么“我笑了”？\n我看了您这篇才是真的笑了好吧哈哈哈\n\n用户骂你你装死，同行发个广告你破防了？\n\n“Anthropic广告clearly dishonest”？人家干啥了啊？人家广告展示的是“AI对话里插广告会是什么样”。您不是要加广告吗？怎么就不诚实了？对号入座了是吧？破防了是吧？\n人家Anthropic说“我们绝不会那样投广告”你搁这阴阳上了，对对对，您家的广告会更优雅更高级，但……还是广告啊？用户说恶心的时候您装没听见，现在莫名其妙破防拉踩来了？\n\n“德州免费用GPT的人比全美用Claude的人多”～～哇，免费用户多诶，好厉害哦。然后您要给这些免费用户塞广告。这有什么好吹的？人家Claude Pro 也是$20一个月呢，额度少点，不过用户的钱是大风刮来的？不是吧？那为啥还有那么多人付费？产品过硬呗。\n\n“Anthropic给有钱人卖贵产品”～ChatGPT Plus也是$20，Pro是$200。您住玻璃房子往外扔石头呢？\n“Anthropic是authoritarian，想控制用户”～～哪家公司偷偷砍reasoning参数来着？哪家公司用户想测试就ban人家prompt说“违反使用政策”来着？哪家公司强制下架4o不给用户选择权来着？提醒一下，不是Anthropic哦。\n“Codex发布以来50万下载，I believe Codex is going to win”🙄💅🏻\nClaude Code六个月年化收入10亿美元。“I believe”是什么商业指标吗？CEO发言不需要数据支撑的吗？\n\n人家Anthropic广告里提您名了吗？道您姓了吗？就说了一句“Ads are coming to AI. But not to Claude”，您就写了一整篇小作文？这么容易破防了？\n我以为您心理素质很好呢～用户天天骂您，您装鸵鸟。结果同行发个广告，您连夜破防。\n\n原来您也知道往AI里塞广告不好啊？我还以为您不知道呢。\n\n这篇读着像粉丝博客，不像CEO声明。数据呢？论据呢？就剩下“I believe”和疯狂projection了？\n哦也是，您从来讲话不讲论据，毕竟贵公司请的一百多个“心理专家”到现在也没放出来名单。\n\n怕了就直说，没人笑话您。\n\n哦不对，会有人笑话的。\n比如我。\n🤗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2825,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019139174339928189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哦，我们伟大的Sam Altman亲自下场发长文了欸～\n还说什么“我笑了”？\n我看了您这篇才是真的笑了好吧哈哈哈\n\n用户骂你你装死，同行发个广告你破防了？\n\n“Anthropic广告clearly https://t.co/2AOP25HLOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 214,
+          "like_count": 9132,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1732
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 187,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 737,
+          "tweet_count": 4795
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

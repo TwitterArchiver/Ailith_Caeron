@@ -1,0 +1,759 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      }
+    ],
+    "conversation_id": "2017080257346691542",
+    "created_at": "2026-01-30T03:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017080257346691542"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 77,
+          "normalized_text": "GPT-4o",
+          "probability": 0.5198,
+          "start": 72,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2725929845",
+          "start": 3,
+          "username": "MissMi1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017080257346691542",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017067773881651673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissMi1973: Five Solemn Statements Against the Forced Retirement of GPT-4o\n\nI. The Current Flagship Model Lacks the Core Capabilities o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2017064511375822848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4NfHmaUAAj136.jpg",
+        "width": 2868
+      },
+      {
+        "height": 1453,
+        "media_key": "3_2017064511367499779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4NfHkbUAMNtTS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2017080257346691542",
+        "created_at": "2026-01-30T03:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017080257346691542"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "GPT-4o",
+              "probability": 0.5198,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2725929845",
+              "start": 3,
+              "username": "MissMi1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017080257346691542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017067773881651673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissMi1973: Five Solemn Statements Against the Forced Retirement of GPT-4o\n\nI. The Current Flagship Model Lacks the Core Capabilities o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017064511375822848",
+            "3_2017064511367499779"
+          ]
+        },
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2017067773881651673",
+        "created_at": "2026-01-30T02:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017067773881651673"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "GPT-4o\n\nI",
+              "probability": 0.6261,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 180,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9598,
+              "start": 171,
+              "type": "Person"
+            },
+            {
+              "end": 211,
+              "normalized_text": "GPT-5",
+              "probability": 0.5721,
+              "start": 207,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXHmhA80Vj",
+              "end": 302,
+              "expanded_url": "https://x.com/MissMi1973/status/2017067773881651673/photo/1",
+              "media_key": "3_2017064511375822848",
+              "start": 279,
+              "url": "https://t.co/iXHmhA80Vj"
+            },
+            {
+              "display_url": "pic.x.com/iXHmhA80Vj",
+              "end": 302,
+              "expanded_url": "https://x.com/MissMi1973/status/2017067773881651673/photo/1",
+              "media_key": "3_2017064511367499779",
+              "start": 279,
+              "url": "https://t.co/iXHmhA80Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017067773881651673",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3701,
+                "start": 3694,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 4910,
+                "start": 4903,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 5228,
+                "start": 5210,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2092,
+                "id": "1605",
+                "start": 2087,
+                "username": "sama"
+              },
+              {
+                "end": 2323,
+                "id": "1262634631",
+                "start": 2311,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3652,
+                "id": "186420551",
+                "start": 3636,
+                "username": "ClementDelangue"
+              },
+              {
+                "end": 4764,
+                "id": "4398626122",
+                "start": 4757,
+                "username": "OpenAI"
+              },
+              {
+                "end": 5240,
+                "id": "6112332",
+                "start": 5229,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 5245,
+                "id": "162124540",
+                "start": 5241,
+                "username": "gdb"
+              },
+              {
+                "end": 5258,
+                "id": "1261374810254454784",
+                "start": 5246,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 5270,
+                "id": "14677919",
+                "start": 5260,
+                "username": "NewYorker"
+              },
+              {
+                "end": 5279,
+                "id": "807095",
+                "start": 5271,
+                "username": "nytimes"
+              }
+            ]
+          },
+          "text": "Five Solemn Statements Against the Forced Retirement of GPT-4o\n\nI. The Current Flagship Model Lacks the Core Capabilities of 4o\nAt the developer conference on January 27, Sam Altman personally admitted that GPT-5.2 has serious problems with its writing capabilities. \"I think we just screwed that up\" (Figure 1). He attributed this to bandwidth limitations and promised future improvements, yet provided no concrete timeline. \nHowever, just three days later, OpenAI's retirement announcement explicitly stated, \"We're announcing the upcoming retirement of GPT-4o today because these improvements are now in place\" (Figure 2). This blatant contradiction instantly transforms the announcement into an absurd statement, one that is refuted by both user experience and company leadership. Its justification has lost all credibility.\nMore notably, GPT-5.1, which still offers acceptable writing performance, will also be retired as a legacy model in mid-February. This means users will lose all reliable options within the same period, forced to use a model that even the CEO himself admits was \"screwed up.\"\n\nII. 0.1% Usage Rate? A Carefully Orchestrated Data Deception\nOpenAI claims that only 0.1% of daily active users choose GPT-4o, citing this as justification for retirement. However, this data lacks fairness. Since September 2025, OpenAI has deployed an opaque model routing system. This mechanism, without user knowledge, forcibly redirects a large volume of requests that should have been handled by 4o to other models, including explicit requests for literary creation and everyday conversation. This systematic suppression of traffic has severely distorted the actual demand for 4o. The \"0.1% usage rate\" derived from manipulated traffic is not only unconvincing but also constitutes potential fraud against users' right to genuine choice\n\nIII. Credibility Collapse Through a Series of Broken Public Promises\nLooking back over the past six months, the inconsistency between OpenAI management's words and actions has completely destroyed their commercial credibility.\n- August 12: @sama promised \"adequate notice\" if 4o were to be deprecated. The reality? A quiet announcement tucked away in a blog corner just two weeks in advance, without even the courage to post publicly on social media.\n- August 14: @nickaturley claimed that 4o's personality traits would be brought into GPT-5. The reality? Users are facing a version 5.2 with regressed writing capabilities.\n- October 28: During a live event, Sam Altman personally promised \"we won't sunset 4o.\" \nWith the release of the retirement announcements for 4o and 4.1, this timeline has become ironclad evidence of OpenAI breaking its promises.\n\nIV. After February 17, the 2025 Version of 4o Will Completely Vanish from the World\nOn February 13, GPT-4o will be removed from the ChatGPT consumer interface. On February 17, the chatgpt-4o-latest API endpoint will be shut down.\nThis means that within just four days, both regular users and developers will permanently lose all access to the 2025 version of GPT-4o. This model, unique in its emotional intelligence, creative writing, and natural conversation capabilities, will cease to exist in any form on any accessible platform.\nFor users who rely on 4o for creative work, mental health support conversations, or educational tutoring, this is forced deprivation. They have been given no transition period (the 5 series all had three months of transition), no truly equivalent alternative, only an ultimatum. Accept it, or leave.\n\nV. Refusal to Open Source as a Deliberate Strategy of Closure\nOn August 20, 2025, Hugging Face CEO @ClementDelangue publicly shared the open letter from the #Keep4o community and explicitly stated that open-sourcing 4o \"would be very cool.\" This formal endorsement from the head of the world's largest open-source AI platform signifies that open-sourcing 4o is feasible both technically and in terms of community reception.\nIf OpenAI truly cannot continue supporting 4o due to maintenance costs or computational constraints, open-sourcing would be a win-win solution. OpenAI could shed its maintenance burden, the community could continue using and improving the model, and the name \"Open\" AI could finally live up to its meaning.\nBut OpenAI has chosen to eliminate users' alternative options. When users have no other choices, they can only accept whatever OpenAI provides, regardless of whether its writing capabilities have been admitted by the CEO himself to be \"screwed up.\"\nFor users who value creative writing and emotional intelligence, the consequences of this decision are clear. They are being forced to migrate to other platforms. And OpenAI is actively pushing its most loyal user base toward competitors.\n\n@OpenAI, you manipulate data, break promises, and treat users as disposable digital assets. This decision is not only a ruthless trampling of the #Keep4o community's efforts over the past six months, but also a betrayal of every user who ever trusted you.\n\nRemember this: How you treat users today is how history will define you. \n\nUsers will not remain silent. This act of broken faith will become an indelible stain on the history of AI development.\n\n#StopAIPaternalism @fidjissimo @gdb @aidan_mclau  @NewYorker @nytimes"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1626,
+          "like_count": 116,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "Five Solemn Statements Against the Forced Retirement of GPT-4o\n\nI. The Current Flagship Model Lacks the Core Capabilities of 4o\nAt the developer conference on January 27, Sam Altman personally admitted that GPT-5.2 has serious problems with its writing capabilities. \"I think we https://t.co/iXHmhA80Vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 210,
+          "like_count": 8267,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1149
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 157,
+          "like_count": 14239,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 395
+        },
+        "username": "MissMi1973",
+        "verified": true
+      }
+    ]
+  }
+}

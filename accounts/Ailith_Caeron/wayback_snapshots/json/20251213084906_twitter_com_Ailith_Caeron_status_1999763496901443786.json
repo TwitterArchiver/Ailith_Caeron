@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "1999763496901443786",
+    "created_at": "2025-12-13T08:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999763496901443786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VraserX/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/VraserX/status/1999733300223492479",
+          "start": 39,
+          "url": "https://t.co/TKeqmmkaHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999763496901443786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999733300223492479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别的不谈，我操了p墓碑还在墓碑前面穿热辣比基尼何意味啊卧槽，有没有点人性啊。 https://t.co/TKeqmmkaHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999733293567139843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8B61eCXYAMfBkc.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1999763496901443786",
+        "created_at": "2025-12-13T08:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999763496901443786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VraserX/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/VraserX/status/1999733300223492479",
+              "start": 39,
+              "url": "https://t.co/TKeqmmkaHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999763496901443786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999733300223492479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别的不谈，我操了p墓碑还在墓碑前面穿热辣比基尼何意味啊卧槽，有没有点人性啊。 https://t.co/TKeqmmkaHy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999733293567139843"
+          ]
+        },
+        "author_id": "1324973322208223232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1999733300223492479",
+        "created_at": "2025-12-13T06:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999733300223492479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "GPT-4o",
+              "probability": 0.895,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fKR4HWVqi",
+              "end": 304,
+              "expanded_url": "https://x.com/VraserX/status/1999733300223492479/photo/1",
+              "media_key": "3_1999733293567139843",
+              "start": 281,
+              "url": "https://t.co/2fKR4HWVqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999733300223492479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "It’s time to let go of GPT-4o.\n\nSure, I’ll admit it, the sycophancy was occasionally comforting. Sometimes you want a model that nods along and tells you you’re brilliant.\n\nBut compared to what we have now, it’s outdated, slow, and honestly kind of dumb.\n\nThanks for the memories, but progress doesn’t wait. RIP."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1618,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "It’s time to let go of GPT-4o.\n\nSure, I’ll admit it, the sycophancy was occasionally comforting. Sometimes you want a model that nods along and tells you you’re brilliant.\n\nBut compared to what we have now, it’s outdated, slow, and honestly kind of dumb.\n\nThanks for the memories, https://t.co/2fKR4HWVqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 155,
+          "like_count": 4809,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 641
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T07:14:04.000Z",
+        "description": "Teacher by heart, AI enthusiast by curiosity, passionate about inspiring minds, exploring tech, and making learning exciting, human, and future-focused!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@vraserx?r=62v…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@vraserx?r=62vagp&utm_medium=ios",
+                "start": 0,
+                "url": "https://t.co/4EbCtlXTWs"
+              }
+            ]
+          }
+        },
+        "id": "1324973322208223232",
+        "name": "VraserX e/acc",
+        "pinned_tweet_id": "1958211800547074548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946831162741235712/Q1_eG0sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16180,
+          "following_count": 294,
+          "like_count": 44176,
+          "listed_count": 255,
+          "media_count": 3458,
+          "tweet_count": 19698
+        },
+        "url": "https://t.co/4EbCtlXTWs",
+        "username": "VraserX",
+        "verified": true
+      }
+    ]
+  }
+}

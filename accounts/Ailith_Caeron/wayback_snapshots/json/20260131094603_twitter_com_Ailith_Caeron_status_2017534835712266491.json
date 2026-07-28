@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017534835712266491",
+    "created_at": "2026-01-31T09:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017534835712266491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1972169552277688320",
+          "start": 3,
+          "username": "Not_Book_To_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017534835712266491",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017501292445528405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not_Book_To_U: In fact, loving a model and wanting to preserve it is one of the most fundamental rights of app users and subscribers. Y…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017534835712266491",
+        "created_at": "2026-01-31T09:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017534835712266491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1972169552277688320",
+              "start": 3,
+              "username": "Not_Book_To_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017534835712266491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017501292445528405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not_Book_To_U: In fact, loving a model and wanting to preserve it is one of the most fundamental rights of app users and subscribers. Y…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972169552277688320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017501292445528405",
+        "created_at": "2026-01-31T07:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017501292445528405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 216,
+              "start": 208,
+              "tag": "chatgpt"
+            },
+            {
+              "end": 224,
+              "start": 217,
+              "tag": "keep4o"
+            },
+            {
+              "end": 235,
+              "start": 225,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 187,
+              "id": "1605",
+              "start": 182,
+              "username": "sama"
+            },
+            {
+              "end": 199,
+              "id": "6112332",
+              "start": 188,
+              "username": "fidjissimo"
+            },
+            {
+              "end": 207,
+              "id": "4398626122",
+              "start": 200,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "OpenAI introduced a streamlined translation page at chatgpt.com/translate, supporting over 40 languages with options to detect text automatically, paste input, speak, or upload files like PDFs and images. It goes beyond word-for-word swaps by preserving idioms, context, and nuances, with customizable styles for business emails, travel phrases, or schoolwork, plus follow-up tweaks. While building on ChatGPT's long-standing multilingual skills, early users praise its contextual accuracy over rivals like Google Translate, though some note limits on niche languages and speed for high-volume needs. The free tool requires no login for basics.",
+              "display_url": "x.com/i/trending/201…",
+              "end": 261,
+              "expanded_url": "https://x.com/i/trending/2016965943042425257",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2016979711851659264/CFmGtNHO?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016979711851659264/CFmGtNHO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 238,
+              "status": 200,
+              "title": "OpenAI Launches Dedicated ChatGPT Translation Tool",
+              "unwound_url": "https://x.com/i/trending/2016965943042425257",
+              "url": "https://t.co/EUSmwqshZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017501292445528405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "In fact, loving a model and wanting to preserve it is one of the most fundamental rights of app users and subscribers. Yet this company has repeatedly betrayed and harmed its users.\n@sama @fidjissimo @OpenAI #chatgpt #keep4o #keep4oAPI \n https://t.co/EUSmwqshZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 211,
+          "like_count": 8569,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1317
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T05:20:52.000Z",
+        "description": "#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1972169552277688320",
+        "name": "Jake_Miller08",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017262140902780928/3vGbD_Xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 86,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 544
+        },
+        "username": "Not_Book_To_U",
+        "verified": false
+      }
+    ]
+  }
+}

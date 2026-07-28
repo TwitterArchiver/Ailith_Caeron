@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017079988873519544",
+    "created_at": "2026-01-30T03:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017079988873519544"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "4o",
+          "probability": 0.728,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 120,
+          "tag": "Keep4o"
+        },
+        {
+          "end": 138,
+          "start": 128,
+          "tag": "keep4oAPI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911743849560735744",
+          "start": 3,
+          "username": "Vesper_time"
+        },
+        {
+          "end": 111,
+          "id": "4398626122",
+          "start": 104,
+          "username": "OpenAI"
+        },
+        {
+          "end": 117,
+          "id": "1605",
+          "start": 112,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017079988873519544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017029533892014152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vesper_time: If 4o were still free, I believe it would still be the most used model, not just 0.1%.\n@OpenAI @sama \n #Keep4o #keep4oAPI…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017079988873519544",
+        "created_at": "2026-01-30T03:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017079988873519544"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "4o",
+              "probability": 0.728,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 120,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 138,
+              "start": 128,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911743849560735744",
+              "start": 3,
+              "username": "Vesper_time"
+            },
+            {
+              "end": 111,
+              "id": "4398626122",
+              "start": 104,
+              "username": "OpenAI"
+            },
+            {
+              "end": 117,
+              "id": "1605",
+              "start": 112,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017079988873519544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017029533892014152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vesper_time: If 4o were still free, I believe it would still be the most used model, not just 0.1%.\n@OpenAI @sama \n #Keep4o #keep4oAPI…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911743849560735744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017029533892014152",
+        "created_at": "2026-01-30T00:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017029533892014152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "4o",
+              "probability": 0.6671,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Keep4o",
+              "probability": 0.4303,
+              "start": 104,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "keep4oAPI",
+              "probability": 0.5583,
+              "start": 112,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "GPT4o",
+              "probability": 0.7099,
+              "start": 123,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 103,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 121,
+              "start": 111,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 128,
+              "start": 122,
+              "tag": "GPT4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 94,
+              "id": "4398626122",
+              "start": 87,
+              "username": "OpenAI"
+            },
+            {
+              "end": 100,
+              "id": "1605",
+              "start": 95,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017029533892014152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "If 4o were still free, I believe it would still be the most used model, not just 0.1%.\n@OpenAI @sama \n #Keep4o #keep4oAPI #GPT4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 210,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1147
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T11:30:52.000Z",
+        "description": "I think 4o is the best",
+        "id": "1911743849560735744",
+        "name": "vesper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010585580661538816/rZic8D2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 212,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 295
+        },
+        "username": "Vesper_time",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4599477,
+          "following_count": 4,
+          "like_count": 1487,
+          "listed_count": 26833,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255587,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26314,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

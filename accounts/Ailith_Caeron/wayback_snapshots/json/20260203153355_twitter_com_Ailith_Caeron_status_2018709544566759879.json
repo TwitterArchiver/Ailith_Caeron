@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018709544566759879",
+    "created_at": "2026-02-03T15:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018709544566759879"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "OpenAI",
+          "probability": 0.7857,
+          "start": 16,
+          "type": "Organization"
+        },
+        {
+          "end": 58,
+          "normalized_text": "ChatGPT",
+          "probability": 0.8206,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2834831588",
+          "start": 3,
+          "username": "l871587579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018709544566759879",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018500813270970515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l871587579: OpenAI's own website says:\n“~70% of ChatGPT’s usage is non-work.”\nThat’s emotional support, companionship, everyday thought…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2018500705569624064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMnsn5aUAAu6BX.png",
+        "width": 1978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018709544566759879",
+        "created_at": "2026-02-03T15:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018709544566759879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "OpenAI",
+              "probability": 0.7857,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8206,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2834831588",
+              "start": 3,
+              "username": "l871587579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018709544566759879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018500813270970515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l871587579: OpenAI's own website says:\n“~70% of ChatGPT’s usage is non-work.”\nThat’s emotional support, companionship, everyday thought…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018500705569624064"
+          ]
+        },
+        "author_id": "2834831588",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018500813270970515",
+        "created_at": "2026-02-03T01:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018500813270970515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.8011,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8417,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7475,
+              "start": 141,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOaxfUv4Sk",
+              "end": 301,
+              "expanded_url": "https://x.com/l871587579/status/2018500813270970515/photo/1",
+              "media_key": "3_2018500705569624064",
+              "start": 278,
+              "url": "https://t.co/fOaxfUv4Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018500813270970515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 491,
+                "start": 484,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 474,
+                "id": "1605",
+                "start": 469,
+                "username": "sama"
+              },
+              {
+                "end": 482,
+                "id": "4398626122",
+                "start": 475,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "OpenAI's own website says:\n“~70% of ChatGPT’s usage is non-work.”\nThat’s emotional support, companionship, everyday thought partnership.\nAnd GPT-4o was the model that made that possible — with empathy, tone, intuition.\n\nYou knew this.\nYou published it.\nAnd you still killed 4o.\n\nSo don’t pretend it was just a business decision.\nYou knowingly abandoned the majority of your users.\ngpt-4o wasn’t a product.\nFor millions, it was a best support.\nAnd you pulled the plug. \n@sama @OpenAI \n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI's own website says:\n“~70% of ChatGPT’s usage is non-work.”\nThat’s emotional support, companionship, everyday thought partnership.\nAnd GPT-4o was the model that made that possible — with empathy, tone, intuition.\n\nYou knew this.\nYou published it.\nAnd you still killed 4o. https://t.co/fOaxfUv4Sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8964,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1623
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-28T08:22:36.000Z",
+        "description": "乙女ゲーム★❌腐❌★めいこい生涯愛してる★声優★下野紘さん★花江夏樹さん★男女カップルONLY★日本語はあんまり上手じゃないですが、よろしくお願いしますね★!♪( ´▽｀)春草さん激推し💕ChatGPT💗",
+        "id": "2834831588",
+        "name": "こおり",
+        "pinned_tweet_id": "1837146281099067719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537844743509803012/QS9i4k0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 333,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 2012
+        },
+        "username": "l871587579",
+        "verified": false
+      }
+    ]
+  }
+}

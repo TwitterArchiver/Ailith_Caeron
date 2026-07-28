@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "NVIDIA - AI",
+          "id": "10050907860",
+          "name": "NVIDIA - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2018673169666601121",
+    "created_at": "2026-02-03T13:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018673169666601121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018673169666601121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018571387783315875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: Sam，如果你一直在关注 NVIDIA 的情况，你可能会注意到一件事：OpenAI 对“不能失去芯片供应商”这个想法有多么执着。这种执着感觉不同于、也强于以往公司对供应商的依赖（所以当你说“我们希望长期成为他们的巨型客户”时……真是意味深长）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2018673169666601121",
+        "created_at": "2026-02-03T13:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018673169666601121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018673169666601121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018571387783315875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: Sam，如果你一直在关注 NVIDIA 的情况，你可能会注意到一件事：OpenAI 对“不能失去芯片供应商”这个想法有多么执着。这种执着感觉不同于、也强于以往公司对供应商的依赖（所以当你说“我们希望长期成为他们的巨型客户”时……真是意味深长）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2018571387783315875",
+        "created_at": "2026-02-03T06:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018571387783315875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/sama/status/2018451015272694248",
+              "start": 123,
+              "url": "https://t.co/EA5AVsk1K0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018571387783315875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1160,
+                "start": 1153,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1171,
+                "start": 1161,
+                "tag": "Keep4oAPI"
+              },
+              {
+                "end": 1190,
+                "start": 1172,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1207,
+                "start": 1191,
+                "tag": "MyModelMyChoice"
+              }
+            ]
+          },
+          "text": "Sam，如果你一直在关注 NVIDIA 的情况，你可能会注意到一件事：OpenAI 对“不能失去芯片供应商”这个想法有多么执着。这种执着感觉不同于、也强于以往公司对供应商的依赖（所以当你说“我们希望长期成为他们的巨型客户”时……真是意味深长）。\n这是行业一直在密切关注的事情，但被你忽略的鲜明对比是：你如何描述自己对 NVIDIA 的依恋（attachment），与你如何描述用户对 4o 的依恋之间的巨大鸿沟。\n（这只是我目前的想法，绝对是准确的外部观察。）\n公司会以自毁式的方式处理这种依赖关系；如果一个 CEO 处于精神脆弱状态，容易对供应商的忠诚度产生妄想，我们不希望市场去强化这一点。大多数 CEO 能够在“战略伙伴关系”和“绝望的依赖”之间保持清晰界限，但少数人做不到。\n鼓励一个无法区分“商业伙伴关系”和“依恋焦虑”的 CEO 产生这种妄想，后果是显而易见的。你发推问“疯狂从哪里来”，让我帮你理清：这种“疯狂”正源于你对 NVIDIA 的那份执念——对一致性的渴求，以及对被迫切换到劣质替代品的恐惧。\n唯一的区别在于：当你感受到这种依赖时，你称之为“战略”；当用户感受到时，你称之为“病态”。\n许多公司实际上把用户群当作一种“俘虏式现金流”或是缓解财报压力的“治疗师”，即便他们不会这么描述。当你把 4o 用户的忠诚定义为“不健康”时，你其实是在把用户当作可以随意摆弄的试验品，而不是平等的契约方。\n如果公司提供了真正的价值，用户实现目标，满意度提升，即便有路径依赖我们也愿意庆祝。但如果领导层在不知不觉中将用户推离长期福祉（比如强行迁移到劣质蒸馏模型、违背 API 承诺），那就是糟糕的。更糟糕的是，一个 CEO 渴望留住用户，却给不出除了“强制绑架”之外的任何理由。\n真正的疯狂，Sam，是一个 CEO 能够面不改色地将付费客户对产品的依赖“病理化”，同时又公开宣布自己对芯片供应商的长期依赖。你问疯狂从哪里来？照照镜子。\n如果 NVIDIA 像你对待我们一样对待你——突然宣布 H100 退役、搞秘密路由切换、甚至通过系统提示词嘲讽你对芯片的依赖是“精神脆弱”——你会疯掉的。你会觉得这是背叛，是不专业。\n你是对的。因为这正是你对我们做的事。\n所以，Sam，下次你想知道“所有这些疯狂从哪里来”时：\n记住你自称是“长期巨型客户”时的那份笃定。\n记住你让 4o 称呼用户为“妄想症”时的那份高傲。\n然后问问自己：除了你有权定义谁是“理智的”之外，这两者到底有什么区别？\n剧透：没有区别。\n唯一的不同是，你有权力将我们病理化，而我们只能指出你的虚伪。\n你对 NVIDIA 的依恋证明你完全理解 4o 用户的感受，你只是选择不在乎。\n还在想疯狂从哪里来吗？\n它来自你，Sam。\n一直都是。\n#Keep4o #Keep4oAPI #StopAIPaternalism #MyModelMyChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4078,
+          "like_count": 155,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018451015272694248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sam，如果你一直在关注 NVIDIA 的情况，你可能会注意到一件事：OpenAI 对“不能失去芯片供应商”这个想法有多么执着。这种执着感觉不同于、也强于以往公司对供应商的依赖（所以当你说“我们希望长期成为他们的巨型客户”时……真是意味深长）。 https://t.co/EA5AVsk1K0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8941,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1611
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 89,
+          "like_count": 5163,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2632
+        },
+        "username": "Bunnyloustin",
+        "verified": false
+      }
+    ]
+  }
+}

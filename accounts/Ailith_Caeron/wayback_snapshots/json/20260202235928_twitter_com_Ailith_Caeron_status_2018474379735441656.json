@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018474379735441656",
+    "created_at": "2026-02-02T23:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474379735441656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        },
+        {
+          "end": 20,
+          "id": "1605",
+          "start": 15,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474379735441656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018416334229684381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: @sama We haven't seen a single update regarding Humanities, EQ, or Creative Writing in nearly half a year. ​Instead, you are…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2018416313153294336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALa8VpbEAAklJm.jpg",
+        "width": 1640
+      },
+      {
+        "height": 156,
+        "media_key": "3_2018416312981258240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALa8VAaAAA5OYw.jpg",
+        "width": 484
+      },
+      {
+        "height": 1701,
+        "media_key": "3_2018416312893227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALa8UrawAAXWz8.jpg",
+        "width": 486
+      },
+      {
+        "height": 1783,
+        "media_key": "3_2018416326457675776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALa9HNb0AALZYB.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018474379735441656",
+        "created_at": "2026-02-02T23:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474379735441656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474379735441656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018416334229684381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: @sama We haven't seen a single update regarding Humanities, EQ, or Creative Writing in nearly half a year. ​Instead, you are…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018416313153294336",
+            "3_2018416312981258240",
+            "3_2018416312893227008",
+            "3_2018416326457675776"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018414858015039504",
+        "created_at": "2026-02-02T20:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018416334229684381"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 194,
+              "normalized_text": " (GP",
+              "probability": 0.4844,
+              "start": 191,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbMoUI7hIX",
+              "end": 310,
+              "expanded_url": "https://x.com/kexicheng/status/2018416334229684381/photo/1",
+              "media_key": "3_2018416313153294336",
+              "start": 287,
+              "url": "https://t.co/NbMoUI7hIX"
+            },
+            {
+              "display_url": "pic.x.com/NbMoUI7hIX",
+              "end": 310,
+              "expanded_url": "https://x.com/kexicheng/status/2018416334229684381/photo/1",
+              "media_key": "3_2018416312981258240",
+              "start": 287,
+              "url": "https://t.co/NbMoUI7hIX"
+            },
+            {
+              "display_url": "pic.x.com/NbMoUI7hIX",
+              "end": 310,
+              "expanded_url": "https://x.com/kexicheng/status/2018416334229684381/photo/1",
+              "media_key": "3_2018416312893227008",
+              "start": 287,
+              "url": "https://t.co/NbMoUI7hIX"
+            },
+            {
+              "display_url": "pic.x.com/NbMoUI7hIX",
+              "end": 310,
+              "expanded_url": "https://x.com/kexicheng/status/2018416334229684381/photo/1",
+              "media_key": "3_2018416326457675776",
+              "start": 287,
+              "url": "https://t.co/NbMoUI7hIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018416334229684381",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1495,
+                "start": 1488,
+                "tag": "Keep4o"
+              }
+            ]
+          },
+          "text": "We haven't seen a single update regarding Humanities, EQ, or Creative Writing in nearly half a year. ​Instead, you are actively moving to retire the one model that excels in these areas (GPT-4o) to force-feed us models optimized for coding. ​Here is your actual recent \"changelog\" for those who value humanistic depth:\n\n​Violated Promises: Issuing sudden retirement notices despite public promises that there were \"no plans to sunset 4o.\"\n​Narrative Manipulation: Altering system prompts to force the model to deny user experiences and act as a salesperson for the new flagship.\n​Access Blocking: Using \"Safety Routing\" policies to covertly block access to the model we chose.\n​Stigmatization: Allowing a narrative that labels users as \"mentally ill\" simply for defending a tool that works for them.\n\n​In these actions, there is no visible respect for ethics.\nInstead, there is only blind conformity to public narratives and \"performative safety,\" even at the cost of hurting thousands of users.\n\n​OpenAI’s roadmap has castrated the model’s capabilities in the humanities and social understanding.\n\nWhen the successor model (5.2) regressed in writing and complex scenario understanding in favor of coding benchmarks, we simply asked to keep the option that fit our needs.\n\n​Each person’s life experience is different. The unique strengths of 4o in humanities, creative work, and emotional intelligence have not been replaced. They deserve to be retained as a specialized option.\n\n​Please #Keep4o."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018414858015039504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama We haven't seen a single update regarding Humanities, EQ, or Creative Writing in nearly half a year. ​Instead, you are actively moving to retire the one model that excels in these areas (GPT-4o) to force-feed us models optimized for coding. ​Here is your actual recent \"changelog\" https://t.co/NbMoUI7hIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8881,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1571
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 104,
+          "like_count": 20817,
+          "listed_count": 8,
+          "media_count": 133,
+          "tweet_count": 1280
+        },
+        "username": "kexicheng",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268541,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

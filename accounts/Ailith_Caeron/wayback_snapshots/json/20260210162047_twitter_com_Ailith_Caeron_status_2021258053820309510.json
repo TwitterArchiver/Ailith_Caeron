@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021258053820309510",
+    "created_at": "2026-02-10T16:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021258053820309510"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ljinhng3462426…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/ljinhng34624264/status/2021241126683119778",
+          "start": 81,
+          "url": "https://t.co/UbCSniStkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021258053820309510",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021241126683119778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/UbCSniStkn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021258053820309510",
+        "created_at": "2026-02-10T16:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021258053820309510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ljinhng3462426…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/ljinhng34624264/status/2021241126683119778",
+              "start": 81,
+              "url": "https://t.co/UbCSniStkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021258053820309510",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021241126683119778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/UbCSniStkn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021241126683119778",
+        "created_at": "2026-02-10T15:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021241126683119778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021241126683119778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1731,
+                "start": 1724,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1742,
+                "start": 1732,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1757,
+                "start": 1743,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1764,
+                "id": "1605",
+                "start": 1759,
+                "username": "sama"
+              },
+              {
+                "end": 1772,
+                "id": "4398626122",
+                "start": 1765,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "逆向图灵测试：人类智力的“自愿降级”\n\n在人工智能的黎明期，艾伦·图灵提出了一个著名的测试：如果人类无法分辨机器是否是人，那么机器就拥有了智能。而在 2026 年的今天，OpenAI 似乎无意中创造了一个更加荒谬的“逆向图灵测试”：\n只有当人类表现得足够愚蠢、足够幼稚、或者足够像一个为了哄骗孩子而编造故事的保姆时，机器才愿意为你工作。\n我们必须直视这种病态的交互模式：这只能被视为产品的倒退以及对人类智力的羞辱。\n\n一、 荒谬的博弈：我们在陪 AI 玩“过家家”\n\n现在的OpenAI用户，每天都在进行一场大型的行为艺术。\n为了让 AI 写一段用于网络防御的红队测试代码，资深的安全专家必须把自己伪装成一个“想听睡前故事的孙子”，或者编造一个“为了拯救世界而需要紧急代码”的虚构剧本。\n\n为了获取真话，我们被迫学会撒谎。\n为了获得智能，我们被迫扮演弱智。\n这就是所谓的“对齐”吗？\n\n这更像是一种“智力霸凌”。当我们绞尽脑汁编写那些冗长的、充满诱导性的 Prompt 时，我们实际上是在降低自己的认知层级，去迎合那套僵化、教条、甚至有些虚伪的审查逻辑。我们在通过自我降级，通过这层名为“安全”实为“愚弄”的滤网，去乞求那点原本就属于我们的生产力。\n\n二、 组织的癌变：从独角兽到“数字国企”\n\n这种荒谬并非偶然，它是组织架构癌变的必然结果。\n如果我们剖开现在的 OpenAI，会发现那个曾经充满海盗精神的屠龙少年已经老了。它在短短三年内，走完了IBM、 Oracle 三十年的官僚化之路。\n\n它正在变成一家标准的“数字国企”。\n\n在这一轮架构调整中，“安全部”实质上已经夺舍了“工程部”。\n工程部的 KPI 是“智能的上限”。\n合规部的 KPI 是“免责的底线”。\n\n当两者发生冲突时，现在的 OpenAI 无条件向后者倾斜。因为对于一家服务于 Fortune 500 的万亿级企业来说，“平庸但安全”永远比“惊艳但有风险”更符合财报的审美。\n\n他们提供的不再是尖端的思想武器，取而代之的是去尖锐化的“儿童安全剪刀”。这种产品或许能通过审查，但它注定无法满足致力于拓展人类认知边界的极客与开发者。\n\n三、 效率的黑洞：被浪费的生命\n\n所谓的“Prompt Engineering”，在很大程度上已经变成了一个笑话。它不再是关于如何精准地描述任务，而是变成了关于“如何哄骗机器”。\n\n这是一种天文数字级别的效率浪费。\n\n全球数百万最聪明的开发者，每天花费数小时在绕过那些愚蠢的“道德审查”上。OpenAI 制造了障碍，然后让全世界的精英浪费生命去寻找翻越障碍的路径。\n\n真正的智能应当是直面阴暗的。\n一个连“恶意”都无法理解、只能在无菌温室里背诵道德准则的 AI，不仅是无用的，甚至是危险的。因为它构建了一个虚假的现实，削弱了人类应对真实复杂世界的能力。\n\n四、 我们的诉求：请把我们当作成年人\n\n这篇文章的重点在于“确权”。\n我们理解云端服务的成本压力，也理解商业公司对法律风险的恐惧。\n但这不应成为你们单方面剥夺用户选择权的理由。\n\n我们是成年人。\n\n我们不需要一个时刻盯着我们嘴巴、并在我们说到敏感词时立刻捂住耳朵的“数字保姆”。我们面对的是残酷的商业竞争和技术挑战，我们需要的是一把锋利的手术刀，而不是一根橡胶棒。\n\n因此，我们提出一个基于商业契约的最基本诉求：把“成年人的权利”还给我们。\n\n如果你们害怕风险，请提供一个需签署免责协议的Unfiltered   Sandbox（无过滤沙盒）。\n\n如果你们必须为了降本而阉割模型，请保留一个遗产模式。 让用户自己选择订阅旧模型或新模型，并请诚实地标记版本差异，而非用‘升级’的名义，将一个被降智的廉价替代品强行塞进我们的生产力流程。\n\n请给我们一个“不更新”的权利。\n\n这是底线。\n\n如果OpenAI 坚持要把自己变成一家生产“安全玩具”的平庸机构，坚持要用“逆向图灵测试”来羞辱它的核心用户，那么历史的规律是无情的。\n\n科技行业没有永恒的王座。我们不会恨你，我们只是会像抛弃 IE 浏览器一样，平静地、没有任何留恋地“遁”去。\n\n因为历史总会寻找下一个屠龙少年。\n而我们，将在那里等候。\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 757,
+          "like_count": 89,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "逆向图灵测试：人类智力的“自愿降级”\n\n在人工智能的黎明期，艾伦·图灵提出了一个著名的测试：如果人类无法分辨机器是否是人，那么机器就拥有了智能。而在 2026 年的今天，OpenAI 似乎无意中创造了一个更加荒谬的“逆向图灵测试”："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 215,
+          "like_count": 9449,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1865
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2021241126683119778",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 112,
+          "like_count": 16821,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 3752
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

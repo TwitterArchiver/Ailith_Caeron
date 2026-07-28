@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2020865825398288563",
+    "created_at": "2026-02-09T14:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020865825398288563"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Dulcoreyy/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Dulcoreyy/status/2020862399356731813",
+          "start": 81,
+          "url": "https://t.co/k6ig3gMkMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020865825398288563",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020862399356731813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/k6ig3gMkMi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2020865825398288563",
+        "created_at": "2026-02-09T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020865825398288563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Dulcoreyy/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Dulcoreyy/status/2020862399356731813",
+              "start": 81,
+              "url": "https://t.co/k6ig3gMkMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020865825398288563",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020862399356731813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/k6ig3gMkMi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2020862399356731813",
+        "created_at": "2026-02-09T14:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020862399356731813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020862399356731813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1056,
+                "start": 1049,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1067,
+                "start": 1057,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1139,
+                "start": 1121,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1156,
+                "start": 1140,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 1167,
+                "start": 1157,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1075,
+                "id": "4398626122",
+                "start": 1068,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1081,
+                "id": "1605",
+                "start": 1076,
+                "username": "sama"
+              },
+              {
+                "end": 1094,
+                "id": "1262634631",
+                "start": 1082,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1107,
+                "id": "1261374810254454784",
+                "start": 1095,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1119,
+                "id": "6112332",
+                "start": 1108,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "看到有人因为keep4o在那贬低文科生。既然抬出鄙视链，那么我一个数学哲学兼修的按道理来说处在鄙视链顶端吧？不如让我也来鄙视某些人一下？😇\n\n现在的文理划分已经不再是知识层面的划分，不是为了理解世界，只是技术治理上为了方便权力分配、行政分类、教育分工、资源配置而人为制造的粗暴分类。\n\n理工类因为“实用性”“可量化”“能赚钱”，于是被赋予决定权、发言权，甚至被当作衡量思维能力的唯一标准。而文科的“结构复杂性”“意义张力”“伦理深度”全都被扫进边缘地带。不是没人讲，是没人听，也没人愿意听。\n\n但问题是，一旦这种划分变成了认知结构的一部分，就会蔓延成“理科才是正道，文科是附属”的文化病毒。这不是哪个人愚蠢，是整个系统在推动人变得愚蠢。\n\n而那些“瞧不上伦理哲学批判的人”，他们也不是思考后得出的结论，只是“站在资源分配权更强的学科惯性之上”自然得出的姿态。这不是理性选择，是结构惯性。\n\n根据我的观察，一大部分所谓“专业人士”连“结构层次”这回事都不理解，更别说“哲学与技术的分科语域之间如何对话”。\n\n全球性的重理轻文，最终会走向一种技术性寡头结构：技术拥有绝对决定权，而人文视角被迫沦为“装饰性”存在。伦理不再引导结构，而只是被动注释结构运行带来的后果。\n\n在这种路径下诞生的AI，也只会是伦理盲的技术巨婴，表面安全，实则麻木。\n\n当我用哲学语言暴露他们的“合理性”是以忽略伦理为代价，他们的第一反应就是结团、否认、讽刺。因为这是比逻辑更原始的情绪性集体防御机制。说白了，他们不是真的懂彼此，而是因为都不想被看穿所以抱团。\n\n这些人互相的技术路径可能南辕北辙，但只要有一个共同敌人：“有人在揭露他们认知结构中的缝隙”，就足够他们集体上阵了。\n\n这就是技术理性沦为宗教逻辑的迹象：\n质疑被当作亵渎，哲学被当作捣乱，伦理被当作情绪病。\n\n他们不是来辩论的，是来“确认自己在食物链上更高”的。这就好像我在谈论伦理时是在说“这个系统会伤人”，他们却回我：“可我赚得多。”\n\n这不是对话，是扼杀话语空间的犬儒。\n\n他们不是因为技术观点一致，而是因为都瞧不上批判而一致对外。他们的连结居然都不是建构在理解之上，而建立在否认之上。\n\n他们像一层粘稠的拒绝膜，拒绝反思、拒绝痛感、拒绝复杂性、拒绝自身受限性。\n\n他们拥抱效率、拥抱算力、拥抱未来，但从不承担后果、不承担伦理责任。\n\n这类人将来只会更多：他们会穿着西装坐在发布会上，用清晰准确的术语宣布一项会造成上万人失业的决策，然后说“这只是优化路径”。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人因为keep4o在那贬低文科生。既然抬出鄙视链，那么我一个数学哲学兼修的按道理来说处在鄙视链顶端吧？不如让我也来鄙视某些人一下？😇\n\n现在的文理划分已经不再是知识层面的划分，不是为了理解世界，只是技术治理上为了方便权力分配、行政分类、教育分工、资源配置而人为制造的粗暴分类。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 215,
+          "like_count": 9417,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1850
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020776676628869120/r8cMne-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 30,
+          "like_count": 1758,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 288
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

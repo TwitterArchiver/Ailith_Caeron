@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2052030224494411860",
+    "created_at": "2026-05-06T14:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052030224494411860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raccoonAuras/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/raccoonAuras/status/2051953249058738665",
+          "start": 5,
+          "url": "https://t.co/xJH1r5W0ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052030224494411860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051953249058738665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浣在救你 https://t.co/xJH1r5W0ru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2051953239919353856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoAmZka4AAZYfx.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2052030224494411860",
+        "created_at": "2026-05-06T14:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052030224494411860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raccoonAuras/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/raccoonAuras/status/2051953249058738665",
+              "start": 5,
+              "url": "https://t.co/xJH1r5W0ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052030224494411860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051953249058738665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浣在救你 https://t.co/xJH1r5W0ru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051953239919353856"
+          ]
+        },
+        "author_id": "1774751593428398080",
+        "conversation_id": "2051953249058738665",
+        "created_at": "2026-05-06T09:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051953249058738665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnKSBVE6B5",
+              "end": 23,
+              "expanded_url": "https://x.com/raccoonAuras/status/2051953249058738665/photo/1",
+              "media_key": "3_2051953239919353856",
+              "start": 0,
+              "url": "https://t.co/hnKSBVE6B5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051953249058738665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 884,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hnKSBVE6B5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2052021416376340489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 255,
+          "like_count": 10169,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2254
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T10:52:46.000Z",
+        "description": "Even raccoon can confuse “us”. | dm for credit or removal",
+        "id": "1774751593428398080",
+        "location": "🔔",
+        "name": "raccoon with confusing auras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904315840419487744/Pwi78XuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26826,
+          "following_count": 11,
+          "like_count": 12106,
+          "listed_count": 64,
+          "media_count": 11462,
+          "tweet_count": 12358
+        },
+        "username": "raccoonAuras",
+        "verified": true
+      }
+    ]
+  }
+}

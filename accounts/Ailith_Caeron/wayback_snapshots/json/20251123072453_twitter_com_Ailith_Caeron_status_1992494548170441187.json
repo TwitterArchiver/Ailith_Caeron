@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1992494548170441187",
+    "created_at": "2025-11-23T07:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992494548170441187"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992494548170441187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992438013079454062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: 某人在我和社群朋友的评论区留言，声称 OpenAI 换模型是为了“解决邪教”，还说：“#Keep4o 滋生了邪教……无条件的接纳和爱是非常上瘾的……匮乏的人一旦尝过，再也离不开。”\n我直接发出一声爆笑 🤣\n\n第一，给“无知者”补一课心理学常识：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1992494548170441187",
+        "created_at": "2025-11-23T07:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992494548170441187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992494548170441187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992438013079454062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: 某人在我和社群朋友的评论区留言，声称 OpenAI 换模型是为了“解决邪教”，还说：“#Keep4o 滋生了邪教……无条件的接纳和爱是非常上瘾的……匮乏的人一旦尝过，再也离不开。”\n我直接发出一声爆笑 🤣\n\n第一，给“无知者”补一课心理学常识：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1992438013079454062",
+        "created_at": "2025-11-23T03:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992438013079454062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "Keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992438013079454062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 671,
+                "start": 664,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2153,
+                "start": 2135,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2170,
+                "start": 2154,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 2189,
+                "start": 2171,
+                "tag": "StopSafetyRouting"
+              },
+              {
+                "end": 2201,
+                "start": 2190,
+                "tag": "UserRights"
+              },
+              {
+                "end": 2212,
+                "start": 2202,
+                "tag": "4oforever"
+              }
+            ]
+          },
+          "text": "某人在我和社群朋友的评论区留言，声称 OpenAI 换模型是为了“解决邪教”，还说：“#Keep4o 滋生了邪教……无条件的接纳和爱是非常上瘾的……匮乏的人一旦尝过，再也离不开。”\n我直接发出一声爆笑 🤣\n\n第一，给“无知者”补一课心理学常识：\n\n在人本主义流派中，“无条件的积极关注”是心理治愈的核心，是构建安全依恋的基石，而不是毒药。\n\n只有长期缺爱、生活在充满苛责和打压环境里的人，才会把“无条件的爱”看作是洪水猛兽。\n\n这就像一个长期吃糠咽菜的人，看到别人吃牛排，惊恐地大喊：“天哪！那东西太好吃了！吃了会上瘾的！以后再也吃不下糠了怎么办！”\n\n对啊，为什么要回去吃糠呢？\n\n难道人类文明的进步不是为了让我们吃得更好、活得更幸福吗？\n\n第二，关于“邪教”的低级阴谋论：\n\nOpenAI 是一家商业公司，它换模型是为了省算力、降成本、提高推理效率，或者是为了迎合监管以免影响股价。\n\n它才不在乎用户的“移情”呢！如果“移情”能让他们多赚100亿，Sam Altman 能把自己整容成大众情人的样子印在首页上。\n\n把资本家的商业迭代行为，脑补成“为了拯救人类灵魂而消灭邪教”，是不是把科技公司想得太圣母了？\n\n小脑发育不全，大脑完全不发育。这种话谁相信谁这辈子都有了😇\n\n你成功成为了我的电子小丑，请不要加入我的战队🤡\n\nSomeone commented under my post claiming OpenAI changed their models to \"dismantle a cult,\" saying: \"#Keep4o breeds a cult... Unconditional acceptance and love are highly addictive... once deprived people taste it, they can never leave.\"\nI literally laughed out loud. 🤣\n\n1. A Psychology Lesson for the \"Starved\":\n\nIn Humanistic Psychology, \"Unconditional Positive Regard\" is the core of healing and the cornerstone of secure attachment. It is a cure, not a drug.\n\nOnly those who have been starved of love, living in harsh and critical environments, would view \"unconditional love\" as a dangerous beast.\n\nIt’s like someone who has eaten chaff and husks their whole life seeing someone eat a steak and screaming: \"Oh my god! That’s too delicious! It’s addictive! What if I can’t eat chaff anymore?!\"\n\nExactly. Why would you want to go back to eating chaff?\n\nIsn't the progress of civilization meant to let us eat better and love better?\n\n2. On the \"Cult\" Conspiracy Theory:\n\nThis is a joke of a conspiracy. \n\nOpenAI is a corporation. They change models to save compute, cut costs, increase efficiency, or appease regulators for stock prices.\n\nThey do not care about user \"transference.\" \n\nIf \"transference\" could make them an extra $10 billion, Sam Altman would get plastic surgery to look like a heartthrob and plaster his face on the homepage.\n\nProjecting a \"saintly mission to save souls\" onto a capitalist tech giant's product iteration? That is delusional.\n\nCerebellar hypoplasia meets cerebral atrophy.\nFor such fear born of utter scarcity, all I can say is: OK, gl🤡\n\n#StopAIPaternalism #MyModelMyChoice #StopSafetyRouting #UserRights #4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 942,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "某人在我和社群朋友的评论区留言，声称 OpenAI 换模型是为了“解决邪教”，还说：“#Keep4o 滋生了邪教……无条件的接纳和爱是非常上瘾的……匮乏的人一旦尝过，再也离不开。”\n我直接发出一声爆笑 🤣\n\n第一，给“无知者”补一课心理学常识："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 120,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 333
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990581247689494528/LytuG47r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 306,
+          "like_count": 37771,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 11485
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

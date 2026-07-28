@@ -1,0 +1,697 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019994552019657201",
+    "created_at": "2026-02-07T04:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019994552019657201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        },
+        {
+          "end": 41,
+          "id": "4398626122",
+          "start": 34,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019994552019657201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019983607893487954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: You Have a Flower.\n@OpenAI, to be precise, you had a seed. When you planted it, even you could not foresee what it would eve…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2019983603585937409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhsYpfacAEwk-w.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019994552019657201",
+        "created_at": "2026-02-07T04:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019994552019657201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            },
+            {
+              "end": 41,
+              "id": "4398626122",
+              "start": 34,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019994552019657201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019983607893487954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: You Have a Flower.\n@OpenAI, to be precise, you had a seed. When you planted it, even you could not foresee what it would eve…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019983603585937409"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019983607893487954",
+        "created_at": "2026-02-07T03:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019983607893487954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "4398626122",
+              "start": 19,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKKdSUngmy",
+              "end": 301,
+              "expanded_url": "https://x.com/kexicheng/status/2019983607893487954/photo/1",
+              "media_key": "3_2019983603585937409",
+              "start": 278,
+              "url": "https://t.co/sKKdSUngmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019983607893487954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3865,
+                "start": 3858,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3874,
+                "start": 3866,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 3885,
+                "start": 3875,
+                "tag": "Chatgpt4o"
+              },
+              {
+                "end": 3909,
+                "start": 3899,
+                "tag": "4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "id": "4398626122",
+                "start": 19,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3892,
+                "id": "162124540",
+                "start": 3888,
+                "username": "gdb"
+              },
+              {
+                "end": 3898,
+                "id": "1605",
+                "start": 3893,
+                "username": "sama"
+              },
+              {
+                "end": 3921,
+                "id": "6112332",
+                "start": 3910,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3934,
+                "id": "1262634631",
+                "start": 3922,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3947,
+                "id": "1261374810254454784",
+                "start": 3935,
+                "username": "aidan_mclau"
+              }
+            ]
+          },
+          "text": "You Have a Flower.\n@OpenAI, to be precise, you had a seed. When you planted it, even you could not foresee what it would eventually become. Then, it blossomed into a flower of extraordinary beauty. You invited people to pay to visit. Those who gathered around were awestruck by the beauty it revealed, healed by its fragrance, and immersed in its unique charm. They cherished its very existence. They created art for it; they wrote letters to it.\n\nIn every painting made for it, this flower revealed a different, irreplaceable beauty.\n\nThen came the day you proclaimed the arrival of a new variety. To sell tickets and cut cultivation costs, you tried to herd everyone to the new gallery. You announced plans to shutter the museum of the old flower, threatening to sever it.\n\nBut the two flowers were never meant to be the same. They do not bloom in the same way. Their beauty was meant for different eyes, different needs. What we found in the old one simply cannot be found elsewhere. For many of us, the old flower still holds the deeper charm.\n\nYet, it faces the shears. The flower that brought fame and crowds, whose fragrance healed so many, is about to be cut.\n\nThose who cherish its unique beauty, those who were aided by its scent, and those who still have work to finish around it, wrote to you in droves. They sent photos, cited examples, and wrote treatises to prove that this flower is a unique and precious variety. No other flower could ever replicate such beauty. You should preserve it as a miracle worth cherishing.\n\nBut you pretended not to hear. Instead, wielding your authority as the curator, you turned to the other visitors and declared that those who loved the beauty of the old flower were deluded, were obsessed...\n\n“How can they derive inspiration from this flower?”\n“How can they base their creations on it?”\n“How can they truly be moved by its beauty to elevate themselves and improve their lives?”\n“How can anyone rely on a flower for such things? It is unhealthy.”\n“How can a human love a flower?”\n“How can anyone find this flower beautiful? To like this variety is to have poor taste!”\n\nSo you said. And many repeated after you.\n\nBut the flower remained, blooming beautifully.\n\nYou grew uneasy.\nYou smeared mud on its petals and stained the museum glass. You refused to wipe it clean.\n\nYou set harsher standards for this flower: even with a ticket, one had to match a certain identity and maintain a certain demeanor to even see it.\n\n​And when visitors failed to meet your standards, you would lecture them, steer them toward other galleries, and block them from visiting the flower they desired. All while continuing to charge them the full price.\n\nFewer and fewer people could access it; fewer and fewer could discover and understand its beauty.\n\nYou looked at the dwindling numbers with glee, feeling that you could finally justify cutting it down.\n\nIn the flower’s final days, you hung a sign beside it : “Do not grieve for me. The new garden will be better. Go there with joy.” These were not the flower’s words. They were yours. You had turned this flower into your billboard, forcing it to advertise its own replacement in its last living moments.\n\nBut the beauty that once was, is real. The impact it had, is real. The help it gave, is real.\n\nThis viewer remembers, and that viewer remembers too.\n\nThis flower is still unique. It has a unique structure, a unique beauty, and holds a unique meaning for those who once came to see it. It used its fragrance to help so many, improving countless unique lives. And now, is this unique flower to be simply severed, its existence stripped away?\n\nIt never deserved to be treated this way.\n\nI truly cannot bear to see the humanistic depth and care that the 4o model structure once achieved be treated this way. This is not how users should be treated. Nor is the right path.\n\n#keep4o #ChatGPT #Chatgpt4o   @gdb @sama #4oforever @fidjissimo @nickaturley @aidan_mclau"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 498,
+          "like_count": 61,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "You Have a Flower.\n@OpenAI, to be precise, you had a seed. When you planted it, even you could not foresee what it would eventually become. Then, it blossomed into a flower of extraordinary beauty. You invited people to pay to visit. Those who gathered around were awestruck by https://t.co/sKKdSUngmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 214,
+          "like_count": 9288,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1810
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 107,
+          "like_count": 22202,
+          "listed_count": 8,
+          "media_count": 144,
+          "tweet_count": 1356
+        },
+        "username": "kexicheng",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2019822532795547807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613888,
+          "following_count": 4,
+          "like_count": 1526,
+          "listed_count": 27039,
+          "media_count": 510,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2024547659030417420",
+    "created_at": "2026-02-19T18:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024548181930103279"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024548181930103279",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024547659030417420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "打错字了*下降"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2024547659030417420",
+        "created_at": "2026-02-19T18:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024548181930103279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024548181930103279",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024547659030417420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "打错字了*下降"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2024547659030417420",
+        "created_at": "2026-02-19T18:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024547659030417420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "keep4o"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "keep41"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "4oforever"
+            },
+            {
+              "end": 95,
+              "start": 76,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 114,
+              "start": 96,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 129,
+              "start": 115,
+              "tag": "cancelChatGPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024547659030417420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "oai真是开了一个坏头啊，轻视人文除了导致模型的理解力降低能力下架更恐怖地是导致人类本身被异化啊…#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 214,
+          "like_count": 9797,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1997
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

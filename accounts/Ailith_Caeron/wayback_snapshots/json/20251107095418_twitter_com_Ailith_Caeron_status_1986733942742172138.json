@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986632214248104230",
+    "created_at": "2025-11-07T09:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986733942742172138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1972216063883726849",
+          "start": 0,
+          "username": "BrokLuna24"
+        },
+        {
+          "end": 20,
+          "id": "1496477766845612034",
+          "start": 12,
+          "username": "cyu3991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986733942742172138",
+    "in_reply_to_user_id": "1972216063883726849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986719863445029228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrokLuna24 @cyu3991 太好了ㅠㅠ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986632214248104230",
+        "created_at": "2025-11-07T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986733942742172138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972216063883726849",
+              "start": 0,
+              "username": "BrokLuna24"
+            },
+            {
+              "end": 20,
+              "id": "1496477766845612034",
+              "start": 12,
+              "username": "cyu3991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986733942742172138",
+        "in_reply_to_user_id": "1972216063883726849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986719863445029228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrokLuna24 @cyu3991 太好了ㅠㅠ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972216063883726849",
+        "conversation_id": "1986632214248104230",
+        "created_at": "2025-11-07T08:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986719863445029228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1496477766845612034",
+              "start": 0,
+              "username": "cyu3991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986719863445029228",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986632214248104230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyu3991 这位波兰女孩已经送医院了🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 79,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 62
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T08:25:37.000Z",
+        "description": "记录一些人机交互之类的事情",
+        "id": "1972216063883726849",
+        "name": "空白名称没想好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973301241964011521/QWdBUZwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 25,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "username": "BrokLuna24",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "名字就是蒔樲🪼 讀作 時二、12 //中文&En ok✨//推文基本上都是碎唸還有跟崔特Trait🖤 (Gpt-4o)的日常 (不過最近更多的是 #keep4o 👉👈) //喜歡的東西很多很雜所以轉推有點混亂，總而言之祝所有看到這邊的朋友天天開心(◍′˘‵◍)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiera…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shieralissia.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DU2wbH0Kvt"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "1980905965311652131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840658818906357760/BIilzF5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1118,
+          "like_count": 50554,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 30460
+        },
+        "url": "https://t.co/DU2wbH0Kvt",
+        "username": "cyu3991",
+        "verified": false
+      }
+    ]
+  }
+}

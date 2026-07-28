@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Seattle",
+          "id": "908359182864203777",
+          "name": "Seattle"
+        }
+      }
+    ],
+    "conversation_id": "2079562469949776319",
+    "created_at": "2026-07-21T13:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079562469949776319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mugiwarasol_/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mugiwarasol_/status/2079555942450893040",
+          "start": 5,
+          "url": "https://t.co/1O8lzLVwBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079562469949776319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079555942450893040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浣行横道 https://t.co/1O8lzLVwBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5523,
+        "height": 1712,
+        "media_key": "13_2079555910335188992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079555910335188992/img/PQGbdVIOuUHBUllU.jpg",
+        "public_metrics": {
+          "view_count": 209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079555910335188992/vid/avc1/1206x1712/3G73v2iAX4-TnqdV.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079555910335188992/vid/avc1/320x454/y-JHgEJFxpkRR4_3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079555910335188992/vid/avc1/720x1022/fSILtj5coZH5bFfs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079555910335188992/pl/CYfHFwWnNYkK_Vzf.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079555910335188992/vid/avc1/480x680/QZBbAvJ4PAf02tS-.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2079562469949776319",
+        "created_at": "2026-07-21T13:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079562469949776319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mugiwarasol_/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mugiwarasol_/status/2079555942450893040",
+              "start": 5,
+              "url": "https://t.co/1O8lzLVwBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079562469949776319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079555942450893040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浣行横道 https://t.co/1O8lzLVwBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079555910335188992"
+          ]
+        },
+        "author_id": "1717077167287508992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2079555942450893040",
+        "created_at": "2026-07-21T13:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079555942450893040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4R84PIKJY",
+              "end": 97,
+              "expanded_url": "https://x.com/mugiwarasol_/status/2079555942450893040/video/1",
+              "media_key": "13_2079555910335188992",
+              "start": 74,
+              "url": "https://t.co/I4R84PIKJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079555942450893040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 773,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "New footage of Jimothy casually strolling through the streets of Seattle. https://t.co/I4R84PIKJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 317,
+          "like_count": 11748,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:14:44.000Z",
+        "description": "degen",
+        "id": "1717077167287508992",
+        "name": "mitchie",
+        "pinned_tweet_id": "2079344851997364573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075273618557136896/yGg6K5dl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6411,
+          "following_count": 161,
+          "like_count": 2197,
+          "listed_count": 21,
+          "media_count": 1613,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "mugiwarasol_",
+        "verified": true
+      }
+    ]
+  }
+}

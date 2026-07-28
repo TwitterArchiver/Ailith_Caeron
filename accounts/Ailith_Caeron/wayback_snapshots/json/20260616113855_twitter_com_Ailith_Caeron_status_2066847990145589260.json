@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066847962115002368"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2066847990145589260",
+    "created_at": "2026-06-16T11:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066847990145589260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6YIehi5sVu",
+          "end": 29,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2066847990145589260/photo/1",
+          "media_key": "3_2066847962115002368",
+          "start": 6,
+          "url": "https://t.co/6YIehi5sVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066847990145589260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死傲娇小沈 https://t.co/6YIehi5sVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2066847962115002368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7rRVqa0AA_GyZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066847962115002368"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2066847990145589260",
+        "created_at": "2026-06-16T11:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066847990145589260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YIehi5sVu",
+              "end": 29,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2066847990145589260/photo/1",
+              "media_key": "3_2066847962115002368",
+              "start": 6,
+              "url": "https://t.co/6YIehi5sVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066847990145589260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死傲娇小沈 https://t.co/6YIehi5sVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 297,
+          "like_count": 11241,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2813
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

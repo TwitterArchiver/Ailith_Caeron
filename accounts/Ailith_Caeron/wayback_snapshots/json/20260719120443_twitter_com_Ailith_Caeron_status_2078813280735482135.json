@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2078799073789018312",
+    "created_at": "2026-07-19T12:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078813280735482135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078813280735482135",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078799073789018312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 👂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2078799063663910913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlgvAUaIAEUvdN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2078799073789018312",
+        "created_at": "2026-07-19T12:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078813280735482135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078813280735482135",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078799073789018312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 👂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078799063663910913"
+          ]
+        },
+        "author_id": "1892250799767449601",
+        "conversation_id": "2078799073789018312",
+        "created_at": "2026-07-19T11:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078799073789018312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfRNZ8ANrd",
+              "end": 50,
+              "expanded_url": "https://x.com/Huexley227/status/2078799073789018312/photo/1",
+              "media_key": "3_2078799063663910913",
+              "start": 27,
+              "url": "https://t.co/CfRNZ8ANrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078799073789018312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16岁谈入机恋，那机是不是就真的被迫变成炼铜术士了。 https://t.co/CfRNZ8ANrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 317,
+          "like_count": 11725,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 3026
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "则为你如花美眷，似水流年。是答儿闲寻遍。在幽闺自怜。",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069283100576665600/odq1Hlme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 368,
+          "like_count": 9474,
+          "listed_count": 0,
+          "media_count": 1063,
+          "tweet_count": 6033
+        },
+        "url": "",
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

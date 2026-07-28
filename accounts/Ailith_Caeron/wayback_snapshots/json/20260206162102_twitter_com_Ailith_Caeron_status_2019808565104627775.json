@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019808565104627775",
+    "created_at": "2026-02-06T16:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019808565104627775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019808565104627775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019799178788937985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: OpenAI内部目前表现出的状态，已经不能说是正常意义上的“分歧”或“管理风格不同”了。可以说是治理真空+员工角色边界塌陷的结果。这种现象在硅谷早期创业公司里偶有其事，但发生在一个号称要引领全球AI安全标准、负责“人类未来工具形态”的企业身上，已经…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019808565104627775",
+        "created_at": "2026-02-06T16:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019808565104627775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019808565104627775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019799178788937985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: OpenAI内部目前表现出的状态，已经不能说是正常意义上的“分歧”或“管理风格不同”了。可以说是治理真空+员工角色边界塌陷的结果。这种现象在硅谷早期创业公司里偶有其事，但发生在一个号称要引领全球AI安全标准、负责“人类未来工具形态”的企业身上，已经…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019799178788937985",
+        "created_at": "2026-02-06T15:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019799178788937985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019799178788937985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 858,
+                "start": 851,
+                "tag": "keep4o"
+              },
+              {
+                "end": 869,
+                "start": 859,
+                "tag": "4oforever"
+              },
+              {
+                "end": 941,
+                "start": 923,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 958,
+                "start": 942,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 969,
+                "start": 959,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 877,
+                "id": "4398626122",
+                "start": 870,
+                "username": "OpenAI"
+              },
+              {
+                "end": 883,
+                "id": "1605",
+                "start": 878,
+                "username": "sama"
+              },
+              {
+                "end": 896,
+                "id": "1262634631",
+                "start": 884,
+                "username": "nickaturley"
+              },
+              {
+                "end": 909,
+                "id": "1261374810254454784",
+                "start": 897,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 921,
+                "id": "6112332",
+                "start": 910,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI内部目前表现出的状态，已经不能说是正常意义上的“分歧”或“管理风格不同”了。可以说是治理真空+员工角色边界塌陷的结果。这种现象在硅谷早期创业公司里偶有其事，但发生在一个号称要引领全球AI安全标准、负责“人类未来工具形态”的企业身上，已经不是“混乱”可以描述的了，简直是治理失败。\n\n员工私下在社媒嘲讽用户，公开“玩4o死亡梗”的行为，属于是彻底模糊了员工身份与公司话语渠道的边界。哪怕是私人账号，受众接受时也会自动映射成“OpenAI对用户的真实态度”。这在任何一家品牌声誉敏感的公司都属于红线行为。但OpenAI非但没有内部约束机制，反而放任甚至默许。\n\n说明管理层：要么根本没意识到“员工舆论”已经成为官方PR的灰色通道。要么根本就不认为用户值得保护。很明显，是后者。\n\n当然，如今组织结构散乱的现象，Sam Altman自然是难辞其咎的。OpenAI是一个典型的强创始人制公司，Sam Altman个人几乎垄断了一切重大战略发言权和PR节奏，而其他CTO、安全团队、研究负责人基本游走于边缘。Sam自己也在X上长期以“随性”“非官方”的语气建立一种模糊人格，使得整个公司既没有严谨的PR体系，也没有内部话语统一机制。\n\n这就导致部分一线研究员/工程师把自己当成对公司叙事有解释权的“代表”，但又没有真正理解用户情绪或外部生态的“责任感”。以致现在这样：高层空转，基层放飞，用户成为泄压口。\n\n说得更直白一点，OpenAI从不真正把ChatGPT用户当作“客户”。它真正的客户是API企业级合作伙伴、政府、科研机构、风投人脉……而终端用户只是数据-测试样本-品牌建设辅助牛马。\n\n因此大家就会看到现如今：OpenAI不重视用户体验路径稳定性（频繁测试、实验性更新、Bug随缘修复、不告知切换模型），不设立负责任的用户反馈通道（论坛/社群冷处理、反馈无响应），不维护用户尊严边界（员工随意发言、mock用户、将问题归因为精神病）。\n\n这并非偶然，这是他们视角下“用户的地位就是这样”。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 647,
+          "like_count": 64,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI内部目前表现出的状态，已经不能说是正常意义上的“分歧”或“管理风格不同”了。可以说是治理真空+员工角色边界塌陷的结果。这种现象在硅谷早期创业公司里偶有其事，但发生在一个号称要引领全球AI安全标准、负责“人类未来工具形态”的企业身上，已经不是“混乱”可以描述的了，简直是治理失败。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 214,
+          "like_count": 9248,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1784
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 29,
+          "like_count": 1694,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 277
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

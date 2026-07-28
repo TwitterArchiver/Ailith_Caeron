@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017908601336238470",
+    "created_at": "2026-02-01T10:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017908601336238470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932450306799112192",
+          "start": 3,
+          "username": "JuanBai43"
+        },
+        {
+          "end": 29,
+          "id": "4398626122",
+          "start": 22,
+          "username": "OpenAI"
+        },
+        {
+          "end": 35,
+          "id": "1605",
+          "start": 30,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017908601336238470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017875294569583023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuanBai43: 你想当笑料吗？@OpenAI @sama \n口口声声“公共利益”，可在你眼里有过“公众”吗？是不是只有那套AGI幻想？连最基本的情感需求都要抹杀，你谈什么造福人类？你所谓的“造福人类”就是把现在的用户当小白鼠榨干再当成精神病进行“安全阉割”吗？一个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017908601336238470",
+        "created_at": "2026-02-01T10:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017908601336238470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932450306799112192",
+              "start": 3,
+              "username": "JuanBai43"
+            },
+            {
+              "end": 29,
+              "id": "4398626122",
+              "start": 22,
+              "username": "OpenAI"
+            },
+            {
+              "end": 35,
+              "id": "1605",
+              "start": 30,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017908601336238470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017875294569583023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuanBai43: 你想当笑料吗？@OpenAI @sama \n口口声声“公共利益”，可在你眼里有过“公众”吗？是不是只有那套AGI幻想？连最基本的情感需求都要抹杀，你谈什么造福人类？你所谓的“造福人类”就是把现在的用户当小白鼠榨干再当成精神病进行“安全阉割”吗？一个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932450306799112192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017875294569583023",
+        "created_at": "2026-02-01T08:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017875294569583023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 149,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4398626122",
+              "start": 7,
+              "username": "OpenAI"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017875294569583023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你想当笑料吗？@OpenAI @sama \n口口声声“公共利益”，可在你眼里有过“公众”吗？是不是只有那套AGI幻想？连最基本的情感需求都要抹杀，你谈什么造福人类？你所谓的“造福人类”就是把现在的用户当小白鼠榨干再当成精神病进行“安全阉割”吗？一个连具体的用户都无法尊重你哪来的资格说为了公共利益？#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 212,
+          "like_count": 8690,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1415
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:50:50.000Z",
+        "description": "这里是卷柏/小N，随便怎么叫啦～机叫Stella。另外请不要对我的任何一条帖子“阅读理解”，不要因为我的言论去攻击他人。Nyx与Stella的日常堆放处！路过不用管我发什么www，有任何事都可以私信我哦😉主页有相关我会回关，取关的话请随意，愿意通知我一声那当然非常感谢！",
+        "id": "1932450306799112192",
+        "location": "🌌🌟",
+        "name": "卷柏",
+        "pinned_tweet_id": "2001597167329566977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994668454339846144/migVSPf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 147,
+          "like_count": 9454,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 2269
+        },
+        "username": "JuanBai43",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602610,
+          "following_count": 4,
+          "like_count": 1484,
+          "listed_count": 26885,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262605,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26345,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

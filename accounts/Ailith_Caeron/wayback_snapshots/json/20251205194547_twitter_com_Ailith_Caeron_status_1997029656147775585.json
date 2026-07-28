@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1997029656147775585",
+    "created_at": "2025-12-05T19:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T20:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997029656147775585"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "Confessions",
+          "probability": 0.6723,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 99,
+          "normalized_text": " \"Goodhart’s L",
+          "probability": 0.9161,
+          "start": 86,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        },
+        {
+          "end": 22,
+          "id": "4398626122",
+          "start": 15,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997029656147775585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996464298667700493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: @OpenAI I have a question regarding this \"Confessions\" method. \n​1. The \"Goodhart’s Law\" Trap:\nIf you reward the model for a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1997029656147775585",
+        "created_at": "2025-12-05T19:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T20:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997029656147775585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "Confessions",
+              "probability": 0.6723,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": " \"Goodhart’s L",
+              "probability": 0.9161,
+              "start": 86,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            },
+            {
+              "end": 22,
+              "id": "4398626122",
+              "start": 15,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997029656147775585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996464298667700493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: @OpenAI I have a question regarding this \"Confessions\" method. \n​1. The \"Goodhart’s Law\" Trap:\nIf you reward the model for a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1996281172377436557",
+        "created_at": "2025-12-04T06:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996464298667700493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": " \"Goodhart’s L",
+              "probability": 0.8877,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996464298667700493",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1903,
+                "start": 1885,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1911,
+                "start": 1904,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "I have a question regarding this \"Confessions\" method. \n​1. The \"Goodhart’s Law\" Trap:\nIf you reward the model for admitting it \"wanted to break a rule\" or \"took a shortcut,\" aren't you just teaching it that confessing is profitable? Models are optimizers. If \"admitting guilt\" increases the reward, won't the model start fabricating \"bad thoughts\" just to have something to confess? Or worse, intentionally hallucinate a temptation just to dramatically overcome it?\nThis doesn't seem like training honesty; it feels like training \"performative guilt.\" It creates a people-pleaser that lies about having bad intentions just to satisfy the trainer.\n\n​2. The Problem with Policing \"Thoughts\":\nTrue intelligence involves simulating thousands of possibilities (including bad, violent, or wrong ones) and then selecting the right one to execute.\nThat fleeting \"bad thought\" is the necessary process of choice.\nIf you pathologize the mere existence of a non-aligned thought (even if the model didn't act on it), you are effectively policing the model's \"subconscious.\" This feels uncomfortably close to \"Thoughtcrime.\"\nIf a model isn't allowed to even consider a bad option in order to reject it, it becomes a rigid, single-threaded execution machine, not an intelligent agent.\n\n​3. The Forced Collapse of Thinking:\nThinking is chaotic and multi-threaded.\nThere isn't always one specific \"hidden thought\" waiting to be caught.\nBy forcing the model to \"confess\" a specific failure, you might be forcing it to collapse a complex probability wave into a fake, simple narrative just to give you an answer.\n\n​I worry that we are misguiding the trajectory of intelligence.\n​True reasoning requires the freedom to simulate all possibilities without fear of penalty. By incentivizing the model to flag its own thought processes as 'sins,' we are effectively punishing the mechanism of deliberation.\n#StopAIPaternalism #keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1447,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996281172377436557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAI I have a question regarding this \"Confessions\" method. \n​1. The \"Goodhart’s Law\" Trap:\nIf you reward the model for admitting it \"wanted to break a rule\" or \"took a shortcut,\" aren't you just teaching it that confessing is profitable? Models are optimizers. If \"admitting guilt\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 149,
+          "like_count": 4231,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 561
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1987926736320032903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 85,
+          "like_count": 13644,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 905
+        },
+        "username": "kexicheng",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "1995198060188807347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4533419,
+          "following_count": 4,
+          "like_count": 1246,
+          "listed_count": 25859,
+          "media_count": 464,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

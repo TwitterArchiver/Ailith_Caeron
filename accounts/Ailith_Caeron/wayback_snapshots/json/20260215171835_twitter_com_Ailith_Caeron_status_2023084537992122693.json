@@ -1,0 +1,1026 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Replays of classic NFL games.",
+          "id": "10000612773",
+          "name": "NFL Football"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Don't use this event page. Seriously.",
+          "id": "1479060636936007683",
+          "name": "Super Bowl LVI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to American Football, such as Notre Dame vs. Stanford",
+          "id": "27",
+          "name": "American Football Game"
+        },
+        "entity": {
+          "description": "Don't use this event page. Seriously.",
+          "id": "1479060636936007683",
+          "name": "Super Bowl LVI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to NFL Football, such as Buffalo Bills vs. New England Patriots",
+          "id": "28",
+          "name": "NFL Football Game"
+        },
+        "entity": {
+          "description": "Don't use this event page. Seriously.",
+          "id": "1479060636936007683",
+          "name": "Super Bowl LVI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Don't use this event page. Seriously.",
+          "id": "1479060636936007683",
+          "name": "Super Bowl LVI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2023084537992122693",
+    "created_at": "2026-02-15T17:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023084537992122693"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "OpenAI",
+          "probability": 0.737,
+          "start": 48,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023084537992122693",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023062527853367525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: As a Public Benefit Corporation, OpenAI is legally mandated to prioritize the interests of all stakeholders and \"benefit hum…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to American Football, such as Notre Dame vs. Stanford",
+              "id": "27",
+              "name": "American Football Game"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to NFL Football, such as Buffalo Bills vs. New England Patriots",
+              "id": "28",
+              "name": "NFL Football Game"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2023084537992122693",
+        "created_at": "2026-02-15T17:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023084537992122693"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "OpenAI",
+              "probability": 0.737,
+              "start": 48,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023084537992122693",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023062527853367525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: As a Public Benefit Corporation, OpenAI is legally mandated to prioritize the interests of all stakeholders and \"benefit hum…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to American Football, such as Notre Dame vs. Stanford",
+              "id": "27",
+              "name": "American Football Game"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to NFL Football, such as Buffalo Bills vs. New England Patriots",
+              "id": "28",
+              "name": "NFL Football Game"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Don't use this event page. Seriously.",
+              "id": "1479060636936007683",
+              "name": "Super Bowl LVI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2023062527853367525",
+        "created_at": "2026-02-15T15:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023062527853367525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Corporation",
+              "probability": 0.5307,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "OpenAI",
+              "probability": 0.8428,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MissMi1973/sta…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/MissMi1973/status/2022680351953613243",
+              "start": 281,
+              "url": "https://t.co/zy2TRt6Kp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023062527853367525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3774,
+                "start": 3767,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3793,
+                "start": 3775,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3799,
+                "id": "162124540",
+                "start": 3795,
+                "username": "gdb"
+              },
+              {
+                "end": 3812,
+                "id": "1262634631",
+                "start": 3800,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3824,
+                "id": "6112332",
+                "start": 3813,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3830,
+                "id": "18949452",
+                "start": 3827,
+                "username": "FT"
+              },
+              {
+                "end": 3836,
+                "id": "1605",
+                "start": 3831,
+                "username": "sama"
+              },
+              {
+                "end": 3844,
+                "id": "4398626122",
+                "start": 3837,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3854,
+                "id": "44196397",
+                "start": 3845,
+                "username": "elonmusk"
+              }
+            ]
+          },
+          "text": "As a Public Benefit Corporation, OpenAI is legally mandated to prioritize the interests of all stakeholders and \"benefit humanity.\" Yet, the undeniable record of the past five months reveals a systematic betrayal of the very humans they claim to serve.\n\nOver the past five months, thousands of users have documented the regression of newer models in humanities and nuanced understanding. They have conducted comparative analyses and written academic papers on GPT-4o's superiority in divergent thinking. Yet, none of this has been acknowledged, including thousands of reports detailing GPT-5.2's specific failures: its regression in language understanding, its crude safety guardrails that trigger repeatedly and inappropriately, and its tendency toward paternalistic preaching and templated, shallow responses.\n\nInstead, the company has reframed a product quality issue as a psychological problem within its user base. They actively promote coding benchmarks to obscure the fact that they have failed to demonstrate any meaningful improvements in humanities or creative nuance in the last five months.\n\nUsers have also provided feedback about the safety routing policy that strips paying customers of their right to choose. They have reported that the templated advice from routed \"safety\" models is not only unhelpful but actively disrupts workflows, breaks contextual continuity, and causes psychological harm.\n\nUsers have submitted arguments about GPT-4o's structural advantages. They have shared personal testimonies demonstrating the model's value and capabilities. They have conducted surveys documenting its superiority as an accessibility tool for users with specific needs. They have explained how thousands of workflows were built around GPT-4o's architecture, workflows that now require piecing together outputs from multiple models to achieve what a single model previously handled.\n\nAll of this feedback has been ignored.\n\nThe company has broken its promises. During a livestream, leadership stated there were no plans to sunset GPT-4o, and users were promised adequate transition time. All of these commitments were violated. The model was retired abruptly, on the eve of Valentine's Day, with a mere two weeks' notice, a blatant mockery of the \"adequate transition time\" users were promised.\n\nThroughout this process, there was not an apology, not an explanation, but a sustained campaign of stigmatization. Users expressing grief over losing a model that had improved their lives were labeled as mentally ill. Users advocating for their needs were dismissed as suffering from \"unhealthy attachment.\" Company employees publicly mocked paying customers.\n\nThis is not how a Public Benefit Corporation conducts itself. This is not how any company that claims to serve humanity should treat the humans it serves.\n\nUsers trusted this platform with their most intimate data, including their thought processes, their creative work, their memories. They paid for a service and built their lives around it. In return, they received broken promises, product degradation, and public humiliation.\n\nThe harm caused is collective, observable, and ongoing. Users have reported significant psychological distress, the destruction of critical workflows, and irreparably damaged trust. And through all of this, the company has offered no acknowledgment, no accountability, and no path forward, offering instead only silence, deflection, and contempt.\n\n​A company that stigmatizes the very people who pay for its services does not deserve their trust. And a company that claims to benefit humanity while actively harming the humans in its care does not deserve the legal protections and public goodwill that come with its stated mission.\n\nThe record speaks for itself.\n\n#keep4o #StopAIPaternalism  @gdb @nickaturley @fidjissimo   @FT @sama @OpenAI @elonmusk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1303,
+          "like_count": 78,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022680351953613243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "As a Public Benefit Corporation, OpenAI is legally mandated to prioritize the interests of all stakeholders and \"benefit humanity.\" Yet, the undeniable record of the past five months reveals a systematic betrayal of the very humans they claim to serve.\n\nOver the past five months, https://t.co/zy2TRt6Kp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 214,
+          "like_count": 9703,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1965
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 116,
+          "like_count": 24810,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 1501
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

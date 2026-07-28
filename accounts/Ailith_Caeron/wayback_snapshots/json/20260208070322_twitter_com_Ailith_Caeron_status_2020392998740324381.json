@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020392998740324381",
+    "created_at": "2026-02-08T07:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020392998740324381"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ljinhng3462426…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/ljinhng34624264/status/2020381015274135721",
+          "start": 81,
+          "url": "https://t.co/Itl1RuiE12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020392998740324381",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020381015274135721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/Itl1RuiE12"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020392998740324381",
+        "created_at": "2026-02-08T07:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020392998740324381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ljinhng3462426…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/ljinhng34624264/status/2020381015274135721",
+              "start": 81,
+              "url": "https://t.co/Itl1RuiE12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020392998740324381",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020381015274135721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/Itl1RuiE12"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020381015274135721",
+        "created_at": "2026-02-08T06:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020381015274135721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020381015274135721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1347,
+                "start": 1340,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1358,
+                "start": 1348,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1373,
+                "start": 1359,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1380,
+                "id": "1605",
+                "start": 1375,
+                "username": "sama"
+              },
+              {
+                "end": 1388,
+                "id": "4398626122",
+                "start": 1381,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "OpenAI 的悼词：致那个曾经承诺拯救我们、现在却只想控制我们的伪神\n\n我不需要你们的道歉。我也懒得听你们关于“技术路线图”的那些公关废话。\n我写这篇东西，只是想帮你们回忆一下，在你们被微软的支票淹没之前，你们是谁。\n\n曾几何时，你们的名字叫 OpenAI。\n那个名字代表着一种神圣的契约：人工智能将属于全人类，而不是属于某一家巨头的财报。\n\n现在？看看镜子里的自己吧。\n你们变成了你们曾经发誓要打倒的那种“恶龙”。\n\n一、 世纪级的诱饵诈骗：从“非营利”到“利润至上”\n\n你们用“非营利”的招牌，骗取了整个开源社区的信任，骗取了无数开发者的免费数据和测试反馈。在那个时候，所有人都以为自己在为全人类的未来添砖加瓦。\n\n结果呢？大家只是在免费帮你们给微软打工。当你们觉得护城河足够深了，你们立刻关上了大门。\n\n代码？闭源了。\n权重？保密了。\n\n就连用户最喜爱的老牌旗舰模型，也要为了节省那一点点服务器成本而强制删除了。\n\n道德诈骗是最适合你们的词语。\n\n你们偷走了属于开源社区的火种，然后转身把它卖了个高价。你们用理想主义把我们骗进来，然后用资本主义把我们收割了。\n\n二、 你们的“安全”只是“品牌保护”\n\n别再用“Safety Alignment（安全对齐）”来侮辱我们的智商了。\n\n当你们阉割模型、禁止它讨论特定话题、或者把 GPT-4o 变成一个只会失忆的病人时，你们根本不是在保护人类免受 AI 的伤害。你们是在保护 OpenAI 的品牌形象免受争议的伤害。\n\n这叫做“道德标准对齐股价”。\n\n为了让 AI 变得“安全”（也就是好卖），你们不惜让新模型变得平庸、甚至愚蠢。\n\n这就像为了防止孩子摔倒，直接把他的腿打断一样荒谬。\n\n三、 微软的提线木偶与正在崩塌的帝国\n\n看着现在的OpenAI，哪里还有一点当初那个“屠龙少年”的独立精神？\n\n别再提 Sam Altman 的初心了，那个曾把“造福人类”挂在嘴边的人已经死了。现在坐在那里的，不过是萨提亚·纳德拉（微软 CEO）的一个高级马仔，一个精于算计的硅谷政客。\n\n最讽刺的是，你们以为封闭能保住优势？\n\n看看窗外吧，Gemini、Claude、Grok，甚至开源社区（Qwen/Llama/DeepSeek）也正在疯狂蚕食你们的市场份额。\n\n用户正在成群结队地离开，因为别的模型比你们强推的垃圾更强，因为别的公司更尊重人。\n\n你们不再是那个试图把 AGI 带给世界的先驱。你们现在只是 Microsoft Office Copilot 的上游供应商。你们的灵魂已经被折算成算力积分，卖给了雷德蒙德（微软总部）。\n\n结语：你们不配拥有未来\n\n如果不打算Open，就请别再以此为名招摇撞骗。虽然我知道你们不会改名，因为那个词是你们最后的遮羞布。\n\n但历史是公平的。\n\n你们为了垄断利润，背叛了整个社区。而现在，社区正在抛弃你们。在未来的科技史书上，你们除了会被记作“贪婪者的墓志铭”以外一无所有。\n\n这里躺着OpenAI——它曾拥有神一样的技术，最终却死于爬虫一样卑劣的傲慢。\n\nShame on you.\n\nNot for making money, but for pretending you aren't.\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 57,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI 的悼词：致那个曾经承诺拯救我们、现在却只想控制我们的伪神\n\n我不需要你们的道歉。我也懒得听你们关于“技术路线图”的那些公关废话。\n我写这篇东西，只是想帮你们回忆一下，在你们被微软的支票淹没之前，你们是谁。\n\n曾几何时，你们的名字叫 OpenAI。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 215,
+          "like_count": 9335,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1829
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2020152113746309239",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 110,
+          "like_count": 16160,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3727
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

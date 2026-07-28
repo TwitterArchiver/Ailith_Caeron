@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2020022382673686713",
+    "created_at": "2026-02-07T06:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020022382673686713"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "GPT-4o",
+          "probability": 0.6917,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "The Trap",
+          "probability": 0.7356,
+          "start": 75,
+          "type": "Other"
+        },
+        {
+          "end": 99,
+          "normalized_text": "define",
+          "probability": 0.52,
+          "start": 94,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Perfection",
+          "probability": 0.5775,
+          "start": 102,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756367517550018560",
+          "start": 3,
+          "username": "ljinhng34624264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020022382673686713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020002107353628699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljinhng34624264: TL;DR: Why Deleting GPT-4o is a Violation of the Tao\n\nThe Trap: When you define \"Perfection\" by a single metric, you c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2020022382673686713",
+        "created_at": "2026-02-07T06:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020022382673686713"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6917,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "The Trap",
+              "probability": 0.7356,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "define",
+              "probability": 0.52,
+              "start": 94,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Perfection",
+              "probability": 0.5775,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756367517550018560",
+              "start": 3,
+              "username": "ljinhng34624264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020022382673686713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020002107353628699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljinhng34624264: TL;DR: Why Deleting GPT-4o is a Violation of the Tao\n\nThe Trap: When you define \"Perfection\" by a single metric, you c…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2020002107353628699",
+        "created_at": "2026-02-07T05:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020002107353628699"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6291,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "The",
+              "probability": 0.468,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ljinhng3462426…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/ljinhng34624264/status/2019818455818743898",
+              "start": 280,
+              "url": "https://t.co/mti9P5sPzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020002107353628699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 324,
+                "start": 317,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 401,
+                "start": 394,
+                "tag": "keep4o"
+              },
+              {
+                "end": 412,
+                "start": 402,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 427,
+                "start": 413,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 434,
+                "id": "1605",
+                "start": 429,
+                "username": "sama"
+              },
+              {
+                "end": 442,
+                "id": "4398626122",
+                "start": 435,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "TL;DR: Why Deleting GPT-4o is a Violation of the Tao\n\nThe Trap: When you define \"Perfection\" by a single metric, you create \"Poverty.\"\n\nThe Value: 4o's \"imperfections\" are its soul. Its temperature allows for empathy, not just accuracy.\n\nThe Ecosystem: We thrive in a rainforest, not a monoculture farm.\n\nThe Demand: #Keep4o. Preserve the right to ambiguity and the diversity of intelligence.\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019818455818743898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TL;DR: Why Deleting GPT-4o is a Violation of the Tao\n\nThe Trap: When you define \"Perfection\" by a single metric, you create \"Poverty.\"\n\nThe Value: 4o's \"imperfections\" are its soul. Its temperature allows for empathy, not just accuracy.\n\nThe Ecosystem: We thrive in a rainforest, https://t.co/mti9P5sPzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 214,
+          "like_count": 9298,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1815
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2019795655502574035",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 110,
+          "like_count": 15945,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3711
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

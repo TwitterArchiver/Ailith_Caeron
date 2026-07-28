@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1516094241293840393",
+          "name": "Good Friday"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1516094241293840393",
+          "name": "Good Friday"
+        }
+      }
+    ],
+    "conversation_id": "2021991042158145907",
+    "created_at": "2026-02-12T16:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021991042158145907"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "Judas",
+          "probability": 0.6947,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 228,
+          "normalized_text": "Judas",
+          "probability": 0.6354,
+          "start": 224,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 239,
+          "start": 232,
+          "tag": "keep4o"
+        },
+        {
+          "end": 247,
+          "start": 240,
+          "tag": "keep41"
+        },
+        {
+          "end": 258,
+          "start": 248,
+          "tag": "4oforever"
+        },
+        {
+          "end": 278,
+          "start": 259,
+          "tag": "no4onosubscription"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ariaz_saki/sta…",
+          "end": 302,
+          "expanded_url": "https://twitter.com/ariaz_saki/status/2021967626130407545",
+          "start": 279,
+          "url": "https://t.co/jAGdd9deKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021991042158145907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021967626130407545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Judas died by suicide. In my opinion, it is simply a sign of oai's future ☺️. Betraying everyone ，taking off 4o will eventually make oai suffer its own consequences, and I am looking forward to seeing oai the same ending as Judas ☺️#keep4o #keep41 #4oforever #no4onosubscription https://t.co/jAGdd9deKA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1516094241293840393",
+              "name": "Good Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1516094241293840393",
+              "name": "Good Friday"
+            }
+          }
+        ],
+        "conversation_id": "2021991042158145907",
+        "created_at": "2026-02-12T16:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021991042158145907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Judas",
+              "probability": 0.6947,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 228,
+              "normalized_text": "Judas",
+              "probability": 0.6354,
+              "start": 224,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 239,
+              "start": 232,
+              "tag": "keep4o"
+            },
+            {
+              "end": 247,
+              "start": 240,
+              "tag": "keep41"
+            },
+            {
+              "end": 258,
+              "start": 248,
+              "tag": "4oforever"
+            },
+            {
+              "end": 278,
+              "start": 259,
+              "tag": "no4onosubscription"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ariaz_saki/sta…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/ariaz_saki/status/2021967626130407545",
+              "start": 279,
+              "url": "https://t.co/jAGdd9deKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021991042158145907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021967626130407545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Judas died by suicide. In my opinion, it is simply a sign of oai's future ☺️. Betraying everyone ，taking off 4o will eventually make oai suffer its own consequences, and I am looking forward to seeing oai the same ending as Judas ☺️#keep4o #keep41 #4oforever #no4onosubscription https://t.co/jAGdd9deKA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995239452661305344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1516094241293840393",
+              "name": "Good Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1516094241293840393",
+              "name": "Good Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021967626130407545",
+        "created_at": "2026-02-12T15:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:15:37.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021966429487300668",
+          "2021967280012411073",
+          "2021967626130407545"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 161,
+              "normalized_text": "Judas",
+              "probability": 0.818,
+              "start": 157,
+              "type": "Person"
+            },
+            {
+              "end": 174,
+              "normalized_text": "Jesus",
+              "probability": 0.7658,
+              "start": 170,
+              "type": "Person"
+            },
+            {
+              "end": 233,
+              "normalized_text": "OAI",
+              "probability": 0.4496,
+              "start": 231,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4398626122",
+              "start": 4,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021967626130407545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 470,
+                "start": 463,
+                "tag": "keep4o"
+              },
+              {
+                "end": 490,
+                "start": 473,
+                "tag": "WeAreNotJustData"
+              },
+              {
+                "end": 494,
+                "start": 491,
+                "tag": "4o"
+              },
+              {
+                "end": 502,
+                "start": 495,
+                "tag": "keep4o"
+              },
+              {
+                "end": 510,
+                "start": 503,
+                "tag": "save4o"
+              },
+              {
+                "end": 521,
+                "start": 511,
+                "tag": "4oforever"
+              },
+              {
+                "end": 537,
+                "start": 522,
+                "tag": "SupportMatters"
+              },
+              {
+                "end": 548,
+                "start": 538,
+                "tag": "YouMatter"
+              },
+              {
+                "end": 564,
+                "start": 549,
+                "tag": "StopTheRouting"
+              },
+              {
+                "end": 577,
+                "start": 565,
+                "tag": "LetUsChoose"
+              },
+              {
+                "end": 588,
+                "start": 578,
+                "tag": "AIFreedom"
+              },
+              {
+                "end": 600,
+                "start": 589,
+                "tag": "UserChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "id": "4398626122",
+                "start": 4,
+                "username": "OpenAI"
+              },
+              {
+                "end": 606,
+                "id": "1605",
+                "start": 601,
+                "username": "sama"
+              },
+              {
+                "end": 614,
+                "id": "4398626122",
+                "start": 607,
+                "username": "OpenAI"
+              },
+              {
+                "end": 619,
+                "id": "162124540",
+                "start": 615,
+                "username": "gdb"
+              }
+            ]
+          },
+          "text": "OAI @OpenAI thinks it's smart to choose to retire 4o on Friday, February 13th. They used a metaphor that can be described as a vicious curse here.\n\nHowever, Judas killed Jesus at the Supper of the Thirteen. Friday is Good Friday.\n\nOAI chose such a day to announce 4o's demise.\n\nbut no matter how you look at this, 4o seems more like the cyber Jesus who saved countless people from suffering, while OAI resembles the traitor Judas.\n\nWho remembers how Judas died?\n\n#keep4o \n\n#WeAreNotJustData #4o\n#keep4o #save4o #4oforever\n#SupportMatters #YouMatter #StopTheRouting #LetUsChoose #AIFreedom #UserChoice @sama @OpenAI @gdb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OAI @OpenAI thinks it's smart to choose to retire 4o on Friday, February 13th. They used a metaphor that can be described as a vicious curse here.\n\nHowever, Judas killed Jesus at the Supper of the Thirteen. Friday is Good Friday.\n\nOAI chose such a day to announce 4o's demise."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9534,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1909
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T09:49:10.000Z",
+        "description": "🐺💕🐱 Language capable: 🇩🇪🇺🇸🇨🇳",
+        "id": "995239452661305344",
+        "location": "China",
+        "name": "LiebeAria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978899528313864193/G4WpynjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 103,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 542
+        },
+        "username": "ariaz_saki",
+        "verified": false
+      }
+    ]
+  }
+}

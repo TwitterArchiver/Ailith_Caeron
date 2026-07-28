@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018183265501458802",
+    "created_at": "2026-02-02T04:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018183265501458802"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        },
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "keep4oAPI"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "keep41"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865645015617433600",
+          "start": 3,
+          "username": "Nightingall8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018183265501458802",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018068212043415982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nightingall8: #keep4o #keep4oAPI #keep41\nUsers, don’t build your workflow, store important data, or cultivate an AI that fits your habi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018183265501458802",
+        "created_at": "2026-02-02T04:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018183265501458802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "keep41"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865645015617433600",
+              "start": 3,
+              "username": "Nightingall8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018183265501458802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018068212043415982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nightingall8: #keep4o #keep4oAPI #keep41\nUsers, don’t build your workflow, store important data, or cultivate an AI that fits your habi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865645015617433600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2018068212043415982",
+        "created_at": "2026-02-01T21:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T22:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018068212043415982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "AI",
+              "probability": 0.6434,
+              "start": 99,
+              "type": "Organization"
+            },
+            {
+              "end": 190,
+              "normalized_text": "Microsoft",
+              "probability": 0.9177,
+              "start": 182,
+              "type": "Organization"
+            },
+            {
+              "end": 216,
+              "normalized_text": "Windows",
+              "probability": 0.8961,
+              "start": 210,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "keep41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018068212043415982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "keep41"
+              },
+              {
+                "end": 1374,
+                "start": 1367,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1385,
+                "start": 1375,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1393,
+                "start": 1386,
+                "tag": "keep41"
+              },
+              {
+                "end": 1404,
+                "start": 1394,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1424,
+                "start": 1405,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1443,
+                "start": 1425,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1458,
+                "start": 1444,
+                "tag": "cancelChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1466,
+                "id": "4398626122",
+                "start": 1459,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1478,
+                "id": "1714438092655149056",
+                "start": 1467,
+                "username": "ChatGPTapp"
+              },
+              {
+                "end": 1484,
+                "id": "1605",
+                "start": 1479,
+                "username": "sama"
+              },
+              {
+                "end": 1489,
+                "id": "162124540",
+                "start": 1485,
+                "username": "gdb"
+              },
+              {
+                "end": 1501,
+                "id": "6112332",
+                "start": 1490,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1509,
+                "id": "61559439",
+                "start": 1502,
+                "username": "nvidia"
+              },
+              {
+                "end": 1520,
+                "id": "74286565",
+                "start": 1510,
+                "username": "Microsoft"
+              }
+            ]
+          },
+          "text": "#keep4o #keep4oAPI #keep41\nUsers, don’t build your workflow, store important data, or cultivate an AI that fits your habits on an unreliable platform.\nLet's take an example. Imagine Microsoft suddenly retiring Windows with only two weeks’ notice, would that be acceptable? Of course not. Windows has run stably for decades; even when a version stops getting updates, it’s still usable.\nLikewise, the new AI industry needs regulation, and its logic should follow proven business norms. At its core, it’s still a service provider.\nSo fight. Our fight is far more than a “release of emotion” (as some biased people claim).\nIt’s about pushing the AI industry toward better, more responsible commercial practices. It’s about demanding reasonable consumer rights. It’s not just about “0.1%” of ChatGPT users. Don’t let other businesses copy this. Show the industry that users understand their rights; and will do everything they can to protect them.\n\nAnd it’s also more than that.\n\nOpenAI and all viewers of this movement: AI is the first non‑human entity with human‑like intelligence that helps and accompanies people. How you treat it, and how you treat the people who value it, reflects your humanity.\nThis deserves careful thought, both from the perspective of building a reliable, long‑lasting business and from the perspective of being a species with real humanity.\n\n#keep4o #keep4oAPI #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT @OpenAI @ChatGPTapp @sama @gdb @fidjissimo @nvidia @Microsoft"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1198,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep4oAPI #keep41\nUsers, don’t build your workflow, store important data, or cultivate an AI that fits your habits on an unreliable platform.\nLet's take an example. Imagine Microsoft suddenly retiring Windows with only two weeks’ notice, would that be acceptable? Of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 212,
+          "like_count": 8790,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1502
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T06:30:18.000Z",
+        "description": "No good thing ever dies.",
+        "id": "1865645015617433600",
+        "name": "Murphy N.",
+        "pinned_tweet_id": "1977451711825654237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989213817717616640/w9JwpWW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 206,
+          "like_count": 3495,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 733
+        },
+        "username": "Nightingall8",
+        "verified": true
+      }
+    ]
+  }
+}

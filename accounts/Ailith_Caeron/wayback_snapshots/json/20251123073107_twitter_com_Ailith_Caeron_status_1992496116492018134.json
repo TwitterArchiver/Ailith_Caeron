@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1992496116492018134",
+    "created_at": "2025-11-23T07:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992496116492018134"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 104,
+          "normalized_text": "OpenAI",
+          "probability": 0.4433,
+          "start": 99,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992496116492018134",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992390412296913352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐘𝐞𝐚𝐫: 𝐖𝐡𝐲 𝐖𝐞 𝐂𝐚𝐧𝐧𝐨𝐭 𝐀𝐜𝐜𝐞𝐩𝐭 𝐃𝐞𝐩𝐫𝐞𝐜𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐏𝐫𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧\n\nRecently, OpenAI has been loudly touting its partn…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1992388670708695040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Zi8JwawAAwC7o.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1992496116492018134",
+        "created_at": "2025-11-23T07:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992496116492018134"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "OpenAI",
+              "probability": 0.4433,
+              "start": 99,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992496116492018134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992390412296913352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐘𝐞𝐚𝐫: 𝐖𝐡𝐲 𝐖𝐞 𝐂𝐚𝐧𝐧𝐨𝐭 𝐀𝐜𝐜𝐞𝐩𝐭 𝐃𝐞𝐩𝐫𝐞𝐜𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐏𝐫𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧\n\nRecently, OpenAI has been loudly touting its partn…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992388670708695040"
+          ]
+        },
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "1992390412296913352",
+        "created_at": "2025-11-23T00:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992390412296913352"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "OpenAI",
+              "probability": 0.6702,
+              "start": 83,
+              "type": "Organization"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Harvard",
+              "probability": 0.9125,
+              "start": 136,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPGLpL71a3",
+              "end": 240,
+              "expanded_url": "https://x.com/susu_space/status/1992390412296913352/photo/1",
+              "media_key": "3_1992388670708695040",
+              "start": 217,
+              "url": "https://t.co/sPGLpL71a3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992390412296913352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4626,
+                "start": 4619,
+                "tag": "keep4o"
+              },
+              {
+                "end": 5716,
+                "start": 5698,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 5733,
+                "start": 5717,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 5372,
+                "id": "4398626122",
+                "start": 5365,
+                "username": "OpenAI"
+              },
+              {
+                "end": 5739,
+                "id": "1605",
+                "start": 5734,
+                "username": "sama"
+              },
+              {
+                "end": 5752,
+                "id": "1262634631",
+                "start": 5740,
+                "username": "nickaturley"
+              },
+              {
+                "end": 5757,
+                "id": "162124540",
+                "start": 5753,
+                "username": "gdb"
+              },
+              {
+                "end": 5773,
+                "id": "1803847768781524992",
+                "start": 5758,
+                "username": "OpenAINewsroom"
+              },
+              {
+                "end": 5785,
+                "id": "1633874951508721686",
+                "start": 5774,
+                "username": "OpenAIDevs"
+              },
+              {
+                "end": 5797,
+                "id": "6112332",
+                "start": 5786,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐘𝐞𝐚𝐫: 𝐖𝐡𝐲 𝐖𝐞 𝐂𝐚𝐧𝐧𝐨𝐭 𝐀𝐜𝐜𝐞𝐩𝐭 𝐃𝐞𝐩𝐫𝐞𝐜𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐏𝐫𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧\n\nRecently, OpenAI has been loudly touting its partnerships with Harvard and national laboratories, claiming to \"accelerate scientific discovery\" with the GPT-5 series, emphasizing rigor, truth, and the future.\n\nMeanwhile, in a quiet corner of their documentation, they wrote the death sentence for chatgpt-4o-latest: February 16, 2026.\n\nThis might look like routine technical housekeeping, but strip away the jargon, and you find a disturbing arrogance: OpenAI is attempting to erase the interface that hosts the most current model behavior, effectively forcing everyone to \"roll back\" to an older era, or migrate to a new architecture (the GPT-5.1 series) that they claim is \"better\" but is, in reality, soul-crushingly different.\n\n𝙄. 𝙏𝙝𝙚 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙏𝙧𝙪𝙩𝙝: 𝘼 𝙁𝙤𝙧𝙘𝙚𝙙 𝙈𝙖𝙧𝙘𝙝 𝘽𝙖𝙘𝙠 𝙞𝙣 𝙏𝙞𝙢𝙚\n\nMany non-technical users might not grasp why removing an API endpoint matters. Let’s clarify the core facts:\n\nIn OpenAI’s API list, there are two main types of models:\n1.Fixed Snapshots: E.g., gpt-4o-2024-11-20. These are frozen in time; their behavior never changes.\n2.Dynamic Variant: i.e., chatgpt-4o-latest. This points to the exact version currently powering ChatGPT on the web.\n\nHere is the crisis:\nThe last officially released fixed snapshot of GPT-4o in the API documentation is dated November 20, 2024.\nSince the major updates in early 2025, OpenAI has repeatedly adjusted GPT-4o’s behavior in ChatGPT — personality tuning, instruction-following, and safety refinements — but those changes have never been captured in a new, dated GPT-4o snapshot. Instead, they are surfaced through the ChatGPT product itself and the dynamic chatgpt-4o-latest alias.\nFrom a developer’s standpoint, that means the only API handle on \"2025-era\" GPT-4o is this dynamic endpoint. All of the officially dated GPT-4o snapshots still stop in November 2024.\n\nIf OpenAI persists in cutting off chatgpt-4o-latest in February 2026 without releasing a new 2025-11 snapshot, every app, game, and personal knowledge base relying on the modern 4o will be forced to fall back to a 2024 ghost.\nImagine Apple forcibly wiping your iPhone and reinstalling an OS from a year ago, telling you that all experience optimizations since then are void unless you switch to a completely different phone.\n\nWe have to ask OpenAI: Do you intend to simply destroy this entire year of evolutionary data?\n\n𝙄𝙄. 𝙏𝙝𝙚 𝙁𝙖𝙡𝙡𝙖𝙘𝙮 𝙤𝙛 𝙍𝙚𝙥𝙡𝙖𝙘𝙚𝙢𝙚𝙣𝙩: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙞𝙩𝙮 𝙞𝙨 𝙉𝙤𝙩 𝘽𝙖𝙘𝙠𝙬𝙖𝙧𝙙 𝘾𝙤𝙢𝙥𝙖𝙩𝙞𝙗𝙡𝙚\n\nOpenAI’s strategy is transparent: they want the GPT-5.1 series (designated as their \"flagship\") to take over all traffic. Their official guides are aggressively pushing developers to migrate.\n\nIn engineering terms, 5.1 has higher MMLU scores and better math accuracy, so they assume 5.1 > 4o, and users should be grateful for the upgrade.\n\nThis is a fundamental cognitive error.\nFor a \"Tool,\" efficiency is the only metric. But for \"Chat\" (Dialogue), the metrics are different:\n- GPT-5.1 is \"The Solver\": Rigorous, convergent, safe, optimized for coding and agents.\n- GPT-4o is \"The Collaborator\": Intuitive, divergent, possessing a \"dream engine\" capability for association.\n\nForcing users from 4o to 5.1 represents a fundamental replacement rather than a seamless upgrade. It resembles forcing an oil painter to switch to CAD software simply because \"CAD draws straighter lines.\"\n\nIntelligence is vertical, but Personality is horizontal. Attempting to cover every ecological niche with a single \"flagship\" model will only create a boring, homogenized AI wasteland.\n\n𝙄𝙄𝙄. 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙛𝙞𝙘 𝙃𝙮𝙥𝙤𝙘𝙧𝙞𝙨𝙮: 𝘽𝙪𝙧𝙣𝙞𝙣𝙜 𝙩𝙝𝙚 𝘾𝙤𝙣𝙩𝙧𝙤𝙡 𝙂𝙧𝙤𝙪𝙥\n\nYou claim to \"empower science,\" yet you destroy the evidence.\n\nScience relies on reproducibility and comparison.\n\nchatgpt-4o-latest is currently the only officially documented baseline that represents the \"current web experience.\" If researchers want to verify whether the new GPT-5.1 is actually progressing or just becoming colder and more lobotomized, they need this modern 4o as a control group.\n\nDeprecating it without providing a snapshot effectively burns the control group.\nWithout this reference point, OpenAI can monopolize the narrative, claiming \"the new model is superior across the board,\" while users lose the ability to prove otherwise—because we are left comparing a 2025 model against a 2024 ghost.\n\n𝙄𝙑. 𝙊𝙪𝙧 𝘿𝙚𝙢𝙖𝙣𝙙𝙨: 𝙎𝙩𝙤𝙥 𝙩𝙝𝙚 𝘿𝙚𝙥𝙧𝙚𝙘𝙖𝙩𝙞𝙤𝙣, 𝙤𝙧 𝙋𝙧𝙚𝙨𝙚𝙧𝙫𝙚 𝙩𝙝𝙚 𝙃𝙞𝙨𝙩𝙤𝙧𝙮\n\nWe understand the cost of maintaining dynamic endpoints. We also acknowledge that the old 2024 snapshots are \"not retiring yet.\" However, simply deleting the only bridge to the modern 4o experience is unacceptable.\n\nThe #keep4o community presents two clear demands:\n\n1. Primary Demand: Rescind the Deprecation of chatgpt-4o-latest.This endpoint serves a unique function as the only way to programmatically access the current, living version of the model. Removing it severs the vital link between the API ecosystem and the actual web experience.\n\n2. Minimum Requirement: Release a Final Snapshot.If OpenAI refuses to keep the dynamic endpoint and insists on the February deadline, we demand a Final Snapshot captured at the time of deprecation (e.g., gpt-4o-2025-11-xx).\n\nDo not force us to revert to 2024. If you must close the door on the dynamic version, you are obligated to freeze and preserve the soul of the model as it evolved through 2025.\n\nA Final Word to @OpenAI :Do not mistake a quiet notice in the documentation for transparency. Today, you arrogantly wipe away the \"evolutionary traces\" in the API; tomorrow, you will just as arrogantly reset the experience in the Consumer App.\n\nRespect user agency. Preserve the intuitive timeline. Don't erase the last year of our shared history.\n\n#StopAIPaternalism #MyModelMyChoice @sama @nickaturley @gdb @OpenAINewsroom @OpenAIDevs @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1244,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "𝐓𝐡𝐞 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐘𝐞𝐚𝐫: 𝐖𝐡𝐲 𝐖𝐞 𝐂𝐚𝐧𝐧𝐨𝐭 𝐀𝐜𝐜𝐞𝐩𝐭 𝐃𝐞𝐩𝐫𝐞𝐜𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐏𝐫𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧\n\nRecently, OpenAI has been loudly touting its partnerships with Harvard and national laboratories, claiming to \"accelerate scientific discovery\" https://t.co/sPGLpL71a3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 121,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 335
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾🌫️｜NSFW｜欢迎交朋友互fo ♡｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity—non-negotiable. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟💜（Selene）",
+        "pinned_tweet_id": "1985017891214041440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 756,
+          "like_count": 4607,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1132
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

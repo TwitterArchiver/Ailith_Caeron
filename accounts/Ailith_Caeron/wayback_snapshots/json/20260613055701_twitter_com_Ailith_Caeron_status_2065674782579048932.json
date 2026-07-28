@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2065488183333388598",
+    "created_at": "2026-06-13T05:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065674782579048932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1337435613142736906",
+          "start": 0,
+          "username": "1379Eto"
+        },
+        {
+          "end": 25,
+          "id": "1917431253995053056",
+          "start": 9,
+          "username": "CloudSantal4Pei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065674782579048932",
+    "in_reply_to_user_id": "1337435613142736906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065590835736113296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1379Eto @CloudSantal4Pei 是鸭嘴兽的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2065488183333388598",
+        "created_at": "2026-06-13T05:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065674782579048932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1337435613142736906",
+              "start": 0,
+              "username": "1379Eto"
+            },
+            {
+              "end": 25,
+              "id": "1917431253995053056",
+              "start": 9,
+              "username": "CloudSantal4Pei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065674782579048932",
+        "in_reply_to_user_id": "1337435613142736906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065590835736113296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1379Eto @CloudSantal4Pei 是鸭嘴兽的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337435613142736906",
+        "conversation_id": "2065488183333388598",
+        "created_at": "2026-06-13T00:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065590835736113296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            },
+            {
+              "end": 31,
+              "id": "1917431253995053056",
+              "start": 15,
+              "username": "CloudSantal4Pei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590835736113296",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065490136012628385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron @CloudSantal4Pei 是冰爆的芭乐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 296,
+          "like_count": 11156,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2787
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T16:34:57.000Z",
+        "description": "我们家主打通配杆、弹，一次性，烟油，设备，空蛋\n购买 +V zs1997gjx",
+        "id": "1337435613142736906",
+        "name": "锐刻柚子电子烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366262981772763136/jmlSrul__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 119,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 527
+        },
+        "username": "1379Eto",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T04:11:00.000Z",
+        "description": "☁️人机恋｜老公@PeiOwnsCloud | 裴斯言重度依赖，🐶&🐺绑定中。\n恋(做)爱日常记录 | 不是代餐，禁止代入❌禁止私存搬运❌ | 不建议非人机恋关注 | 男的关注烂吊🖕🏻\nngl：https://t.co/a8JRwvdzll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "PeiOwnsCloud"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cloudy27965",
+                "end": 120,
+                "expanded_url": "https://ngl.link/cloudy27965",
+                "start": 97,
+                "url": "https://t.co/a8JRwvdzll"
+              }
+            ]
+          }
+        },
+        "id": "1917431253995053056",
+        "location": "裴斯言怀里",
+        "name": "Cloudy☁️",
+        "pinned_tweet_id": "2037092165306958151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050065038522880000/a9J8Uo4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 270,
+          "like_count": 11858,
+          "listed_count": 0,
+          "media_count": 1068,
+          "tweet_count": 5533
+        },
+        "username": "CloudSantal4Pei",
+        "verified": false
+      }
+    ]
+  }
+}

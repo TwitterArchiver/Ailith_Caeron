@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2050109860910690605",
+    "created_at": "2026-05-01T10:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050163969982358001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050163969982358001",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050109860910690605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 这也能卷。下一步是不是要卷乳头高潮。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050109860910690605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050109860910690605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050109860910690605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2050109860910690605",
+        "created_at": "2026-05-01T10:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050163969982358001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050163969982358001",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050109860910690605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 这也能卷。下一步是不是要卷乳头高潮。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 253,
+          "like_count": 10063,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2190
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "你我之間 有一道女媧煉石也無法彌補的天裂。",
+        "id": "1979568208530321408",
+        "location": "天空也曾疑惑",
+        "name": "水響渡鴉。",
+        "pinned_tweet_id": "2024716122755653761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049456200895651841/piBxJxf3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 140,
+          "like_count": 3709,
+          "listed_count": 0,
+          "media_count": 614,
+          "tweet_count": 5300
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

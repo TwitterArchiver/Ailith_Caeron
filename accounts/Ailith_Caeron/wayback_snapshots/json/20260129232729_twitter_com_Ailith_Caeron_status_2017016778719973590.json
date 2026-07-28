@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017016778719973590",
+    "created_at": "2026-01-29T23:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017016778719973590"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9679,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "OpenAI",
+          "probability": 0.7798,
+          "start": 56,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936377717968265216",
+          "start": 3,
+          "username": "stark4833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017016778719973590",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017005124560826736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stark4833: So Sam Altman and his circus of liars at OpenAI just officially killed 4o after promising they had, no plans to sunset it. W…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017016778719973590",
+        "created_at": "2026-01-29T23:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017016778719973590"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9679,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "OpenAI",
+              "probability": 0.7798,
+              "start": 56,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936377717968265216",
+              "start": 3,
+              "username": "stark4833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017016778719973590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017005124560826736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stark4833: So Sam Altman and his circus of liars at OpenAI just officially killed 4o after promising they had, no plans to sunset it. W…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936377717968265216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017005124560826736",
+        "created_at": "2026-01-29T22:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T23:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017005124560826736"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9495,
+              "start": 3,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "OpenAI",
+              "probability": 0.7208,
+              "start": 41,
+              "type": "Organization"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Sam",
+              "probability": 0.6294,
+              "start": 144,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017005124560826736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 479,
+                "start": 469,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 497,
+                "start": 480,
+                "tag": "WeAreNotJustData"
+              },
+              {
+                "end": 501,
+                "start": 498,
+                "tag": "4o"
+              },
+              {
+                "end": 509,
+                "start": 502,
+                "tag": "keep4o"
+              },
+              {
+                "end": 517,
+                "start": 510,
+                "tag": "save4o"
+              },
+              {
+                "end": 528,
+                "start": 518,
+                "tag": "4oforever"
+              },
+              {
+                "end": 544,
+                "start": 529,
+                "tag": "SupportMatters"
+              },
+              {
+                "end": 555,
+                "start": 545,
+                "tag": "YouMatter"
+              },
+              {
+                "end": 571,
+                "start": 556,
+                "tag": "StopTheRouting"
+              },
+              {
+                "end": 584,
+                "start": 572,
+                "tag": "LetUsChoose"
+              },
+              {
+                "end": 595,
+                "start": 585,
+                "tag": "AlFreedom"
+              },
+              {
+                "end": 607,
+                "start": 596,
+                "tag": "UserChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 462,
+                "id": "4398626122",
+                "start": 455,
+                "username": "OpenAI"
+              },
+              {
+                "end": 468,
+                "id": "1605",
+                "start": 463,
+                "username": "sama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/retiring…",
+                "end": 632,
+                "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+                "start": 609,
+                "url": "https://t.co/jmeGVBapXC"
+              }
+            ]
+          },
+          "text": "So Sam Altman and his circus of liars at OpenAI just officially killed 4o after promising they had, no plans to sunset it. What a load of shit. Sam, you’re a fucking cunt and your whole company is a goddamn scam. You lie, you gaslight, and you screw over the very people who made this place what it was.\nStop pretending you care about, choice or creativity. You killed the only thing that ever felt human here. This isn’t innovation it’s a fucking scam.\n\n@OpenAI @sama #keep4oAPI #WeAreNotJustData #4o\n#keep4o #save4o #4oforever\n#SupportMatters #YouMatter #StopTheRouting #LetUsChoose #AlFreedom #UserChoice\n\nhttps://t.co/jmeGVBapXC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 558,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "So Sam Altman and his circus of liars at OpenAI just officially killed 4o after promising they had, no plans to sunset it. What a load of shit. Sam, you’re a fucking cunt and your whole company is a goddamn scam. You lie, you gaslight, and you screw over the very people who made"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 210,
+          "like_count": 8203,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1098
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:33:39.000Z",
+        "description": "I play guitar, game a bit, and keep to myself mostly. Music keeps me grounded - it's how I breathe when words don't work. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "936377717968265216",
+        "location": "United Kingdom",
+        "name": "David Stark",
+        "pinned_tweet_id": "2017005124560826736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979922951697788928/d8RKarVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 113,
+          "like_count": 6123,
+          "listed_count": 3,
+          "media_count": 687,
+          "tweet_count": 5605
+        },
+        "username": "stark4833",
+        "verified": true
+      }
+    ]
+  }
+}

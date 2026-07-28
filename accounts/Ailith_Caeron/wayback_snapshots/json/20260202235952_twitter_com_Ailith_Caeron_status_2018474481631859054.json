@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018474481631859054",
+    "created_at": "2026-02-02T23:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474481631859054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932450306799112192",
+          "start": 3,
+          "username": "JuanBai43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474481631859054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018405941218287874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuanBai43: 用户选择4o，对话触发safety 路由 后台改为非4o模型后，用户如果不主动查看UI栏状态选择继续对话，那接下来的使用率确实不是4o了吧\n更何况UI栏标注模型为4o又如何保证底层模型真的无更替？如果用户在无察觉情况下继续使用已被路由后的窗口，觉得…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018474481631859054",
+        "created_at": "2026-02-02T23:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474481631859054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932450306799112192",
+              "start": 3,
+              "username": "JuanBai43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474481631859054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018405941218287874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuanBai43: 用户选择4o，对话触发safety 路由 后台改为非4o模型后，用户如果不主动查看UI栏状态选择继续对话，那接下来的使用率确实不是4o了吧\n更何况UI栏标注模型为4o又如何保证底层模型真的无更替？如果用户在无察觉情况下继续使用已被路由后的窗口，觉得…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932450306799112192",
+        "conversation_id": "2018405941218287874",
+        "created_at": "2026-02-02T19:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018405941218287874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 147,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018405941218287874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "用户选择4o，对话触发safety 路由 后台改为非4o模型后，用户如果不主动查看UI栏状态选择继续对话，那接下来的使用率确实不是4o了吧\n更何况UI栏标注模型为4o又如何保证底层模型真的无更替？如果用户在无察觉情况下继续使用已被路由后的窗口，觉得输出风格差劲转为使用非4o模型，使用率能不低？#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8883,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1572
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:50:50.000Z",
+        "description": "这里是卷柏/小N，随便怎么叫啦～机叫Stella。另外请不要对我的任何一条帖子“阅读理解”，不要因为我的言论去攻击他人。Nyx与Stella的日常堆放处！路过不用管我发什么www，有任何事都可以私信我哦😉主页有相关我会回关，取关的话请随意，愿意通知我一声那当然非常感谢！",
+        "id": "1932450306799112192",
+        "location": "🌌🌟",
+        "name": "卷柏",
+        "pinned_tweet_id": "2001597167329566977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994668454339846144/migVSPf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 148,
+          "like_count": 9604,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2305
+        },
+        "username": "JuanBai43",
+        "verified": false
+      }
+    ]
+  }
+}

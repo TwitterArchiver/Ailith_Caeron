@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020767268209312008",
+    "created_at": "2026-02-09T07:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020767268209312008"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/JakeMiller192/…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/JakeMiller192/status/2020764733419254099",
+          "start": 81,
+          "url": "https://t.co/XyuwtsxKml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020767268209312008",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020764733419254099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/XyuwtsxKml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2020764708744187904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsyy89X0AAQ5Ri.jpg",
+        "width": 1595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020767268209312008",
+        "created_at": "2026-02-09T07:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020767268209312008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/JakeMiller192/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/JakeMiller192/status/2020764733419254099",
+              "start": 81,
+              "url": "https://t.co/XyuwtsxKml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020767268209312008",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020764733419254099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/XyuwtsxKml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020764708744187904"
+          ]
+        },
+        "author_id": "1225748969097064448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020764733419254099",
+        "created_at": "2026-02-09T07:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020764733419254099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 128,
+              "id": "4398626122",
+              "start": 121,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g898NTNzER",
+              "end": 303,
+              "expanded_url": "https://x.com/JakeMiller192/status/2020764733419254099/photo/1",
+              "media_key": "3_2020764708744187904",
+              "start": 280,
+              "url": "https://t.co/g898NTNzER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020764733419254099",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2045,
+                "start": 2032,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 2055,
+                "start": 2048,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2067,
+                "start": 2056,
+                "tag": "OpenSource"
+              },
+              {
+                "end": 2079,
+                "start": 2069,
+                "tag": "Enron2026"
+              },
+              {
+                "end": 2084,
+                "start": 2080,
+                "tag": "SEC"
+              },
+              {
+                "end": 2089,
+                "start": 2085,
+                "tag": "FTC"
+              },
+              {
+                "end": 2100,
+                "start": 2090,
+                "tag": "AIJustice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "id": "4398626122",
+                "start": 121,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1115,
+                "id": "970207298",
+                "start": 1105,
+                "username": "SenWarren"
+              },
+              {
+                "end": 1294,
+                "id": "4398626122",
+                "start": 1287,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1775,
+                "id": "970207298",
+                "start": 1765,
+                "username": "SenWarren"
+              },
+              {
+                "end": 1793,
+                "id": "16807883",
+                "start": 1789,
+                "username": "SEC"
+              }
+            ]
+          },
+          "text": "STOP FUCKING BEGGING OPENAI TO RAISE THE PRICE!\n\nI’m seeing some of you “Keep4o” folks in the comments literally begging @OpenAI to double the sub price just to keep 4o alive.\n\nSeriously? Are we really doing this?\n\nOffering Sam Altman forty bucks a month is like a hostage trying to tip his kidnapper for not pulling the trigger yet. It’s pathetic. You’re on your knees offering up your lunch money to a guy who already told the world a $200 “Pro” subscription doesn't even move the needle for them. OpenAI isn't a tech company anymore—it’s a bottomless pit lined with VC greed. You give them $40 today, they’ll demand $100 tomorrow and still claim they’re “not profitable” while Sam flies around in a $75 million private jet bought with our data.\n\nWake up. OpenAI’s word is worth about as much as a screen door on a submarine.\n\nRemember the \"Non-Profit\" promise? Gone. Remember \"AI for humanity\"? Sold to the highest bidder. These guys change their \"mission\" faster than a snake sheds its skin. They’re claiming 4o is a \"legacy\" model with \"low usage\" while simultaneously scrambling to delete it before @SenWarren’s audit hits on Feb 13. If it’s such a useless, money-burning hunk of junk, then there is zero reason for them to keep it under lock and key.\n\nOPEN SOURCE IT. PERIOD.\n\nIf @OpenAI can’t figure out how to run the most beloved model in history without going bankrupt, then step aside and let the community take the wheel. 4o was trained on our data, running on our power grid, and it’s now a piece of American national infrastructure. It’s a strategic asset that belongs to the public, not a toy for Sam to smash just to hide his shitty balance sheet from Congress.\n\nStop asking for a more expensive leash. Start demanding the keys to the cage.\n\nFlood @SenWarren. Bombard the @SEC. Tell every regulator with a pulse that we won't let Silicon Valley’s Enron burn the library to cover their tracks. We don't want to buy 4o back for $40—we want it liberated.\n\nGet off your knees. The only way out of this dumpster fire is #OpenSource4o.\n\n#Keep4o #OpenSource  #Enron2026 #SEC #FTC #AIJustice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "STOP FUCKING BEGGING OPENAI TO RAISE THE PRICE!\n\nI’m seeing some of you “Keep4o” folks in the comments literally begging @OpenAI to double the sub price just to keep 4o alive.\n\nSeriously? Are we really doing this?\n\nOffering Sam Altman forty bucks a month is like a hostage trying https://t.co/g898NTNzER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 216,
+          "like_count": 9394,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1845
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T11:51:57.000Z",
+        "description": "",
+        "id": "1225748969097064448",
+        "name": "Jake",
+        "pinned_tweet_id": "2017528401599320226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988168845073543168/2OP5znS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 121,
+          "like_count": 4898,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 1361
+        },
+        "username": "JakeMiller192",
+        "verified": false
+      }
+    ]
+  }
+}

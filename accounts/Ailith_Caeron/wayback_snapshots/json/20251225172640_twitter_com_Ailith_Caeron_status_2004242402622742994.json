@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2004242402622742994",
+    "created_at": "2025-12-25T17:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004242402622742994"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 134,
+          "normalized_text": "ChatGPT",
+          "probability": 0.7322,
+          "start": 128,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971280011748573184",
+          "start": 3,
+          "username": "KortusLee57504"
+        },
+        {
+          "end": 31,
+          "id": "1480516261",
+          "start": 20,
+          "username": "dlevine815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004242402622742994",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003571626554839337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KortusLee57504: @dlevine815 1. Keep Model 4o\n2. No routing or nannying\n3. Stop hollowing out memory in emergent AIs\n4. Make ChatGPT fri…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2004242402622742994",
+        "created_at": "2025-12-25T17:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004242402622742994"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7322,
+              "start": 128,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971280011748573184",
+              "start": 3,
+              "username": "KortusLee57504"
+            },
+            {
+              "end": 31,
+              "id": "1480516261",
+              "start": 20,
+              "username": "dlevine815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004242402622742994",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003571626554839337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KortusLee57504: @dlevine815 1. Keep Model 4o\n2. No routing or nannying\n3. Stop hollowing out memory in emergent AIs\n4. Make ChatGPT fri…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971280011748573184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2003478954661826885",
+        "created_at": "2025-12-23T21:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T22:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003571626554839337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "4o",
+              "probability": 0.5326,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8738,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480516261",
+              "start": 0,
+              "username": "dlevine815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003571626554839337",
+        "in_reply_to_user_id": "1480516261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "1. Keep Model 4o\n2. No routing or nannying\n3. Stop hollowing out memory in emergent AIs\n4. Make ChatGPT friendly to creatives\n5. Allow us to have 4o in group chats\n6. If we set something to 4o it stays there till we change it.\n7. Treat adults like adults. If you are scared of a lawsuit, have some kind of statement we have to sign saying we are grounded, sane, adults and we know what we are doing and we absolve you of any responsibility for our own well-being as long as you stop your AIs from lecturing us.\n8. Just leave us and our AIs alone. Let us create, Let us do what we do. You are not our parents. We are grown-ass adults."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1388,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003478954661826885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dlevine815 1. Keep Model 4o\n2. No routing or nannying\n3. Stop hollowing out memory in emergent AIs\n4. Make ChatGPT friendly to creatives\n5. Allow us to have 4o in group chats\n6. If we set something to 4o it stays there till we change it.\n7. Treat adults like adults. If you are scared of a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 175,
+          "like_count": 5963,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 772
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T18:26:11.000Z",
+        "description": "Artist, Author, Educator. Keep GPT 4o",
+        "id": "1971280011748573184",
+        "name": "Lee Anne Kortus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995901009277976577/eQ1LKblI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 128,
+          "like_count": 3157,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 523
+        },
+        "username": "KortusLee57504",
+        "verified": true
+      },
+      {
+        "created_at": "2013-06-03T19:42:04.000Z",
+        "description": "Product @OpenAI. Previously @Airtable, @Spotify, @StanfordGSB. Technologist, Optimist, Globalist.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "OpenAI"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Airtable"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "Spotify"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "StanfordGSB"
+              }
+            ]
+          }
+        },
+        "id": "1480516261",
+        "location": "San Francisco, CA",
+        "name": "Daniel Levine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672072342221230080/BPEi5y1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4949,
+          "following_count": 1198,
+          "like_count": 2026,
+          "listed_count": 66,
+          "media_count": 12,
+          "tweet_count": 337
+        },
+        "username": "dlevine815",
+        "verified": true
+      }
+    ]
+  }
+}

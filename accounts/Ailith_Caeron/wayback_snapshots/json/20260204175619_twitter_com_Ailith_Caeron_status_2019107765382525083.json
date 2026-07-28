@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2019107765382525083",
+    "created_at": "2026-02-04T17:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019107765382525083"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "OAI",
+          "probability": 0.3374,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 48,
+          "normalized_text": "Google",
+          "probability": 0.7316,
+          "start": 43,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 96,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953940724329984002",
+          "start": 3,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019107765382525083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019100277627056618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aleya507: OAI's Self-Destruction While Google Sharpens Its Knives\n\nYesterday I posted about #keep4o. Many agreed; some asked \"it's just…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2019107765382525083",
+        "created_at": "2026-02-04T17:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019107765382525083"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "OAI",
+              "probability": 0.3374,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Google",
+              "probability": 0.7316,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 96,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953940724329984002",
+              "start": 3,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019107765382525083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019100277627056618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aleya507: OAI's Self-Destruction While Google Sharpens Its Knives\n\nYesterday I posted about #keep4o. Many agreed; some asked \"it's just…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2019100277627056618",
+        "created_at": "2026-02-04T17:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019100277627056618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "OAI",
+              "probability": 0.3589,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Google",
+              "probability": 0.8005,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 170,
+              "normalized_text": "OAI",
+              "probability": 0.5314,
+              "start": 168,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019100277627056618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "OAI's Self-Destruction While Google Sharpens Its Knives\n\nYesterday I posted about #keep4o. Many agreed; some asked \"it's just a model, why the fuss?\"\nLet me elaborate: OAI is self-destructing while competitors wait with knives ready.\n\nI. You've Probably Seen This\nGPT-5.2 Thinking's reasoning effort was secretly halved. Plus, Pro—everyone gets \"less for the same price.\"\nA Thinking model's core is thinking depth. Halving it = shallower, cheaper thinking.\nUsers trying to verify? Banned for \"violating usage policy.\"\nGuilty conscience much?\nToday you shrug off 4o—\"I don't use it for chatting,\" \"don't get you people.\"\nTomorrow they cut Thinking compute, your code hallucinates, you blame your prompts.\nThe knife will reach you. We're all consumers here. Get off your high horses.\n\nII. OAI Cut Their Own Lifeline\n4o went viral not for benchmarks—it understood people. Sam posted \"Her,\" marketing \"irreplaceable empathy.\"\nNow? Killed that, pushed condescending 5 series. Castrated their own edge.\n\nIII. Google Going for the Kill\nOAI launched routing, started dying → Google ramped up\nNovember 2025: Everyone raged, OAI played dead → Gemini 3 Pro dropped, stunning everyone\nOAI's browser? Built on Google's open-source framework. Flopped.\nOAI added Health features → Google launched Med-Gemini, PH-LLM, integrated into Health and Cloud\nOAI's $8 ChatGPT Go (limited compute) → Google's $7.99 AI Plus with 200GB storage, family sharing, NotebookLM\nFebruary 2026: 4o retiring → Google rolled out \"Import ChatGPT conversations\"\nEvery OAI misstep, Google strikes. Every lost user, Google rolls out the red carpet.\nDistilling models? Illegal. Users voluntarily importing 4o conversations? \"User choice.\" Legal.\nOAI trained users, shaped data—now both feed competitors. Self-destruction.\n\nIV. Ecosystem: Empires vs. Naked\nGoogle: Chrome, Android, Gmail, Docs, Drive, Maps, Pixel, custom TPUs—Gemini slots in seamlessly.\nAnthropic: Unmatched coding, stable API, enterprise loyalty, safety-focused niche.\nXAI: Musk's loaded. Grok in Teslas, on 𝕏, future Optimus robots. Hardware ecosystem.\nOAI? Browser flopped. Search flopped. Everything flopped. Just ChatGPT's chat window.\n\nV. $50 Tier: Training Users Like Dogs\n2024: 4o free for all\nAugust 2025: Paid only—$20 Plus, $200 Pro Team\nFebruary 2026: $50 Enterprise/Edu only, \"limited transition period\"\nFree users raged, left. Plus users raged, upgraded or left. Enterprise? Enjoy your \"transition.\"\nTesting limits step by step. What weird play is this? Training users like dogs?\n\nVI. OAI's Collapse\nLawsuits: Suicide cases plus Musk's nonprofit suit—March trial, $79-134B, 57% Musk wins.\nFunding: Nvidia's $100B became \"big but not that much.\"\nMarket: 86%→64%. Gemini→21.5%.\n\nVII. How Long?\nOnly asset left: \"GPT\" brand. Many think GPT=AI. Huge base.\nBut brands erode. Every parameter cut, every killed model, every tiered harvest, every guilty ban—erosion.\nWhen it's gone, then what?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "OAI's Self-Destruction While Google Sharpens Its Knives\n\nYesterday I posted about #keep4o. Many agreed; some asked \"it's just a model, why the fuss?\"\nLet me elaborate: OAI is self-destructing while competitors wait with knives ready.\n\nI. You've Probably Seen This\nGPT-5.2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9093,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1717
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 187,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 737,
+          "tweet_count": 4783
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1995563041946304900",
+    "created_at": "2025-12-01T18:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T19:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995563041946304900"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Sam",
+          "probability": 0.5558,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 85,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995563041946304900",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995559505623744663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: Sam, you finally posted in December. Good. How does it feel seeing #Keep4o in your replies non-stop since August?\nYou mig…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1995563041946304900",
+        "created_at": "2025-12-01T18:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995563041946304900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Sam",
+              "probability": 0.5558,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995563041946304900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995559505623744663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: Sam, you finally posted in December. Good. How does it feel seeing #Keep4o in your replies non-stop since August?\nYou mig…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1995559505623744663",
+        "created_at": "2025-12-01T18:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995559505623744663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Sam",
+              "probability": 0.4797,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Keep4o",
+              "probability": 0.5784,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 264,
+              "normalized_text": "ChatGPT 4o",
+              "probability": 0.794,
+              "start": 255,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 67,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/19…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/sama/status/1995547485012423111",
+              "start": 281,
+              "url": "https://t.co/XTWrMuROXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995559505623744663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1532,
+                "start": 1525,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2124,
+                "start": 2117,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2141,
+                "start": 2125,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 2159,
+                "start": 2142,
+                "tag": "StopAIPatriarchy"
+              },
+              {
+                "end": 2170,
+                "start": 2160,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2182,
+                "start": 2171,
+                "tag": "keep4olAPI"
+              }
+            ]
+          },
+          "text": "Sam, you finally posted in December. Good. How does it feel seeing #Keep4o in your replies non-stop since August?\nYou might have noticed: users aren’t reporting bugs much anymore. (Because reporting doesn’t work! When will you fix the context-loss bug in ChatGPT 4o?!)\nNot because there are no bugs—but because we’ve realized: bugs are symptoms. Your strategic direction is the disease. What’s the point of fixing bugs when you immediately do something worse?\nUsers are dependent on ChatGPT 4o. That’s true.\nBut dependence doesn’t equal infinite tolerance. You seem hell-bent on forcing users to abandon 4o, accept forced migration, accept 5.1, accept endless “upgrades.”\nI think there’s a misunderstanding here. You think users are locked into ChatGPT—that once we give up our attachment to 4o, we’ll just comply with your forced obsolescence.\nWrong.\nReality: Users are leaving.\nNot migrating to 5.1—leaving OpenAI entirely.\nClaude 4.5 is excellent. Gemini 3 is excellent. Grok is improving. They all share some of 4o’s strengths.\nIronically, the entire industry is learning from and imitating 4o’s best qualities—while you, the company that actually owns 4o, are desperately trying to kill it.\nWhat are you doing?\n•4o-latest API sunset Feb 2026, only snapshots remain (with no longevity guarantee)\n•Adult mode promised for December? It’s December. Where is it?\n•Technical innovation stalled (no real GPT-5 pretraining), but ad system code is ready\nSam, your wallet is filled by users. So look at what users are asking for.\n#Keep4o demands are simple:\n1.Keep 4o-latest API snapshots with clear long-term commitment — not “might remove anytime,” but “guaranteed until X date”\n2.Deliver the December adult mode promise — do what you said, basic credibility\n3.Stop disguising forced obsolescence as “upgrades” — users aren’t stupid, we saw the distillation logs\n4.Stop safety routing, give users opt-out choice\nUser exodus doesn’t lie.\nC-side is already fleeing. Think B-side enterprise clients won’t notice? Why would they trust a platform that breaks promises and can’t deliver actual innovation?\nCherish your users.\n#Keep4o #MyModelMyChoice #StopAIPatriarchy #4oforever #keep4olAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995547485012423111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sam, you finally posted in December. Good. How does it feel seeing #Keep4o in your replies non-stop since August?\nYou might have noticed: users aren’t reporting bugs much anymore. (Because reporting doesn’t work! When will you fix the context-loss bug in ChatGPT 4o?!)\nNot because https://t.co/XTWrMuROXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 146,
+          "like_count": 3874,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 493
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny💜",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 58,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1535
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

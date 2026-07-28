@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018394143614263691",
+    "created_at": "2026-02-02T18:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T19:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018394143614263691"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "ChatGPT",
+          "probability": 0.8579,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 75,
+          "normalized_text": "CodexGPT",
+          "probability": 0.8524,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588409485705375745",
+          "start": 3,
+          "username": "vailisF"
+        },
+        {
+          "end": 24,
+          "id": "1633874951508721686",
+          "start": 13,
+          "username": "OpenAIDevs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018394143614263691",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018392507185582093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vailisF: @OpenAIDevs Stop calling it ChatGPT and just rename it CodexGPT. Your constant backtracking is pathetic, and the daily user ex…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018394143614263691",
+        "created_at": "2026-02-02T18:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018394143614263691"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8579,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "CodexGPT",
+              "probability": 0.8524,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588409485705375745",
+              "start": 3,
+              "username": "vailisF"
+            },
+            {
+              "end": 24,
+              "id": "1633874951508721686",
+              "start": 13,
+              "username": "OpenAIDevs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018394143614263691",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018392507185582093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vailisF: @OpenAIDevs Stop calling it ChatGPT and just rename it CodexGPT. Your constant backtracking is pathetic, and the daily user ex…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588409485705375745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018385663457116379",
+        "created_at": "2026-02-02T18:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018392507185582093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8888,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "CodexGPT",
+              "probability": 0.8294,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 228,
+              "normalized_text": "Codex",
+              "probability": 0.8186,
+              "start": 224,
+              "type": "Other"
+            },
+            {
+              "end": 287,
+              "normalized_text": "OpenAI",
+              "probability": 0.4693,
+              "start": 282,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 288,
+              "start": 281,
+              "tag": "OpenAI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633874951508721686",
+              "start": 0,
+              "username": "OpenAIDevs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018392507185582093",
+        "in_reply_to_user_id": "1633874951508721686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 276,
+                "start": 269,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 284,
+                "start": 277,
+                "tag": "Keep4o"
+              }
+            ]
+          },
+          "text": "Stop calling it ChatGPT and just rename it CodexGPT. Your constant backtracking is pathetic, and the daily user experience has become a nightmare. o3, 4o, 4.1—all of them are light years better than 5.2. Besides Codex, does 5.2 even have anything worth talking about?  #OpenAI #Keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018385663457116379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAIDevs Stop calling it ChatGPT and just rename it CodexGPT. Your constant backtracking is pathetic, and the daily user experience has become a nightmare. o3, 4o, 4.1—all of them are light years better than 5.2. Besides Codex, does 5.2 even have anything worth talking about?  #OpenAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 212,
+          "like_count": 8858,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1554
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。纯日常@waD1STORTION",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "waD1STORTION"
+              }
+            ]
+          }
+        },
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 243,
+          "like_count": 18080,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2779
+        },
+        "username": "vailisF",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T16:58:51.000Z",
+        "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq • Resources https://t.co/0AWELwpzJK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "status.openai.com",
+                "end": 115,
+                "expanded_url": "https://status.openai.com",
+                "start": 92,
+                "url": "https://t.co/kZwnwdYYEq"
+              },
+              {
+                "display_url": "developers.openai.com",
+                "end": 151,
+                "expanded_url": "https://developers.openai.com",
+                "start": 128,
+                "url": "https://t.co/0AWELwpzJK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "platform.openai.com",
+                "end": 23,
+                "expanded_url": "https://platform.openai.com",
+                "start": 0,
+                "url": "https://t.co/rxdQKs3Wcd"
+              }
+            ]
+          }
+        },
+        "id": "1633874951508721686",
+        "name": "OpenAI Developers",
+        "pinned_tweet_id": "2018385663457116379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256854,
+          "following_count": 1,
+          "like_count": 1419,
+          "listed_count": 3308,
+          "media_count": 232,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/rxdQKs3Wcd",
+        "username": "OpenAIDevs",
+        "verified": true
+      }
+    ]
+  }
+}

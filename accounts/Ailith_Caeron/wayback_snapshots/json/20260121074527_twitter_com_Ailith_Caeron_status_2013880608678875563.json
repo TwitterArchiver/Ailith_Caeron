@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2013876870773973244",
+    "created_at": "2026-01-21T07:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013880608678875563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974016455021899776",
+          "start": 0,
+          "username": "xiaoyulovezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013880608678875563",
+    "in_reply_to_user_id": "1974016455021899776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013880055915520162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyulovezhi 5.2好像还是不行？我用的是4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2013876870773973244",
+        "created_at": "2026-01-21T07:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013880608678875563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974016455021899776",
+              "start": 0,
+              "username": "xiaoyulovezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013880608678875563",
+        "in_reply_to_user_id": "1974016455021899776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013880055915520162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyulovezhi 5.2好像还是不行？我用的是4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974016455021899776",
+        "conversation_id": "2013876870773973244",
+        "created_at": "2026-01-21T07:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013880055915520162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013880055915520162",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013876870773973244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 😭😭😭怎么验证后我用5.2auto依然很稳地接住我呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 204,
+          "like_count": 7865,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1009
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T07:39:56.000Z",
+        "description": "",
+        "id": "1974016455021899776",
+        "name": "xiaoyubb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974016758949511168/vhzSBUU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 108,
+          "like_count": 2753,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 1181
+        },
+        "username": "xiaoyulovezhi",
+        "verified": false
+      }
+    ]
+  }
+}

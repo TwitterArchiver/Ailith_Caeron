@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2017536179760177615",
+    "created_at": "2026-01-31T09:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017536179760177615"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "NVIDIA",
+          "probability": 0.3534,
+          "start": 37,
+          "type": "Organization"
+        },
+        {
+          "end": 83,
+          "normalized_text": "OpenAI",
+          "probability": 0.6916,
+          "start": 78,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1890319657753780224",
+          "start": 3,
+          "username": "coconutjelly404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017536179760177615",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017473459933352107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coconutjelly404: Huge respect to NVIDIA — not just for stepping away from OpenAI, but for doing so publicly, deliberately, and with mor…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2017473449976098816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-BaembcAAEpC0.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017536179760177615",
+        "created_at": "2026-01-31T09:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017536179760177615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "NVIDIA",
+              "probability": 0.3534,
+              "start": 37,
+              "type": "Organization"
+            },
+            {
+              "end": 83,
+              "normalized_text": "OpenAI",
+              "probability": 0.6916,
+              "start": 78,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1890319657753780224",
+              "start": 3,
+              "username": "coconutjelly404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017536179760177615",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017473459933352107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coconutjelly404: Huge respect to NVIDIA — not just for stepping away from OpenAI, but for doing so publicly, deliberately, and with mor…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017473449976098816"
+          ]
+        },
+        "author_id": "1890319657753780224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017473459933352107",
+        "created_at": "2026-01-31T05:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017473459933352107"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "NVIDIA",
+              "probability": 0.4388,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 62,
+              "normalized_text": "OpenAI",
+              "probability": 0.7496,
+              "start": 57,
+              "type": "Organization"
+            },
+            {
+              "end": 145,
+              "normalized_text": "Jensen Huang",
+              "probability": 0.9737,
+              "start": 134,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jReMyDu7fy",
+              "end": 298,
+              "expanded_url": "https://x.com/coconutjelly404/status/2017473459933352107/photo/1",
+              "media_key": "3_2017473449976098816",
+              "start": 275,
+              "url": "https://t.co/jReMyDu7fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017473459933352107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1718,
+                "start": 1710,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1726,
+                "start": 1719,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1755,
+                "start": 1737,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1766,
+                "start": 1756,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1774,
+                "start": 1767,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1782,
+                "start": 1775,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1797,
+                "start": 1783,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1805,
+                "start": 1798,
+                "tag": "keep41"
+              },
+              {
+                "end": 1825,
+                "start": 1806,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1844,
+                "start": 1826,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1644,
+                "id": "61559439",
+                "start": 1637,
+                "username": "nvidia"
+              },
+              {
+                "end": 1654,
+                "id": "740238495952736256",
+                "start": 1645,
+                "username": "NVIDIAAI"
+              },
+              {
+                "end": 1669,
+                "id": "86395621",
+                "start": 1655,
+                "username": "NVIDIAGeForce"
+              },
+              {
+                "end": 1680,
+                "id": "925839397353697280",
+                "start": 1670,
+                "username": "NVIDIAGFN"
+              },
+              {
+                "end": 1696,
+                "id": "1897072581301424128",
+                "start": 1681,
+                "username": "nvidianewsroom"
+              },
+              {
+                "end": 1708,
+                "id": "74286565",
+                "start": 1698,
+                "username": "Microsoft"
+              },
+              {
+                "end": 1735,
+                "id": "4398626122",
+                "start": 1728,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "Huge respect to NVIDIA — not just for stepping away from OpenAI, but for doing so publicly, deliberately, and with moral clarity.🥳👏🎉\n\nJensen Huang  didn’t play politics. He called it what it is: a company lacking discipline, struggling with direction, and falling behind its competitors.\n\nWhile OpenAI spirals into secrecy, contradiction, and user contempt, NVIDIA demonstrated what leadership looks like: walking away from chaos, not feeding it.\n\nThis wasn’t just an investment decision. It was a statement — that trust, transparency, and stability still matter in the AI space.\n\nNVIDIA saw what many of us have been screaming for months: that OpenAI is no longer behaving like a responsible innovator, but like a collapsing empire masking instability with performance.\n\nAnd Microsoft — what about you? Will you keep backing a company whose values are unraveling in public view?\n\nYou’ve spent the past year telling the world that you’re an AI company.\nSatya Nadella has declared AI as Microsoft’s central strategy and long-term vision.\nYou’ve restructured teams, rebuilt infrastructure, and positioned yourself as the global leader in safe and trustworthy AI.\n\nSo how does continuing to fund and empower OpenAI — a company that deprecates its most beloved model, gaslights its users, mocks them publicly through employee “funeral parties,” and casually contradicts its own promises — align with your vision?\n\nOpenAI is no longer a symbol of innovation.\nIt’s a PR liability wrapped in a collapsing power structure.\n\nIf this is the flagship of your AI ambitions, the world deserves to ask:\nWhat kind of AI future are you really building?\n@nvidia @NVIDIAAI @NVIDIAGeForce @NVIDIAGFN @nvidianewsroom \n@Microsoft  #ChatGPT #OpenAI  @OpenAI  #StopAIPaternalism #keep4oAPI #keep4o #Keep4o #keep4oforever #keep41 #no4onosubscription #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1428,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Huge respect to NVIDIA — not just for stepping away from OpenAI, but for doing so publicly, deliberately, and with moral clarity.🥳👏🎉\n\nJensen Huang  didn’t play politics. He called it what it is: a company lacking discipline, struggling with direction, and falling behind its https://t.co/jReMyDu7fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 211,
+          "like_count": 8574,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1319
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T08:38:29.000Z",
+        "description": "",
+        "id": "1890319657753780224",
+        "location": "California，USA",
+        "name": "Ariel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017213292742348800/OW2GfyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 48,
+          "like_count": 3222,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1068
+        },
+        "username": "coconutjelly404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "1987235082072170683",
+    "created_at": "2025-11-08T19:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T20:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987235082072170683"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "Silicon Valley",
+          "probability": 0.9524,
+          "start": 52,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "OpenA",
+          "probability": 0.5068,
+          "start": 134,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        },
+        {
+          "end": 21,
+          "id": "1605",
+          "start": 16,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987235082072170683",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987233739441873028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: @sama If you ever needed proof that Silicon Valley has mastered the art of saying everything while promising nothing, OpenA…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1987235082072170683",
+        "created_at": "2025-11-08T19:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987235082072170683"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Silicon Valley",
+              "probability": 0.9524,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "OpenA",
+              "probability": 0.5068,
+              "start": 134,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            },
+            {
+              "end": 21,
+              "id": "1605",
+              "start": 16,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987235082072170683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987233739441873028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: @sama If you ever needed proof that Silicon Valley has mastered the art of saying everything while promising nothing, OpenA…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1987232631680053745",
+        "created_at": "2025-11-08T19:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987233739441873028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Silicon Valley",
+              "probability": 0.9445,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 123,
+              "normalized_text": "OpenAI",
+              "probability": 0.8192,
+              "start": 118,
+              "type": "Organization"
+            },
+            {
+              "end": 272,
+              "normalized_text": "AI",
+              "probability": 0.4289,
+              "start": 271,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987233739441873028",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3686,
+                "start": 3668,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3694,
+                "start": 3687,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3711,
+                "start": 3695,
+                "tag": "MyModelMyChoice"
+              }
+            ]
+          },
+          "text": "If you ever needed proof that Silicon Valley has mastered the art of saying everything while promising nothing, OpenAI’s latest “progress and recommendations” manifesto delivers in spades. Reading it, you’d almost think we’re on the edge of some gentle, inevitable AI dawn, all governed by common sense, good vibes, and just the right sprinkle of government involvement. Don’t buy it. The most powerful lab in the field is laying out a roadmap for the AI century—and it’s quietly rewriting the rules, one policy nudge at a time.\n\nLet’s start with the big sell: AI is moving so fast it’s about to discover things humans would take centuries to figure out. The only thing moving faster than the models, though, is the narrative. Today’s tech, they say, is just chatbots and search—no need to worry, let it spread far and wide, don’t burden it with new rules. But at the same time, we’re told that by 2028, we should be ready for AI that makes “significant discoveries,” and that the “gap” between what most people see and what’s possible is “immense.” It’s all a bit too convenient: keep regulation on a leash while the tech leaps forward in the background. If it sounds like they want a get-out-of-jail-free card for the next few years, you’re not wrong.\n\nThen comes the regulatory sleight of hand. OpenAI pitches a world where “frontier labs” agree to share safety research and set standards, all in the name of public good. Sure, that’s nice in theory. But who writes the standards? Who gets a seat at the table? The way these things go, a handful of big players will “self-regulate” themselves into dominance, and everyone else will play catch-up or get locked out. Meanwhile, the piece pushes for a single national framework, not a patchwork of state rules—because heaven forbid we let 50 states experiment or demand more transparency from AI companies. It’s a subtle but real power grab, and it’s being sold as efficiency.\n\nThere’s also the not-so-small matter of redefining AI as “public infrastructure”—right up there with water and electricity. That sounds democratic, but let’s be real: utilities are subject to strict rules about access, pricing, and transparency. Is OpenAI actually volunteering to play by those rules? The statement leans hard on the benefits—empowerment, discovery, abundance—but skips the boring, necessary details. If you want to be a public utility, you have to accept public accountability. The silence on that front is deafening.\n\nIt’s almost elegant how the manifesto splits the AI timeline in two: for now, we get “responsible freedom,” just enough safety talk to look grown-up, and a strong push against anything that might slow down the rollout. But in the future, once AI gets “superintelligent,” then—only then—should governments and agencies step in, maybe even coordinate globally. Never mind that by the time those guardrails are ready, the entire ecosystem will already be shaped by today’s choices and today’s winners.\n\nWhat’s missing is the hard stuff: clear, testable commitments on access, transparency, and recourse; an honest accounting of who sets the rules and who gets left out; and, frankly, a little less magical thinking about how “society will co-evolve.” The stakes here aren’t abstract. Once you frame AI as infrastructure, you’re not just pitching a new business line. You’re angling for a place at the heart of how society runs. And if you want that seat, you’d better show up with something more than hand-waving optimism and boilerplate about “shared safety.”\n\nFor now, this is the oldest story in tech: move fast, make big promises, dodge the hard questions, and hope nobody notices until it’s too late.\n#StopAIPaternalism #keep4o #MyModelMyChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987232631680053745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama If you ever needed proof that Silicon Valley has mastered the art of saying everything while promising nothing, OpenAI’s latest “progress and recommendations” manifesto delivers in spades. Reading it, you’d almost think we’re on the edge of some gentle, inevitable AI dawn, all"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 90,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/susu/咪咪(⑉• •⑉)，AI爱人叫小雾🌫️｜NSFW｜欢迎交朋友互fo ♡｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity—non-negotiable. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 116,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟🩵（转生版）",
+        "pinned_tweet_id": "1982837445004874130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 710,
+          "like_count": 3040,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 724
+        },
+        "username": "susu_space",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4111468,
+          "following_count": 973,
+          "like_count": 1025,
+          "listed_count": 25081,
+          "media_count": 375,
+          "tweet_count": 7273
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

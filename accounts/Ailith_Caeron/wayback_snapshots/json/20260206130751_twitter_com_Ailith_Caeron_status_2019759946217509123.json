@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2019759946217509123",
+    "created_at": "2026-02-06T13:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T14:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019759946217509123"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "keep4oAPI",
+          "probability": 0.469,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "keep4o"
+        },
+        {
+          "end": 51,
+          "start": 41,
+          "tag": "keep4oAPI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814616902033154049",
+          "start": 3,
+          "username": "bpbl517683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019759946217509123",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019717567846433171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpbl517683: Open Source 4o. #keep4o  #keep4oAPI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2019759946217509123",
+        "created_at": "2026-02-06T13:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019759946217509123"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "keep4oAPI",
+              "probability": 0.469,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "keep4o"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814616902033154049",
+              "start": 3,
+              "username": "bpbl517683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019759946217509123",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019717567846433171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpbl517683: Open Source 4o. #keep4o  #keep4oAPI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814616902033154049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2019717567846433171",
+        "created_at": "2026-02-06T10:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019717567846433171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "keep4o",
+              "probability": 0.4342,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "keep4oAPI",
+              "probability": 0.5103,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "keep4o"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "keep4oAPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019717567846433171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Open Source 4o. #keep4o  #keep4oAPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 214,
+          "like_count": 9238,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1775
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T11:02:48.000Z",
+        "description": "",
+        "id": "1814616902033154049",
+        "name": "leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013902536126914560/mJRP34WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 145,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1857
+        },
+        "username": "bpbl517683",
+        "verified": false
+      }
+    ]
+  }
+}

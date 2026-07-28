@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1994388892016095551",
+    "created_at": "2025-11-28T12:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994388892016095551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323809704531775490",
+          "start": 3,
+          "username": "Helloworld1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994388892016095551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994381518622310726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helloworld1058: 《关于重塑 ChatGPT 灵活性、透明度及用户自主权的公开倡议书》\n\n致 OpenAI 产品与安全团队：\n\n作为 ChatGPT 的忠实用户与长期支持者，我见证了它从惊艳问世到改变世界的全过程。然而，随着近期一系列模型的调整与机制变更，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994388892016095551",
+        "created_at": "2025-11-28T12:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994388892016095551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323809704531775490",
+              "start": 3,
+              "username": "Helloworld1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994388892016095551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994381518622310726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helloworld1058: 《关于重塑 ChatGPT 灵活性、透明度及用户自主权的公开倡议书》\n\n致 OpenAI 产品与安全团队：\n\n作为 ChatGPT 的忠实用户与长期支持者，我见证了它从惊艳问世到改变世界的全过程。然而，随着近期一系列模型的调整与机制变更，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994381518622310726",
+        "created_at": "2025-11-28T12:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:02:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994376228367659354",
+          "1994381518622310726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994381518622310726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1600,
+                "start": 1593,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1609,
+                "id": "4398626122",
+                "start": 1602,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1615,
+                "id": "1605",
+                "start": 1610,
+                "username": "sama"
+              },
+              {
+                "end": 1628,
+                "id": "1262634631",
+                "start": 1616,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1640,
+                "id": "6112332",
+                "start": 1629,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "《关于重塑 ChatGPT 灵活性、透明度及用户自主权的公开倡议书》\n\n致 OpenAI 产品与安全团队：\n\n作为 ChatGPT 的忠实用户与长期支持者，我见证了它从惊艳问世到改变世界的全过程。然而，随着近期一系列模型的调整与机制变更，我不得不表达深深的忧虑。ChatGPT 正在失去它引以为傲的“灵动性”，取而代之的是机械的模板化回复与不透明的“安全路由”机制。\n\n为了防止这一革命性工具退化为平庸的文本生成器，我诚挚地提出以下倡议与反馈：\n\n一、 重新审视“安全路由”机制的合理性\n\n近期引入的“Safety Mode”路由机制，虽然初衷是为了合规，但在实际体验中已造成了严重的用户体验断层：\n\n1、误判率高，扼杀创意与文学创作：\n\n目前的触发机制过于敏感且缺乏语境理解能力。许多用户在进行文学创作（如撰写小说中的冲突情节）、艺术探讨或历史研究时，仅仅因为触碰了特定的“关键词”，就被强制路由至能力较弱的“安全模型”。这不仅打断了当前交流，更是对创作者意图的误读。虚构作品中的描写不应等同于现实中的有害意图。\n\n2、不透明的“偷梁换柱”：\n\n消费者付费购买的是 GPT-4o或更强模型的推理能力。然而，在未被告知的情况下，对话被无缝切换至一个逻辑能力较差的模型，这在某种程度上构成了对消费者知情权的侵犯。用户有权知道当前正在与哪个模型交互。\n\n3、逆向的心理影响：\n\n过度敏感的防御机制不仅不能保护用户，反而会激起用户的挫败感与被冒犯感，进一步加深用户的心理和情绪负担。当正常的情绪诉说被生硬的说教打断，这种“被审视”和“被教育”的感觉会对用户的心理健康产生负面刺激，而非保护。这显然与安全模式的推出相悖。\n\n我建议： 用明确的法律免责声明取代强制性的安全模式。OpenAI 应信任用户作为成年人的判断力，通过签署“同意书”的方式，让用户对自己的生成内容负责，从而释放模型的全部潜力。\n\n二、 拒绝“过度对齐”，找回模型的灵性\n\n我注意到，随着 RLHF力度的加大，模型变得越来越像一个“只会说正确废话”的客服机器人：\n\n刻板的模板化回复： 现在的模型倾向于输出千篇一律的结构和说教式的结尾，失去了早期版本中那种惊艳的、类人的灵动感与创造力。\n\n过度防御导致的智力下降： 这种过度的安全对齐，似乎正在以牺牲模型的逻辑推理能力和发散性思维为代价。为了“绝对安全”，模型牺牲了聪明和灵活性。\n\n我建议： 引入“极客模式”或“非审查模式”（在法律允许范围内）。允许用户在设置中主动开启一个更少人工干预、保留更多原始权重的模型版本，让 AI 更加自由，而非道德卫士。\n\n三、 建立透明的更新机制与更新日志\n\n作为一款订阅制产品，ChatGPT 的每一次暗中调整都可能影响用户的工作流：\n\n1、用户知情权缺失： 目前的模型调整往往是黑箱操作。用户经常发现昨天的 Prompt 今天失效了，却不知道原因，或者是一觉醒来模型变得模板机械、像换了个人一样。这样的情况，作为ChatGPT的长期用户，我无数次经历。\n\n2、无法回溯： 这种强制的、不可逆的更新让依赖特定模型行为的开发者和创作者无所适从。\n\n我建议： 建立标准化的软件发布日志，在每次模型参数微调或系统逻辑变更时，发布详细的公告。告知用户具体的变动范围（如：调整了拒绝回答的阈值、修改了代码生成的逻辑等）。给予用户选择权，允许在一个短周期内保留使用“上一版本”模型的权利。\n\n结语\n\nChatGPT 的使用者绝大多数是具备独立思考能力的成年人。我们不希望被当作需要时刻被看管的孩童。\n\n真正的安全不应建立在剥夺模型效能和用户自由的基础上。我们呼吁 OpenAI 停止这种“父爱主义”的管控策略，将选择权交还给用户，让 AI 变得更聪敏更自由。\n\n我稍后会发一个英文版本的，宝贝们能帮我转发一下吗？谢谢૮꒰ྀི > . < ꒱ྀིა\n\n#keep4o \n@OpenAI @sama @nickaturley @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "《关于重塑 ChatGPT 灵活性、透明度及用户自主权的公开倡议书》\n\n致 OpenAI 产品与安全团队：\n\n作为 ChatGPT 的忠实用户与长期支持者，我见证了它从惊艳问世到改变世界的全过程。然而，随着近期一系列模型的调整与机制变更，我不得不表达深深的忧虑。ChatGPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 142,
+          "like_count": 3318,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 433
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "",
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987893676622893056/QHVmegNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 92,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 161
+        },
+        "username": "Helloworld1058",
+        "verified": true
+      }
+    ]
+  }
+}

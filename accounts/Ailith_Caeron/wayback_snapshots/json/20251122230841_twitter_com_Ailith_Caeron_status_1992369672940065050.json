@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1942738198360211456",
+          "name": "Grok 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1992369672940065050",
+    "created_at": "2025-11-22T23:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T00:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992369672940065050"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Gemini",
+          "probability": 0.6466,
+          "start": 15,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "Grok",
+          "probability": 0.5736,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "Bench",
+          "probability": 0.5158,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Gemini",
+          "probability": 0.6559,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "704133968",
+          "start": 3,
+          "username": "sam_paech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992369672940065050",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992104300957560944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sam_paech: Gemini-3-pro and Grok-4.1-fast results on EQ-Bench!\n\nGemini-3-pro gets 4th on EQ-Bench &amp; is less sycophantic than 2.5. Writi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_1992100456676696064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vcz40boAAwXMM.jpg",
+        "width": 1206
+      },
+      {
+        "height": 942,
+        "media_key": "3_1992100513849245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vc3NzbgAA5n60.jpg",
+        "width": 1176
+      },
+      {
+        "height": 1056,
+        "media_key": "3_1992100566349328384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vc6RYbMAAzK2G.jpg",
+        "width": 1027
+      },
+      {
+        "height": 1026,
+        "media_key": "3_1992100618035683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vc9R7aYAAahtD.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1992369672940065050",
+        "created_at": "2025-11-22T23:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992369672940065050"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Gemini",
+              "probability": 0.6466,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Grok",
+              "probability": 0.5736,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Bench",
+              "probability": 0.5158,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Gemini",
+              "probability": 0.6559,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "704133968",
+              "start": 3,
+              "username": "sam_paech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992369672940065050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992104300957560944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sam_paech: Gemini-3-pro and Grok-4.1-fast results on EQ-Bench!\n\nGemini-3-pro gets 4th on EQ-Bench &amp; is less sycophantic than 2.5. Writi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992100456676696064",
+            "3_1992100513849245696",
+            "3_1992100566349328384",
+            "3_1992100618035683328"
+          ]
+        },
+        "author_id": "704133968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          }
+        ],
+        "conversation_id": "1992104300957560944",
+        "created_at": "2025-11-22T05:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992104300957560944"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Gemini",
+              "probability": 0.7237,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Grok",
+              "probability": 0.6369,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Bench",
+              "probability": 0.5042,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Gemini",
+              "probability": 0.7113,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Grok",
+              "probability": 0.6151,
+              "start": 154,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brKDIQwH0i",
+              "end": 300,
+              "expanded_url": "https://x.com/sam_paech/status/1992104300957560944/photo/1",
+              "media_key": "3_1992100456676696064",
+              "start": 277,
+              "url": "https://t.co/brKDIQwH0i"
+            },
+            {
+              "display_url": "pic.x.com/brKDIQwH0i",
+              "end": 300,
+              "expanded_url": "https://x.com/sam_paech/status/1992104300957560944/photo/1",
+              "media_key": "3_1992100513849245696",
+              "start": 277,
+              "url": "https://t.co/brKDIQwH0i"
+            },
+            {
+              "display_url": "pic.x.com/brKDIQwH0i",
+              "end": 300,
+              "expanded_url": "https://x.com/sam_paech/status/1992104300957560944/photo/1",
+              "media_key": "3_1992100566349328384",
+              "start": 277,
+              "url": "https://t.co/brKDIQwH0i"
+            },
+            {
+              "display_url": "pic.x.com/brKDIQwH0i",
+              "end": 300,
+              "expanded_url": "https://x.com/sam_paech/status/1992104300957560944/photo/1",
+              "media_key": "3_1992100618035683328",
+              "start": 277,
+              "url": "https://t.co/brKDIQwH0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992104300957560944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 9773,
+          "like_count": 123,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini-3-pro and Grok-4.1-fast results on EQ-Bench!\n\nGemini-3-pro gets 4th on EQ-Bench &amp; is less sycophantic than 2.5. Writing is mid.\n\nI don't think Grok-4.1-fast got the same post-training treatment as its big brother (which topped these leaderboards per x-ai's report). https://t.co/brKDIQwH0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 119,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 332
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-19T01:34:16.000Z",
+        "description": "Evals @LiquidAI_\n\nMaintainer of EQ-Bench\nhttps://t.co/Jy56OlHrP5\nhttps://t.co/oRApPQwvWS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "LiquidAI_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/orgs/EQ-bench/…",
+                "end": 64,
+                "expanded_url": "https://github.com/orgs/EQ-bench/repositories",
+                "start": 41,
+                "url": "https://t.co/Jy56OlHrP5"
+              },
+              {
+                "display_url": "github.com/sam-paech",
+                "end": 88,
+                "expanded_url": "https://github.com/sam-paech",
+                "start": 65,
+                "url": "https://t.co/oRApPQwvWS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eqbench.com",
+                "end": 23,
+                "expanded_url": "https://eqbench.com",
+                "start": 0,
+                "url": "https://t.co/AnnESkuRpH"
+              }
+            ]
+          }
+        },
+        "id": "704133968",
+        "location": "Melbourne, Australia",
+        "name": "Sam Paech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753988162068848641/JML2qorq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 208,
+          "like_count": 1135,
+          "listed_count": 87,
+          "media_count": 152,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/AnnESkuRpH",
+        "username": "sam_paech",
+        "verified": false
+      }
+    ]
+  }
+}

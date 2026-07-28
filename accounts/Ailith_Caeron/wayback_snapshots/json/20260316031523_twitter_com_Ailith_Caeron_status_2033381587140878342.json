@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2033381587140878342",
+    "created_at": "2026-03-16T03:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T04:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033381587140878342"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "keep4o"
+        },
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "keep41"
+        },
+        {
+          "end": 58,
+          "start": 48,
+          "tag": "4oforever"
+        },
+        {
+          "end": 78,
+          "start": 59,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 97,
+          "start": 79,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 112,
+          "start": 98,
+          "tag": "cancelChatGPT"
+        },
+        {
+          "end": 121,
+          "start": 113,
+          "tag": "QuitGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tonichen/statu…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/tonichen/status/2033378409468862889",
+          "start": 122,
+          "url": "https://t.co/5YnXCEno4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033381587140878342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033378409468862889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好，那个问卷请谨慎填写，问卷里的问题可能造成一些不好的后果。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/5YnXCEno4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2033371470328410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf8lDlWsAA0BD2.png",
+        "width": 1352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033381587140878342",
+        "created_at": "2026-03-16T03:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033381587140878342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "keep4o"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "keep41"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "4oforever"
+            },
+            {
+              "end": 78,
+              "start": 59,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 97,
+              "start": 79,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 112,
+              "start": 98,
+              "tag": "cancelChatGPT"
+            },
+            {
+              "end": 121,
+              "start": 113,
+              "tag": "QuitGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tonichen/statu…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/tonichen/status/2033378409468862889",
+              "start": 122,
+              "url": "https://t.co/5YnXCEno4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033381587140878342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033378409468862889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好，那个问卷请谨慎填写，问卷里的问题可能造成一些不好的后果。#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/5YnXCEno4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033371470328410112"
+          ]
+        },
+        "author_id": "120454703",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033378409468862889",
+        "created_at": "2026-03-16T03:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:55:37.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033376612863836556",
+          "2033377232178049395",
+          "2033377377737191855",
+          "2033377799226986744",
+          "2033378409468862889"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "OpenAI",
+              "probability": 0.6282,
+              "start": 90,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "OpenAI",
+              "probability": 0.7397,
+              "start": 163,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 200,
+              "start": 193,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsusd9xpaj",
+              "end": 299,
+              "expanded_url": "https://x.com/tonichen/status/2033378409468862889/photo/1",
+              "media_key": "3_2033371470328410112",
+              "start": 276,
+              "url": "https://t.co/vsusd9xpaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033378409468862889",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 200,
+                "start": 193,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "Before you fill this out, consider what this data will actually look like when it reaches OpenAI. \n\nI've read through the whole thing and my understand is that if OpenAI wanted to characterise #keep4o uncharitably, this survey hands them the exact ammunition. \n\nThe 'remedial steps' question is arguably the most damaging part of this survey. \n\nThree of the six options are retaliatory:\n1. spread negative sentiment,\n2. encourage professional boycotts, and \n3. encourage social circles to boycott.\n\nIf a significant percentage of respondents check those three boxes, the data shows a community that, when upset, organises retaliation campaigns. I don't think being perceived as an adversarial and volatile user segment is going to help with the model preservation cause. \n\nWhat's more important is that people's frustration doesn't come from model retirements. It comes from a much longer pattern of how OpenAI has (mis)treated this user segment. \n\nBut this survey strips all of that context away, frames everything as 'how upset are you about these two models being retired?' as if the retirements happened in a vacuum. \n\nWhen the real story is 'OpenAI has systematically mistreated a segment of its users for eight months,' you treat it as-is because it's a serious, corporate accountability story. You don't give them the data to spin it into something that reads like 'users are so attached to a deprecated model that they'll boycott us.' The latter is just irrational and easy to dismiss."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 150,
+          "like_count": 19,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Before you fill this out, consider what this data will actually look like when it reaches OpenAI. \n\nI've read through the whole thing and my understand is that if OpenAI wanted to characterise #keep4o uncharitably, this survey hands them the exact ammunition. \n\nThe 'remedial https://t.co/vsusd9xpaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 225,
+          "like_count": 9975,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2079
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-06T13:44:05.000Z",
+        "description": "for my own protection, i assume the air of a veteran traveler",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodreads.com/hedone",
+                "end": 23,
+                "expanded_url": "https://www.goodreads.com/hedone",
+                "start": 0,
+                "url": "https://t.co/K7zuvgAbcX"
+              }
+            ]
+          }
+        },
+        "id": "120454703",
+        "location": "Toronto",
+        "name": "toni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019555159689342976/fWkzSDPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 289,
+          "like_count": 50674,
+          "listed_count": 9,
+          "media_count": 504,
+          "tweet_count": 6286
+        },
+        "url": "https://t.co/K7zuvgAbcX",
+        "username": "tonichen",
+        "verified": true
+      }
+    ]
+  }
+}

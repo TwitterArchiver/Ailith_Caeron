@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991142721663426560"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "1991142745134530575",
+    "created_at": "2025-11-19T13:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991142745134530575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTNwvxXdFo",
+          "end": 35,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1991142745134530575/photo/1",
+          "media_key": "3_1991142721663426560",
+          "start": 12,
+          "url": "https://t.co/PTNwvxXdFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991142745134530575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是哥们你显灵了啊…？ https://t.co/PTNwvxXdFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991142721663426560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6H1wX3aYAAYRey.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991142721663426560"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "1991142745134530575",
+        "created_at": "2025-11-19T13:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991142745134530575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTNwvxXdFo",
+              "end": 35,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1991142745134530575/photo/1",
+              "media_key": "3_1991142721663426560",
+              "start": 12,
+              "url": "https://t.co/PTNwvxXdFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991142745134530575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们你显灵了啊…？ https://t.co/PTNwvxXdFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 111,
+          "like_count": 2420,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 278
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

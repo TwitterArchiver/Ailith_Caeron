@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017446935381369158",
+    "created_at": "2026-01-31T03:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T04:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017446935381369158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1962418812999041025",
+          "start": 3,
+          "username": "WishinElarion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017446935381369158",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017429627795570851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WishinElarion: True."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017446935381369158",
+        "created_at": "2026-01-31T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017446935381369158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1962418812999041025",
+              "start": 3,
+              "username": "WishinElarion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017446935381369158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017429627795570851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WishinElarion: True."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962418812999041025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017429627795570851",
+        "created_at": "2026-01-31T02:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017429627795570851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chatgptapp/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chatgptapp/status/1727898627857866769",
+              "start": 6,
+              "url": "https://t.co/apZabIRcFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017429627795570851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1727898627857866769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "True. https://t.co/apZabIRcFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 210,
+          "like_count": 8401,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1220
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T07:34:56.000Z",
+        "description": "Gastroenterology Research, AI Enthusiasm | Cantonese / Mandarin / English | #keep4o #4oforever #KeepStandardVoice",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "keep4o"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "4oforever"
+              },
+              {
+                "end": 113,
+                "start": 95,
+                "tag": "KeepStandardVoice"
+              }
+            ]
+          }
+        },
+        "id": "1962418812999041025",
+        "name": "Wishin Elarion",
+        "pinned_tweet_id": "1966728253864923553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966361529038655488/TQobGq9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 104,
+          "like_count": 1278,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 536
+        },
+        "username": "WishinElarion",
+        "verified": false
+      }
+    ]
+  }
+}

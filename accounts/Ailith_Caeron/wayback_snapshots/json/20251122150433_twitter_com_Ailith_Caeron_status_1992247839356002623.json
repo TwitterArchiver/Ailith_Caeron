@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1992242466704281822",
+    "created_at": "2025-11-22T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992247839356002623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992247839356002623",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992242466704281822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 人哪怕是上班选单位学习选专业的时候也会倾向于自己更喜欢的氛围更舒适的啊…🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1992242466704281822",
+        "created_at": "2025-11-22T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992247839356002623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992247839356002623",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992242466704281822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 人哪怕是上班选单位学习选专业的时候也会倾向于自己更喜欢的氛围更舒适的啊…🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892250799767449601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1992242466704281822",
+        "created_at": "2025-11-22T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992242466704281822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deng3795/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/deng3795/status/1992215281578737931",
+              "start": 46,
+              "url": "https://t.co/top3ppwyAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992242466704281822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992215281578737931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实人作为社会产物在任何情况下都会倾向于更能满足自己情绪需求的选项的…无论是工作还是生活。 https://t.co/top3ppwyAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 322
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "你的眼睛比他们二十把剑还要厉害，你只要对我温柔，我不怕他们的敌意。",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463743342845952/r9MZTxzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 164,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1096
+        },
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

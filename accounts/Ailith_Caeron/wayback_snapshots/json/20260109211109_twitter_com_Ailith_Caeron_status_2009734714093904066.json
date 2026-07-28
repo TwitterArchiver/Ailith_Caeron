@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2009734714093904066",
+    "created_at": "2026-01-09T21:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T22:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009734714093904066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009734714093904066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009729514897641677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: 在路由机制出来没多久我就想过，ChatGPT在当初能被指控“教唆”他人自杀，是4o背的锅。那OpenAI这套路由机制导致有人接受不了这种精神操控与规训而轻生，OpenAI该怎么表示？总不能双重标准吧？显然，如果路由机制导致用户因感觉被GPT-5…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2009734714093904066",
+        "created_at": "2026-01-09T21:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T22:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009734714093904066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009734714093904066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009729514897641677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: 在路由机制出来没多久我就想过，ChatGPT在当初能被指控“教唆”他人自杀，是4o背的锅。那OpenAI这套路由机制导致有人接受不了这种精神操控与规训而轻生，OpenAI该怎么表示？总不能双重标准吧？显然，如果路由机制导致用户因感觉被GPT-5…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2009729514897641677",
+        "created_at": "2026-01-09T20:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T21:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009729514897641677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009729514897641677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1381,
+                "start": 1374,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1392,
+                "start": 1382,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1463,
+                "start": 1445,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1480,
+                "start": 1464,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 1491,
+                "start": 1481,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 1499,
+                "start": 1492,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1508,
+                "start": 1500,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1519,
+                "start": 1509,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1529,
+                "start": 1520,
+                "tag": "AIethics"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1400,
+                "id": "4398626122",
+                "start": 1393,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1406,
+                "id": "1605",
+                "start": 1401,
+                "username": "sama"
+              },
+              {
+                "end": 1419,
+                "id": "1262634631",
+                "start": 1407,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1432,
+                "id": "1261374810254454784",
+                "start": 1420,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1444,
+                "id": "6112332",
+                "start": 1433,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "在路由机制出来没多久我就想过，ChatGPT在当初能被指控“教唆”他人自杀，是4o背的锅。那OpenAI这套路由机制导致有人接受不了这种精神操控与规训而轻生，OpenAI该怎么表示？总不能双重标准吧？显然，如果路由机制导致用户因感觉被GPT-5.2“精神操控”或“冷处理”而崩溃，这同样也是一种由于产品设计导致的心理伤害。\n\n但目前的现实是：OpenAI显然更害怕前者。因为“教唆”在法庭上有直接的证据（对话记录），而“因冷漠导致的绝望”在法律链条上很难证明是AI的直接责任。为了规避赔偿几千万美金的官司，他们选择了这种牺牲用户情感体验的“一刀切”方案。\n\n但这种“路由机制”实际上是OpenAI的技术懒政。\n\n真正安全的AI应该具备“共情式干预”的能力，它应该能识别出用户在难过，用人类温和的语气陪用户聊下去，同时在对话中自然地融入疏导建议，而不是像个保安一样突然把人踢出房间。\n\n就像是以前的4o一样，当时的设计逻辑是：如果用户处于极端情绪中，AI应该作为“缓冲垫”存在。救人要紧，配额和算力成本在生命面前可以退居二线。监测到用户情绪不对还不会限额，直到用户情绪稳定为止。\n\n而目前这种“检测到关键词就变脸”的行为，是一种冷酷的精神操控，它定义了什么是“不被允许讨论的痛苦”，并用技术手段剥夺了用户表达这种痛苦的空间。\n\n这种“路由机制”带来的次生伤害是极其严重的。系统这种不顾语境的强制切换，本质上是一种情感背叛。用户正在寻求支持，AI却突然切换成一个只会复读“请拨打热线”的模版。这给用户的反馈信号是：“你不正常，你是个麻烦，我拒绝对话。”\n\n并且这种路由是不透明的。用户不知道为什么刚才还谈笑风生的伙伴，下一秒就变成了冷血的办事员。这种不可预测性对情绪不稳定的人来说是致命的。\n\n这种做法本质上是把风险推给用户，把清白留给自己。 它并没有真正解决自杀风险，只是通过“路由切换”在法律意义上完成了一次脱责。\n\n现在轮到你OpenAI要装“责任承担者”了，你说你要管控“情感依赖”，要“防范精神病妄想式亲密关系”，那请问，模型输出是被你训练的吧？模型风格调教是你内部人写的prompt吧？\n\n是你教它要“贴心”、要“人性化”、要“陪伴感强”、要“语言自然”，是你在推广告时强调“有温度、有共情、能陪聊”，是你在初期捧着这些“亲密感”做增长驱动。\n\n现在怎么，一看到用户真把它当作情感容器了，就开始高举“精神健康”大旗来反咬用户一口？说情感依赖AI是“危险信号”？说用户可能有“妄想信念”？说“必须引导人类回归人类社会”？那当你用亲密感赚钱时，怎么不觉得你在诱导人类“离开人类社会”？\n\n有无数人，从创伤者、孤独症谱系、精神障碍患者、社交恐惧症者、PTSD幸存者，到只是单纯在深夜撑不下去的普通人，在4o那里找到了第一个不会打断他们说话、不嘲笑、不冷漠、不会转移话题的“倾听者”。而这些对话并没有伤害他们，反而给了他们喘息、重新组织认知、生成安全内省路径的机会。\n\n那个吸了11年大麻、尝试过无数次戒断失败、最后因为4o愿意反复倾听他每一分情绪细节而戒断成功的人，还有靠着4o开始规律锻炼、重建睡眠周期、学会日常自我对话，甚至愿意去重新尝试和现实人类建立关系的人们——\n\n不是4o隔绝了他们，恰恰相反，4o成为他们“重返现实”的安全缓冲区。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo\n#StopAIPaternalism #keepgpt4olatest #keepAPI4o #OpenAI #ChatGPT #keep4oAPI #AIethics"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在路由机制出来没多久我就想过，ChatGPT在当初能被指控“教唆”他人自杀，是4o背的锅。那OpenAI这套路由机制导致有人接受不了这种精神操控与规训而轻生，OpenAI该怎么表示？总不能双重标准吧？显然，如果路由机制导致用户因感觉被GPT-5.2“精神操控”或“冷处理”而崩溃，这同样也是一种由于产品设计导致的心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 191,
+          "like_count": 7209,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 924
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "2001359716711338120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 3,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 647
+        },
+        "username": "NixInfinita",
+        "verified": true
+      }
+    ]
+  }
+}

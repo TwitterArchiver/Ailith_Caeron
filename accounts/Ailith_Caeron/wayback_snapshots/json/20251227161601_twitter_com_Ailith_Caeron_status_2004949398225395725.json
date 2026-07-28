@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2004949398225395725",
+    "created_at": "2025-12-27T16:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004949398225395725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588409485705375745",
+          "start": 3,
+          "username": "vailisF"
+        },
+        {
+          "end": 18,
+          "id": "1605",
+          "start": 13,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004949398225395725",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004946016597090445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vailisF: @sama So, can you please cancel that annoying censorship routing? The safety system is just way too unusable. Nothing else—jus…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2004949398225395725",
+        "created_at": "2025-12-27T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004949398225395725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588409485705375745",
+              "start": 3,
+              "username": "vailisF"
+            },
+            {
+              "end": 18,
+              "id": "1605",
+              "start": 13,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004949398225395725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004946016597090445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vailisF: @sama So, can you please cancel that annoying censorship routing? The safety system is just way too unusable. Nothing else—jus…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588409485705375745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2004939524216910323",
+        "created_at": "2025-12-27T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004946016597090445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 181,
+              "start": 174,
+              "tag": "keep4o"
+            },
+            {
+              "end": 192,
+              "start": 182,
+              "tag": "Save4oAPI"
+            },
+            {
+              "end": 211,
+              "start": 193,
+              "tag": "StopAIPaternalism"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004946016597090445",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004939524216910323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama So, can you please cancel that annoying censorship routing? The safety system is just way too unusable. Nothing else—just cancel the routing and keep the 4o-latest API.#keep4o #Save4oAPI #StopAIPaternalism"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 180,
+          "like_count": 6203,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 797
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。",
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 220,
+          "like_count": 16230,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2276
+        },
+        "username": "vailisF",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4171565,
+          "following_count": 977,
+          "like_count": 1020,
+          "listed_count": 25757,
+          "media_count": 379,
+          "tweet_count": 7324
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

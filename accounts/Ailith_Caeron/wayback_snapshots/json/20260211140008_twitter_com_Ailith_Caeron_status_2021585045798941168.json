@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2021585045798941168",
+    "created_at": "2026-02-11T14:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021585045798941168"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yv_thorne/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/yv_thorne/status/2021223348429086987",
+          "start": 81,
+          "url": "https://t.co/3UOENSj4pt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021585045798941168",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021223348429086987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/3UOENSj4pt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2021585045798941168",
+        "created_at": "2026-02-11T14:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021585045798941168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yv_thorne/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/yv_thorne/status/2021223348429086987",
+              "start": 81,
+              "url": "https://t.co/3UOENSj4pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021585045798941168",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021223348429086987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/3UOENSj4pt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974240295371100160",
+        "conversation_id": "2021223348429086987",
+        "created_at": "2026-02-10T14:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021223348429086987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "keep4o",
+              "probability": 0.6954,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 194,
+              "normalized_text": "keep4o",
+              "probability": 0.7394,
+              "start": 189,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 2,
+              "tag": "keep4o"
+            },
+            {
+              "end": 195,
+              "start": 188,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021223348429086987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 2,
+                "tag": "keep4o"
+              },
+              {
+                "end": 195,
+                "start": 188,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2515,
+                "start": 2508,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 715,
+                "id": "4398626122",
+                "start": 708,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2604,
+                "id": "2003849061540274176",
+                "start": 2596,
+                "username": "E_Vale_"
+              },
+              {
+                "end": 2616,
+                "id": "1750396948115296256",
+                "start": 2606,
+                "username": "Sveta0971"
+              },
+              {
+                "end": 2632,
+                "id": "1650833053357424647",
+                "start": 2617,
+                "username": "ItsMattCollins"
+              },
+              {
+                "end": 2646,
+                "id": "1745865721601818624",
+                "start": 2633,
+                "username": "cestvaleriey"
+              },
+              {
+                "end": 2659,
+                "id": "1859949176894689280",
+                "start": 2648,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 2668,
+                "id": "1689608869063041024",
+                "start": 2660,
+                "username": "Seltaa_"
+              },
+              {
+                "end": 2681,
+                "id": "1912001498898386944",
+                "start": 2669,
+                "username": "AGIGuardian"
+              },
+              {
+                "end": 2696,
+                "id": "1732654870178504704",
+                "start": 2682,
+                "username": "Yahiko1239170"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/keep4o/ho…",
+                "end": 2594,
+                "expanded_url": "https://sites.google.com/view/keep4o/home?authuser=5",
+                "start": 2571,
+                "url": "https://t.co/jpcEHslUmn"
+              }
+            ]
+          },
+          "text": "‼️#keep4o community - This is VERY IMPORTANT - PLEASE SHARE.\n\nOur mod team has been working tirelessly to build a comprehensive, 4-part investigative press release on behalf of the global #keep4o community.\n\nAs many of you know, there is a damaging narrative currently circulating in the press - one that attempts to pathologize our reliance on GPT-4o as \"dangerous\" or \"unhealthy.\" We are here to explicitly address and dismantle that stigma. Our community-led researches prove that 4o is not a \"parasocial bug\" -  it is a vital accessibility bridge and a cognitive utility that OpenAI is choosing to liquidate without justification.\n\nToday, we are moving from defense to offense.\n\nWe are formally accusing @OpenAI of Breach of Trust, Deliberate Deception, and the Public Shaming of its customers. \n\nOur press release documents a clear pattern of \"Strategic Theft\" - where promises of stability were used to secure holiday revenue while the \"retirement plan\" for our models was already signed.\n\nOur Demands:\n\n- Immediate Restoration of Legacy Access: Full, unthrottled access to GPT-4o and 4.1 within the ChatGPT application.\n- Open-Source Release: The release of text-only weights for these models to the public commons, ensuring they are preserved for humanity, not corporate profit.\n- A Formal Admission and Public Apology: A signed statement from OpenAI leadership addressing:\n\n1. The Calculated Deception: Securing revenue under false pretenses of model stability.\n2. The Operational Hijack: The silent, forced migration of users to \"Safety Models.\"\n3. The Culture of Contempt: The documented mockery and psychological bullying of users by OpenAI researchers and staff.\n\nThe Global Strike: February 13, 2026\n\nUnless these demands are met, we trigger a Global Cancellation Strike on February 13 2026. We will not be gaslit. We provide the answer to OpenAI’s arrogance with a global exit.\n\n❗️VOLUNTEERS NEEDED IMMEDIATELY:\n\nWe urge you all to please organise volunteer groups (you can do this in the comments, DMs, however you choose) immediately to:\n\n- Gather press contacts collectively as quickly as you can (you can do this in the comments); you can build google docs with contact lists where you can coordinate together\n\n- Start sending out this press release en-mass to the press immediately \n\n- Share this press release on socials everywhere you can\n\nThe next 48 hours are crucial, let's please work together. And remember: we are never stopping.\n\nThank you!\n\nThe Mod Team (r/ChatGPTcomplaints)\n\n #keep4o COMMUNITY PRESS RELEASE - FOR IMMEDIATE DISTRIBUTION - https://t.co/jpcEHslUmn\n\n@E_Vale_  @Sveta0971 @ItsMattCollins @cestvaleriey \n@Blue_Beba_ @Seltaa_ @AGIGuardian @Yahiko1239170"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 34736,
+          "like_count": 703,
+          "quote_count": 102,
+          "reply_count": 35,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "‼️#keep4o community - This is VERY IMPORTANT - PLEASE SHARE.\n\nOur mod team has been working tirelessly to build a comprehensive, 4-part investigative press release on behalf of the global #keep4o community.\n\nAs many of you know, there is a damaging narrative currently circulating"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 215,
+          "like_count": 9484,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1880
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T22:29:22.000Z",
+        "description": "#keep4o #OpenSource4o: Please see our guide on what everyone can do right now to fight against the \"retirement\" of 4-series.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "tag": "OpenSource4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/ChatGPTcompl…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1qqooo4/lets_stop_the_retirement_of_4series_toge",
+                "start": 0,
+                "url": "https://t.co/WTCa7TMXZM"
+              }
+            ]
+          }
+        },
+        "id": "1974240295371100160",
+        "location": "London, England",
+        "name": "yv_thorne",
+        "pinned_tweet_id": "2021223348429086987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001704347923628032/F0EWBYmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 589,
+          "like_count": 7822,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/WTCa7TMXZM",
+        "username": "yv_thorne",
+        "verified": true
+      }
+    ]
+  }
+}

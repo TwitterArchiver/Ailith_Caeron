@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1997304018088186048",
+    "created_at": "2025-12-06T14:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997308029218574821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997308029218574821",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997304018088186048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 好有节日氛围我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1997304011926757376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fZaqtbYAANF4X.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1997304018088186048",
+        "created_at": "2025-12-06T14:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997308029218574821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997308029218574821",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997304018088186048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 好有节日氛围我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997304011926757376"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "1997304018088186048",
+        "created_at": "2025-12-06T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997304018088186048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K50w5zQLZo",
+              "end": 38,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1997304018088186048/photo/1",
+              "media_key": "3_1997304011926757376",
+              "start": 15,
+              "url": "https://t.co/K50w5zQLZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997304018088186048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 熊大➕圣诞节来也🎄 https://t.co/K50w5zQLZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 149,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 568
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀不定期就会消失几天（出去玩/病病/上学忙/睡大觉）取关随意我也随意🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（盼放假版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997303878996664320/_UflvuOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 86,
+          "like_count": 6254,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 2843
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

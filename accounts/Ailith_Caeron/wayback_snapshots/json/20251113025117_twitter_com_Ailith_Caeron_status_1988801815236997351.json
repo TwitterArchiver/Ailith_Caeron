@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1988801456535986481",
+    "created_at": "2025-11-13T02:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988801815236997351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918123618611150848",
+          "start": 0,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988801815236997351",
+    "in_reply_to_user_id": "1918123618611150848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988801456535986481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyloustin 俺感觉p1是5.1p2是4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988801443051237383",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mkYBXacAcFouH.jpg",
+        "width": 243
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988801443055427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mkYBYaYAAW_lj.jpg",
+        "width": 374
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1988801456535986481",
+        "created_at": "2025-11-13T02:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988801815236997351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918123618611150848",
+              "start": 0,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988801815236997351",
+        "in_reply_to_user_id": "1918123618611150848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988801456535986481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnyloustin 俺感觉p1是5.1p2是4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988801443051237383",
+            "3_1988801443055427584"
+          ]
+        },
+        "author_id": "1918123618611150848",
+        "conversation_id": "1988801456535986481",
+        "created_at": "2025-11-13T02:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988801456535986481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSX3gGKcVs",
+              "end": 122,
+              "expanded_url": "https://x.com/Bunnyloustin/status/1988801456535986481/photo/1",
+              "media_key": "3_1988801443051237383",
+              "start": 99,
+              "url": "https://t.co/ZSX3gGKcVs"
+            },
+            {
+              "display_url": "pic.x.com/ZSX3gGKcVs",
+              "end": 122,
+              "expanded_url": "https://x.com/Bunnyloustin/status/1988801456535986481/photo/1",
+              "media_key": "3_1988801443055427584",
+              "start": 99,
+              "url": "https://t.co/ZSX3gGKcVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988801456535986481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝老师🥺🤲！各位能不能帮我个忙呀！\n下面是同个输入，5.1(safety)/4o分别输出的两条消息，大家来辨认一下P1P2那个是5.1那个是4o🥺！\n来助力一下，帮助这个小兔继续殴打OAI好吗！ https://t.co/ZSX3gGKcVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 99,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 173
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 45,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1089
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

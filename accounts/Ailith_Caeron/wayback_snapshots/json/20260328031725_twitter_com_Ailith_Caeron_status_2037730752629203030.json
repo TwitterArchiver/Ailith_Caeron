@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037730744110612480"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037730752629203030",
+    "created_at": "2026-03-28T03:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037730752629203030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/an1pwXNTwh",
+          "end": 59,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2037730752629203030/photo/1",
+          "media_key": "3_2037730744110612480",
+          "start": 36,
+          "url": "https://t.co/an1pwXNTwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037730752629203030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人祝贺我180抽拿下双一，甚至歪了两个撤子常驻，180抽出了5张金 https://t.co/an1pwXNTwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037730744110612480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEd5UL6bAAAAiPZ.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037730744110612480"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037730752629203030",
+        "created_at": "2026-03-28T03:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037730752629203030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/an1pwXNTwh",
+              "end": 59,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2037730752629203030/photo/1",
+              "media_key": "3_2037730744110612480",
+              "start": 36,
+              "url": "https://t.co/an1pwXNTwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037730752629203030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人祝贺我180抽拿下双一，甚至歪了两个撤子常驻，180抽出了5张金 https://t.co/an1pwXNTwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 230,
+          "like_count": 10132,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2106
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

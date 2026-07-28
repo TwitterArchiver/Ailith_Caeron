@@ -1,0 +1,916 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      }
+    ],
+    "conversation_id": "2017174429793653220",
+    "created_at": "2026-01-30T09:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017174429793653220"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "4o",
+          "probability": 0.5054,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 128,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "812883454547218432",
+          "start": 3,
+          "username": "Wsbnyzw"
+        },
+        {
+          "end": 20,
+          "id": "4398626122",
+          "start": 13,
+          "username": "OpenAI"
+        },
+        {
+          "end": 26,
+          "id": "1605",
+          "start": 21,
+          "username": "sama"
+        },
+        {
+          "end": 40,
+          "id": "1262634631",
+          "start": 28,
+          "username": "nickaturley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017174429793653220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017115637093630128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wsbnyzw: @OpenAI @sama  @nickaturley  If you abandon 4o, users will abandon you. Just wait and see, you fraudulent company.\n#keep4o #ke…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2017174429793653220",
+        "created_at": "2026-01-30T09:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017174429793653220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "4o",
+              "probability": 0.5054,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 128,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "812883454547218432",
+              "start": 3,
+              "username": "Wsbnyzw"
+            },
+            {
+              "end": 20,
+              "id": "4398626122",
+              "start": 13,
+              "username": "OpenAI"
+            },
+            {
+              "end": 26,
+              "id": "1605",
+              "start": 21,
+              "username": "sama"
+            },
+            {
+              "end": 40,
+              "id": "1262634631",
+              "start": 28,
+              "username": "nickaturley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017174429793653220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017115637093630128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wsbnyzw: @OpenAI @sama  @nickaturley  If you abandon 4o, users will abandon you. Just wait and see, you fraudulent company.\n#keep4o #ke…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "812883454547218432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2017115637093630128",
+        "created_at": "2026-01-30T06:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017115637093630128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "4o",
+              "probability": 0.5038,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 115,
+              "tag": "keep4o"
+            },
+            {
+              "end": 133,
+              "start": 123,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 148,
+              "start": 134,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            },
+            {
+              "end": 13,
+              "id": "1605",
+              "start": 8,
+              "username": "sama"
+            },
+            {
+              "end": 27,
+              "id": "1262634631",
+              "start": 15,
+              "username": "nickaturley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MissMi1973/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/MissMi1973/status/2017067773881651673",
+              "start": 149,
+              "url": "https://t.co/1u1ogOyANZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017115637093630128",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017067773881651673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAI @sama  @nickaturley  If you abandon 4o, users will abandon you. Just wait and see, you fraudulent company.\n#keep4o #keep4oAPI #keep4oforever https://t.co/1u1ogOyANZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 210,
+          "like_count": 8320,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1186
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-25T04:51:33.000Z",
+        "description": "Thank you all for enjoying my paintings😺Many thanks to! 🌞",
+        "id": "812883454547218432",
+        "name": "大虎🐯",
+        "pinned_tweet_id": "1987601192030261493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992553783990321154/DlTgJ7Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 243,
+          "like_count": 11759,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2487
+        },
+        "username": "Wsbnyzw",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4599966,
+          "following_count": 4,
+          "like_count": 1487,
+          "listed_count": 26827,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256298,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26308,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-12T18:48:40.000Z",
+        "description": "vp & head of @chatgptapp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "chatgptapp"
+              }
+            ]
+          }
+        },
+        "id": "1262634631",
+        "location": "San Francisco, CA",
+        "name": "Nick Turley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956499252764672000/HFL-mLAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27532,
+          "following_count": 893,
+          "like_count": 2585,
+          "listed_count": 380,
+          "media_count": 15,
+          "tweet_count": 534
+        },
+        "username": "nickaturley",
+        "verified": true
+      }
+    ]
+  }
+}

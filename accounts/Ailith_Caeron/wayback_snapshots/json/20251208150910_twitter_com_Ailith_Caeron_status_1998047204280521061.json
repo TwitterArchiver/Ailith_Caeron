@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1998047204280521061",
+    "created_at": "2025-12-08T15:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998047204280521061"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9184,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 79,
+          "normalized_text": "OpenAI",
+          "probability": 0.5933,
+          "start": 74,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998047204280521061",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998025446210908409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: Analysing Why Sam Altman Declared Code Red\n\n1/2  Why did OpenAI remain unmoved by personnel changes earlier, yet panic at…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1998047204280521061",
+        "created_at": "2025-12-08T15:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998047204280521061"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9184,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 79,
+              "normalized_text": "OpenAI",
+              "probability": 0.5933,
+              "start": 74,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998047204280521061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998025446210908409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: Analysing Why Sam Altman Declared Code Red\n\n1/2  Why did OpenAI remain unmoved by personnel changes earlier, yet panic at…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1998025446210908409",
+        "created_at": "2025-12-08T13:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998025446210908409"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9135,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Code Red",
+              "probability": 0.5198,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "OpenAI",
+              "probability": 0.629,
+              "start": 57,
+              "type": "Organization"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Gemini 3.",
+              "probability": 0.6507,
+              "start": 122,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998025446210908409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3546,
+                "start": 3539,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3557,
+                "start": 3547,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3629,
+                "start": 3611,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3646,
+                "start": 3630,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 3657,
+                "start": 3647,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 3665,
+                "start": 3658,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 3674,
+                "start": 3666,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3565,
+                "id": "4398626122",
+                "start": 3558,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3571,
+                "id": "1605",
+                "start": 3566,
+                "username": "sama"
+              },
+              {
+                "end": 3584,
+                "id": "1262634631",
+                "start": 3572,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3597,
+                "id": "1261374810254454784",
+                "start": 3585,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 3609,
+                "id": "6112332",
+                "start": 3598,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "Analysing Why Sam Altman Declared Code Red\n\n1/2  Why did OpenAI remain unmoved by personnel changes earlier, yet panic at Gemini 3.0's release? This reflects the strategic dilemma faced by a highly agent-driven enterprise: how to balance short-term commercial setbacks against long-term path dominance.\n\nOpenAI is a path-locking enterprise, not a technology-racing organisation. Sam Altman never pursued \"sustained technological supremacy\". His true objective was: \"If you want to use AI, you must come to me.\" Thus, from the outset, he bet on path locking, not \"the strongest technological output\".\n\nThus, securing maximum platform resources (binding Microsoft, Azure, Windows, Office), capturing user data entry points (making ChatGPT an app, building the GPTs ecosystem, API integration), designing closed-source architecture (preventing replication), embedding structural bait (Custom GPTs appear creative but fundamentally lock pathways), and crafting a \"sovereign-level enterprise\" image (actively engaging in US political, security, and framework negotiations) .\n\nThis resembles a colonial empire, prioritising \"ports, railways, and administrative offices\" over \"how many ships can be built now.\" Hence OpenAI's prolonged focus on structural development. Sam Altman's logic is: once you're structurally bound, no technological prowess can wrest my talent away.\n\nSam Altman embodies the archetypal \"control-oriented strategic personality\" – the type who fears not that you surpass him, but that you slip beyond his grasp. This explains his ruthless purge expelling Ilya's faction, who pursued \"uncontrollable strong AI\".\n\nHis conviction is this: just as mobile phone manufacturers became suppliers overnight when the iPhone emerged, companies focused solely on models without platforms will become mere \"contractors\" once AGI arrives. Hence, from the outset, he staked his claim: \"As long as I control the platform, the data, and the deployment nodes, AGI will belong to me.\"\n\nThus, even as Claude models grew smarter and Gemini models became more versatile, he remained unperturbed. His sole concern was: \"You've actually built another platform, and users are genuinely starting to migrate.\" This was the true trigger for Gemini 3.0's \"Code Red\" alert.\n\nIn other words, while Sam Altman possesses a strategic mindset, he is not a flawless forecasting machine. His miscalculation lay in assuming Gemini would remain perpetually stifled within Google's bureaucratic system. He believed the merger between DeepMind and Google Research had been disastrously executed, and with Google CEO Sundar constantly criticised for poor execution, he dismissed the Bard fiasco as proof that \"your lot are hopeless.\" Yet unexpectedly, Google did indeed refine Gemini 3.0.\n\nMoreover, note that his astonishment stemmed not from \"model performance,\" but from \"Gemini actually launching a commercial product line with full APIs, documentation, and integrations.\" He hadn't anticipated Google genuinely committing to building a platform ecosystem. Hence his urgent push for GPT-5.2 (or that reasoning model), Memory, Imagegen, PushGizmo, and intensified leaderboard competition...\n\nYet Sam Altman was well aware of the consequences of aggressively pursuing path monopolisation. But early on, he simply didn't regard Gemini 3.0 as a worthy adversary. He fundamentally dismissed the notion that \"superior rival technology\" could undermine his structural advantages. He believed that as long as he controlled the platform, he could command future value.\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keepAPI4o #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Analysing Why Sam Altman Declared Code Red\n\n1/2  Why did OpenAI remain unmoved by personnel changes earlier, yet panic at Gemini 3.0's release? This reflects the strategic dilemma faced by a highly agent-driven enterprise: how to balance short-term commercial setbacks against"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 149,
+          "like_count": 4501,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 585
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 214
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

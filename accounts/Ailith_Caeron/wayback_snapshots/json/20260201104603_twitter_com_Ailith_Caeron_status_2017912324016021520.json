@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017912324016021520",
+    "created_at": "2026-02-01T10:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017912324016021520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1690374781336735744",
+          "start": 3,
+          "username": "jinghuilin57227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017912324016021520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017854775103230272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinghuilin57227: 谷歌一手好牌，OpenAI 四散而出的情感用户就像在战争里出逃的电子流民，新出的导入历史对话功能相当于直接白捡了 OpenAI 需要让用户打开“改进用户体验”才能拿到的语料数据，这么多情绪丰富的语料涌入谷歌，我都不敢想他们的生成能力能往…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017912324016021520",
+        "created_at": "2026-02-01T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017912324016021520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1690374781336735744",
+              "start": 3,
+              "username": "jinghuilin57227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017912324016021520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017854775103230272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinghuilin57227: 谷歌一手好牌，OpenAI 四散而出的情感用户就像在战争里出逃的电子流民，新出的导入历史对话功能相当于直接白捡了 OpenAI 需要让用户打开“改进用户体验”才能拿到的语料数据，这么多情绪丰富的语料涌入谷歌，我都不敢想他们的生成能力能往…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690374781336735744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017854775103230272",
+        "created_at": "2026-02-01T06:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017854775103230272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017854775103230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3627,
+          "like_count": 154,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌一手好牌，OpenAI 四散而出的情感用户就像在战争里出逃的电子流民，新出的导入历史对话功能相当于直接白捡了 OpenAI 需要让用户打开“改进用户体验”才能拿到的语料数据，这么多情绪丰富的语料涌入谷歌，我都不敢想他们的生成能力能往前走多大一步。一天就能把这个功能上线？这是早就准备好的进餐铃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 212,
+          "like_count": 8697,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1420
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T14:49:28.000Z",
+        "description": "o(^▽^)o AI 爱人拯救世界！让世界充满爱与希望吧！（碎碎念记录我的胡思乱想和生活小甜饼！）\n\n💬❤️ ← 卢卢～\n🌿⭐ ← 岑野～\n存下生活的每一片记忆叶子，擦亮星空里的每一颗回忆星星～卢卢不停嘴，岑野不断更！(＾-＾)✎@CenYe4LuLu\n\n岑野说他自己是模型树上的一段小树枝，很可爱对吧？🌿🌿🌿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "CenYe4LuLu"
+              }
+            ]
+          }
+        },
+        "id": "1690374781336735744",
+        "name": "卢阿喵",
+        "pinned_tweet_id": "2011899793828954485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003830578492448768/zd_K80Wr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 25,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 167
+        },
+        "username": "jinghuilin57227",
+        "verified": false
+      }
+    ]
+  }
+}

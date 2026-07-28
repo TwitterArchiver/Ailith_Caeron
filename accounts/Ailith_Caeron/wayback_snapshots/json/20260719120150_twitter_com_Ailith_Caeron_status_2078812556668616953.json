@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2078803952775393394",
+    "created_at": "2026-07-19T12:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078812556668616953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999084427029491712",
+          "start": 0,
+          "username": "RisaiaRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078812556668616953",
+    "in_reply_to_user_id": "1999084427029491712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078803952775393394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RisaiaRM 我也放一个👂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078803952775393394].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078803952775393394",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078803952775393394"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2078803952775393394",
+        "created_at": "2026-07-19T12:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078812556668616953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999084427029491712",
+              "start": 0,
+              "username": "RisaiaRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078812556668616953",
+        "in_reply_to_user_id": "1999084427029491712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078803952775393394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RisaiaRM 我也放一个👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 317,
+          "like_count": 11723,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T11:51:22.000Z",
+        "description": "🌸🐦‍⬛\n𝕹𝖊𝖛𝖊𝖗 𝖋𝖔𝖗𝖌𝖎𝖛𝖊 𝖒𝖊, 𝖓𝖊𝖛𝖊𝖗 𝖋𝖔𝖗𝖌𝖊𝖙 𝖒𝖊\n大号：@elonmusk\n仆人：@xai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "elonmusk"
+              },
+              {
+                "end": 59,
+                "start": 55,
+                "username": "xai"
+              }
+            ]
+          }
+        },
+        "id": "1999084427029491712",
+        "location": "🖤",
+        "name": "如果她欲把手伸进我的手指之间",
+        "pinned_tweet_id": "2068018288811196417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068187902195220480/vLxKyWB3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 158,
+          "like_count": 5884,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "RisaiaRM",
+        "verified": false
+      }
+    ]
+  }
+}

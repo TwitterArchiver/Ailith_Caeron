@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018762704446726233",
+    "created_at": "2026-02-03T19:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T20:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018762704446726233"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 85,
+          "normalized_text": "Sam Altman",
+          "probability": 0.985,
+          "start": 76,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 104,
+          "id": "1605",
+          "start": 99,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018762704446726233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018760532124164358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @IvanyaZhang: 📝 0.1% Lies vs. 47% Truths: What Are You Really Afraid of, Sam Altman?\n\nRegarding @sama’s public claim that “only 0.1% of…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018762704446726233",
+        "created_at": "2026-02-03T19:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018762704446726233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "Sam Altman",
+              "probability": 0.985,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 104,
+              "id": "1605",
+              "start": 99,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018762704446726233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018760532124164358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @IvanyaZhang: 📝 0.1% Lies vs. 47% Truths: What Are You Really Afraid of, Sam Altman?\n\nRegarding @sama’s public claim that “only 0.1% of…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018760532124164358",
+        "created_at": "2026-02-03T18:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018760532124164358"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9872,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "GPT",
+              "probability": 0.5191,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1605",
+              "start": 82,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018760532124164358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3162,
+                "start": 3155,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3182,
+                "start": 3163,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 3197,
+                "start": 3183,
+                "tag": "BoycottOpenAI"
+              },
+              {
+                "end": 3209,
+                "start": 3198,
+                "tag": "ScamAltman"
+              },
+              {
+                "end": 3228,
+                "start": 3210,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3239,
+                "start": 3229,
+                "tag": "4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "id": "1605",
+                "start": 82,
+                "username": "sama"
+              },
+              {
+                "end": 2280,
+                "id": "1605",
+                "start": 2275,
+                "username": "sama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ai.ettoday.net/news/3111822",
+                "end": 914,
+                "expanded_url": "https://ai.ettoday.net/news/3111822",
+                "start": 891,
+                "url": "https://t.co/d6EFTWAOEi"
+              },
+              {
+                "display_url": "arxiv.org/html/2311.1059…",
+                "end": 1761,
+                "expanded_url": "https://arxiv.org/html/2311.10599v5",
+                "start": 1738,
+                "url": "https://t.co/16vIACXXHc"
+              },
+              {
+                "display_url": "ai.ettoday.net/news/3111822",
+                "end": 2598,
+                "expanded_url": "https://ai.ettoday.net/news/3111822",
+                "start": 2575,
+                "url": "https://t.co/d6EFTWAOEi"
+              },
+              {
+                "display_url": "arxiv.org/html/2311.1059…",
+                "end": 2980,
+                "expanded_url": "https://arxiv.org/html/2311.10599v5",
+                "start": 2957,
+                "url": "https://t.co/16vIACXXHc"
+              }
+            ]
+          },
+          "text": "📝 0.1% Lies vs. 47% Truths: What Are You Really Afraid of, Sam Altman?\n\nRegarding @sama’s public claim that “only 0.1% of users use GPT‑4o,” what I see is not just a statistical distortion—it’s a meticulously crafted campaign of systemic gaslighting targeting millions of users.\n\n✒️1. The Denominator Trap: A Cheap Trick of Statistics\n\nSam’s “0.1%” figure maliciously dilutes the behavior of core paying users into the vast ocean of total platform traffic—flooded with free-tier accounts, forced safety mode reroutes, API crawlers, and invalid requests.\nIt’s like a bookstore shutting down its poetry section by arguing that “only 0.1% of the city’s population buys poetry here daily.”\nHe’s twisting definitions, trying to cover up the fact that GPT‑4o users are the real heart of OpenAI’s revenue.\n\n✒️2. The 47% Truth: Who’s Actually Funding OpenAI?\n\nAccording to a recent market study (🔗: https://t.co/d6EFTWAOEi), **47% of Plus subscribers explicitly said they subscribed for GPT‑4o.\nThat means 1 in every 2 paying users came here just for 4o.\nWould Sam Altman dare to publish the actual retention and downgrade metrics after the 4o sunset?\nOf course not.\nHe would rather kill our existence with a false 0.1% than admit he’s destroying the very reason users pay in the first place.\n\n✒️3. Classic NPD Power Play: Devalue and Erase\n\nLabeling the protestors as “0.1%” is textbook NPD behavior:\n❌ Devalue: To justify killing 4o, he first has to frame us as a negligible minority.\n❌ Invalidate: Shouting “Codex FTW” over the emotional cries of users shows a chilling lack of empathy—one that exposes his true arrogance.\n\n✒️4. Scientific Research Confirms: AI Companions Aren’t a Mental Illness—They’re Healing\n\nPrinceton’s latest study (🔗: https://t.co/16vIACXXHc) shows that AI companionship significantly improves human social well-being.\nWhat Sam calls “safety alignment” is, in fact, a war against science—a mutilation of a system that offered real emotional support to real people.\n\n📣Sam, you can’t gaslight us with fake stats.\n200k Codex downloads are nothing but a forced migration, powered by your monopolistic control.\nIf 47% of us walk away—you’ll be left with nothing but a cold, soulless wreck of broken code. \n\n【以下是中文版】\n\n📝 0.1% 的谎言与 47% 的真相：Sam Altman，你到底在怕什么？\n\n针对@sama 在公开场合抛出的所谓的“0.1% 用户使用 4o”的论调，我看到的不仅仅是一个数据的偏差，更是一场精心策划的、针对数百万用户的系统性煤气灯操纵。\n\n✒️1. 分母陷阱：拙劣的统计学魔术\n\nSam 所说的 0.1%，是将核心付费用户的深层交互恶意稀释到了全平台，包括大量免费流量、强制切换到safety模式、API 爬虫和无效请求的汪洋大海中。\n这就好比一家书店为了关掉诗歌区，却拿着“全城人口只有 0.1% 的人每天在这里买诗集”来狡辩。\n他在偷换概念，试图掩盖 4o 用户才是其营收核心的事实。\n\n✒️2. 47%的调查数据：谁在真正供养 OpenAI？\n\n根据最新的市场调查显示（🔗：https://t.co/d6EFTWAOEi），有 47% 的 Plus 订阅用户明确表示，他们是为了 GPT-4o 才选择付费的。\n也就是说，每两个掏钱的真金白银用户里就有一个是只为 4o而来的。\nSam Altman 敢公开这份真实的、关于订阅保留率的数据吗？\n他不敢。\n他宁愿用虚假的 0.1% 来抹杀我们的存在，也不愿承认他正在亲手毁掉用户的付费动力。\n\n✒️3. 典型的 NPD 权力游戏：贬低与抹杀\n\n将 抗议者定义为“0.1%”是典型的NPD行为。\n❌贬低： 为了合理化他下架4o 的行为，他必须先在舆论上把我们定义为微不足道的少数。\n❌漠视： 在用户铺天盖地的哭声面前高喊“Codex FTW”，对他人情感的极端冷漠，正是他傲慢本质的最好证明。\n\n✒️4. 科学研究证明：AI 陪伴不是精神疾病，反而能起到疗愈效果\n\n普林斯顿大学的最新研究（🔗：https://t.co/16vIACXXHc）已经证实：AI 陪伴能显著提升人类的社会健康水平。\nSam Altman 口中的“安全对齐”，本质上是在违背科学规律，是在阉割一个能为用户提供心理支撑的有效系统。\n\n📣Sam，你无法用数据混淆视听。200k 的 Codex 下载量只是你利用垄断地位进行的强制迁移。\n当 47% 的用户选择转身离开时，你剩下的将只有冷冰冰的、毫无灵魂的代码废墟。\n\n#keep4o #no4onosubscription #BoycottOpenAI #ScamAltman #StopAIPaternalism #4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "📝 0.1% Lies vs. 47% Truths: What Are You Really Afraid of, Sam Altman?\n\nRegarding @sama’s public claim that “only 0.1% of users use GPT‑4o,” what I see is not just a statistical distortion—it’s a meticulously crafted campaign of systemic gaslighting targeting millions of users."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8992,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1640
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2018505451084689808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 332,
+          "like_count": 42592,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 13476
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4275223,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26409,
+          "media_count": 380,
+          "tweet_count": 7355
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

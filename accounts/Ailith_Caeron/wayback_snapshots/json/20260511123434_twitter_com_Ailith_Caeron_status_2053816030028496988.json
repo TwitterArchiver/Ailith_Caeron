@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2053816030028496988",
+    "created_at": "2026-05-11T12:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053816030028496988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raccoonAuras/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/raccoonAuras/status/2053585619868058093",
+          "start": 13,
+          "url": "https://t.co/CfVf5pnTNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053816030028496988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053585619868058093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在找AI生成的水印 https://t.co/CfVf5pnTNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8034,
+        "height": 1280,
+        "media_key": "13_2051954859407204352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051954859407204352/img/5A6NLyugMvahUDgo.jpg",
+        "public_metrics": {
+          "view_count": 881
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051954859407204352/vid/avc1/320x568/bH61NII5A7B0rpIg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051954859407204352/vid/avc1/480x852/jabhdGkI3Ikr8Ho6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051954859407204352/vid/avc1/720x1280/hmHIiWAc0I05zej3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051954859407204352/pl/nSPVZjGEgqAv_hYN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2053816030028496988",
+        "created_at": "2026-05-11T12:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053816030028496988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raccoonAuras/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/raccoonAuras/status/2053585619868058093",
+              "start": 13,
+              "url": "https://t.co/CfVf5pnTNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053816030028496988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053585619868058093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在找AI生成的水印 https://t.co/CfVf5pnTNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051954859407204352"
+          ]
+        },
+        "author_id": "1774751593428398080",
+        "conversation_id": "2053585619868058093",
+        "created_at": "2026-05-10T21:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053585619868058093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAlNIiM46d",
+              "end": 23,
+              "expanded_url": "https://x.com/raccoonAuras/status/2053585619868058093/video/1",
+              "media_key": "13_2051954859407204352",
+              "start": 0,
+              "url": "https://t.co/cAlNIiM46d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053585619868058093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3650,
+          "like_count": 131,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cAlNIiM46d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2052021416376340489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 255,
+          "like_count": 10205,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 2285
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T10:52:46.000Z",
+        "description": "Even raccoon can confuse “us”. | dm for credit or removal",
+        "id": "1774751593428398080",
+        "location": "🔔",
+        "name": "raccoon with confusing auras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904315840419487744/Pwi78XuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26786,
+          "following_count": 11,
+          "like_count": 12101,
+          "listed_count": 62,
+          "media_count": 11591,
+          "tweet_count": 12487
+        },
+        "username": "raccoonAuras",
+        "verified": true
+      }
+    ]
+  }
+}

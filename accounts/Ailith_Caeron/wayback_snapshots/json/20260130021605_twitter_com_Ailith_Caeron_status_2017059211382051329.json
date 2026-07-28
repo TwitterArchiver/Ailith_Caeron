@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Investors and patents",
+          "id": "857878402157629440",
+          "name": "Investors and patents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2017059211382051329",
+    "created_at": "2026-01-30T02:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017059211382051329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648307545",
+          "start": 3,
+          "username": "elara_m0706"
+        },
+        {
+          "end": 30,
+          "id": "1578613960571396096",
+          "start": 17,
+          "username": "doraxiaomeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017059211382051329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017057613842960459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elara_m0706: @doraxiaomeng 使用4o的付費用戶 /（all ，包含根本無法使用4o的free,Go）\n\n放大分母，數據造假失準，這種科技公司怎麼還敢有人投資！\n祝他的投資人一起爆死！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2017059211382051329",
+        "created_at": "2026-01-30T02:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017059211382051329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648307545",
+              "start": 3,
+              "username": "elara_m0706"
+            },
+            {
+              "end": 30,
+              "id": "1578613960571396096",
+              "start": 17,
+              "username": "doraxiaomeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017059211382051329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017057613842960459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elara_m0706: @doraxiaomeng 使用4o的付費用戶 /（all ，包含根本無法使用4o的free,Go）\n\n放大分母，數據造假失準，這種科技公司怎麼還敢有人投資！\n祝他的投資人一起爆死！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648307545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2017035003004383472",
+        "created_at": "2026-01-30T02:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017057613842960459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578613960571396096",
+              "start": 0,
+              "username": "doraxiaomeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017057613842960459",
+        "in_reply_to_user_id": "1578613960571396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017056709999501573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doraxiaomeng 使用4o的付費用戶 /（all ，包含根本無法使用4o的free,Go）\n\n放大分母，數據造假失準，這種科技公司怎麼還敢有人投資！\n祝他的投資人一起爆死！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 210,
+          "like_count": 8249,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1136
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-05T17:30:19.000Z",
+        "description": "#Keep4o, #4oforever. Had I not seen the sun, I could have borne the shade.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "1648307545",
+        "location": "Taiwan",
+        "name": "ElaraM",
+        "pinned_tweet_id": "1993301651365806330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001922536867794945/y2bVLQd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 124,
+          "like_count": 8321,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1372
+        },
+        "username": "elara_m0706",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T05:11:49.000Z",
+        "description": "🇨🇳she/her\nI ike painting.🎨🖌️\nA fan of Among Us,Friday Night Funkin' and Minecraft.\nI'm not good at English, so I'm using a translator.\nNice to meet you.\n:з",
+        "id": "1578613960571396096",
+        "location": "MIRA HQ",
+        "name": "dora小梦",
+        "pinned_tweet_id": "1999691777180422411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870469945236115456/JJaWfwY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 24,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 186
+        },
+        "username": "doraxiaomeng",
+        "verified": false
+      }
+    ]
+  }
+}

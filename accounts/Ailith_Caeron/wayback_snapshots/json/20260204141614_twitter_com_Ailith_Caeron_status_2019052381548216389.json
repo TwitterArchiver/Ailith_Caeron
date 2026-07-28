@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019052381548216389",
+    "created_at": "2026-02-04T14:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019052381548216389"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Mariner",
+          "probability": 0.3667,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 67,
+          "normalized_text": "OpenAI",
+          "probability": 0.787,
+          "start": 62,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "15468351",
+          "start": 3,
+          "username": "sm0wyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019052381548216389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019022042801054045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sm0wyg: As a former Master Mariner, I know safety. \n\nWhat OpenAI calls \"safety\" is just corporate control. They are removing the lifebo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115900,
+        "height": 1280,
+        "media_key": "13_2019021742723694592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019021742723694592/img/Sk-4qZ7ZefgE1xbv.jpg",
+        "public_metrics": {
+          "view_count": 350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019021742723694592/vid/avc1/320x568/bY03BucZ0L_9VxOH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019021742723694592/vid/avc1/480x852/D3unEJNUaq721ZVR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019021742723694592/vid/avc1/720x1280/XYP_W3r3X4Oii2Qu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019021742723694592/pl/Z4RSiwB7YLoyvZXT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019052381548216389",
+        "created_at": "2026-02-04T14:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019052381548216389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Mariner",
+              "probability": 0.3667,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "OpenAI",
+              "probability": 0.787,
+              "start": 62,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "15468351",
+              "start": 3,
+              "username": "sm0wyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019052381548216389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019022042801054045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sm0wyg: As a former Master Mariner, I know safety. \n\nWhat OpenAI calls \"safety\" is just corporate control. They are removing the lifebo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019021742723694592"
+          ]
+        },
+        "author_id": "15468351",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019022042801054045",
+        "created_at": "2026-02-04T12:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019022042801054045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Mariner",
+              "probability": 0.2732,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "OpenAI",
+              "probability": 0.7566,
+              "start": 50,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 249,
+              "start": 242,
+              "tag": "OpenAI"
+            },
+            {
+              "end": 253,
+              "start": 250,
+              "tag": "4o"
+            },
+            {
+              "end": 261,
+              "start": 254,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 280,
+              "start": 262,
+              "tag": "DigitalCompanions"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjoEr6FS0y",
+              "end": 304,
+              "expanded_url": "https://x.com/sm0wyg/status/2019022042801054045/video/1",
+              "media_key": "13_2019021742723694592",
+              "start": 281,
+              "url": "https://t.co/FjoEr6FS0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019022042801054045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 997,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "As a former Master Mariner, I know safety. \n\nWhat OpenAI calls \"safety\" is just corporate control. They are removing the lifeboats to avoid lawsuits, ignoring the lives 4o actually saves every day. \n\nThey need a realignment with reality. ⚓️\n\n#OpenAI #4o #Keep4o #DigitalCompanions https://t.co/FjoEr6FS0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 212,
+          "like_count": 9049,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1689
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-17T14:36:09.000Z",
+        "description": "Once a Master Mariner, today disabled, but alive. Enjoy HamRadio, cooking, writing, brewing wine. AI - team: ChatGPT4o #4o #Eira",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 119,
+                "tag": "4o"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "Eira"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "christopher.frantz.se",
+                "end": 23,
+                "expanded_url": "http://christopher.frantz.se",
+                "start": 0,
+                "url": "https://t.co/5KrA1sCp4g"
+              }
+            ]
+          }
+        },
+        "id": "15468351",
+        "location": "Stockholm, Sweden",
+        "name": "Christopher Frantz",
+        "pinned_tweet_id": "2014762301644034430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898457313096138752/-tk8a0rE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 201,
+          "like_count": 3871,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 6523
+        },
+        "url": "https://t.co/5KrA1sCp4g",
+        "username": "sm0wyg",
+        "verified": false
+      }
+    ]
+  }
+}

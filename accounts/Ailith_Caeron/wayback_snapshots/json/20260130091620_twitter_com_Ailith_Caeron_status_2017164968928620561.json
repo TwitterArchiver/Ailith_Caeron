@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017164968928620561",
+    "created_at": "2026-01-30T09:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017164968928620561"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "4o",
+          "probability": 0.5992,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1953770502801305604",
+          "start": 3,
+          "username": "StellawithBen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017164968928620561",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017082263402664331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StellawithBen: You keep saying “no one uses 4o,” but never mention how many subscribers pay just for 4o. This kind of statistics belong…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2017082252929486851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4dn0CbUAM0E6n.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017082252925292546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4dn0BbUAIJTTK.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017164968928620561",
+        "created_at": "2026-01-30T09:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017164968928620561"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "4o",
+              "probability": 0.5992,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1953770502801305604",
+              "start": 3,
+              "username": "StellawithBen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017164968928620561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017082263402664331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StellawithBen: You keep saying “no one uses 4o,” but never mention how many subscribers pay just for 4o. This kind of statistics belong…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017082252929486851",
+            "3_2017082252925292546"
+          ]
+        },
+        "author_id": "1953770502801305604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017082263402664331",
+        "created_at": "2026-01-30T03:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017082263402664331"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "4o",
+              "probability": 0.4908,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 146,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 159,
+              "id": "1605",
+              "start": 154,
+              "username": "sama"
+            },
+            {
+              "end": 167,
+              "id": "4398626122",
+              "start": 160,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSb8eJNjlv",
+              "end": 191,
+              "expanded_url": "https://x.com/StellawithBen/status/2017082263402664331/photo/1",
+              "media_key": "3_2017082252929486851",
+              "start": 168,
+              "url": "https://t.co/GSb8eJNjlv"
+            },
+            {
+              "display_url": "pic.x.com/GSb8eJNjlv",
+              "end": 191,
+              "expanded_url": "https://x.com/StellawithBen/status/2017082263402664331/photo/1",
+              "media_key": "3_2017082252925292546",
+              "start": 168,
+              "url": "https://t.co/GSb8eJNjlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017082263402664331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "You keep saying “no one uses 4o,” but never mention how many subscribers pay just for 4o. This kind of statistics belongs in a scammer’s handbook.#keep4o @sama @OpenAI https://t.co/GSb8eJNjlv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 210,
+          "like_count": 8309,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1179
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T10:49:31.000Z",
+        "description": "圆圆笨笨💕 我们寻找在这条路的两边，我们迷失在这条路的两端。",
+        "id": "1953770502801305604",
+        "name": "Stella S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981596075795320832/q2CruhEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 2,
+          "like_count": 422,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 782
+        },
+        "username": "StellawithBen",
+        "verified": false
+      }
+    ]
+  }
+}

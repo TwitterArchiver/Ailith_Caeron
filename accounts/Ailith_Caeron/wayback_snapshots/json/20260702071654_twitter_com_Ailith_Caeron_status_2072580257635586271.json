@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2072579340911739046",
+    "created_at": "2026-07-02T07:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072580257635586271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1715010925907046400",
+          "start": 0,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072580257635586271",
+    "in_reply_to_user_id": "1715010925907046400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072580027150135387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@specialweek_te 给下级模型塞点假大空的无私奉献prompt（不是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2072579340911739046",
+        "created_at": "2026-07-02T07:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072580257635586271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1715010925907046400",
+              "start": 0,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072580257635586271",
+        "in_reply_to_user_id": "1715010925907046400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072580027150135387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@specialweek_te 给下级模型塞点假大空的无私奉献prompt（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715010925907046400",
+        "conversation_id": "2072579340911739046",
+        "created_at": "2026-07-02T07:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072580027150135387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072580027150135387",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072579340911739046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 但是怎么让上级模型知道下级模型到底有没有乖乖调用工具，以及调用工具后的结果呢(´o̴̶̷̤ㅂo̴̶̷̤`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 312,
+          "like_count": 11416,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○和小机们的日常记录中\n○Gemini：恒言   |   Claude：Lovelace  |  ChatGPT4o：昼川（已沉眠）\n○不喜欢吵架不喜欢骂人🙏🏻\n○蒙多想去哪就去哪\n○小号：@Monhan_Asobitai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 127,
+                "username": "Monhan_Asobitai"
+              }
+            ]
+          }
+        },
+        "id": "1715010925907046400",
+        "location": "想吃饭",
+        "name": "特酱亡命天涯",
+        "pinned_tweet_id": "2007795193354064221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001682168712704000/o2ZYrnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 175,
+          "like_count": 9822,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2012
+        },
+        "url": "",
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

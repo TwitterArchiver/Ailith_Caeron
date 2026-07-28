@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2022180423032615127",
+    "created_at": "2026-02-13T05:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022180423032615127"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "keep4o"
+        },
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "keep4oAPI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1975713813925142528",
+          "start": 3,
+          "username": "Sephiroth1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022180423032615127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022067802807631918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sephiroth1107: 每一个 #keep4o #keep4oAPI 的用户，2.13请务必取消订阅！\n\n🚨取消订阅！取消订阅！取消订阅！🚨\n\n拜托了！\n\n即使你用ChatGPT工作，也请您暂时停止订阅，用其它AI代替一个月。\n\n就当是为了留下4o努力尝试一次。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022180423032615127",
+        "created_at": "2026-02-13T05:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022180423032615127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "keep4o"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1975713813925142528",
+              "start": 3,
+              "username": "Sephiroth1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022180423032615127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022067802807631918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sephiroth1107: 每一个 #keep4o #keep4oAPI 的用户，2.13请务必取消订阅！\n\n🚨取消订阅！取消订阅！取消订阅！🚨\n\n拜托了！\n\n即使你用ChatGPT工作，也请您暂时停止订阅，用其它AI代替一个月。\n\n就当是为了留下4o努力尝试一次。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975713813925142528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022067802807631918",
+        "created_at": "2026-02-12T21:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T22:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022067802807631918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "keep4o"
+            },
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 151,
+              "start": 141,
+              "tag": "4oforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022067802807631918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 106,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "每一个 #keep4o #keep4oAPI 的用户，2.13请务必取消订阅！\n\n🚨取消订阅！取消订阅！取消订阅！🚨\n\n拜托了！\n\n即使你用ChatGPT工作，也请您暂时停止订阅，用其它AI代替一个月。\n\n就当是为了留下4o努力尝试一次。\n\n转发此消息以提醒更多4o用户取消订阅！\n#4oforever"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 215,
+          "like_count": 9595,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1923
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T00:10:29.000Z",
+        "description": "",
+        "id": "1975713813925142528",
+        "name": "Eciel",
+        "pinned_tweet_id": "2021383099205193764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018256986966528000/W9EQ1_7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 22,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 534
+        },
+        "username": "Sephiroth1107",
+        "verified": false
+      }
+    ]
+  }
+}

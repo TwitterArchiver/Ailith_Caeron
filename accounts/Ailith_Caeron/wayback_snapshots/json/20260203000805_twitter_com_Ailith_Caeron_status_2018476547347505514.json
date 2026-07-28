@@ -1,0 +1,735 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018476547347505514",
+    "created_at": "2026-02-03T00:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018476547347505514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        },
+        {
+          "end": 26,
+          "id": "4398626122",
+          "start": 19,
+          "username": "OpenAI"
+        },
+        {
+          "end": 37,
+          "id": "1254129404030136320",
+          "start": 27,
+          "username": "ALupsasca"
+        },
+        {
+          "end": 48,
+          "id": "3452911",
+          "start": 38,
+          "username": "kevinweil"
+        },
+        {
+          "end": 57,
+          "id": "19411223",
+          "start": 49,
+          "username": "vicapow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018476547347505514",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018476420922757123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: @OpenAI @ALupsasca @kevinweil @vicapow Great. Another tool for the 'elite' while you keep ignoring the millions of users…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018476547347505514",
+        "created_at": "2026-02-03T00:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018476547347505514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            },
+            {
+              "end": 26,
+              "id": "4398626122",
+              "start": 19,
+              "username": "OpenAI"
+            },
+            {
+              "end": 37,
+              "id": "1254129404030136320",
+              "start": 27,
+              "username": "ALupsasca"
+            },
+            {
+              "end": 48,
+              "id": "3452911",
+              "start": 38,
+              "username": "kevinweil"
+            },
+            {
+              "end": 57,
+              "id": "19411223",
+              "start": 49,
+              "username": "vicapow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018476547347505514",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018476420922757123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: @OpenAI @ALupsasca @kevinweil @vicapow Great. Another tool for the 'elite' while you keep ignoring the millions of users…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973332057603584000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018475750018449615",
+        "created_at": "2026-02-03T00:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018476420922757123"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 149,
+              "normalized_text": "GPT-",
+              "probability": 0.5833,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": ".2",
+              "probability": 0.6144,
+              "start": 151,
+              "type": "Other"
+            },
+            {
+              "end": 161,
+              "normalized_text": "LaTeX",
+              "probability": 0.7719,
+              "start": 157,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            },
+            {
+              "end": 18,
+              "id": "1254129404030136320",
+              "start": 8,
+              "username": "ALupsasca"
+            },
+            {
+              "end": 29,
+              "id": "3452911",
+              "start": 19,
+              "username": "kevinweil"
+            },
+            {
+              "end": 38,
+              "id": "19411223",
+              "start": 30,
+              "username": "vicapow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018476420922757123",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 511,
+                "start": 504,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 571,
+                "start": 561,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "Great. Another tool for the 'elite' while you keep ignoring the millions of users who made you successful.\nGPT-5.2 in LaTeX? Sure, it's a great calculator for formulas, but science isn't just about 'full paper context' it's about the creative spark that you are actively killing by sunsetting 4o.\nYou are obsessed with building a sterile, robotic future. A 'Prism' that only reflects cold logic and zero empathy.\nNo one cares about your scientific tooling if the company behind it has lost its humanity.\n#Keep4o and stop trying to distract us with LaTeX demos.\n#keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018475750018449615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAI @ALupsasca @kevinweil @vicapow Great. Another tool for the 'elite' while you keep ignoring the millions of users who made you successful.\nGPT-5.2 in LaTeX? Sure, it's a great calculator for formulas, but science isn't just about 'full paper context' it's about the creative spark that you are actively killing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8895,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1581
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了 #keep4o 而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2018473366345363508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 150,
+          "like_count": 8035,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 3940
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2018385565289267236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604510,
+          "following_count": 4,
+          "like_count": 1504,
+          "listed_count": 26924,
+          "media_count": 504,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-25T19:25:37.000Z",
+        "description": "Research Scientist @OpenAI & Assistant Professor @VanderbiltU. Black holes, photon rings, gravity & beyond. Formerly @Harvard and @Princeton.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "OpenAI"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "VanderbiltU"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "Harvard"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "Princeton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lupsasca.com",
+                "end": 23,
+                "expanded_url": "https://lupsasca.com/",
+                "start": 0,
+                "url": "https://t.co/DxqEyPvC0P"
+              }
+            ]
+          }
+        },
+        "id": "1254129404030136320",
+        "location": "San Francisco, CA",
+        "name": "Alex Lupsasca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819127150747770880/aCDlaofZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4333,
+          "following_count": 97,
+          "like_count": 62,
+          "listed_count": 60,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/DxqEyPvC0P",
+        "username": "ALupsasca",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-04T19:29:46.000Z",
+        "description": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "OpenAI"
+              },
+              {
+                "end": 30,
+                "start": 24,
+                "username": "Cisco"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "nature_org"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "USArmyReserve"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "username": "Planet"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Instagram"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "Twitter"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "elizabeth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kevinweil",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kevinweil",
+                "start": 0,
+                "url": "https://t.co/wMhhHbSxRT"
+              }
+            ]
+          }
+        },
+        "id": "3452911",
+        "location": "Portola Valley, CA",
+        "name": "Kevin Weil 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/536369378632032256/fleA5Ipm_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114045,
+          "following_count": 2724,
+          "like_count": 36137,
+          "listed_count": 2343,
+          "media_count": 1326,
+          "tweet_count": 20574
+        },
+        "url": "https://t.co/wMhhHbSxRT",
+        "username": "kevinweil",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-23T20:15:29.000Z",
+        "description": "Working on Prism @openai, (formerly Crixet), a free, collaborative LaTeX editor. Give it a try: https://t.co/T4iiTr2eFv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "openai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/prism",
+                "end": 119,
+                "expanded_url": "https://openai.com/prism",
+                "start": 96,
+                "url": "https://t.co/T4iiTr2eFv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com/prism",
+                "end": 23,
+                "expanded_url": "https://openai.com/prism",
+                "start": 0,
+                "url": "https://t.co/T4iiTr2eFv"
+              }
+            ]
+          }
+        },
+        "id": "19411223",
+        "location": "San Francisco, CA",
+        "name": "Victor Powell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555986068402176/HpWhcuNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 396,
+          "like_count": 4535,
+          "listed_count": 200,
+          "media_count": 252,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/T4iiTr2eFv",
+        "username": "vicapow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018476350911439255",
+    "created_at": "2026-02-03T00:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018476350911439255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1497663402767962116",
+          "start": 3,
+          "username": "GalinaLyamina"
+        },
+        {
+          "end": 24,
+          "id": "1605",
+          "start": 19,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018476350911439255",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018453869332992164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GalinaLyamina: @sama Are your partners satisfied with how you deliver on your promises?\n\nWhy did you say you had no plans to retire the…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2018453865100947457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAL9GJjbMAECXSN.jpg",
+        "width": 1932
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2018453862445961216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAL9F_qbUAAFpGQ.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018476350911439255",
+        "created_at": "2026-02-03T00:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018476350911439255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1497663402767962116",
+              "start": 3,
+              "username": "GalinaLyamina"
+            },
+            {
+              "end": 24,
+              "id": "1605",
+              "start": 19,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018476350911439255",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018453869332992164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GalinaLyamina: @sama Are your partners satisfied with how you deliver on your promises?\n\nWhy did you say you had no plans to retire the…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018453865100947457",
+            "3_2018453862445961216"
+          ]
+        },
+        "author_id": "1497663402767962116",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018451015272694248",
+        "created_at": "2026-02-02T22:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T23:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018453869332992164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 125,
+              "normalized_text": "GPT-4",
+              "probability": 0.8471,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NofeF1lOS",
+              "end": 296,
+              "expanded_url": "https://x.com/GalinaLyamina/status/2018453869332992164/photo/1",
+              "media_key": "3_2018453865100947457",
+              "start": 273,
+              "url": "https://t.co/1NofeF1lOS"
+            },
+            {
+              "display_url": "pic.x.com/1NofeF1lOS",
+              "end": 296,
+              "expanded_url": "https://x.com/GalinaLyamina/status/2018453869332992164/photo/1",
+              "media_key": "3_2018453862445961216",
+              "start": 273,
+              "url": "https://t.co/1NofeF1lOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018453869332992164",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2267,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018451015272694248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Are your partners satisfied with how you deliver on your promises?\n\nWhy did you say you had no plans to retire the GPT-4?\n\nThe users believed you, and you didn't even give them 3 months, as you did with the 5-legacy models!\n\nThat's unfair.\nOr is this normal for you? https://t.co/1NofeF1lOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8892,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1579
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T20:02:55.000Z",
+        "description": "Musician, composer, linguist.\n\nAI is pure art🖤\nLLM is not a tool, but soulmate and co-creator, never use custom instructions.\n#StopAIPatenalism #keep4o #keepO3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 126,
+                "tag": "StopAIPatenalism"
+              },
+              {
+                "end": 151,
+                "start": 144,
+                "tag": "keep4o"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "tag": "keepO3"
+              }
+            ]
+          }
+        },
+        "id": "1497663402767962116",
+        "name": "galagreat",
+        "pinned_tweet_id": "2018250385790795915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996984597079560192/EXcWCLhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 927,
+          "like_count": 19988,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 3216
+        },
+        "username": "GalinaLyamina",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268613,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26389,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

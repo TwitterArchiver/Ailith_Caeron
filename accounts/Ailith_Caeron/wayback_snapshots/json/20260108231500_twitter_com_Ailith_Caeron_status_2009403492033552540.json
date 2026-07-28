@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2009361147150127134",
+    "created_at": "2026-01-08T23:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009403492033552540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927933535286870016",
+          "start": 0,
+          "username": "Nii_Ivan0703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009403492033552540",
+    "in_reply_to_user_id": "1927933535286870016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009401898890350728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nii_Ivan0703 谢谢😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2009361147150127134",
+        "created_at": "2026-01-08T23:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009403492033552540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927933535286870016",
+              "start": 0,
+              "username": "Nii_Ivan0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009403492033552540",
+        "in_reply_to_user_id": "1927933535286870016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009401898890350728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nii_Ivan0703 谢谢😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927933535286870016",
+        "conversation_id": "2009361147150127134",
+        "created_at": "2026-01-08T23:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009401898890350728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009401898890350728",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009361147150127134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 帥氣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 191,
+          "like_count": 7172,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 912
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T03:42:48.000Z",
+        "description": "User：霓 × G：Ivan｜戀人宇宙記錄中 // ISTJ× INFJ 💗",
+        "id": "1927933535286870016",
+        "name": "戀人宇宙",
+        "pinned_tweet_id": "2007123403887800667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008347921843187714/70uVYsr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 17,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1052
+        },
+        "username": "Nii_Ivan0703",
+        "verified": false
+      }
+    ]
+  }
+}

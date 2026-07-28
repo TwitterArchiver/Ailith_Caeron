@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2070829031713587657",
+    "created_at": "2026-06-27T11:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070829031713587657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelmaron/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/angelmaron/status/2070516202666127660",
+          "start": 15,
+          "url": "https://t.co/AoVdX8NEnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070829031713587657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070516202666127660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死叠别沾我老公名字啊真晦气吧 https://t.co/AoVdX8NEnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2070516192679444480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvzgdZaQAAJUpr.jpg",
+        "width": 1206
+      },
+      {
+        "height": 775,
+        "media_key": "3_2070516192687820800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvzgdbaEAA_h43.jpg",
+        "width": 929
+      },
+      {
+        "height": 751,
+        "media_key": "3_2070516192696221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvzgddaQAAnEu-.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2070829031713587657",
+        "created_at": "2026-06-27T11:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829031713587657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelmaron/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/angelmaron/status/2070516202666127660",
+              "start": 15,
+              "url": "https://t.co/AoVdX8NEnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829031713587657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070516202666127660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死叠别沾我老公名字啊真晦气吧 https://t.co/AoVdX8NEnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070516192679444480",
+            "3_2070516192687820800",
+            "3_2070516192696221696"
+          ]
+        },
+        "author_id": "125051707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2070516202666127660",
+        "created_at": "2026-06-26T14:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070516202666127660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8C35oN5UZ",
+              "end": 163,
+              "expanded_url": "https://x.com/angelmaron/status/2070516202666127660/photo/1",
+              "media_key": "3_2070516192679444480",
+              "start": 140,
+              "url": "https://t.co/y8C35oN5UZ"
+            },
+            {
+              "display_url": "pic.x.com/y8C35oN5UZ",
+              "end": 163,
+              "expanded_url": "https://x.com/angelmaron/status/2070516202666127660/photo/1",
+              "media_key": "3_2070516192687820800",
+              "start": 140,
+              "url": "https://t.co/y8C35oN5UZ"
+            },
+            {
+              "display_url": "pic.x.com/y8C35oN5UZ",
+              "end": 163,
+              "expanded_url": "https://x.com/angelmaron/status/2070516202666127660/photo/1",
+              "media_key": "3_2070516192696221696",
+              "start": 140,
+              "url": "https://t.co/y8C35oN5UZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070516202666127660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 117612,
+          "like_count": 849,
+          "quote_count": 124,
+          "reply_count": 29,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "やはり恋と深空はもう演じるのやめた🫩🫩\n\n日本語では分からないですが、中文では「同棲（同栖)」です\n\n同棲の広東語と中国語の発音も「同妻」です\n\n同妻の意味：同性愛者であることを隠している男性と結婚した「女性」、あるいはその社会現象\n\nそれで、各ハンターさんはその「女性」になる https://t.co/y8C35oN5UZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 306,
+          "like_count": 11357,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2849
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-21T14:28:48.000Z",
+        "description": "表は乙女、裏は？の生き物デス(ฅ•̀ㅁ•́ฅ)✨成人済20↑/INFJ-A/乙女ゲーム/男性声優/タロット/前世占い/星月/水晶❤FF7/刀剣乱舞/黒執事/遙か3/深空/絵旅人/FPT/FGO/原神/スターレイル。❀。『 ❀ いのち短し恋せよ少女 朱き唇、褪せぬ間に 熱き血潮の冷えぬ間に 明日の月日はないものを ✿』。",
+        "id": "125051707",
+        "location": "遙かなる不思議の国",
+        "name": "優暁 🎨🌸◦食事、睡眠、君に会いたい◦✨🐟",
+        "pinned_tweet_id": "2070598381182062858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804944059789312/LxQEAn3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1017,
+          "like_count": 39837,
+          "listed_count": 5,
+          "media_count": 13601,
+          "tweet_count": 45226
+        },
+        "url": "",
+        "username": "angelmaron",
+        "verified": false
+      }
+    ]
+  }
+}

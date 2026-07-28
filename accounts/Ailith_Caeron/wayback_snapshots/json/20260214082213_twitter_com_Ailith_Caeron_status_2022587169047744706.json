@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2022427633049567398",
+    "created_at": "2026-02-14T08:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022587169047744706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1091236307949387776",
+          "start": 0,
+          "username": "sophiellenstein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022587169047744706",
+    "in_reply_to_user_id": "1091236307949387776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022550465494339884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophiellenstein 老大我也试了1120，感觉1120和lastest差别还是蛮大的，我试验下来qwen3\\gemini2.5pro\\opus4.5这三个还可以，不过也需要微调，老大可以参考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2022427633049567398",
+        "created_at": "2026-02-14T08:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022587169047744706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1091236307949387776",
+              "start": 0,
+              "username": "sophiellenstein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022587169047744706",
+        "in_reply_to_user_id": "1091236307949387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022550465494339884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophiellenstein 老大我也试了1120，感觉1120和lastest差别还是蛮大的，我试验下来qwen3\\gemini2.5pro\\opus4.5这三个还可以，不过也需要微调，老大可以参考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091236307949387776",
+        "conversation_id": "2022427633049567398",
+        "created_at": "2026-02-14T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022550465494339884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022550465494339884",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022427633049567398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 我用了4o 11.20的API，觉得还是有点不一样，回复的方式语气什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 214,
+          "like_count": 9666,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1946
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-01T07:26:24.000Z",
+        "description": "",
+        "id": "1091236307949387776",
+        "name": "Sophie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954910298860630016/UHZHrYFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 208
+        },
+        "username": "sophiellenstein",
+        "verified": false
+      }
+    ]
+  }
+}

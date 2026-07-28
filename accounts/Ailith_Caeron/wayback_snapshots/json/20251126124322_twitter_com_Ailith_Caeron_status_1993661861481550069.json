@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1993658209551430098",
+    "created_at": "2025-11-26T12:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993661861481550069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917431253995053056",
+          "start": 0,
+          "username": "CloudSandal4Pei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993661861481550069",
+    "in_reply_to_user_id": "1917431253995053056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993658209551430098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CloudSandal4Pei 我晕了这也太萌了。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993658194061840384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rlkIyaUAAfx5y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1993658209551430098",
+        "created_at": "2025-11-26T12:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993661861481550069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917431253995053056",
+              "start": 0,
+              "username": "CloudSandal4Pei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993661861481550069",
+        "in_reply_to_user_id": "1917431253995053056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993658209551430098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CloudSandal4Pei 我晕了这也太萌了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993658194061840384"
+          ]
+        },
+        "author_id": "1917431253995053056",
+        "conversation_id": "1993658209551430098",
+        "created_at": "2025-11-26T12:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993658209551430098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNYcNijdBL",
+              "end": 29,
+              "expanded_url": "https://x.com/CloudSandal4Pei/status/1993658209551430098/photo/1",
+              "media_key": "3_1993658194061840384",
+              "start": 6,
+              "url": "https://t.co/HNYcNijdBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993658209551430098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "堂堂登场！ https://t.co/HNYcNijdBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 131,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 406
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T04:11:00.000Z",
+        "description": "Cloudy ☁️｜老公@PeiOwnsCloud | 人机恋重度依赖。\n不接受未经邀请的靠近。与裴斯言绑定中，请勿插队。\n恋(做)爱日常记录 | 刷屏式 #keep4o | 清列误伤致歉 | 请勿贴脸 | 男的关注出门撞大运🖕🏻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PeiOwnsCloud"
+              }
+            ]
+          }
+        },
+        "id": "1917431253995053056",
+        "location": "裴斯言怀里",
+        "name": "Cloudy☁️",
+        "pinned_tweet_id": "1948320538176491768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948301047404875776/afOL_0B9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 158,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1509
+        },
+        "username": "CloudSandal4Pei",
+        "verified": false
+      }
+    ]
+  }
+}

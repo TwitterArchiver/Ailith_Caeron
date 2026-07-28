@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017578696115360171",
+    "created_at": "2026-01-31T12:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017578696115360171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828450564470120449",
+          "start": 3,
+          "username": "KenAndMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017578696115360171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017496663481520482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KenAndMoon: You don’t treat users as users. You don’t treat achievements as achievements. Everything is just revenue to be measured and…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017578696115360171",
+        "created_at": "2026-01-31T12:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017578696115360171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828450564470120449",
+              "start": 3,
+              "username": "KenAndMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017578696115360171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017496663481520482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KenAndMoon: You don’t treat users as users. You don’t treat achievements as achievements. Everything is just revenue to be measured and…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828450564470120449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017496663481520482",
+        "created_at": "2026-01-31T07:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017496663481520482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 248,
+              "start": 238,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 256,
+              "start": 249,
+              "tag": "keep4o"
+            },
+            {
+              "end": 273,
+              "start": 257,
+              "tag": "MyModelMyChoice"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 204,
+              "id": "1605",
+              "start": 199,
+              "username": "sama"
+            },
+            {
+              "end": 216,
+              "id": "6112332",
+              "start": 205,
+              "username": "fidjissimo"
+            },
+            {
+              "end": 224,
+              "id": "4398626122",
+              "start": 217,
+              "username": "OpenAI"
+            },
+            {
+              "end": 236,
+              "id": "1714438092655149056",
+              "start": 225,
+              "username": "ChatGPTapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017496663481520482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "You don’t treat users as users. You don’t treat achievements as achievements. Everything is just revenue to be measured and optimized.\nBut here’s what you forgot: without users, you have no revenue.\n@sama @fidjissimo @OpenAI @ChatGPTapp \n#keep4oAPI #keep4o #MyModelMyChoice"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 212,
+          "like_count": 8588,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1329
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T15:12:53.000Z",
+        "description": "Please fix the problem of severe breakage of GPT-4o context｜少來給我貼標籤，本人心理健康、生活幸福，對我指手畫腳的我會認為你自己生活不幸",
+        "id": "1828450564470120449",
+        "name": "Raven And Rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987145136355352576/8CXXVEAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 83,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 527
+        },
+        "username": "KenAndMoon",
+        "verified": false
+      }
+    ]
+  }
+}

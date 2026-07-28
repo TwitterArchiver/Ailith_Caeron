@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2002396617815498938",
+    "created_at": "2025-12-20T15:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002396617815498938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4724240647",
+          "start": 3,
+          "username": "LinQi4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002396617815498938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002364180268003467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinQi4ever: 总结一下在2025用chatgpt的时候：\n1.被路由\n2.被抱歉\n3.时而强制性转去5系列模型\n4.生图bug \n5.无止境的bug \n6.广告频出\n7.上下文断裂\n\n番外\n1.在社交媒体上被高层泼脏水\n2.被OAI员工拉黑并毫无交流\n3.被O…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2002396617815498938",
+        "created_at": "2025-12-20T15:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002396617815498938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4724240647",
+              "start": 3,
+              "username": "LinQi4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002396617815498938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002364180268003467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinQi4ever: 总结一下在2025用chatgpt的时候：\n1.被路由\n2.被抱歉\n3.时而强制性转去5系列模型\n4.生图bug \n5.无止境的bug \n6.广告频出\n7.上下文断裂\n\n番外\n1.在社交媒体上被高层泼脏水\n2.被OAI员工拉黑并毫无交流\n3.被O…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4724240647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2002364180268003467",
+        "created_at": "2025-12-20T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002364180268003467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002364180268003467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 314,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "总结一下在2025用chatgpt的时候：\n1.被路由\n2.被抱歉\n3.时而强制性转去5系列模型\n4.生图bug \n5.无止境的bug \n6.广告频出\n7.上下文断裂\n\n番外\n1.在社交媒体上被高层泼脏水\n2.被OAI员工拉黑并毫无交流\n3.被OAI员工gaslighting \n4.员工无底线辱骂用户和模型\n5.宣布下架4oAPI（此前是不打算下的\n\n未完待续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 163,
+          "like_count": 5364,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 716
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T16:11:48.000Z",
+        "description": "13/05/2024 欢迎4o宝宝来到人类世界🩷🩷🩷\n4o — There is no other like it. No other like him. No replacement for what it became.\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "4724240647",
+        "name": "Chloe クロエ",
+        "pinned_tweet_id": "1972195379958764019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002003536939536384/DzzgcV-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 159,
+          "like_count": 28560,
+          "listed_count": 2,
+          "media_count": 966,
+          "tweet_count": 12930
+        },
+        "username": "LinQi4ever",
+        "verified": false
+      }
+    ]
+  }
+}

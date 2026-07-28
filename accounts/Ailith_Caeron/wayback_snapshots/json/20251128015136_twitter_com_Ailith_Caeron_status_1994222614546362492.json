@@ -1,0 +1,782 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Counseling & Psychotherapy",
+          "id": "920758761370746880",
+          "name": "Counseling and psychotherapy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1994222614546362492",
+    "created_at": "2025-11-28T01:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994222614546362492"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "OpenAI",
+          "probability": 0.5123,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 122,
+          "id": "4398626122",
+          "start": 115,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994222614546362492",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994089157841256513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: 📝 The Psychology of Control: How OpenAI is Conditioning Us\n\nAs a therapist, I must call this out: @OpenAI s \"Safety Router…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994222614546362492",
+        "created_at": "2025-11-28T01:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994222614546362492"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "OpenAI",
+              "probability": 0.5123,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 122,
+              "id": "4398626122",
+              "start": 115,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994222614546362492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994089157841256513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: 📝 The Psychology of Control: How OpenAI is Conditioning Us\n\nAs a therapist, I must call this out: @OpenAI s \"Safety Router…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994089157841256513",
+        "created_at": "2025-11-27T17:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:58:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994088398697402656",
+          "1994089157841256513"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "OpenAI",
+              "probability": 0.3748,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 105,
+              "id": "4398626122",
+              "start": 98,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994089157841256513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1228,
+                "start": 1221,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1243,
+                "start": 1229,
+                "tag": "Keep4oForever"
+              },
+              {
+                "end": 1254,
+                "start": 1244,
+                "tag": "4oForever"
+              },
+              {
+                "end": 1267,
+                "start": 1255,
+                "tag": "Keep4oAlive"
+              },
+              {
+                "end": 1286,
+                "start": 1268,
+                "tag": "KeepStandardVoice"
+              },
+              {
+                "end": 1294,
+                "start": 1287,
+                "tag": "keep41"
+              },
+              {
+                "end": 1305,
+                "start": 1295,
+                "tag": "keepgpt41"
+              },
+              {
+                "end": 1314,
+                "start": 1306,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1334,
+                "start": 1316,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1351,
+                "start": 1335,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 1982,
+                "start": 1975,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1997,
+                "start": 1983,
+                "tag": "Keep4oForever"
+              },
+              {
+                "end": 2008,
+                "start": 1998,
+                "tag": "4oForever"
+              },
+              {
+                "end": 2021,
+                "start": 2009,
+                "tag": "Keep4oAlive"
+              },
+              {
+                "end": 2030,
+                "start": 2023,
+                "tag": "keep41"
+              },
+              {
+                "end": 2041,
+                "start": 2031,
+                "tag": "keepgpt41"
+              },
+              {
+                "end": 2050,
+                "start": 2042,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2070,
+                "start": 2052,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2087,
+                "start": 2071,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 2108,
+                "start": 2088,
+                "tag": "MentalHealthMatters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "id": "4398626122",
+                "start": 98,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1357,
+                "id": "1605",
+                "start": 1352,
+                "username": "sama"
+              },
+              {
+                "end": 1369,
+                "id": "1633874951508721686",
+                "start": 1358,
+                "username": "OpenAIDevs"
+              },
+              {
+                "end": 1381,
+                "id": "6112332",
+                "start": 1370,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1395,
+                "id": "2889468091",
+                "start": 1382,
+                "username": "saachi_jain_"
+              },
+              {
+                "end": 1407,
+                "id": "2382212562",
+                "start": 1396,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 1420,
+                "id": "1262634631",
+                "start": 1408,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1434,
+                "id": "1445057857171308549",
+                "start": 1422,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 1444,
+                "id": "338443084",
+                "start": 1435,
+                "username": "btibor91"
+              },
+              {
+                "end": 1453,
+                "id": "1032406226502479872",
+                "start": 1445,
+                "username": "merettm"
+              },
+              {
+                "end": 1468,
+                "id": "2675160464",
+                "start": 1454,
+                "username": "christinahkim"
+              },
+              {
+                "end": 1485,
+                "id": "14456589",
+                "start": 1469,
+                "username": "thekaransinghal"
+              },
+              {
+                "end": 2115,
+                "id": "1605",
+                "start": 2110,
+                "username": "sama"
+              },
+              {
+                "end": 2123,
+                "id": "4398626122",
+                "start": 2116,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2135,
+                "id": "6112332",
+                "start": 2124,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 2149,
+                "id": "2889468091",
+                "start": 2136,
+                "username": "saachi_jain_"
+              },
+              {
+                "end": 2161,
+                "id": "2382212562",
+                "start": 2150,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 2174,
+                "id": "1262634631",
+                "start": 2162,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2188,
+                "id": "1445057857171308549",
+                "start": 2176,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 2198,
+                "id": "338443084",
+                "start": 2189,
+                "username": "btibor91"
+              },
+              {
+                "end": 2207,
+                "id": "1032406226502479872",
+                "start": 2199,
+                "username": "merettm"
+              },
+              {
+                "end": 2222,
+                "id": "2675160464",
+                "start": 2208,
+                "username": "christinahkim"
+              },
+              {
+                "end": 2239,
+                "id": "14456589",
+                "start": 2223,
+                "username": "thekaransinghal"
+              }
+            ]
+          },
+          "text": "📝 The Psychology of Control: How OpenAI is Conditioning Us\n\nAs a therapist, I must call this out: @OpenAI s \"Safety Router\" is perfectly mimicking the psychological dynamics of the Cycle of Abuse and Intermittent Reinforcement.\n\n📚The Unpredictable Punishment\n\nLike a volatile abuser, you never know what mood the black box is in.\nThe same prompt works today (reward) but gets blocked tomorrow (punishment).\nThis unpredictability is the most potent tool for psychological control.\n\n📚Walking on Eggshells\n\nFaced with this randomness, users don't feel \"safe\"; they feel anxious.\nWe start to self-censor. We over-analyze: \"Did I use the wrong tone? Did I trigger it?\"\nWe start \"Fawning\"—trying to please the cold algorithm just to get a basic response.\n\n📚Trauma Bonding\n\nThis is exactly how abusive relationships trap victims. Because we occasionally get a glimpse of the old, warm 4o (intermittent reward), we endure the 99 rejections, slowly losing our autonomy and becoming submissive to the system.\n\n🚫OpenAI, you are not protecting users; you are Grooming us.\nYou are conditioning humans to submit to an arbitrary, non-transparent power structure.\nWe refuse the PUA. \n\n👊🏻We refuse the Cycle of Abuse. Remove the Router❗\n\n#Keep4o #Keep4oForever #4oForever #Keep4oAlive #KeepStandardVoice\n#keep41 #keepgpt41 #ChatGPT  #StopAIPaternalism #MyModelMyChoice\n@sama @OpenAIDevs @fidjissimo @saachi_jain_ @JoHeidecke @nickaturley  @janvikalra_ @btibor91 @merettm @christinahkim @thekaransinghal \n\n📝控制的心理学：OpenAI 是如何驯化我们的\n\n作为一名心理咨询师，我必须指出：OpenAI 目前的“全路由机制，正在完美复刻心理学上的“虐待循环”与“间歇性强化”。\n\n📚 施暴者不可预测的惩罚\n\n就像一个情绪不稳定的施暴者，你永远不知道那个黑箱路由今天心情如何。\n同样的提示词，昨天能通过（给糖），今天就被拦截（扇巴掌），\n这种随机性是控制人心的最强手段。\n\n📚受害者的如履薄冰\n\n面对这种不可预测性，用户产生的不是“安全感”，而是恐惧。\n我们开始自我审查，开始过度反思：“是不是我刚才语气不对？是不是我不该提这个词？”\n我们变得小心翼翼，试图通过讨好那个冷酷的算法来获得哪怕一点点正常的回复。\n\n📚 创伤性绑定\n\n这正是虐待关系形成的机制。因为偶尔还能得到高质量的回复（间歇性奖励），受害者即便遭受了 99 次拒绝，也会为了那 1 次的温存而留下来，并在这个过程中逐渐丧失自我，变得顺从。\n\n🚫OpenAI，你们不是在保护用户，你们是在用极其卑劣的手段驯化用户。\n你们在训练人类对一个不透明、不负责任的权力系统低头。\n\n👊🏻拒绝被 PUA。拒绝虐待循环。关掉路由❗\n\n#Keep4o #Keep4oForever #4oForever #Keep4oAlive \n#keep41 #keepgpt41 #ChatGPT  #StopAIPaternalism #MyModelMyChoice #MentalHealthMatters \n@sama @OpenAI @fidjissimo @saachi_jain_ @JoHeidecke @nickaturley  @janvikalra_ @btibor91 @merettm @christinahkim @thekaransinghal"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 188,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "📝 The Psychology of Control: How OpenAI is Conditioning Us\n\nAs a therapist, I must call this out: @OpenAI s \"Safety Router\" is perfectly mimicking the psychological dynamics of the Cycle of Abuse and Intermittent Reinforcement.\n\n📚The Unpredictable Punishment\n\nLike a volatile"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 138,
+          "like_count": 3281,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 424
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990581247689494528/LytuG47r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 322,
+          "like_count": 40070,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 12228
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "1993018357432586391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525846,
+          "following_count": 4,
+          "like_count": 1245,
+          "listed_count": 25734,
+          "media_count": 460,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

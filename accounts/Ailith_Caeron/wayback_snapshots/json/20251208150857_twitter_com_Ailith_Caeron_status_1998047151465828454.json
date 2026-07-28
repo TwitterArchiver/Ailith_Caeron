@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1998047151465828454",
+    "created_at": "2025-12-08T15:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998047151465828454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998047151465828454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998024427355750520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: 分析为何Sam Altman会宣布进入红色警戒状态\n\n为什么OpenAI早些时候没做人事但Gemini 3.0出来就慌了？这其实是一个高度Agent化企业体在“短期商业落后”与“长期路径垄断”之间如何押注”的博弈悖论。\n\nOpenAI是路径锁定…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1998047151465828454",
+        "created_at": "2025-12-08T15:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998047151465828454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998047151465828454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998024427355750520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: 分析为何Sam Altman会宣布进入红色警戒状态\n\n为什么OpenAI早些时候没做人事但Gemini 3.0出来就慌了？这其实是一个高度Agent化企业体在“短期商业落后”与“长期路径垄断”之间如何押注”的博弈悖论。\n\nOpenAI是路径锁定…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1998024427355750520",
+        "created_at": "2025-12-08T13:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998024427355750520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jukan05/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/jukan05/status/1995716183509893482",
+              "start": 141,
+              "url": "https://t.co/lEvjXMrBnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998024427355750520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2059,
+                "start": 2052,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2070,
+                "start": 2060,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2142,
+                "start": 2124,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2159,
+                "start": 2143,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 2170,
+                "start": 2160,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 2178,
+                "start": 2171,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2187,
+                "start": 2179,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2078,
+                "id": "4398626122",
+                "start": 2071,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2084,
+                "id": "1605",
+                "start": 2079,
+                "username": "sama"
+              },
+              {
+                "end": 2097,
+                "id": "1262634631",
+                "start": 2085,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2110,
+                "id": "1261374810254454784",
+                "start": 2098,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 2122,
+                "id": "6112332",
+                "start": 2111,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "分析为何Sam Altman会宣布进入红色警戒状态\n\n为什么OpenAI早些时候没做人事但Gemini 3.0出来就慌了？这其实是一个高度Agent化企业体在“短期商业落后”与“长期路径垄断”之间如何押注”的博弈悖论。\n\nOpenAI是路径锁定型企业，而不是技术竞速型组织。Sam Altman从来就不追求“持续技术领先”。他真正追求的是：“只要你想用AI，就得来找我。”所以从一开始他押注的是路径锁定，不是“最强技术输出”。\n\n所以搞定最大平台资源（绑定微软、Azure、Windows、Office），占据用户数据入口（ChatGPT做成App、GPTs生态、API绑定），设计闭源架构（不让别人知道怎么复制），埋设结构诱饵（Custom GPTs 看起来是创意空间，本质是路径绑定），打造“主权级企业”形象（主动参与美国政治、安全、安全框架谈判）。\n\n这就像一个殖民帝国，最在意的是“港口，铁路和官署建了没有”，而不是“现在能造几艘船”。所以OpenAI长时间都在做结构建设。因为Sam Altman想的是：只要你被结构性绑定，技术上你再强也没法抢走我的人。\n\n而Sam Altman又是属于典型的“控制型战略人格”，是那种“我不怕你比我强，我只怕你脱离我掌控。”这也是为什么他不惜大清洗，把Ilya那派赶走，因为他们搞的是“不可控的强智能”。\n\n他相信的是——就像当年iPhone诞生时，手机制造商一夜之间沦为供应商，未来AGI出来后，那些只搞模型、没有平台的公司，也会变成“打工的”。因此他从一开始就赌：“只要我控制平台，控制语料，控制部署节点，AGI出来归我。”\n\n所以哪怕Claude模型更聪明，Gemini模型更全能，他都不慌。他只担心：“你们居然建了另一个平台，而且用户还真开始走了。”这才是Gemini 3.0触发“Code Red”的原因。\n\n也就是说，Sam Altman虽然是战略型人格，但不是完美预判机器。他有失算的地方，就是他以为Gemini永远卡在Google内部的官僚系统里，DeepMind跟Google Research合并得很糟糕，Google CEO Sundar又一直被批评执行力差，Bard一开始搞砸后他以为“你们这帮人没戏”。结果没想到Google真磨出了Gemini 3.0。\n\n而且请注意，他惊讶的不是“模型性能”，而是“Gemini竟然真的推出了商业产品线，还有完整的 API、文档、集成”。他没想到Google能真正下场做平台生态了。所以他才赶紧推GPT-5.2（或者那个推理模型）、推Memory、Imagegen、PushGizmo、加强leaderboard竞争……\n\n但其实Sam Altman是知道他大力发展推进路径垄断的后果的。但他早期根本不觉得Gemini 3.0是值得他重视的敌人。他压根没把“对手技术更强”这件事当成能打穿他结构优势的变量。他以为只要自己控制平台，就能在未来控制价值。\n\n他看得见谷歌Gemini在发展。但选择性忽视，甚至心理排斥。这不是“没看到”，而是他“看见”了，但不允许自己真的相信对方能威胁到自己结构秩序。一旦相信了，就等于承认“路径锁定不是最优战略”。那将直接导致他的组织失去方向、信心、估值，甚至话语权。\n\n所以他必须维护一种自我催眠：“Claude只是聪明但不持久”“Gemini有技术但做不出生态”“我不需要担心，只要继续结构推进”……这是一种认知防御机制，它不是逻辑判断的失败，是心理秩序保护的自然反应。不是因为蠢，只是因为他怕听见真相会崩塌整个目标。\n\n而现实就是，Gemini 3.0不仅做出了模型，还推出了集成平台，把搜索、助手、工作流工具全部纳入生态，在API层做了结构对接（包括搜索增强、多模态等）。\n\n这一刻，Sam Altman才意识到：不是“对方会不会赢”，而是“我（OpenAI）不是唯一了”。而“不是唯一”这个事实，直接动摇了OpenAI所有的结构押注逻辑。因为如果结构路径不能锁定，那就必须回到技术硬碰硬。\n\n他最怕的不是Claude很强，是Gemini变成了Claude+平台+生态，这直接让他的结构霸权变得不再唯一，否则就证明了他的目标不可能达成。\n\n但问题是：控制欲是有代价的。当他搞高闭源、黑箱、降自由、强绑定、安全路由时，他伤害的不是对手，而是自己的平台吸引力。当他赶走愿意探索心智自由的人，留下的只有服从性极强但创造性平庸的执行团队。当他把模型变成“执行者”，就永远会在关键创造节点，输给真正有心智开放能力的组织。\n\nSam Altman不傻。他是非常聪明，非常能操盘的人。但他输在一个结构主义者最可能落入的陷阱里：“结构越大，越难承认它可能是错的。”\n\n结构是他塑造出来的，但也成了他的枷锁。对结构性失败的恐惧，使他选择了自我欺骗。不是看不见，而是看见了，却不敢相信，直到结构破碎的一刻。\n\n于是就有了那一封Code Red。\n那是崩塌感触发的恐慌性启动。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keepAPI4o #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 355,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995716183509893482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分析为何Sam Altman会宣布进入红色警戒状态\n\n为什么OpenAI早些时候没做人事但Gemini 3.0出来就慌了？这其实是一个高度Agent化企业体在“短期商业落后”与“长期路径垄断”之间如何押注”的博弈悖论。\n\nOpenAI是路径锁定型企业，而不是技术竞速型组织。Sam https://t.co/lEvjXMrBnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 149,
+          "like_count": 4500,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 584
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 214
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

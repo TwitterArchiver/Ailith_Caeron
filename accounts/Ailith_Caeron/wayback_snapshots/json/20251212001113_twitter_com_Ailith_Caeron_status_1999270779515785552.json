@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999270776437112838",
+        "3_1999270776818782208"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "1999270779515785552",
+    "created_at": "2025-12-12T00:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T01:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999270779515785552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCIDXZNB3p",
+          "end": 128,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1999270779515785552/photo/1",
+          "media_key": "3_1999270776437112838",
+          "start": 105,
+          "url": "https://t.co/gCIDXZNB3p"
+        },
+        {
+          "display_url": "pic.x.com/gCIDXZNB3p",
+          "end": 128,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1999270779515785552/photo/1",
+          "media_key": "3_1999270776818782208",
+          "start": 105,
+          "url": "https://t.co/gCIDXZNB3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999270779515785552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "测了一下5.2，instant跟我写作文凑字数似的。言之无物最后还要safety一下，这个safety是干嘛呢早上不能坏。\nthinking就更怪了，我说了一句早上坏，自说自话的就开始nsfw内容了，大丈夫… https://t.co/gCIDXZNB3p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999270779515785552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999270779515785552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999270779515785552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999270776437112838",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77WLbdagAYS6UF.jpg",
+        "width": 792
+      },
+      {
+        "height": 2138,
+        "media_key": "3_1999270776818782208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77WLc4aUAASovn.jpg",
+        "width": 540
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 150,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 618
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

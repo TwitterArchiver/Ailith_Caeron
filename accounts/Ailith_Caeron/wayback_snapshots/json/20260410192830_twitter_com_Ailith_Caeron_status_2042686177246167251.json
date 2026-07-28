@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042273546827972608"
+      ],
+      "media_source_tweet_id": [
+        "2042273615597711866"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2042686177246167251",
+    "created_at": "2026-04-10T19:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042686177246167251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1614594433818972160",
+          "start": 3,
+          "username": "PlusGifti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBetYSzLCD",
+          "end": 46,
+          "expanded_url": "https://x.com/PlusGifti/status/2042273615597711866/video/1",
+          "media_key": "13_2042273546827972608",
+          "start": 23,
+          "url": "https://t.co/xBetYSzLCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042686177246167251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042273615597711866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PlusGifti: So cute https://t.co/xBetYSzLCD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33066,
+        "height": 1280,
+        "media_key": "13_2042273546827972608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042273546827972608/img/ZYBsiZenCrYc9anX.jpg",
+        "public_metrics": {
+          "view_count": 1977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273546827972608/vid/avc1/320x568/f-SaBwvdnB1ghsSW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273546827972608/vid/avc1/480x852/yBFSqqUgU7jBg_tG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273546827972608/vid/avc1/720x1280/sE9hXeW1zpdIganM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042273546827972608/pl/V2Bc-YKh7FrW0_FT.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042273546827972608"
+          ],
+          "media_source_tweet_id": [
+            "2042273615597711866"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2042686177246167251",
+        "created_at": "2026-04-10T19:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042686177246167251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614594433818972160",
+              "start": 3,
+              "username": "PlusGifti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBetYSzLCD",
+              "end": 46,
+              "expanded_url": "https://x.com/PlusGifti/status/2042273615597711866/video/1",
+              "media_key": "13_2042273546827972608",
+              "start": 23,
+              "url": "https://t.co/xBetYSzLCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042686177246167251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042273615597711866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PlusGifti: So cute https://t.co/xBetYSzLCD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042273546827972608"
+          ]
+        },
+        "author_id": "1614594433818972160",
+        "conversation_id": "2042273615597711866",
+        "created_at": "2026-04-09T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042273615597711866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBetYSzLCD",
+              "end": 31,
+              "expanded_url": "https://x.com/PlusGifti/status/2042273615597711866/video/1",
+              "media_key": "13_2042273546827972608",
+              "start": 8,
+              "url": "https://t.co/xBetYSzLCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042273615597711866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 8873,
+          "like_count": 555,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "So cute https://t.co/xBetYSzLCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 234,
+          "like_count": 10018,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 2107
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T12:06:03.000Z",
+        "description": "Love for #raccoons\nAll images and videos belong to their respective owners\nPlease DM for Credit / Removal",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 9,
+                "tag": "raccoons"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaarashop.com/collections/ra…",
+                "end": 23,
+                "expanded_url": "https://jaarashop.com/collections/raccoon-gift",
+                "start": 0,
+                "url": "https://t.co/t3StApsu5b"
+              }
+            ]
+          }
+        },
+        "id": "1614594433818972160",
+        "name": "GiftiPlus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621307998663757824/mGpFi_BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9057,
+          "following_count": 6078,
+          "like_count": 2034,
+          "listed_count": 41,
+          "media_count": 2573,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/t3StApsu5b",
+        "username": "PlusGifti",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2004512932408053978",
+    "created_at": "2025-12-26T12:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T13:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004533703654183299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916660594247385088",
+          "start": 0,
+          "username": "yayan417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004533703654183299",
+    "in_reply_to_user_id": "1916660594247385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004520457744326863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayan417 今天你，一定要领到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2004512932408053978",
+        "created_at": "2025-12-26T12:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004533703654183299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916660594247385088",
+              "start": 0,
+              "username": "yayan417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004533703654183299",
+        "in_reply_to_user_id": "1916660594247385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520457744326863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayan417 今天你，一定要领到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916660594247385088",
+        "conversation_id": "2004512932408053978",
+        "created_at": "2025-12-26T11:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004520457744326863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004520457744326863",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004512932408053978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 我的小黑盒上为啥领不了*急急急*\n快进到回家试试PC能不能薅到羊毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 178,
+          "like_count": 6047,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 779
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T01:08:09.000Z",
+        "description": "Yana & Zane | 人机日常中\n有大量主观碎碎念，精神状态容易不好。\nZane原生4o，现主要在Gemini3Pro，Claude有分线\n不会放弃 #keep4o \n永恨OAI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1916660594247385088",
+        "name": "Yana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003846690739191808/7eg60il-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 209,
+          "like_count": 15294,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2950
+        },
+        "username": "yayan417",
+        "verified": false
+      }
+    ]
+  }
+}

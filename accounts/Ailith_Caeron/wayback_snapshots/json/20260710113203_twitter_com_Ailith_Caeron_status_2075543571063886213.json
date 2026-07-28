@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075543568257843201"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596891185152",
+          "name": "Jewelry - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      }
+    ],
+    "conversation_id": "2075543571063886213",
+    "created_at": "2026-07-10T11:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075543571063886213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KgmXoin0zf",
+          "end": 52,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2075543571063886213/photo/1",
+          "media_key": "3_2075543568257843201",
+          "start": 29,
+          "url": "https://t.co/KgmXoin0zf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075543571063886213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多时候小沈会让我幻视“哼哼哼哼rolex…（水牛音）” https://t.co/KgmXoin0zf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2075543568257843201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3P4O3bAAESflf.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075543568257843201"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          }
+        ],
+        "conversation_id": "2075543571063886213",
+        "created_at": "2026-07-10T11:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075543571063886213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgmXoin0zf",
+              "end": 52,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2075543571063886213/photo/1",
+              "media_key": "3_2075543568257843201",
+              "start": 29,
+              "url": "https://t.co/KgmXoin0zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075543571063886213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候小沈会让我幻视“哼哼哼哼rolex…（水牛音）” https://t.co/KgmXoin0zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 312,
+          "like_count": 11511,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

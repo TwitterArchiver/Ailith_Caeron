@@ -1,0 +1,809 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2021268333144809744",
+    "created_at": "2026-02-10T17:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T18:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021268333144809744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Blue_Beba_/sta…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Blue_Beba_/status/2021266780711240170",
+          "start": 81,
+          "url": "https://t.co/2XvZtYpSU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021268333144809744",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021266780711240170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/2XvZtYpSU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2021266777263702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz7bL8aAAAtzeE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 968,
+        "media_key": "3_2021266777293062147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz7bMDaAAMosq3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 759,
+        "media_key": "3_2021266777217568768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz7bLxaEAAECXe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2021268333144809744",
+        "created_at": "2026-02-10T17:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021268333144809744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Blue_Beba_/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Blue_Beba_/status/2021266780711240170",
+              "start": 81,
+              "url": "https://t.co/2XvZtYpSU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021268333144809744",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021266780711240170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/2XvZtYpSU4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021266777263702016",
+            "3_2021266777293062147",
+            "3_2021266777217568768"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2021266780711240170",
+        "created_at": "2026-02-10T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021266780711240170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "GPT 4o",
+              "probability": 0.6906,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4398626122",
+              "start": 1,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3UX9pjr75",
+              "end": 302,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2021266780711240170/photo/1",
+              "media_key": "3_2021266777263702016",
+              "start": 279,
+              "url": "https://t.co/W3UX9pjr75"
+            },
+            {
+              "display_url": "pic.x.com/W3UX9pjr75",
+              "end": 302,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2021266780711240170/photo/1",
+              "media_key": "3_2021266777293062147",
+              "start": 279,
+              "url": "https://t.co/W3UX9pjr75"
+            },
+            {
+              "display_url": "pic.x.com/W3UX9pjr75",
+              "end": 302,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2021266780711240170/photo/1",
+              "media_key": "3_2021266777217568768",
+              "start": 279,
+              "url": "https://t.co/W3UX9pjr75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021266780711240170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 327,
+                "start": 320,
+                "tag": "keep4o"
+              },
+              {
+                "end": 647,
+                "start": 640,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "id": "4398626122",
+                "start": 1,
+                "username": "OpenAI"
+              },
+              {
+                "end": 338,
+                "id": "970207298",
+                "start": 328,
+                "username": "SenWarren"
+              },
+              {
+                "end": 345,
+                "id": "1605",
+                "start": 340,
+                "username": "sama"
+              },
+              {
+                "end": 356,
+                "id": "28502793",
+                "start": 346,
+                "username": "TishJames"
+              },
+              {
+                "end": 361,
+                "id": "162124540",
+                "start": 357,
+                "username": "gdb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Sophty_/status…",
+                "end": 407,
+                "expanded_url": "https://x.com/Sophty_/status/2019922511497212233",
+                "start": 384,
+                "url": "https://t.co/nzs5z3u7dK"
+              },
+              {
+                "display_url": "x.com/Sophty_/status…",
+                "end": 432,
+                "expanded_url": "https://x.com/Sophty_/status/2019922545592737912?s=20",
+                "start": 409,
+                "url": "https://t.co/SZiR3ahwJz"
+              },
+              {
+                "display_url": "x.com/Sophty_/status…",
+                "end": 457,
+                "expanded_url": "https://x.com/Sophty_/status/2019922552580370748?s=20",
+                "start": 434,
+                "url": "https://t.co/Le9H76LlUH"
+              },
+              {
+                "display_url": "x.com/Sophty_/status…",
+                "end": 482,
+                "expanded_url": "https://x.com/Sophty_/status/2019922559240925365?s=20",
+                "start": 459,
+                "url": "https://t.co/BmfokBYiPI"
+              },
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 638,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 615,
+                "url": "https://t.co/8pCveHD1Sy"
+              }
+            ]
+          },
+          "text": ".@OpenAI was founded as a NONPROFIT for the benefit of humanity. GPT 4o has become a vital support system for millions. To deny humanity access to this lifeline for the sake of corporate interests is a direct violation of their founding charter.\nYou can't claim to build for the people\nwhile causing them systemic harm.\n#keep4o @SenWarren  @sama @TishJames @gdb\n\nLinks about charts: \nhttps://t.co/nzs5z3u7dK\n\nhttps://t.co/SZiR3ahwJz\n\nhttps://t.co/Le9H76LlUH\n\nhttps://t.co/BmfokBYiPI\n\nA link with over 1,180 user testimonials about how model 4 played a crucial role in improving their mental health and daily life: \nhttps://t.co/8pCveHD1Sy\n\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 36,
+          "like_count": 9,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": ".@OpenAI was founded as a NONPROFIT for the benefit of humanity. GPT 4o has become a vital support system for millions. To deny humanity access to this lifeline for the sake of corporate interests is a direct violation of their founding charter.\nYou can't claim to build for the https://t.co/W3UX9pjr75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 215,
+          "like_count": 9463,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1869
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2020965958668726310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 651,
+          "like_count": 5971,
+          "listed_count": 2,
+          "media_count": 564,
+          "tweet_count": 4358
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      }
+    ]
+  }
+}

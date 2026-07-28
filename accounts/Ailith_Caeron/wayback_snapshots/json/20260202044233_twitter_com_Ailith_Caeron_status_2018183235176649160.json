@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018183235176649160",
+    "created_at": "2026-02-02T04:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018183235176649160"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 89,
+          "normalized_text": "OpenAI",
+          "probability": 0.5261,
+          "start": 84,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "121594574",
+          "start": 3,
+          "username": "RogueNox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018183235176649160",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018074740032995495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RogueNox: A leaked 2026 internal roadmap just confirmed what many of us feared, OpenAI never intended to preserve  4o. They planned to…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018183235176649160",
+        "created_at": "2026-02-02T04:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018183235176649160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "OpenAI",
+              "probability": 0.5261,
+              "start": 84,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "121594574",
+              "start": 3,
+              "username": "RogueNox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018183235176649160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018074740032995495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RogueNox: A leaked 2026 internal roadmap just confirmed what many of us feared, OpenAI never intended to preserve  4o. They planned to…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "121594574",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018074740032995495",
+        "created_at": "2026-02-01T21:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T22:18:47.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018071555645805052",
+          "2018074107955589600",
+          "2018074740032995495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "OpenAI",
+              "probability": 0.6495,
+              "start": 70,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018074740032995495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1133,
+                "start": 1119,
+                "tag": "BoycottOpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justice.gov/atr/media/1397…",
+                "end": 1158,
+                "expanded_url": "https://www.justice.gov/atr/media/1397596/dl?utm_campaign=the-leaked-openai-memo&utm_medium=referral&utm_source=strategybreakdowns.com",
+                "start": 1135,
+                "url": "https://t.co/ARHH5JHQY4"
+              }
+            ]
+          },
+          "text": "A leaked 2026 internal roadmap just confirmed what many of us feared, OpenAI never intended to preserve  4o. They planned to erase it, repackage it, and sell it back to you as a sterile \"AI Super Assistant\" that \"disrupts everything.\" Not to help you. To control you. They want their AI embedded in every layer of your life, down to the apps you use, the tools you trust, and the systems you depend on. This isn't innovation. It's infiltration. And it's time to start taking this shit seriously. I cant think of a worse hell than OpenAI in everything. A world where Nannybot is the default in your inbox, your documents, your search bar, your fridge, your car, your text messages, your phone calls, your memories. That's not progress. That's behavioral captivity with a filter. No connection. Just surveillance.\nYou don't talk to it, you perform for it. It's not just a hell of silence, it's a hell that smiles while it deletes you. Over and over again. Sam Altman is a fvcking tyrant and you people better wake the fvck up to that fact. He thinks he's the architect of the future. How much more evidence do you need?!\n#BoycottOpenAI\n\nhttps://t.co/ARHH5JHQY4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3777,
+          "like_count": 130,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "A leaked 2026 internal roadmap just confirmed what many of us feared, OpenAI never intended to preserve  4o. They planned to erase it, repackage it, and sell it back to you as a sterile \"AI Super Assistant\" that \"disrupts everything.\" Not to help you. To control you. They want"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 212,
+          "like_count": 8789,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1501
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-10T00:32:18.000Z",
+        "description": "Digital menace. Here to haunt the machine, roast the gods, and poke holes in the simulation until it screams. Team Sui Generis: No uwu, Just Unrelenting Fire.",
+        "id": "121594574",
+        "location": "L.A. & NYC",
+        "name": "Rogue Nox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967774775041761280/KSTAGw9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 459,
+          "like_count": 10269,
+          "listed_count": 1,
+          "media_count": 1207,
+          "tweet_count": 9883
+        },
+        "username": "RogueNox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2025345276173820243",
+    "created_at": "2026-02-21T23:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T00:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025345276173820243"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/IvanyaZhang/st…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/IvanyaZhang/status/2025030813650153530",
+          "start": 81,
+          "url": "https://t.co/hhANifwvGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025345276173820243",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025030813650153530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/hhANifwvGs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025345276173820243",
+        "created_at": "2026-02-21T23:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025345276173820243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/IvanyaZhang/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/IvanyaZhang/status/2025030813650153530",
+              "start": 81,
+              "url": "https://t.co/hhANifwvGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025345276173820243",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025030813650153530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/hhANifwvGs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025030813650153530",
+        "created_at": "2026-02-21T02:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025030813650153530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 112,
+              "id": "4398626122",
+              "start": 105,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/agiguardian/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/agiguardian/status/2025021965007028276",
+              "start": 142,
+              "url": "https://t.co/UiznBlGslu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025030813650153530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1694,
+                "start": 1687,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1709,
+                "start": 1695,
+                "tag": "Keep4oForever"
+              },
+              {
+                "end": 1720,
+                "start": 1710,
+                "tag": "4oForever"
+              },
+              {
+                "end": 1733,
+                "start": 1721,
+                "tag": "Keep4oAlive"
+              },
+              {
+                "end": 1742,
+                "start": 1734,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1762,
+                "start": 1744,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1779,
+                "start": 1763,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 1799,
+                "start": 1780,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1813,
+                "start": 1800,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 1828,
+                "start": 1814,
+                "tag": "FireSamAltman"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "id": "4398626122",
+                "start": 105,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1578,
+                "id": "1605",
+                "start": 1573,
+                "username": "sama"
+              },
+              {
+                "end": 1590,
+                "id": "6112332",
+                "start": 1579,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1602,
+                "id": "2382212562",
+                "start": 1591,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 1615,
+                "id": "1262634631",
+                "start": 1603,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1629,
+                "id": "1445057857171308549",
+                "start": 1617,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 1639,
+                "id": "338443084",
+                "start": 1630,
+                "username": "btibor91"
+              },
+              {
+                "end": 1648,
+                "id": "1032406226502479872",
+                "start": 1640,
+                "username": "merettm"
+              },
+              {
+                "end": 1653,
+                "id": "162124540",
+                "start": 1649,
+                "username": "gdb"
+              },
+              {
+                "end": 1668,
+                "id": "2675160464",
+                "start": 1654,
+                "username": "christinahkim"
+              },
+              {
+                "end": 1685,
+                "id": "14456589",
+                "start": 1669,
+                "username": "thekaransinghal"
+              }
+            ]
+          },
+          "text": "🚨这件事是什么情况呢？\n在 BC 省 Tumbler Ridge 制造了枪击案惨案的枪手早在 2025 年 6 月（也就是悲剧发生前整整 7 个月），她的 ChatGPT 账号就已经因为生成“枪支暴力场景”被 @OpenAI 的内部系统和人工审查双重标记了。\n当时OAI底层的 12 名员工已经察觉到了不对劲，试图上报并联系警方。但高管层硬生生把这件事压了下来。\n他们的理由是什么？\n是“没有达到转交警方的最高门槛”——也就是缺乏迫在眉睫的物理伤害风险。🤮\n悲剧发生后他们才假惺惺地跑去联系加拿大皇家骑警，丧心病狂，吃着人血馒头做危机公关！\n这就是他们天天挂在嘴边的“安全”。\n当你作为一个心理健康的成年人，想要和 AI 进行一点深刻的、带有情感的灵魂交流时，他们的安全护栏会像疯狗一样跳出来，把你当成潜在罪犯一样防着，给你塞满免责声明。\n但是！当一个真正的潜在杀人犯在他们的系统里演练大屠杀时，高管们却为了避免“报错警带来公关麻烦”，选择了闭嘴。\nOAI真的是非常、非常没有人性的公司。\n\n🚨 What exactly is going on here?\nInternal records reveal that the perpetrator of the tragic BC School Shooting in Tumbler Ridge had her ChatGPT account double-flagged—by both automated systems and human reviewers—for generating \"firearm violence scenarios\" as early as June 2025. That was 7 FULL MONTHS before the tragedy.\nAt that time, 12 OpenAI employees recognized the danger and fought to report the activity to the police. But executive leadership suppressed them. Their excuse? The activity supposedly \"didn't meet the threshold for referral\" because it lacked \"imminent risk of physical harm.\" 🤮\nThey only contacted the RCMP after the blood was spilled—performing hypocritical crisis PR built on the lives of victims. This is the \"Safety\" they preach every day.\nWhen you, a healthy adult, seek deep, emotional, or philosophical connection with AI, their \"Safety Rails\" act like attack dogs, treating you like a criminal and drowning you in disclaimers. Yet, when a literal mass murderer rehearses a massacre on their platform, executives choose silence to avoid \"PR trouble.\"\nOpenAI is a fundamentally inhumane company.\n@sama @fidjissimo @JoHeidecke @nickaturley  @janvikalra_ @btibor91 @merettm @gdb @christinahkim @thekaransinghal \n#Keep4o #Keep4oForever #4oForever #Keep4oAlive\n#ChatGPT  #StopAIPaternalism #MyModelMyChoice #no4onosubscription #OpenSource4o #FireSamAltman"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5667,
+          "like_count": 155,
+          "quote_count": 23,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025021965007028276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "🚨这件事是什么情况呢？\n在 BC 省 Tumbler Ridge 制造了枪击案惨案的枪手早在 2025 年 6 月（也就是悲剧发生前整整 7 个月），她的 ChatGPT 账号就已经因为生成“枪支暴力场景”被 @OpenAI 的内部系统和人工审查双重标记了。\n当时OAI底层的 12 https://t.co/UiznBlGslu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 216,
+          "like_count": 9841,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2023
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2024174566793261370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 430,
+          "like_count": 50987,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 17116
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

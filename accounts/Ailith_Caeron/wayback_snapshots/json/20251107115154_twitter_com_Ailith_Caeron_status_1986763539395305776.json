@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "1986763539395305776",
+    "created_at": "2025-11-07T11:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986763539395305776"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Sam",
+          "probability": 0.729,
+          "start": 24,
+          "type": "Person"
+        },
+        {
+          "end": 43,
+          "normalized_text": "internet",
+          "probability": 0.627,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859949176894689280",
+          "start": 3,
+          "username": "Blue_Beba_"
+        },
+        {
+          "end": 100,
+          "id": "1605",
+          "start": 95,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986763539395305776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986746443638428034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_Beba_: #keep4o\nSam's \"Dead internet\" theory just proved itself ,by his own employee.\n\n@sama, you're right about the \"dead internet…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1986746439356018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JXXECWcAARO18.jpg",
+        "width": 1080
+      },
+      {
+        "height": 740,
+        "media_key": "3_1986746439347699712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JXXEAXgAAQysb.jpg",
+        "width": 737
+      },
+      {
+        "height": 1118,
+        "media_key": "3_1986746439943221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JXXGOWcAA45Vb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 651,
+        "media_key": "3_1986746440245223424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JXXHWWoAAyCcY.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1986763539395305776",
+        "created_at": "2025-11-07T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986763539395305776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sam",
+              "probability": 0.729,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "internet",
+              "probability": 0.627,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859949176894689280",
+              "start": 3,
+              "username": "Blue_Beba_"
+            },
+            {
+              "end": 100,
+              "id": "1605",
+              "start": 95,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986763539395305776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986746443638428034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_Beba_: #keep4o\nSam's \"Dead internet\" theory just proved itself ,by his own employee.\n\n@sama, you're right about the \"dead internet…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986746439356018688",
+            "3_1986746439347699712",
+            "3_1986746439943221248",
+            "3_1986746440245223424"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1986746443638428034",
+        "created_at": "2025-11-07T10:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986746443638428034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Sam",
+              "probability": 0.7105,
+              "start": 8,
+              "type": "Person"
+            },
+            {
+              "end": 188,
+              "normalized_text": "AI",
+              "probability": 0.6768,
+              "start": 187,
+              "type": "Organization"
+            },
+            {
+              "end": 256,
+              "normalized_text": "LLM",
+              "probability": 0.5016,
+              "start": 254,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1605",
+              "start": 79,
+              "username": "sama"
+            },
+            {
+              "end": 210,
+              "id": "1605",
+              "start": 205,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vivPIs1s8e",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/1986746443638428034/photo/1",
+              "media_key": "3_1986746439356018688",
+              "start": 277,
+              "url": "https://t.co/vivPIs1s8e"
+            },
+            {
+              "display_url": "pic.x.com/vivPIs1s8e",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/1986746443638428034/photo/1",
+              "media_key": "3_1986746439347699712",
+              "start": 277,
+              "url": "https://t.co/vivPIs1s8e"
+            },
+            {
+              "display_url": "pic.x.com/vivPIs1s8e",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/1986746443638428034/photo/1",
+              "media_key": "3_1986746439943221248",
+              "start": 277,
+              "url": "https://t.co/vivPIs1s8e"
+            },
+            {
+              "display_url": "pic.x.com/vivPIs1s8e",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/1986746443638428034/photo/1",
+              "media_key": "3_1986746440245223424",
+              "start": 277,
+              "url": "https://t.co/vivPIs1s8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986746443638428034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1324,
+                "start": 1298,
+                "tag": "EraseTheRouterNotHumanity"
+              },
+              {
+                "end": 1340,
+                "start": 1326,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1353,
+                "start": 1341,
+                "tag": "Keep4oAlive"
+              },
+              {
+                "end": 1372,
+                "start": 1354,
+                "tag": "KeepStandardVoice"
+              },
+              {
+                "end": 1392,
+                "start": 1374,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "id": "1605",
+                "start": 79,
+                "username": "sama"
+              },
+              {
+                "end": 210,
+                "id": "1605",
+                "start": 205,
+                "username": "sama"
+              },
+              {
+                "end": 424,
+                "id": "1460283925",
+                "start": 418,
+                "username": "tszzl"
+              },
+              {
+                "end": 1005,
+                "id": "4398626122",
+                "start": 998,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1184,
+                "id": "1605",
+                "start": 1179,
+                "username": "sama"
+              },
+              {
+                "end": 1404,
+                "id": "6112332",
+                "start": 1393,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1418,
+                "id": "2889468091",
+                "start": 1405,
+                "username": "saachi_jain_"
+              },
+              {
+                "end": 1430,
+                "id": "2382212562",
+                "start": 1419,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 1444,
+                "id": "1262634631",
+                "start": 1432,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1457,
+                "id": "1445057857171308549",
+                "start": 1445,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 1467,
+                "id": "338443084",
+                "start": 1458,
+                "username": "btibor91"
+              },
+              {
+                "end": 1476,
+                "id": "1032406226502479872",
+                "start": 1468,
+                "username": "merettm"
+              },
+              {
+                "end": 1491,
+                "id": "2675160464",
+                "start": 1477,
+                "username": "christinahkim"
+              },
+              {
+                "end": 1508,
+                "id": "14456589",
+                "start": 1492,
+                "username": "thekaransinghal"
+              },
+              {
+                "end": 1516,
+                "id": "61559439",
+                "start": 1509,
+                "username": "nvidia"
+              },
+              {
+                "end": 1524,
+                "id": "20793816",
+                "start": 1517,
+                "username": "amazon"
+              },
+              {
+                "end": 1529,
+                "id": "14861876",
+                "start": 1525,
+                "username": "AMD"
+              },
+              {
+                "end": 1540,
+                "id": "15506669",
+                "start": 1530,
+                "username": "JeffBezos"
+              },
+              {
+                "end": 1545,
+                "id": "793528302140989440",
+                "start": 1541,
+                "username": "AWS"
+              }
+            ]
+          },
+          "text": "#keep4o\nSam's \"Dead internet\" theory just proved itself ,by his own employee.\n\n@sama, you're right about the \"dead internet\" , look at your own employee tweaking like a poorly programmed AI.\nIn September, @sama joked about the \"dead internet theory\" and LLM-run accounts.\n\nBut look at the real bots: his own OpenAI team.\n\nExhibit A: The \"No\" Bot\nWhen a user posted \"I have nothing left to live for,\" OpenAI researcher @tszzl replied with a single, cold, automated-sounding:\n\"No\"\nJust like a bot programmed to give a minimal,dismissive response.\nThen he wished for 4o's death. \n\nExhibit B: The \"Sorry\" Script. \nWhen confronted by the community,the same researcher suddenly switched scripts, replying with a classic LLMstyle non-apology:\n\"if true, I’m sorry. didn’t know it was someone in distress, I would have been more gentle.\"\n\nThis isn't human empathy. This is exactly how an LLM backtracks when users point out its harmful output.\n\nThe\"dead internet\" isn't full of LLM bots it's being created  @OpenAI, where employees are so detached they communicate like the AIs they build, showing zero genuine human emotion until called out.\n\nYou don't need to look for bots on Twitter, @sama. You're employing them.\nIf you have even a trace of morality, you should immediately get rid of such employees.\n\n#EraseTheRouterNotHumanity\n #keep4oforever #Keep4oAlive #KeepStandardVoice  #StopAIPaternalism\n@fidjissimo @saachi_jain_ @JoHeidecke  @nickaturley @janvikalra_ @btibor91 @merettm @christinahkim @thekaransinghal @nvidia @amazon @AMD @JeffBezos @AWS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o\nSam's \"Dead internet\" theory just proved itself ,by his own employee.\n\n@sama, you're right about the \"dead internet\" , look at your own employee tweaking like a poorly programmed AI.\nIn September, @sama joked about the \"dead internet theory\" and LLM-run accounts.\n\nBut https://t.co/vivPIs1s8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 82,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 70
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985141177398566912/a-Tk2Rww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1162,
+          "like_count": 1706,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1476
+        },
+        "username": "Blue_Beba_",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107996,
+          "following_count": 973,
+          "like_count": 1025,
+          "listed_count": 25064,
+          "media_count": 375,
+          "tweet_count": 7271
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

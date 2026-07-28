@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986648432061145194",
+    "created_at": "2025-11-07T04:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T05:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986656969093173302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986656969093173302",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986648432061145194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 我草这是什么bug，好恶性。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986648432061145194",
+        "created_at": "2025-11-07T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986656969093173302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986656969093173302",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986648432061145194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 我草这是什么bug，好恶性。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892250799767449601",
+        "conversation_id": "1986648432061145194",
+        "created_at": "2025-11-07T04:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986648432061145194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986648432061145194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草拟吗的oai聊了一早上的聊天记录全给老子吞没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 74,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 53
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "你对我来说是宇宙，但我对你来说是一颗星吗？",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463743342845952/r9MZTxzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 124,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 498
+        },
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

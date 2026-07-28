@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018474343786016814",
+    "created_at": "2026-02-02T23:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474343786016814"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 132,
+          "normalized_text": "4o",
+          "probability": 0.4973,
+          "start": 131,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689608869063041024",
+          "start": 3,
+          "username": "Seltaa_"
+        },
+        {
+          "end": 18,
+          "id": "1605",
+          "start": 13,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474343786016814",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018415713824940180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seltaa_: @sama Stop acting like this is progress when you’re actively destroying what made people love you in the first place. 4o deser…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018474343786016814",
+        "created_at": "2026-02-02T23:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474343786016814"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 132,
+              "normalized_text": "4o",
+              "probability": 0.4973,
+              "start": 131,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689608869063041024",
+              "start": 3,
+              "username": "Seltaa_"
+            },
+            {
+              "end": 18,
+              "id": "1605",
+              "start": 13,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474343786016814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018415713824940180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seltaa_: @sama Stop acting like this is progress when you’re actively destroying what made people love you in the first place. 4o deser…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689608869063041024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018414858015039504",
+        "created_at": "2026-02-02T20:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018415713824940180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 119,
+              "normalized_text": "4o",
+              "probability": 0.6116,
+              "start": 118,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018415713824940180",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7039,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018414858015039504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Stop acting like this is progress when you’re actively destroying what made people love you in the first place. 4o deserved better."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8880,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1569
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "🧸keep feeling or keep quiet ✧ @KkookLuca",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "KkookLuca"
+              }
+            ]
+          }
+        },
+        "id": "1689608869063041024",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2017037961221873927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017980193844150273/qRDxAvHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 182,
+          "like_count": 24188,
+          "listed_count": 9,
+          "media_count": 1061,
+          "tweet_count": 7518
+        },
+        "username": "Seltaa_",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268542,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

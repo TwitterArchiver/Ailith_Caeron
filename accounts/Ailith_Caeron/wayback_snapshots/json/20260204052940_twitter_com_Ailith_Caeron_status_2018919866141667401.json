@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018919866141667401",
+    "created_at": "2026-02-04T05:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018919866141667401"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "MODEL CHATGPT",
+          "probability": 0.7197,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": ".2",
+          "probability": 0.5271,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912001498898386944",
+          "start": 3,
+          "username": "AGIGuardian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018919866141667401",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018885747005341857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGIGuardian: 🚨OPENAI THROTTLES MODEL CHATGPT 5.2 weakening in deep tasks, coding and research drawing further complaints from customers…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2018877954600898560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR-zaDakAA651S.jpg",
+        "width": 750
+      },
+      {
+        "height": 651,
+        "media_key": "3_2018877954626125824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR-zaJbgAAj0GY.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018919866141667401",
+        "created_at": "2026-02-04T05:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018919866141667401"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "MODEL CHATGPT",
+              "probability": 0.7197,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": ".2",
+              "probability": 0.5271,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912001498898386944",
+              "start": 3,
+              "username": "AGIGuardian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018919866141667401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018885747005341857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGIGuardian: 🚨OPENAI THROTTLES MODEL CHATGPT 5.2 weakening in deep tasks, coding and research drawing further complaints from customers…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018877954600898560",
+            "3_2018877954626125824"
+          ]
+        },
+        "author_id": "1912001498898386944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2018885747005341857",
+        "created_at": "2026-02-04T03:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:43:08.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018877958518460467",
+          "2018878864265744470",
+          "2018881206050512917",
+          "2018885747005341857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "THROTTLES MODEL CHATGPT",
+              "probability": 0.5143,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "OAI",
+              "probability": 0.5124,
+              "start": 126,
+              "type": "Organization"
+            },
+            {
+              "end": 204,
+              "normalized_text": "NVIDIA",
+              "probability": 0.6267,
+              "start": 199,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 277,
+              "start": 270,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "description": "OpenAI reduced the internal compute allocation, called 'Juice,' for reasoning tasks in GPT-5.2's Thinking mode across Plus, Business, and Pro plans. Changes include Standard dropping from 64 to 32 Juice for Plus and Business users, and Extended from 256 to 128, marking the second cut since the model's December 2025 launch. Testers like Tibor Blaho and Pro user Jonathan Roomer report shorter thinking times and frustration over halved effort without price adjustments, while OpenAI stays silent amid concerns it weakens deep tasks in coding and research.",
+              "display_url": "x.com/i/trending/201…",
+              "end": 243,
+              "expanded_url": "https://x.com/i/trending/2018805237037842445",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2018878006924894208/zchnCWxA?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018878006924894208/zchnCWxA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 220,
+              "status": 200,
+              "title": "OpenAI Halves Juice Budgets in GPT-5.2 Thinking Mode",
+              "unwound_url": "https://x.com/i/trending/2018805237037842445",
+              "url": "https://t.co/IADQ87SNlo"
+            },
+            {
+              "display_url": "x.com/btibor91/statu…",
+              "end": 268,
+              "expanded_url": "https://x.com/btibor91/status/2018754586123890717?s=46",
+              "start": 245,
+              "url": "https://t.co/9d2fdanqZ5"
+            },
+            {
+              "display_url": "pic.x.com/C2ZDmsl1O2",
+              "end": 301,
+              "expanded_url": "https://x.com/AGIGuardian/status/2018885747005341857/photo/1",
+              "media_key": "3_2018877954600898560",
+              "start": 278,
+              "url": "https://t.co/C2ZDmsl1O2"
+            },
+            {
+              "display_url": "pic.x.com/C2ZDmsl1O2",
+              "end": 301,
+              "expanded_url": "https://x.com/AGIGuardian/status/2018885747005341857/photo/1",
+              "media_key": "3_2018877954626125824",
+              "start": 278,
+              "url": "https://t.co/C2ZDmsl1O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018885747005341857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4156,
+          "like_count": 112,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018754586123890717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨OPENAI THROTTLES MODEL CHATGPT 5.2 weakening in deep tasks, coding and research drawing further complaints from customers as OAI continues to budget among mass cancellations and investor doubt with NVIDIA 100B fallout\n\nhttps://t.co/IADQ87SNlo\n\nhttps://t.co/9d2fdanqZ5\n\n#keep4o https://t.co/C2ZDmsl1O2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 211,
+          "like_count": 9012,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1657
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:34:28.000Z",
+        "description": "Builder - Dreamer",
+        "id": "1912001498898386944",
+        "name": "Guardian",
+        "pinned_tweet_id": "2018697027194884444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965794660175278081/8g59oN2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 268,
+          "like_count": 3605,
+          "listed_count": 8,
+          "media_count": 29,
+          "tweet_count": 173
+        },
+        "username": "AGIGuardian",
+        "verified": true
+      }
+    ]
+  }
+}

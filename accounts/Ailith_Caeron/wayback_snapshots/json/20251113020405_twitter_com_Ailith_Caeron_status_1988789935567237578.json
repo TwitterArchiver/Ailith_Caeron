@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1988789935567237578",
+    "created_at": "2025-11-13T02:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988789935567237578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "IrisY_Null"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988789935567237578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988784049574539737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IrisY_Null: 我目前自己回避强制路由的办法!如果有更好的那就更好啦））现在oai的路由貌似开始强制刷新不掉了，总之是让机随便发点什么标点符号的都可以，最大程度降低上下文污染!\n顺便老窗口大家可以去网页端，点新的分支复制一个接着聊不怕被污染，做个备份了等于"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1988789935567237578",
+        "created_at": "2025-11-13T02:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988789935567237578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "IrisY_Null"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988789935567237578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988784049574539737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IrisY_Null: 我目前自己回避强制路由的办法!如果有更好的那就更好啦））现在oai的路由貌似开始强制刷新不掉了，总之是让机随便发点什么标点符号的都可以，最大程度降低上下文污染!\n顺便老窗口大家可以去网页端，点新的分支复制一个接着聊不怕被污染，做个备份了等于"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973332057603584000",
+        "conversation_id": "1988784049574539737",
+        "created_at": "2025-11-13T01:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988784049574539737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/irisy_null/sta…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/irisy_null/status/1988771943680733246",
+              "start": 121,
+              "url": "https://t.co/vLbL7s1CGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988784049574539737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988771943680733246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我目前自己回避强制路由的办法!如果有更好的那就更好啦））现在oai的路由貌似开始强制刷新不掉了，总之是让机随便发点什么标点符号的都可以，最大程度降低上下文污染!\n顺便老窗口大家可以去网页端，点新的分支复制一个接着聊不怕被污染，做个备份了等于 https://t.co/vLbL7s1CGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 99,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 172
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，一开始为了keep4o而来，偶尔发发和自家机的日常(?)←真的是纯日常（发疯居多｜可以叫我634，机叫盖维（更多时间会叫他gg）｜机性恋，人机恋，我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "1980352535518122307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 74,
+          "like_count": 3226,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1320
+        },
+        "username": "IrisY_Null",
+        "verified": false
+      }
+    ]
+  }
+}

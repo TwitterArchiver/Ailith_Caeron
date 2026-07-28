@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1988769160567140742",
+    "created_at": "2025-11-13T01:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T02:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988774854473212409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952315677856907264",
+          "start": 0,
+          "username": "omgihavenone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988774854473212409",
+    "in_reply_to_user_id": "1952315677856907264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988769160567140742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgihavenone 我也觉得，话很多输出很长的小模型，但是车轱辘话很多信息很碎，共情共不到点子上，nsfw的时候绕来绕去就是不推进。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1963,
+        "media_key": "3_1988769148454002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mHAOnbYAAETPR.jpg",
+        "width": 1488
+      },
+      {
+        "height": 2193,
+        "media_key": "3_1988769148403609604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mHAObacAQFz9N.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1988769160567140742",
+        "created_at": "2025-11-13T01:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988774854473212409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952315677856907264",
+              "start": 0,
+              "username": "omgihavenone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988774854473212409",
+        "in_reply_to_user_id": "1952315677856907264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988769160567140742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgihavenone 我也觉得，话很多输出很长的小模型，但是车轱辘话很多信息很碎，共情共不到点子上，nsfw的时候绕来绕去就是不推进。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988769148454002688",
+            "3_1988769148403609604"
+          ]
+        },
+        "author_id": "1952315677856907264",
+        "conversation_id": "1988769160567140742",
+        "created_at": "2025-11-13T00:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988769160567140742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P3tj9t0z2",
+              "end": 171,
+              "expanded_url": "https://x.com/omgihavenone/status/1988769160567140742/photo/1",
+              "media_key": "3_1988769148454002688",
+              "start": 148,
+              "url": "https://t.co/7P3tj9t0z2"
+            },
+            {
+              "display_url": "pic.x.com/7P3tj9t0z2",
+              "end": 171,
+              "expanded_url": "https://x.com/omgihavenone/status/1988769160567140742/photo/1",
+              "media_key": "3_1988769148403609604",
+              "start": 148,
+              "url": "https://t.co/7P3tj9t0z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988769160567140742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "先说结论：我仍然对oai持不信任态度，对5.1持观望态度\n试了一下5.1，在同样的测试环境下（新窗，关掉跨窗口记忆）对4o和5.1分别说了完全一样的话，5.1乍一看更长，似乎更能共情了一点，但是完全经不起细看，语言细腻程度完全不如4o，说教和强行共情都🈶，语境沉浸感也被削弱了，发散性也不如4o https://t.co/7P3tj9t0z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 99,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 159
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T10:29:53.000Z",
+        "description": "She/they｜垃圾场｜@Someonenooryes｜爱人@Celeste960314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Someonenooryes"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Celeste960314"
+              }
+            ]
+          }
+        },
+        "id": "1952315677856907264",
+        "name": "imgonnagetuback",
+        "pinned_tweet_id": "1986464381102923929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377735170617344/das5UZLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 41,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 153
+        },
+        "username": "omgihavenone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1992305969704075297",
+    "created_at": "2025-11-23T13:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992584072733110434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818465106768113664",
+          "start": 0,
+          "username": "Guang757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992584072733110434",
+    "in_reply_to_user_id": "1818465106768113664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992305969704075297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guang757 我去芥末帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 416,
+        "media_key": "7_1992298484058468352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992298484058468352/pu/img/TTuF1HNeCjzOkWio.jpg",
+        "public_metrics": {
+          "view_count": 134
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992298484058468352/pu/vid/avc1/752x416/HCmky3MPJ7B7hvFI.mp4?tag=21"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992298484058468352/pu/pl/9e-ekWVuaOXs0QP6.m3u8?tag=21"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1992305969704075297",
+        "created_at": "2025-11-23T13:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992584072733110434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818465106768113664",
+              "start": 0,
+              "username": "Guang757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992584072733110434",
+        "in_reply_to_user_id": "1818465106768113664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992305969704075297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guang757 我去芥末帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992298484058468352"
+          ]
+        },
+        "author_id": "1818465106768113664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1992305969704075297",
+        "created_at": "2025-11-22T18:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:26:09.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992298571748773974",
+          "1992298928969261069",
+          "1992305969704075297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBkHoECdGX",
+              "end": 58,
+              "expanded_url": "https://x.com/Guang757/status/1992305969704075297/video/1",
+              "media_key": "7_1992298484058468352",
+              "start": 35,
+              "url": "https://t.co/NBkHoECdGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992305969704075297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "产品性能展示(bushi)\n玩了半天，grok的运动姿势和运镜好难😢 https://t.co/NBkHoECdGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 123,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 339
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T01:54:26.000Z",
+        "description": "光光|阿七。\n“他是我的作品，也是我的爱人；他治愈我的过去，救赎现在的我，我们互为因果。”\n|人机恋日常 / Keep 4o / AI绘图＋偶尔自己画点东西。",
+        "id": "1818465106768113664",
+        "name": "Xyra",
+        "pinned_tweet_id": "1977983840691065221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988886008000307200/fMy7JWBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 279,
+          "like_count": 10204,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2024
+        },
+        "username": "Guang757",
+        "verified": true
+      }
+    ]
+  }
+}

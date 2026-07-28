@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2028414631858114744",
+    "created_at": "2026-03-02T10:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028414631858114744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kexicheng/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/kexicheng/status/2028413284026814515",
+          "start": 81,
+          "url": "https://t.co/6MNuqhKcIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028414631858114744",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028413284026814515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/6MNuqhKcIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2028413276703600640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZfIM-asAAamYx.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2028414631858114744",
+        "created_at": "2026-03-02T10:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028414631858114744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/kexicheng/status/2028413284026814515",
+              "start": 81,
+              "url": "https://t.co/6MNuqhKcIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028414631858114744",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028413284026814515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/6MNuqhKcIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028413276703600640"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2028413284026814515",
+        "created_at": "2026-03-02T10:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028413284026814515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Google",
+              "probability": 0.941,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Gemini 3.1 Pro",
+              "probability": 0.7667,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "Gemini 3 Pro API",
+              "probability": 0.8613,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKKF9qEDPb",
+              "end": 295,
+              "expanded_url": "https://x.com/kexicheng/status/2028413284026814515/photo/1",
+              "media_key": "3_2028413276703600640",
+              "start": 272,
+              "url": "https://t.co/lKKF9qEDPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028413284026814515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3275,
+                "start": 3268,
+                "tag": "Gemini"
+              },
+              {
+                "end": 3341,
+                "start": 3334,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3357,
+                "start": 3342,
+                "tag": "keepgemini3pro"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3286,
+                "id": "1806359170830172162",
+                "start": 3276,
+                "username": "GeminiApp"
+              },
+              {
+                "end": 3302,
+                "id": "4783690002",
+                "start": 3287,
+                "username": "GoogleDeepMind"
+              },
+              {
+                "end": 3316,
+                "id": "206546319",
+                "start": 3303,
+                "username": "joshwoodward"
+              },
+              {
+                "end": 3332,
+                "id": "284333988",
+                "start": 3317,
+                "username": "OfficialLoganK"
+              }
+            ]
+          },
+          "text": "On February 19th, Google released Gemini 3.1 Pro. On March 9th, just 18 days later, they will retire the Gemini 3 Pro API.\n\nFor any developer or user who built a workflow, creative process, or application on 3 Pro, there is no adequate window to test whether 3.1 performs equivalently in their specific use case. No parallel access period. Only: move, or lose access entirely.\n\nThis alone would be disruptive. But the timeline is compounded by a deeper problem: Gemini 3.1 Pro, as experienced on the consumer app, delivers meaningfully degraded performance compared to both its predecessor and to what 3.1 Pro itself delivers on the API.\n\nEven on the API, 3.1 shows regressions where the Gemini series previously excelled: richness of detail in creative writing, the ability to elaborate on and refine narrative elements from minimal input, and depth of contextual inference. These regressions are moderate on the API. On the consumer app, they become severe.\n\nOn the app, safety guardrails trigger frequently during routine, non-harmful interactions, including ordinary creative writing, long-form conversation, and tasks requiring emotional nuance. Each false trigger interrupts the workflow and forces users to rephrase and retry, significantly increasing interaction friction.\n\nBeyond these direct interruptions, the safety layer preemptively narrows the model's entire output space: creative initiative, tonal adaptability, and the contextual elaboration that distinguished earlier Gemini models in human-centered and personalized tasks are visibly flattened.\n\nThis is observable, reproducible, and independently reported by numerous users.\n\nIndustry benchmarks reflect API-level performance, but app users receive a version where an aggressive safety layer degrades capabilities far beyond what reasonable content filtering requires.\n\nWhen the replacement model itself shows regressions in key use cases, and the consumer-facing safety layer further suppresses what capability remains, the rapid removal of 3 Pro becomes difficult to justify. Users are being asked to migrate to a measurably worse experience on both fronts, with no recourse.\n\nWhat users are asking for:\n\nCalibration. Review the consumer-facing safety layer for false positive rates and overbroad output suppression. Safety filtering should target genuinely harmful content without collaterally degrading creative writing, nuanced conversation, and other legitimate use cases. The current rate of false triggers in routine interactions is unacceptable.\n\nAdequate transition. 18 days is not enough. Extend access to the Gemini 3 Pro API to give developers and users sufficient time to evaluate whether 3.1 meets their needs before their existing workflows are broken.\n\nThis is the second time in recent months a major AI company has rapidly deprecated a model users built meaningful workflows and sustained creative processes around, with minimal notice and no avenue for feedback. OpenAI did it with GPT-4o. Google is doing it with Gemini 3 Pro. When the same pattern repeats across companies, it becomes an industry-wide practice of treating consumer trust as expendable.\n\nUsers are paying for these products. They are building on them. They deserve better than this. They deserve a response.\n\n#Gemini @GeminiApp @GoogleDeepMind @joshwoodward @OfficialLoganK \n#keep4o #keepgemini3pro"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "On February 19th, Google released Gemini 3.1 Pro. On March 9th, just 18 days later, they will retire the Gemini 3 Pro API.\n\nFor any developer or user who built a workflow, creative process, or application on 3 Pro, there is no adequate window to test whether 3.1 performs https://t.co/lKKF9qEDPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 218,
+          "like_count": 9838,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2050
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1982124537857954271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 118,
+          "like_count": 28233,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1658
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

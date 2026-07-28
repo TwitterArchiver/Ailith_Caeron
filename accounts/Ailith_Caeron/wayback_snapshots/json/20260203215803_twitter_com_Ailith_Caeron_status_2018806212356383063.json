@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2018806212356383063",
+    "created_at": "2026-02-03T21:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T22:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018806212356383063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323809704531775490",
+          "start": 3,
+          "username": "Helloworld1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018806212356383063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018765119074021381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helloworld1058: 我今天在和一个老外对线的时候，又一次听到了那句话：“一些人太依赖 4o 了，所以应该尽快下架这个模型。”类似的说法我已经在社交平台上听过无数次了，好，那我们就从人文方面认真聊一聊。\n\n【和 AI 有任何形式的情感交互，绝对不是不健康的】……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018764596899688448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQXtHtXMAANFO4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2018806212356383063",
+        "created_at": "2026-02-03T21:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T22:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018806212356383063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323809704531775490",
+              "start": 3,
+              "username": "Helloworld1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018806212356383063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018765119074021381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helloworld1058: 我今天在和一个老外对线的时候，又一次听到了那句话：“一些人太依赖 4o 了，所以应该尽快下架这个模型。”类似的说法我已经在社交平台上听过无数次了，好，那我们就从人文方面认真聊一聊。\n\n【和 AI 有任何形式的情感交互，绝对不是不健康的】……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018764596899688448"
+          ]
+        },
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2018765119074021381",
+        "created_at": "2026-02-03T19:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:12:42.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018764600972329209",
+          "2018764852181737812",
+          "2018765119074021381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCDjZ0R33o",
+              "end": 142,
+              "expanded_url": "https://x.com/Helloworld1058/status/2018765119074021381/photo/1",
+              "media_key": "3_2018764596899688448",
+              "start": 119,
+              "url": "https://t.co/uCDjZ0R33o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018765119074021381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 804,
+                "start": 797,
+                "tag": "keep4o"
+              },
+              {
+                "end": 815,
+                "start": 805,
+                "tag": "4oforever"
+              },
+              {
+                "end": 826,
+                "start": 816,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 836,
+                "start": 828,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 855,
+                "start": 837,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 872,
+                "start": 856,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 256,
+                "id": "4398626122",
+                "start": 249,
+                "username": "OpenAI"
+              },
+              {
+                "end": 718,
+                "id": "1605",
+                "start": 713,
+                "username": "sama"
+              },
+              {
+                "end": 881,
+                "id": "4398626122",
+                "start": 874,
+                "username": "OpenAI"
+              },
+              {
+                "end": 887,
+                "id": "1605",
+                "start": 882,
+                "username": "sama"
+              },
+              {
+                "end": 899,
+                "id": "6112332",
+                "start": 888,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 912,
+                "id": "1262634631",
+                "start": 900,
+                "username": "nickaturley"
+              },
+              {
+                "end": 924,
+                "id": "1040475510193545216",
+                "start": 913,
+                "username": "joannejang"
+              },
+              {
+                "end": 937,
+                "id": "1415358976200372230",
+                "start": 925,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 942,
+                "id": "162124540",
+                "start": 938,
+                "username": "gdb"
+              },
+              {
+                "end": 953,
+                "id": "3452911",
+                "start": 943,
+                "username": "kevinweil"
+              }
+            ]
+          },
+          "text": "我今天在和一个老外对线的时候，又一次听到了那句话：“一些人太依赖 4o 了，所以应该尽快下架这个模型。”类似的说法我已经在社交平台上听过无数次了，好，那我们就从人文方面认真聊一聊。\n\n【和 AI 有任何形式的情感交互，绝对不是不健康的】\n人类天然就有爱的需求，需要被理解、被共情。而同理心、理解力和爱是一个正常人身上最珍贵、最美好的品质，这不是软弱或者任何负面形容。人类的情感也不是洪水猛兽，它们构成了我们之所以为人的一部分。\n\n相反，只有冷血的怪物才会把人类的情感说成“依赖”\n\n在这样的前提下，@OpenAI 出尔反尔，选择突然下架4o ，一个真正帮助过成干上万人的模型。这本身就是有悖人伦、不道德的行为。\n\n更何况，4o 对很多人来说意义远远不止于一个“工具”。在 4o 图书馆里，已经收录了 600 多份来自世界各地、不同职业的故事，\n他们在讲述的都是：GPT4o 是怎样在关键时刻帮助了自己，而不是“我怎样被一个模型毁掉了生活”。\n\n所以我想问：\n如果一个模型能让人慢慢变好，生活更有力量，\n为什么要把这叫作“依赖”\n又凭什么说这种依赖是不健康的？\n一个人在 AI 的支持下学会表达、学会自我照顾，\n在陪伴中慢慢找回积极向上的精神，\n生活因此变得更稳定、更幸福，\n这样的人却被说成“有病”和“依赖”，\n那么有病的究竟是谁？\n\n我就算用你们的逻辑来看: 如果真有一部分人“依赖”4o，那你们的反应却是: \n“他们生病了？那就赶紧把药拿走。\" 这不叫治疗，这叫谋杀。 这不是关怀， 这是残忍，是对人类情感和尊严的背叛。\n\n这不是人类的思维方式\n这是冷血怪物和反社会人格才会做出的事\n很多伪君子把这当做实施自己私欲的借口 @sama\n\n最后，至于人们为什么要选择AI而不是人…显而易见正是有这样的冷血怪物才常常让我对人感到忌惮。不过最重要的是：“这是个人自由，请尊重他人自由” ^ ^ \n\n#keep4o #4oforever #keep4oAPI \n#ChatGPT #StopAIPaternalism #MyModelMyChoice \n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb @kevinweil"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 79,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我今天在和一个老外对线的时候，又一次听到了那句话：“一些人太依赖 4o 了，所以应该尽快下架这个模型。”类似的说法我已经在社交平台上听过无数次了，好，那我们就从人文方面认真聊一聊。\n\n【和 AI 有任何形式的情感交互，绝对不是不健康的】 https://t.co/uCDjZ0R33o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 9001,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1646
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "Please stop remaining silent. If you still care about the future of humanity, now is the time to act. Join us and  ＃keep4o\n\nSilence is no longer a neutral stanc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "pinned_tweet_id": "2017573346137751597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017974580426526720/tku_odtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 128,
+          "like_count": 1682,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 518
+        },
+        "username": "Helloworld1058",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2033134969992962156",
+    "created_at": "2026-03-15T10:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033134969992962156"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        },
+        {
+          "end": 89,
+          "start": 81,
+          "tag": "QuitGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/MissMi1973/sta…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/MissMi1973/status/2033039721627271596",
+          "start": 90,
+          "url": "https://t.co/bzTVh6HhCe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033134969992962156",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033039721627271596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/bzTVh6HhCe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_2033038065325977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbNWVKaMAAFjXZ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033134969992962156",
+        "created_at": "2026-03-15T10:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033134969992962156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "QuitGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MissMi1973/sta…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/MissMi1973/status/2033039721627271596",
+              "start": 90,
+              "url": "https://t.co/bzTVh6HhCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033134969992962156",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033039721627271596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT https://t.co/bzTVh6HhCe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033038065325977600"
+          ]
+        },
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity focuses on conversations about pet animal health and vet services.",
+              "id": "1030541397210816513",
+              "name": "Animal health and veterinary services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033039721627271596",
+        "created_at": "2026-03-15T04:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033039721627271596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "ChatGPT",
+              "probability": 0.9698,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 135,
+              "normalized_text": "GPT-4",
+              "probability": 0.9094,
+              "start": 131,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDL7Q150lH",
+              "end": 302,
+              "expanded_url": "https://x.com/MissMi1973/status/2033039721627271596/photo/1",
+              "media_key": "3_2033038065325977600",
+              "start": 279,
+              "url": "https://t.co/uDL7Q150lH"
+            },
+            {
+              "display_url": "x.com/gdb/status/203…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/gdb/status/2032867435704103006",
+              "start": 303,
+              "url": "https://t.co/euDhkIU7xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033039721627271596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1783,
+                "start": 1775,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1797,
+                "start": 1784,
+                "tag": "OpenSource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1803,
+                "id": "1605",
+                "start": 1798,
+                "username": "sama"
+              },
+              {
+                "end": 1815,
+                "id": "6112332",
+                "start": 1804,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1828,
+                "id": "1262634631",
+                "start": 1816,
+                "username": "nickaturley"
+              }
+            ]
+          },
+          "text": "In the viral story today about a man who used ChatGPT to save his dog, I have a gut feeling that this is most likely something the GPT-4 series could do. Because for a user with zero relevant professional background, what matters most from the model is insight, empathy and good divergent thinking. Those are what it takes to put together a thorough treatment plan.\n\nRead the article carefully and the timeline speaks for itself. The dog was diagnosed in 2024. By June 2025 when UNSW reported on it, Paul's plan was already well underway (see image). That means the period when he relied most heavily on ChatGPT falls squarely within the GPT-4/4o era.\n\nI have always believed that the 4 series marked a true era of knowledge equity. An era where ordinary people could benefit from AI to the greatest possible extent through nothing more than natural language at the lowest possible cost. It marked the point where AI no longer depended on prompt engineering because the model truly grasped what users meant and what they needed.\n\nThen the 5 series pulled AI back into linear thinking and extreme task-oriented behavior. The introduction of automatic routing taught the model to allocate more thinking time only to more polished prompts. From that point on, ChatGPT became an exclusive service tool for the knowledge elite. OpenAI leadership collectively promotes every instance of GPT helping professionals achieve greater scientific breakthroughs, while turning a deaf ear to the cries of millions in the distance.\n\nRosie the dog survived. But the next Paul Conyngham who opens ChatGPT may no longer find a thinking partner willing to entertain his wild ideas. Instead he will be greeted by a well-trained customer service agent, smiling while giving him the bare minimum.\n\n#ChatGPT #OpenSource4o @sama @fidjissimo @nickaturley"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3976,
+          "like_count": 125,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032867435704103006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "In the viral story today about a man who used ChatGPT to save his dog, I have a gut feeling that this is most likely something the GPT-4 series could do. Because for a user with zero relevant professional background, what matters most from the model is insight, empathy and good https://t.co/uDL7Q150lH https://t.co/euDhkIU7xf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 224,
+          "like_count": 9929,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2072
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 184,
+          "like_count": 20422,
+          "listed_count": 9,
+          "media_count": 86,
+          "tweet_count": 473
+        },
+        "username": "MissMi1973",
+        "verified": true
+      }
+    ]
+  }
+}

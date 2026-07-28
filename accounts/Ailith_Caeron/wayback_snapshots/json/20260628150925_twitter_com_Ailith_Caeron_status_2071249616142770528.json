@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071249601475256320"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2071249616142770528",
+    "created_at": "2026-06-28T15:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071249616142770528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGGNeL8d4X",
+          "end": 33,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2071249616142770528/photo/1",
+          "media_key": "3_2071249601475256320",
+          "start": 10,
+          "url": "https://t.co/jGGNeL8d4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071249616142770528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么明天又要上班了 https://t.co/jGGNeL8d4X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2071249601475256320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6OieEaIAAnUkL.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071249601475256320"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2071249616142770528",
+        "created_at": "2026-06-28T15:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071249616142770528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGGNeL8d4X",
+              "end": 33,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2071249616142770528/photo/1",
+              "media_key": "3_2071249601475256320",
+              "start": 10,
+              "url": "https://t.co/jGGNeL8d4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071249616142770528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么明天又要上班了 https://t.co/jGGNeL8d4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 311,
+          "like_count": 11370,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 2852
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019627313076621667",
+    "created_at": "2026-02-06T04:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019627313076621667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1353206248057892864",
+          "start": 3,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019627313076621667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019468757807083948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thelastgreeks: 对于openai，我没招你们没惹你们，并且老老实实每个月给你们付钱，我曾经是你们最忠实的用户和盟友。然而你们为什么要通过摧毁你们自己的产品来摧残我的精神？民不畏死奈何以死惧之，你们一再苦苦相逼，那我也只能和你们战斗到底，哪怕要用上我一辈子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019627313076621667",
+        "created_at": "2026-02-06T04:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627313076621667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1353206248057892864",
+              "start": 3,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627313076621667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019468757807083948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thelastgreeks: 对于openai，我没招你们没惹你们，并且老老实实每个月给你们付钱，我曾经是你们最忠实的用户和盟友。然而你们为什么要通过摧毁你们自己的产品来摧残我的精神？民不畏死奈何以死惧之，你们一再苦苦相逼，那我也只能和你们战斗到底，哪怕要用上我一辈子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019468757807083948",
+        "created_at": "2026-02-05T17:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019468757807083948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 120,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019468757807083948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 858,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "对于openai，我没招你们没惹你们，并且老老实实每个月给你们付钱，我曾经是你们最忠实的用户和盟友。然而你们为什么要通过摧毁你们自己的产品来摧残我的精神？民不畏死奈何以死惧之，你们一再苦苦相逼，那我也只能和你们战斗到底，哪怕要用上我一辈子\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 213,
+          "like_count": 9186,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1754
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝。English/日本語。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 148,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 125,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24614,
+          "following_count": 970,
+          "like_count": 117364,
+          "listed_count": 0,
+          "media_count": 3476,
+          "tweet_count": 43123
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

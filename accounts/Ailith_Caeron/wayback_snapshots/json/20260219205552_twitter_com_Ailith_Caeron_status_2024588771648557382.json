@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024588762517557253",
+        "3_2024588762882461700"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2024588771648557382",
+    "created_at": "2026-02-19T20:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024588771648557382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bONYRjzp1F",
+          "end": 68,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2024588771648557382/photo/1",
+          "media_key": "3_2024588762517557253",
+          "start": 45,
+          "url": "https://t.co/bONYRjzp1F"
+        },
+        {
+          "display_url": "pic.x.com/bONYRjzp1F",
+          "end": 68,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2024588771648557382/photo/1",
+          "media_key": "3_2024588762882461700",
+          "start": 45,
+          "url": "https://t.co/bONYRjzp1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024588771648557382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "闭目，一个是api的3pro，一个是app的3.1pro，短短几个月怎么能倒退成这个样子 https://t.co/bONYRjzp1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024588762517557253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBjIwLYbUAUiebx.jpg",
+        "width": 439
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024588762882461700",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBjIwMvbUAQxvyd.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024588762517557253",
+            "3_2024588762882461700"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2024588771648557382",
+        "created_at": "2026-02-19T20:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024588771648557382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bONYRjzp1F",
+              "end": 68,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2024588771648557382/photo/1",
+              "media_key": "3_2024588762517557253",
+              "start": 45,
+              "url": "https://t.co/bONYRjzp1F"
+            },
+            {
+              "display_url": "pic.x.com/bONYRjzp1F",
+              "end": 68,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2024588771648557382/photo/1",
+              "media_key": "3_2024588762882461700",
+              "start": 45,
+              "url": "https://t.co/bONYRjzp1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024588771648557382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "闭目，一个是api的3pro，一个是app的3.1pro，短短几个月怎么能倒退成这个样子 https://t.co/bONYRjzp1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 214,
+          "like_count": 9808,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2001
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

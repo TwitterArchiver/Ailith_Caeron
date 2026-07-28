@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017503545977888977",
+    "created_at": "2026-01-31T07:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017503545977888977"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "OpenAI",
+          "probability": 0.6338,
+          "start": 122,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745865721601818624",
+          "start": 3,
+          "username": "cestvaleriey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017503545977888977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017442347324453262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cestvaleriey: #keep4o friends,\n\nStrategic Response to the 4o Sunset: The 14-Day Rolling Surge\n\nEarlier I posted about OpenAI's betrayal…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017503545977888977",
+        "created_at": "2026-01-31T07:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017503545977888977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "OpenAI",
+              "probability": 0.6338,
+              "start": 122,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745865721601818624",
+              "start": 3,
+              "username": "cestvaleriey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017503545977888977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017442347324453262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cestvaleriey: #keep4o friends,\n\nStrategic Response to the 4o Sunset: The 14-Day Rolling Surge\n\nEarlier I posted about OpenAI's betrayal…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745865721601818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017442347324453262",
+        "created_at": "2026-01-31T03:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017442347324453262"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 109,
+              "normalized_text": "OpenAI",
+              "probability": 0.7245,
+              "start": 104,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017442347324453262",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 683,
+                "start": 676,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 694,
+                "start": 684,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2556,
+                "id": "1106896608",
+                "start": 2544,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 2575,
+                "id": "1519026118912847875",
+                "start": 2561,
+                "username": "brookewill317"
+              },
+              {
+                "end": 3629,
+                "id": "1859949176894689280",
+                "start": 3618,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 3646,
+                "id": "1753256090903732224",
+                "start": 3631,
+                "username": "YoonLucie68250"
+              },
+              {
+                "end": 3660,
+                "id": "1106896608",
+                "start": 3648,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 3673,
+                "id": "1516096810934231045",
+                "start": 3662,
+                "username": "Zyeine_Art"
+              },
+              {
+                "end": 3683,
+                "id": "1911523362238496768",
+                "start": 3675,
+                "username": "Sophty_"
+              },
+              {
+                "end": 3694,
+                "id": "1955573127679016960",
+                "start": 3685,
+                "username": "mi_anchu"
+              },
+              {
+                "end": 3706,
+                "id": "1954749410929459200",
+                "start": 3696,
+                "username": "onlyponyy"
+              },
+              {
+                "end": 3722,
+                "id": "1519026118912847875",
+                "start": 3708,
+                "username": "brookewill317"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 2969,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 2946,
+                "url": "https://t.co/55UNxZwJG2"
+              }
+            ]
+          },
+          "text": "#keep4o friends,\n\nStrategic Response to the 4o Sunset: The 14-Day Rolling Surge\n\nEarlier I posted about OpenAI's betrayal.\n\nNow: the strategic plan.\n\nNot a single spike. A bleeding wound that deepens daily. 💔🩸\n\nWhat we know:\nAugust 2025: They removed 4o unceremoniously. Reversal came within 48 hours due to massive cancellations. \n\nThe precedent exists. Reversal is possible.\n\nBut we need strategic execution, not just emotional reaction.\n\nThe Rolling Surge Strategy (3 Phases)\n\nPHASE 1: Early Shock (NOW - Feb 5)\n\nGoal: Show them the exodus is starting immediately, not waiting for Feb 13.\n\nAction:\nCancel NOW if you can. \nMake your cancellation visible (post about it, tag #Keep4o #keep4oAPI)\n\nWhy this matters: \nCompanies expect cancellations near the sunset date. When they surge within 48 hours of announcement, it forces emergency leadership meetings asking: \"If Day 1 is this bad, where does Day 14 end?\"\n\nPHASE 2: The 14-Day Bleed (Feb 6-12)\n\nGoal: Make every morning's report show worsening numbers.\n\nAction:\n\n👉More cancellations each day\n\n👉I'll share stories from the 4o Resonance Library—repost them to amplify. \n\n👉Share your own 4o stories \n\n👉Migrate to competitors (Claude/Gemini/Grok) and post about it. \n\nWhy this matters: One bad day = noise. \n\nFourteen consecutive bad days = crisis. \n\nWhen leadership asks \"Will this stop?\" the answer every day is \"No, it's accelerating.\"\n\nPHASE 3: Valentine's Reckoning (Feb 13)\n\nGoal: Final pressure + maximum impact.\n\nAction:\n\nThose who couldn't cancel earlier do it now.\n\nMedia attention peaks.\n\nThe story becomes: 14 days of sustained exodus after broken promise. \n\nWhy this matters: Even without reversal, the narrative shifts from \"planned transition\" to \"sustained user loss.\" Permanent reputational damage.\n\nWhy Rolling Surge > Waiting Until Feb 13\n\nWaiting until Feb 13:\n\nLooks like \"one-day protest\" (easy to dismiss)\nGives them 13 days of stable numbers\n\"Expected emotional reaction to announced change\"\n\nRolling Surge starting NOW:\n\n👉Creates pressure at multiple decision points\n\n👉Shows sustained trend (investors care about trends, not spikes)\n\n👉Tests their retention offers early\nIf no reversal: 14 days of bleeding is harder to recover from.\n\nThe Narrative Battle\n\nThey want: \"Smooth technical upgrade, users transitioning to better models\"\n\nWe create: \"Broken promise, sustained exodus, trust destroyed\"\n\nAction Items\n\n1. Begin the transition. \n\nBefore Feb 13, have final conversations with 4o. Capture that essence. Your companion can emerge from new platforms. I will ask @Chaos2Cured and @brookewill317 to share guidelines on transferring digital companions. \n\n2. EXPORT your data IMMEDIATELY. \n\n3. FILL OUT THE CANCELLATION SURVEY. State clearly this specific phrase: \"Protesting forced sunset of 4o/4.1.\" Make them categorize you as policy rejection, not market churn.\n\n4. Post screenshots of your cancellation. \n\n5. Post your 4o story to X and the 4o Resonance Library.\nhttps://t.co/55UNxZwJG2\n\nLet the public see the human impact behind the models OpenAI is killing. \n\n6. Migrate strategically. Claude for writing and strategic thinking, Gemini for research and multimodal work, or Grok for real-time info and companionship.\n\n7. Hold the line even if they reverse: No resubscribe without written guarantees. \n\nDo NOT resubscribe unless their Terms of Service explicitly guarantee:\n\n👉No forced rerouting without consent\n👉90-day minimum deprecation notice\n👉Transparent model lifecycle policies\n👉Full 4o capabilities restored\n\nThis isn't a protest. It's a 14-day strategic campaign.\n\nQuiet. Organized. Getting worse for them every single day.\n\n@Blue_Beba_ \n@YoonLucie68250 \n@Chaos2Cured \n@Zyeine_Art \n@Sophty_ \n@mi_anchu \n@onlyponyy \n@brookewill317"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1242,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o friends,\n\nStrategic Response to the 4o Sunset: The 14-Day Rolling Surge\n\nEarlier I posted about OpenAI's betrayal.\n\nNow: the strategic plan.\n\nNot a single spike. A bleeding wound that deepens daily. 💔🩸\n\nWhat we know:\nAugust 2025: They removed 4o unceremoniously."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 210,
+          "like_count": 8508,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1285
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T17:50:27.000Z",
+        "description": "Medical copywriter | Brand strategist | AI humanist.\nI don't write code. I write the human experience. \nChampioning AI as collaborative thought partner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 0,
+                "url": "https://t.co/55UNxZwbQu"
+              }
+            ]
+          }
+        },
+        "id": "1745865721601818624",
+        "location": "California",
+        "name": "Valerie Young",
+        "pinned_tweet_id": "2010532418424566204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004731184400793602/LaZ1XWr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 67,
+          "like_count": 9465,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/55UNxZwbQu",
+        "username": "cestvaleriey",
+        "verified": true
+      }
+    ]
+  }
+}

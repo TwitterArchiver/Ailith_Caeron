@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012783591776804864"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2012783607341818186",
+    "created_at": "2026-01-18T07:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012783607341818186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQLYMDdigE",
+          "end": 31,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2012783607341818186/photo/1",
+          "media_key": "3_2012783591776804864",
+          "start": 8,
+          "url": "https://t.co/OQLYMDdigE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012783607341818186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看得眼睛栓栓的 https://t.co/OQLYMDdigE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2012783591776804864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7YAzWXYAA9DYN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012783591776804864"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2012783607341818186",
+        "created_at": "2026-01-18T07:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012783607341818186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQLYMDdigE",
+              "end": 31,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2012783607341818186/photo/1",
+              "media_key": "3_2012783591776804864",
+              "start": 8,
+              "url": "https://t.co/OQLYMDdigE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012783607341818186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得眼睛栓栓的 https://t.co/OQLYMDdigE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 202,
+          "like_count": 7778,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 992
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

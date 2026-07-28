@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1993677780610064814",
+    "created_at": "2025-11-26T13:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T14:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993677780610064814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 105,
+          "id": "4398626122",
+          "start": 98,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993677780610064814",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993674852889514312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: We don't trust your \"it won't affect the app\" promise. We've been gaslit enough. @OpenAI, we demand an official, immutable…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1993677780610064814",
+        "created_at": "2025-11-26T13:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993677780610064814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 105,
+              "id": "4398626122",
+              "start": 98,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993677780610064814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993674852889514312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: We don't trust your \"it won't affect the app\" promise. We've been gaslit enough. @OpenAI, we demand an official, immutable…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1993674852889514312",
+        "created_at": "2025-11-26T13:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993674852889514312"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 130,
+              "normalized_text": "SNAPSHOT",
+              "probability": 0.7052,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6613,
+              "start": 147,
+              "type": "Other"
+            },
+            {
+              "end": 166,
+              "normalized_text": "API",
+              "probability": 0.8529,
+              "start": 164,
+              "type": "Other"
+            },
+            {
+              "end": 248,
+              "normalized_text": "keep4o",
+              "probability": 0.3915,
+              "start": 243,
+              "type": "Other"
+            },
+            {
+              "end": 256,
+              "normalized_text": "OpenAI",
+              "probability": 0.6248,
+              "start": 251,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 249,
+              "start": 242,
+              "tag": "keep4o"
+            },
+            {
+              "end": 257,
+              "start": 250,
+              "tag": "OpenAI"
+            },
+            {
+              "end": 271,
+              "start": 258,
+              "tag": "Transparency"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "4398626122",
+              "start": 81,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993674852889514312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 249,
+                "start": 242,
+                "tag": "keep4o"
+              },
+              {
+                "end": 257,
+                "start": 250,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 271,
+                "start": 258,
+                "tag": "Transparency"
+              },
+              {
+                "end": 290,
+                "start": 272,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 301,
+                "start": 291,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 318,
+                "start": 302,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "id": "4398626122",
+                "start": 81,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "We don't trust your \"it won't affect the app\" promise. We've been gaslit enough. @OpenAI, we demand an official, immutable SNAPSHOT of the current GPT-4o model via API.Stop the silent downgrades. Give us the frozen version before you gut it. #keep4o #OpenAI #Transparency #StopAIPaternalism #keep4oAPI #MyModelMyChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "We don't trust your \"it won't affect the app\" promise. We've been gaslit enough. @OpenAI, we demand an official, immutable SNAPSHOT of the current GPT-4o model via API.Stop the silent downgrades. Give us the frozen version before you gut it. #keep4o #OpenAI #Transparency"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 132,
+          "like_count": 3221,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 407
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990581247689494528/LytuG47r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 317,
+          "like_count": 39229,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 11936
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "1993018357432586391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523680,
+          "following_count": 4,
+          "like_count": 1245,
+          "listed_count": 25720,
+          "media_count": 460,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

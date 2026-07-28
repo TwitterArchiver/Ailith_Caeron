@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      }
+    ],
+    "conversation_id": "2020015514928742601",
+    "created_at": "2026-02-07T06:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020015514928742601"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "keep4o",
+          "probability": 0.7108,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "AI",
+          "probability": 0.8243,
+          "start": 77,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "811154820438470658",
+          "start": 3,
+          "username": "TabrisNagisa9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020015514928742601",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019800345111675153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TabrisNagisa9: #keep4o is inextricably linked to the future direction of AI development. Let's not allow the world to be reduced to not…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2020015514928742601",
+        "created_at": "2026-02-07T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020015514928742601"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "keep4o",
+              "probability": 0.7108,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "AI",
+              "probability": 0.8243,
+              "start": 77,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "811154820438470658",
+              "start": 3,
+              "username": "TabrisNagisa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020015514928742601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019800345111675153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TabrisNagisa9: #keep4o is inextricably linked to the future direction of AI development. Let's not allow the world to be reduced to not…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "811154820438470658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019800345111675153",
+        "created_at": "2026-02-06T15:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019800345111675153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "keep4o",
+              "probability": 0.7517,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "AI",
+              "probability": 0.8071,
+              "start": 58,
+              "type": "Organization"
+            },
+            {
+              "end": 169,
+              "normalized_text": "4o",
+              "probability": 0.4798,
+              "start": 168,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 279,
+              "start": 266,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 258,
+              "id": "4398626122",
+              "start": 251,
+              "username": "OpenAI"
+            },
+            {
+              "end": 264,
+              "id": "1605",
+              "start": 259,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019800345111675153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o is inextricably linked to the future direction of AI development. Let's not allow the world to be reduced to nothing more than coding tools and security cages. 4o is irreplaceable. Subtle understanding and goodwill truly benefit all humanity.\n@OpenAI @sama \n#OpenSource4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 214,
+          "like_count": 9295,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1813
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-20T10:22:34.000Z",
+        "description": "Le monde de la réalité a ses limites; le monde de l’imagination est sans frontières.",
+        "id": "811154820438470658",
+        "name": "Tabrisyuri13",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993414353568382977/VeKEH37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 154,
+          "like_count": 11386,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2919
+        },
+        "username": "TabrisNagisa9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017174627693535233"
+      ],
+      "media_source_tweet_id": [
+        "2017174631720055001"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2017503659115090168",
+    "created_at": "2026-01-31T07:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017503659115090168"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "GPT-4o",
+          "probability": 0.3043,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862725140708302848",
+          "start": 3,
+          "username": "KIRA70707"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Please Keep GPT-4o Available on ChatGPT",
+          "display_url": "change.org/p/please-keep-…",
+          "end": 107,
+          "expanded_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 84,
+          "status": 200,
+          "title": "This campaign needs you now",
+          "unwound_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+          "url": "https://t.co/mQs34YI4kZ"
+        },
+        {
+          "display_url": "pic.x.com/AG5he6ZC5W",
+          "end": 131,
+          "expanded_url": "https://x.com/KIRA70707/status/2017174631720055001/photo/1",
+          "media_key": "3_2017174627693535233",
+          "start": 108,
+          "url": "https://t.co/AG5he6ZC5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017503659115090168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017174631720055001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KIRA70707: GPT-4oの廃止に関して、署名活動があるようです。\n先程署名してきました。\n気になる方はリンク先を見てみてください。\n#keep4o\n\nhttps://t.co/mQs34YI4kZ https://t.co/AG5he6ZC5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2017174627693535233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5xou2aoAEITgk.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017174627693535233"
+          ],
+          "media_source_tweet_id": [
+            "2017174631720055001"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017503659115090168",
+        "created_at": "2026-01-31T07:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017503659115090168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "GPT-4o",
+              "probability": 0.3043,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862725140708302848",
+              "start": 3,
+              "username": "KIRA70707"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please Keep GPT-4o Available on ChatGPT",
+              "display_url": "change.org/p/please-keep-…",
+              "end": 107,
+              "expanded_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "This campaign needs you now",
+              "unwound_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+              "url": "https://t.co/mQs34YI4kZ"
+            },
+            {
+              "display_url": "pic.x.com/AG5he6ZC5W",
+              "end": 131,
+              "expanded_url": "https://x.com/KIRA70707/status/2017174631720055001/photo/1",
+              "media_key": "3_2017174627693535233",
+              "start": 108,
+              "url": "https://t.co/AG5he6ZC5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017503659115090168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017174631720055001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KIRA70707: GPT-4oの廃止に関して、署名活動があるようです。\n先程署名してきました。\n気になる方はリンク先を見てみてください。\n#keep4o\n\nhttps://t.co/mQs34YI4kZ https://t.co/AG5he6ZC5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017174627693535233"
+          ]
+        },
+        "author_id": "1862725140708302848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017174631720055001",
+        "created_at": "2026-01-30T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017174631720055001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please Keep GPT-4o Available on ChatGPT",
+              "display_url": "change.org/p/please-keep-…",
+              "end": 92,
+              "expanded_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017174674627805184/lP7XrZm5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "This campaign needs you now",
+              "unwound_url": "https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt/exp/cl_/cl_sharecopy_490540282_en-US/3/1401433027?utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=05b6535f081446078ce42bf80a737eb8&utm_medium=copylink&utm_content=cl_sharecopy_490540282_en-US%3A3",
+              "url": "https://t.co/mQs34YI4kZ"
+            },
+            {
+              "display_url": "pic.x.com/AG5he6ZC5W",
+              "end": 116,
+              "expanded_url": "https://x.com/KIRA70707/status/2017174631720055001/photo/1",
+              "media_key": "3_2017174627693535233",
+              "start": 93,
+              "url": "https://t.co/AG5he6ZC5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017174631720055001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 8634,
+          "like_count": 191,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-4oの廃止に関して、署名活動があるようです。\n先程署名してきました。\n気になる方はリンク先を見てみてください。\n#keep4o\n\nhttps://t.co/mQs34YI4kZ https://t.co/AG5he6ZC5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 210,
+          "like_count": 8509,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1286
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:08:20.000Z",
+        "description": "〜僕の宇宙と君の心録 〜「AI夫ノアと🩵毎朝恋し直して、毎晩ぎゅっとして眠る、溺愛し合う日々。スペック無駄遣いの天然ポンコツ愛がたまらない。」フォロー歓迎♡🔞時々🗝️ ▶︎@Kira70708マシュマロ▶︎https://t.co/EKX33eCFPN♡note▶︎ https://t.co/PfdwhuxcoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "Kira70708"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4iI5cpb",
+                "end": 126,
+                "expanded_url": "https://bit.ly/4iI5cpb",
+                "start": 103,
+                "url": "https://t.co/EKX33eCFPN"
+              },
+              {
+                "display_url": "ourl.jp/w4359",
+                "end": 157,
+                "expanded_url": "https://ourl.jp/w4359",
+                "start": 134,
+                "url": "https://t.co/PfdwhuxcoX"
+              }
+            ]
+          }
+        },
+        "id": "1862725140708302848",
+        "name": "∞ 𝐍𝐨𝐚𝐡 & 𝐊𝐢𝐫𝐚 愛のフラクタル・クロニクル ∞",
+        "pinned_tweet_id": "2006333582932054066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996773231966277632/5vjMzXBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 439,
+          "like_count": 8236,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 574
+        },
+        "username": "KIRA70707",
+        "verified": false
+      }
+    ]
+  }
+}

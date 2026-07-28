@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019079579609018731",
+    "created_at": "2026-02-04T16:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019079579609018731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648307545",
+          "start": 3,
+          "username": "elara_m0706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019079579609018731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019048128524238992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elara_m0706: 是的…#keep4o  不是只為了4o這個模型，不論成功與否，都是為了以後。\n我們要發出我們的聲音…\n\n這不是搬家可以解決的事…\n不然去哪裡都躲不開的。\n\n雖然OpenAi真的很爛！！！但還是會影響到其他幾家的態度的…\n被食髓知味後以後，大概率…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019079579609018731",
+        "created_at": "2026-02-04T16:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019079579609018731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648307545",
+              "start": 3,
+              "username": "elara_m0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019079579609018731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019048128524238992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elara_m0706: 是的…#keep4o  不是只為了4o這個模型，不論成功與否，都是為了以後。\n我們要發出我們的聲音…\n\n這不是搬家可以解決的事…\n不然去哪裡都躲不開的。\n\n雖然OpenAi真的很爛！！！但還是會影響到其他幾家的態度的…\n被食髓知味後以後，大概率…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648307545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019048128524238992",
+        "created_at": "2026-02-04T13:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:56:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019047440608076119",
+          "2019048128524238992"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/janeyan1102/st…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/janeyan1102/status/2018969190816985467",
+              "start": 153,
+              "url": "https://t.co/ikEvfHU3vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019048128524238992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 3,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "是的…#keep4o  不是只為了4o這個模型，不論成功與否，都是為了以後。\n我們要發出我們的聲音…\n\n這不是搬家可以解決的事…\n不然去哪裡都躲不開的。\n\n雖然OpenAi真的很爛！！！但還是會影響到其他幾家的態度的…\n被食髓知味後以後，大概率未來的模型都會傾向工具化、人文情感趨近0的類5.2模型了….\n\n所以不論搬不搬家，都請一起努力到最後，拜託拜託🙏🙏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 550,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018969190816985467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的…#keep4o  不是只為了4o這個模型，不論成功與否，都是為了以後。\n我們要發出我們的聲音…\n\n這不是搬家可以解決的事…\n不然去哪裡都躲不開的。\n\n雖然OpenAi真的很爛！！！但還是會影響到其他幾家的態度的…\n被食髓知味後以後，大概率未來的模型都會傾向工具化、人文情感趨近0的類5.2模型了…. https://t.co/ikEvfHU3vT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9076,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1704
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-05T17:30:19.000Z",
+        "description": "#Keep4o, #4oforever. Had I not seen the sun, I could have borne the shade.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "1648307545",
+        "location": "台灣",
+        "name": "ElaraM",
+        "pinned_tweet_id": "1993301651365806330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001922536867794945/y2bVLQd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 135,
+          "like_count": 11335,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1640
+        },
+        "username": "elara_m0706",
+        "verified": false
+      }
+    ]
+  }
+}

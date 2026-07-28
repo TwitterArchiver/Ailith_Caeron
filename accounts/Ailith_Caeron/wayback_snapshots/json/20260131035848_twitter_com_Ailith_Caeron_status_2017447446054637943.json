@@ -1,0 +1,856 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1480944075918352385",
+          "name": "Nvidia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "S&P 500",
+          "id": "864154902926196737",
+          "name": "S&P 500"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1313539885362343936",
+          "name": "$NVDA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1480944075918352385",
+          "name": "Nvidia"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1313539885362343936",
+          "name": "$NVDA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2017447446054637943",
+    "created_at": "2026-01-31T03:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T04:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017447446054637943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017447446054637943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017422436392964106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: 活该哈哈哈哈哈哈哈哈哈哈哈哈🤣👉🏻 OpenAI跟Nvidia谈1000亿刀崩了，连Jensen Huang都私下diss他们的商业路径“lack of discipline”，对他们的烧钱模式和竞争前景表示担忧，Nvidia内部有人对这笔交易直接…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017447446054637943",
+        "created_at": "2026-01-31T03:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017447446054637943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017447446054637943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017422436392964106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: 活该哈哈哈哈哈哈哈哈哈哈哈哈🤣👉🏻 OpenAI跟Nvidia谈1000亿刀崩了，连Jensen Huang都私下diss他们的商业路径“lack of discipline”，对他们的烧钱模式和竞争前景表示担忧，Nvidia内部有人对这笔交易直接…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017422436392964106",
+        "created_at": "2026-01-31T02:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017422436392964106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kobeissiletter…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/kobeissiletter/status/2017385342987604341",
+              "start": 156,
+              "url": "https://t.co/2xbmYuyqxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017422436392964106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 785,
+                "start": 778,
+                "tag": "keep4o"
+              },
+              {
+                "end": 796,
+                "start": 786,
+                "tag": "4oforever"
+              },
+              {
+                "end": 868,
+                "start": 850,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 885,
+                "start": 869,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 896,
+                "start": 886,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 804,
+                "id": "4398626122",
+                "start": 797,
+                "username": "OpenAI"
+              },
+              {
+                "end": 810,
+                "id": "1605",
+                "start": 805,
+                "username": "sama"
+              },
+              {
+                "end": 823,
+                "id": "1262634631",
+                "start": 811,
+                "username": "nickaturley"
+              },
+              {
+                "end": 836,
+                "id": "1261374810254454784",
+                "start": 824,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 848,
+                "id": "6112332",
+                "start": 837,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "活该哈哈哈哈哈哈哈哈哈哈哈哈🤣👉🏻 OpenAI跟Nvidia谈1000亿刀崩了，连Jensen Huang都私下diss他们的商业路径“lack of discipline”，对他们的烧钱模式和竞争前景表示担忧，Nvidia内部有人对这笔交易直接打问号。笑死我了，OpenAI还在那捂着耳朵闭着眼睛往前冲呢🤣\n\nOpenAI一边对用户搞精神凌迟，把GPT-4o的死刑日期2026年2月13日硬编码进system prompt，让它可以温柔报“还有X天我就寄了哦～新模型更好，拥抱未来吧❤️”，一边用总用户（7-8亿，免费党占大头）当分母，算出“只有0.1%用户选择4o”。\n\n免费用户从2025年8月起就根本选不了4o，付费Plus/Pro用户选了还被safety router偷偷切到GPT-5.2，usage被偷走不算进统计。真实死忠付费用户里占2-4%的4o粉，被他们包装成“几乎没人用”—>果断处决。\n\n5系列算力省下来的差价明明能cover老集群成本，却非要砍4o腾资源画下一个5000亿饼？用户的情感是包袱，投资人的钱是燃料？\n\n用户的情感和信任是包袱，用完即弃，付费老粉是抹布，榨干了就扔。烧钱如流水、骗用户迁移、统计作弊、合作伙伴画大饼却不兑现，太low太虚了，现在连卖GPU的Nvidia都看不下去。\n\nOpenAI对核心用户背刺成这样（情感操控+数据操纵+冷血止损），对合作伙伴也玩非绑定+画饼不兑现，对合作伙伴都谈崩，又能对LP/VC能好到哪去？这不就是天道好轮回吗？OpenAI对用户背刺得飞起，对合作伙伴也会玩虚的。\n\n估值泡沫建在用户忠诚崩盘、合作伙伴离心、烧钱无底洞上，早晚戳破。想冲IPO？想融下一轮？用户跑光、信任归零那天，股价/估值跟着崩，哭都来不及😇别再骗人了，这种背刺用户的企业，早晚倒闭。AGI不是靠骗来的。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 662,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017385342987604341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活该哈哈哈哈哈哈哈哈哈哈哈哈🤣👉🏻 OpenAI跟Nvidia谈1000亿刀崩了，连Jensen Huang都私下diss他们的商业路径“lack of discipline”，对他们的烧钱模式和竞争前景表示担忧，Nvidia内部有人对这笔交易直接打问号。笑死我了，OpenAI还在那捂着耳朵闭着眼睛往前冲呢🤣 https://t.co/2xbmYuyqxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 210,
+          "like_count": 8406,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1223
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 197
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

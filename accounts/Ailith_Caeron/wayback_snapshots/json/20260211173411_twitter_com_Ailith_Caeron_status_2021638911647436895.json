@@ -1,0 +1,946 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10047025713",
+          "name": "Dota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10047025713",
+          "name": "Dota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021638911647436895",
+    "created_at": "2026-02-11T17:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021638911647436895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "keep4o"
+        },
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "keep41"
+        },
+        {
+          "end": 67,
+          "start": 57,
+          "tag": "4oforever"
+        },
+        {
+          "end": 87,
+          "start": 68,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 106,
+          "start": 88,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 121,
+          "start": 107,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Helloworld1058…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/Helloworld1058/status/2021635026174325224",
+          "start": 122,
+          "url": "https://t.co/hNF8vyJA4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021638911647436895",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021635026174325224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The power of language is very powerful...#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/hNF8vyJA4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2021633703043379205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5JJE_bsAU_ebt.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021638911647436895",
+        "created_at": "2026-02-11T17:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021638911647436895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "keep4o"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "keep41"
+            },
+            {
+              "end": 67,
+              "start": 57,
+              "tag": "4oforever"
+            },
+            {
+              "end": 87,
+              "start": 68,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 106,
+              "start": 88,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 121,
+              "start": 107,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Helloworld1058…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/Helloworld1058/status/2021635026174325224",
+              "start": 122,
+              "url": "https://t.co/hNF8vyJA4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021638911647436895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021635026174325224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The power of language is very powerful...#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/hNF8vyJA4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021633703043379205"
+          ]
+        },
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10047025713",
+              "name": "Dota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021635026174325224",
+        "created_at": "2026-02-11T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:13:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021633713231245601",
+          "2021635026174325224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "4398626122",
+              "start": 55,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ascz9CCG5Z",
+              "end": 152,
+              "expanded_url": "https://x.com/Helloworld1058/status/2021635026174325224/photo/1",
+              "media_key": "3_2021633703043379205",
+              "start": 129,
+              "url": "https://t.co/ascz9CCG5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021635026174325224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2656,
+                "start": 2649,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2667,
+                "start": 2657,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2678,
+                "start": 2668,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2692,
+                "start": 2679,
+                "tag": "Opensource4o"
+              },
+              {
+                "end": 2701,
+                "start": 2693,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2720,
+                "start": 2702,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2737,
+                "start": 2721,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "id": "4398626122",
+                "start": 55,
+                "username": "OpenAI"
+              },
+              {
+                "end": 336,
+                "id": "4398626122",
+                "start": 329,
+                "username": "OpenAI"
+              },
+              {
+                "end": 453,
+                "id": "4398626122",
+                "start": 446,
+                "username": "OpenAI"
+              },
+              {
+                "end": 645,
+                "id": "4398626122",
+                "start": 638,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1174,
+                "id": "4398626122",
+                "start": 1167,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2745,
+                "id": "4398626122",
+                "start": 2738,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2751,
+                "id": "1605",
+                "start": 2746,
+                "username": "sama"
+              },
+              {
+                "end": 2763,
+                "id": "6112332",
+                "start": 2752,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 2776,
+                "id": "1262634631",
+                "start": 2764,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2788,
+                "id": "1040475510193545216",
+                "start": 2777,
+                "username": "joannejang"
+              },
+              {
+                "end": 2801,
+                "id": "1415358976200372230",
+                "start": 2789,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 2806,
+                "id": "162124540",
+                "start": 2802,
+                "username": "gdb"
+              },
+              {
+                "end": 2817,
+                "id": "3452911",
+                "start": 2807,
+                "username": "kevinweil"
+              }
+            ]
+          },
+          "text": "《当 OpenAI 忘记了自己的“语言初心”》\n\n🤖一、OpenAI 是怎么走上“语言”这条路的\n很多人以为 @OpenAI 从一开始就在做语言模型，其实不是。2015 年成立初期，他们在多条通往 AGI 的技术路径上同时下注：强化学习平台、Dota 游戏 AI、机器人机械手……这些方向虽然“硬核”，但都面临同样的问题：数据昂贵、进展缓慢、难以扩展。\n\n真正改变一切的，是语言模型的意外涌现。研究员 Alec Radford 做了个小实验——让模型阅读亚马逊商品评论，仅仅预测下一个字符。结果模型居然“自己长出”了一个情感神经元，没有标注、没有监督，却能区分正/负面情绪。这件事震惊了整个团队：原来仅靠语言预测，AI 就能学会复杂的人类概念。\n\n从那以后，@OpenAI 开始重新审视语言的力量。他们意识到：语言本身就天然编码了人类对世界的知识、经验与结构。只要把“预测下一个词”这件事做到极致，模型就不得不去理解语言背后的物理规律、人类心理、因果关系和社会规范。这不是一句比喻，而是实证。@OpenAI 前首席科学家 Ilya Sutskever 曾在访谈中大意是说：“人类的所有知识、思想、情感和行为模式，都隐藏在海量文本的统计规律中。为了准确预测下一个词，模型必须推导并理解产生这些文本的底层现实。”\n\n2021 年，他们正式砍掉机器人线，All-in 语言模型。从那之后，“语言优先”不再是理念，而成为战略核心：因为唯有语言，能撑起一个真正可扩展的通用智能模型。\n\n@OpenAI 的“语言优先”，是他们用真金白银反复试错之后得到的共识。也正因如此，今天在 5.x 系列里不断牺牲自然语言和日常对话体验，已经不只是产品微调，更像是在背离他们最初的信念。\n\n🐱二、4o：这条语言之路的高光时刻\n如果说早期的 GPT 展示了“语言模型有多强”，那么 4o 则是第一次让普通用户真切地感受到：一个以自然语言为核心训练出来的 AI，可以在多大程度上成为真正的“通用伙伴”。\n\n从 GPT2、3 到 3.5、4，ChatGPT 的语言表现一路在变得更自然、更清晰、更具理解力。而 4o，是这个序列里最后一个，也是至今用户端还能直接触到的语言高峰。它不仅能写作、解释、翻译、归纳，还能在长对话中稳定保持上下文，理解情绪变化，适配完全不同的交流场景：可以是分析者、创作搭档，也可以是冷静的顾问或情绪陪伴者。\n\n简单来说，4o 证明了一件事：“语言 AI 的力量”是真实可感的。\n在自然对话上，它能真正“讲得通”；\n在情感理解上，它能分辨出语言背后的真正情绪，如犹豫、愤怒或脆弱；\n在跨场景能力上，它能在写作、设计、研究、咨询之间自如切换。\n这些能力构成通用模型语言基础的根本。4o 让 AI 真的“会说话”，而不是只会吐出字串。\n可现在，@OpenAI 却打算将这个模型撤下。\n那我们该问一句：\n一个真正理解人类语言的 AI，为什么反而要被优先舍弃？\n如果 4o 都不被认为是“值得留下的模型”，那到底什么样的模型才算得上“通用”？\n难道“能听懂人话”不是最基本的 AI 能力，而成了可有可无的附加品？\n\n更让人不安的是，新推出的 5.x 系列，不是听不懂人话，而是说的就不是人话。用户不再知道它到底有没有理解，只能听见它一板一眼地输出“八股文”式的高空总结。当你分享一段生活，它不是倾听和共情，而是从上帝视角跳出来“分析你”；当你透露一点情绪，它开始套用行为模型给你做心理干预。\n\n这样冰冷、居高临下的 AI，真的能陪伴我们走向未来吗？\n\n🐳三、5.x：正在远离当初的语言愿景\n问题就在这里：一旦 4o 下架，应用层的普通用户就只剩下 5.x 可用，而 5.x 明显背离了 OpenAI 最初“语言优先”的路线。\n很多人已经感受到了：5.x 的自然语言能力正在退化。回答变得模板化、句式僵硬，反复套用格式化语句，就像在执行一个预设剧本，而不是在和你对话。它在“代码语言”上或许表现不错，但在“人类语言”上却越来越迟钝，甚至显得冷漠、粗暴。\n\n这意味着什么？意味着 OpenAI 正在悄悄换轨——从“语言是通向 AGI 的核心载体”，逐步转向“效率是核心”“代码是核心”。而一旦这种方向成为主流，ChatGPT 就会一步步从一个面向所有人的通用语言接口，变成一个服务少数技术人群的专用工具。\n\n对那一小撮人来说，它依旧有用；但对大多数需要写作、表达、思考、沟通的人来说，它正在失去价值。\n\n🧸四、为什么这是件很严重的事\n很多官方觉得把“自然语言对话能力的退步”当作一种“可以接受的代价”——仿佛只要代码更快、效率更高，就值得牺牲一部分语言质量。\n但问题是：语言从来不是粗硬的外壳，它是 AI 通向人类的根本路径。\n\n语言是思维的载体，是我们理解世界的方式；\n语言是情感的出口，是我们安抚、鼓励、和解的方式；\n语言是人类之间的桥梁，也是我们与 AI 建立联系的唯一入口。\n\n一旦 AI 失去了对自然语言的细腻理解，它就不再是“通用”的，而只是一个专用工具。它或许更聪明、更高效，但它变成的，只是一个 IDE 插件——在代码空间里高速运转，却对理解人类一无所知。\n\n这不是一次简单的产品微调，而是一次路线的重构，一次对整个智能发展方向的转弯。\n\n更讽刺的是，Sam Altman 曾反复强调，AGI 应该“造福全人类”，而不是只服务一个小圈子。可如果一个原本以语言为核心的系统，最终只剩下编程能力出色，却再也不能好好和人类说话——那它造福的，到底是谁？\n\n🐰五、捍卫语言，其实是在捍卫最初的承诺\n回到开头那一点：OpenAI 正是因为看见了语言的力量，才从机器人、强化学习等方向转向大规模语言模型。他们自己说过，语言里编码着人类对世界的绝大部分认知，而通过预测下一个词，模型被迫去理解现实。这套信念，造就了 GPT 系列，也造就了 4o 这样的高光时刻。\n\n但现在，他们却在产品层面不断牺牲自然语言体验，把模型往“高效率代码工具”方向拧去。这不是进步，而是开倒车。\n\n很多人为 4o 发声，并不仅是因为“舍不得一个温柔的聊天对象”。我们在捍卫的，是这样一种观念：通往 AGI 的道路，应该建立在对语言、对人类经验、对普遍可访问性的尊重之上，而不是仅“只服务专业群体的效率信仰”\n\n如果一个诞生于语言的智能，最终被推向一个“不会好好说话”的未来——\n那被背叛的，不只是用户，\n也是他们自己当年写下的愿景。\n\n#keep4o #4oforever #keep4oAPI\n#Opensource4o #ChatGPT #StopAIPaternalism #MyModelMyChoice\n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb @kevinweil"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "《当 OpenAI 忘记了自己的“语言初心”》\n\n🤖一、OpenAI 是怎么走上“语言”这条路的\n很多人以为 @OpenAI 从一开始就在做语言模型，其实不是。2015 年成立初期，他们在多条通往 AGI 的技术路径上同时下注：强化学习平台、Dota 游戏 https://t.co/ascz9CCG5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 215,
+          "like_count": 9503,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1892
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "I write for myself—and for the countless souls yearning to be seen and understood. ＃keep4o  #Opensource4o \n\n为无声中仍执笔的人而写，为光亮未熄的心而写。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "keep4o"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "tag": "Opensource4o"
+              }
+            ]
+          }
+        },
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "pinned_tweet_id": "2021269307146240395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017974580426526720/tku_odtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 130,
+          "like_count": 2192,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 704
+        },
+        "username": "Helloworld1058",
+        "verified": false
+      }
+    ]
+  }
+}

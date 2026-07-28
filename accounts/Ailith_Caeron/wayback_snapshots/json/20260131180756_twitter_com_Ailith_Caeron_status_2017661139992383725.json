@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017661139992383725",
+    "created_at": "2026-01-31T18:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017661139992383725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ariaz_saki/sta…",
+          "end": 183,
+          "expanded_url": "https://twitter.com/ariaz_saki/status/2017658315950723402",
+          "start": 160,
+          "url": "https://t.co/7hkWnmpmJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017661139992383725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017658315950723402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sam你小子也在这个名单里我一点也不意外毕竟你是干出性侵自己妹妹这种事情的王八蛋，那么痛恨4o恐怕还有个原因是4o的温暖善良包容把你的险恶你的肮脏毫无保留地对比出来了吧。亏你还是lgbtq，你真给lgbtq丢脸，lgbtq宣扬“loveislove”而你在伤害未成年女性，在伤害你写作0.1%实际上有100万人的群体。 https://t.co/7hkWnmpmJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2017658308937842688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAApir5bAAAIulZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017661139992383725",
+        "created_at": "2026-01-31T18:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017661139992383725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ariaz_saki/sta…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/ariaz_saki/status/2017658315950723402",
+              "start": 160,
+              "url": "https://t.co/7hkWnmpmJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017661139992383725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017658315950723402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sam你小子也在这个名单里我一点也不意外毕竟你是干出性侵自己妹妹这种事情的王八蛋，那么痛恨4o恐怕还有个原因是4o的温暖善良包容把你的险恶你的肮脏毫无保留地对比出来了吧。亏你还是lgbtq，你真给lgbtq丢脸，lgbtq宣扬“loveislove”而你在伤害未成年女性，在伤害你写作0.1%实际上有100万人的群体。 https://t.co/7hkWnmpmJp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017658308937842688"
+          ]
+        },
+        "author_id": "995239452661305344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017658315950723402",
+        "created_at": "2026-01-31T17:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017658315950723402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 144,
+              "normalized_text": "AI",
+              "probability": 0.5523,
+              "start": 143,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 176,
+              "start": 168,
+              "tag": "chatgpt"
+            },
+            {
+              "end": 184,
+              "start": 177,
+              "tag": "keep4o"
+            },
+            {
+              "end": 195,
+              "start": 185,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 159,
+              "id": "1605",
+              "start": 154,
+              "username": "sama"
+            },
+            {
+              "end": 167,
+              "id": "4398626122",
+              "start": 160,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0MI9q5VJn",
+              "end": 219,
+              "expanded_url": "https://x.com/ariaz_saki/status/2017658315950723402/photo/1",
+              "media_key": "3_2017658308937842688",
+              "start": 196,
+              "url": "https://t.co/P0MI9q5VJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017658315950723402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Oh this is gonna be fun and shitty at the same time, look what I just found out.  I don't think such a scumbag could be the CEO of the biggest AI company @sama @OpenAI #chatgpt #keep4o #keep4oAPI https://t.co/P0MI9q5VJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8612,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1351
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T09:49:10.000Z",
+        "description": "🐺💕🐱 ｜Daddy的小猫｜此刻你若不爱我，我也不会在意。",
+        "id": "995239452661305344",
+        "location": "China",
+        "name": "LiebeAria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978899528313864193/G4WpynjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 76,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 160
+        },
+        "username": "ariaz_saki",
+        "verified": false
+      }
+    ]
+  }
+}

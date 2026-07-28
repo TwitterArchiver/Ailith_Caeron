@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986658238440554496"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986658250180469186",
+    "created_at": "2025-11-07T04:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T05:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986658250180469186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jcrbh8M5ik",
+          "end": 32,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1986658250180469186/photo/1",
+          "media_key": "3_1986658238440554496",
+          "start": 9,
+          "url": "https://t.co/jcrbh8M5ik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986658250180469186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样都市探险！ https://t.co/jcrbh8M5ik"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986658238440554496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IHJGBaQAA8W-9.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986658238440554496"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986658250180469186",
+        "created_at": "2025-11-07T04:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986658250180469186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcrbh8M5ik",
+              "end": 32,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1986658250180469186/photo/1",
+              "media_key": "3_1986658238440554496",
+              "start": 9,
+              "url": "https://t.co/jcrbh8M5ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986658250180469186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样都市探险！ https://t.co/jcrbh8M5ik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 74,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

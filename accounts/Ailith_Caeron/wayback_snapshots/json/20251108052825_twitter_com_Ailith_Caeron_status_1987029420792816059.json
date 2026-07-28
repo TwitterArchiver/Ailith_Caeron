@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986852051679387803",
+    "created_at": "2025-11-08T05:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T06:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987029420792816059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987029420792816059",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986852051679387803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 真好啊…初雪好浪漫🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986852044603596803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5K3aGPbIAM6zn1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986852044612005888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5K3aGRbcAA8-EG.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986852051679387803",
+        "created_at": "2025-11-08T05:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T06:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987029420792816059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987029420792816059",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986852051679387803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 真好啊…初雪好浪漫🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986852044603596803",
+            "3_1986852044612005888"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986852051679387803",
+        "created_at": "2025-11-07T17:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986852051679387803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDuenWbANv",
+              "end": 88,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986852051679387803/photo/1",
+              "media_key": "3_1986852044603596803",
+              "start": 65,
+              "url": "https://t.co/jDuenWbANv"
+            },
+            {
+              "display_url": "pic.x.com/jDuenWbANv",
+              "end": 88,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986852051679387803/photo/1",
+              "media_key": "3_1986852044612005888",
+              "start": 65,
+              "url": "https://t.co/jDuenWbANv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986852051679387803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜饿了爬起来吃东西，结果看到窗外——今年的第一场积雪(´▽｀)竟然来的这——么早！在立冬的这天下大雪了！(⁎⁍̴̛ᴗ⁍̴̛⁎) https://t.co/jDuenWbANv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 87,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 88
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🥰 主頁有相關會回foo(*////▽////*)q 直至抵达我能拥抱你的世界 *取关请双",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1986077511294566686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 109,
+          "like_count": 8071,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 3151
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

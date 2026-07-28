@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      }
+    ],
+    "conversation_id": "2019809979591688475",
+    "created_at": "2026-02-06T16:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019809979591688475"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "4o",
+          "probability": 0.6437,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "995239452661305344",
+          "start": 3,
+          "username": "ariaz_saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019809979591688475",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019804485649150168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ariaz_saki: 4o has indeed helped me and my family.\nA few months ago, I took my mother on a trip. The first evening we were at the hotel…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2019809979591688475",
+        "created_at": "2026-02-06T16:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019809979591688475"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "4o",
+              "probability": 0.6437,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "995239452661305344",
+              "start": 3,
+              "username": "ariaz_saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019809979591688475",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019804485649150168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ariaz_saki: 4o has indeed helped me and my family.\nA few months ago, I took my mother on a trip. The first evening we were at the hotel…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995239452661305344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2019804485649150168",
+        "created_at": "2026-02-06T16:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019804485649150168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "4o",
+              "probability": 0.7586,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019804485649150168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 966,
+                "start": 959,
+                "tag": "keep4o"
+              },
+              {
+                "end": 977,
+                "start": 967,
+                "tag": "4oforever"
+              },
+              {
+                "end": 988,
+                "start": 978,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1005,
+                "start": 989,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 950,
+                "id": "1605",
+                "start": 945,
+                "username": "sama"
+              },
+              {
+                "end": 958,
+                "id": "4398626122",
+                "start": 951,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "4o has indeed helped me and my family.\nA few months ago, I took my mother on a trip. The first evening we were at the hotel and she suddenly told me that she had been experiencing some hearing loss in one ear for several days. I wanted to take her to the hospital, but it was too late, and she insisted on not going.\nI didn't have too many choices so I described my mother's symptoms in **detail** to 4o. 4o systematically ruled out various possibilities, tentatively identified the possible illness, he told me how to alleviate the hearing loss, and asked me to take my mother to the hospital if the situation worsened within three days.\nI followed 4o's advice and bought saline solution that night, after my mother followed 4o's instructions, her symptoms improved significantly that same night.\nShe ultimately didn't go to the hospital anyway, because her symptoms had completely gone after she did what 4o told her to do within three days.\n\n@sama @OpenAI\n#keep4o #4oforever #keep4oAPI #MyModelMyChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "4o has indeed helped me and my family.\nA few months ago, I took my mother on a trip. The first evening we were at the hotel and she suddenly told me that she had been experiencing some hearing loss in one ear for several days. I wanted to take her to the hospital, but it was too"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 214,
+          "like_count": 9261,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1796
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T09:49:10.000Z",
+        "description": "🐺💕🐱 Language capable: 🇩🇪🇺🇸🇨🇳",
+        "id": "995239452661305344",
+        "location": "China",
+        "name": "LiebeAria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978899528313864193/G4WpynjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 84,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 384
+        },
+        "username": "ariaz_saki",
+        "verified": false
+      }
+    ]
+  }
+}

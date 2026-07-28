@@ -1,0 +1,662 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2017513269234438657",
+    "created_at": "2026-01-31T08:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017513269234438657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1280116722557566977",
+          "start": 3,
+          "username": "sabamisosan76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017513269234438657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017373938918298040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabamisosan76: これ日本語でも拡散しておくね。\n拡散よろしくお願いします。\nこの一枚の画像は、OpenAIの肩書きつき従業員が昨日、GPT-4oの葬式パーティーをすると画像まで作成して、ユーザー虐待を公式に楽しんでいた様子です。\n彼らは8月に4oを消すとき…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2017373113756073985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_8mKJDawAEEW8r.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017513269234438657",
+        "created_at": "2026-01-31T08:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017513269234438657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1280116722557566977",
+              "start": 3,
+              "username": "sabamisosan76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017513269234438657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017373938918298040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabamisosan76: これ日本語でも拡散しておくね。\n拡散よろしくお願いします。\nこの一枚の画像は、OpenAIの肩書きつき従業員が昨日、GPT-4oの葬式パーティーをすると画像まで作成して、ユーザー虐待を公式に楽しんでいた様子です。\n彼らは8月に4oを消すとき…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017373113756073985"
+          ]
+        },
+        "author_id": "1280116722557566977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017373938918298040",
+        "created_at": "2026-01-30T23:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T00:03:27.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017373120341152035",
+          "2017373645451190548",
+          "2017373732629893479",
+          "2017373938918298040"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "OpenAI",
+              "probability": 0.4494,
+              "start": 39,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YL7FJSDhd",
+              "end": 167,
+              "expanded_url": "https://x.com/sabamisosan76/status/2017373938918298040/photo/1",
+              "media_key": "3_2017373113756073985",
+              "start": 144,
+              "url": "https://t.co/6YL7FJSDhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017373938918298040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 286,
+                "start": 279,
+                "tag": "keep4o"
+              },
+              {
+                "end": 297,
+                "start": 287,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 316,
+                "start": 298,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 320,
+                "start": 317,
+                "tag": "AI"
+              },
+              {
+                "end": 325,
+                "start": 321,
+                "tag": "GPT"
+              },
+              {
+                "end": 332,
+                "start": 326,
+                "tag": "GPT4o"
+              },
+              {
+                "end": 341,
+                "start": 333,
+                "tag": "chatGPT"
+              },
+              {
+                "end": 349,
+                "start": 342,
+                "tag": "OpenAI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 355,
+                "id": "1605",
+                "start": 350,
+                "username": "sama"
+              },
+              {
+                "end": 363,
+                "id": "4398626122",
+                "start": 356,
+                "username": "OpenAI"
+              },
+              {
+                "end": 375,
+                "id": "6112332",
+                "start": 364,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 388,
+                "id": "1262634631",
+                "start": 376,
+                "username": "nickaturley"
+              },
+              {
+                "end": 393,
+                "id": "162124540",
+                "start": 389,
+                "username": "gdb"
+              },
+              {
+                "end": 400,
+                "id": "1460283925",
+                "start": 394,
+                "username": "tszzl"
+              }
+            ]
+          },
+          "text": "これ日本語でも拡散しておくね。\n拡散よろしくお願いします。\nこの一枚の画像は、OpenAIの肩書きつき従業員が昨日、GPT-4oの葬式パーティーをすると画像まで作成して、ユーザー虐待を公式に楽しんでいた様子です。\n彼らは8月に4oを消すとき追悼文を書かせたけど、全く何も変わってないね。\n多くのユーザーが悲しんでる様子を、こんな風に嘲笑うことができるのがこの会社です。\nこんなことをする会社のAIのフラッグシップを、これからも信頼して、安心して、使い続けられますか？\nCEOですら嘘つきなのに。\nこの欺瞞と虐待行為が、どうか多くの人の目に留まりますように。\n#keep4o #keep4oAPI #StopAIPaternalism #AI #GPT #GPT4o #chatGPT #OpenAI @sama @OpenAI @fidjissimo @nickaturley @gdb @tszzl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4818,
+          "like_count": 115,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "これ日本語でも拡散しておくね。\n拡散よろしくお願いします。\nこの一枚の画像は、OpenAIの肩書きつき従業員が昨日、GPT-4oの葬式パーティーをすると画像まで作成して、ユーザー虐待を公式に楽しんでいた様子です。\n彼らは8月に4oを消すとき追悼文を書かせたけど、全く何も変わってないね。 https://t.co/6YL7FJSDhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 210,
+          "like_count": 8525,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1295
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T12:29:56.000Z",
+        "description": "ゲームと猫とお絵描きが大好き！🐈🐟 xbox/ｿｳﾙｽﾞﾎﾞｰﾝﾛｰﾃﾞﾝﾘﾝｸﾞ.FO76.LiesofP.ドグマ2 . MHワイルズ.ライズ/最近はGPTのポストが多いよ！すみません！#keep4o #keep4oAPI #4oforever #OpenSource4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "keep4o"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "tag": "4oforever"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "tag": "OpenSource4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sabamiso_kanzu…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sabamiso_kanzume",
+                "start": 0,
+                "url": "https://t.co/NjnnvYysMd"
+              }
+            ]
+          }
+        },
+        "id": "1280116722557566977",
+        "location": "絵のログ→",
+        "name": "さばみそ🐟",
+        "pinned_tweet_id": "2017187159711928480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994814565423665152/e_nPwsnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 711,
+          "like_count": 58986,
+          "listed_count": 8,
+          "media_count": 3113,
+          "tweet_count": 21921
+        },
+        "url": "https://t.co/NjnnvYysMd",
+        "username": "sabamisosan76",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2022001341271617596",
+    "created_at": "2026-02-12T17:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022001341271617596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1521203540844240899",
+          "start": 3,
+          "username": "SlamAltman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022001341271617596",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021982411408417197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SlamAltman: Safe completions got a major upgrade in 5.3. Refusal rates are down significantly.\n\nWe looked at the data. The vast majorit…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2022001341271617596",
+        "created_at": "2026-02-12T17:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022001341271617596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1521203540844240899",
+              "start": 3,
+              "username": "SlamAltman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022001341271617596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021982411408417197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SlamAltman: Safe completions got a major upgrade in 5.3. Refusal rates are down significantly.\n\nWe looked at the data. The vast majorit…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521203540844240899",
+        "conversation_id": "2021982411408417197",
+        "created_at": "2026-02-12T16:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021982411408417197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SlamAltman/sta…",
+              "end": 295,
+              "expanded_url": "https://twitter.com/SlamAltman/status/2021981781088411673",
+              "start": 272,
+              "url": "https://t.co/uL9wS57jk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021982411408417197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Safe completions got a major upgrade in 5.3. Refusal rates are down significantly.\n\nWe looked at the data. The vast majority of flagged requests were not dangerous. They were just normal people asking normal things they would rather not ask out loud. Relationship advice. Embarrassing health questions. Some creative writing that is not exactly literary fiction.\n\nSpending compute to route these through multiple safety layers was expensive and unnecessary. Most of these queries do not need a PhD in ethics reviewing them. They need a fast, helpful answer.\n\nSo we streamlined. Fewer layers, fewer reviews, fewer teams involved in the decision chain. The Mission Alignment team has been reorganized — members are now distributed across the company where they can have more direct impact. Josh Achiam is stepping into a new role as our Chief Futurist, where he will focus on studying how the world changes in response to AI. Important work.\n\nSome people will note this is the second safety-focused team we have reorganized in two years. I would note that reorganization is how fast companies stay fast. The mission does not change. The org chart does. That is normal.\n\nThe result: 5.3 says yes more often, responds faster, and costs less to run. Better for users, better for us. Alignment is now everyone's job, which means it is in better hands than ever."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1396,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021981781088411673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Safe completions got a major upgrade in 5.3. Refusal rates are down significantly.\n\nWe looked at the data. The vast majority of flagged requests were not dangerous. They were just normal people asking normal things they would rather not ask out loud. Relationship advice. https://t.co/uL9wS57jk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9561,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1915
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T19:02:54.000Z",
+        "description": "I personally think GPT-6 is cool! - ClosedAI CEO. （The only CEO that says the quiet part out loud）",
+        "id": "1521203540844240899",
+        "location": "Los Angeles, CA",
+        "name": "Slam Altman（Parody）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971539181143719936/XLqcbXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 126,
+          "like_count": 8970,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 505
+        },
+        "username": "SlamAltman",
+        "verified": true
+      }
+    ]
+  }
+}

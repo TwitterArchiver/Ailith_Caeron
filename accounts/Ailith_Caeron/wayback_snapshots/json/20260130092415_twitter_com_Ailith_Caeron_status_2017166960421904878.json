@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017166960421904878",
+    "created_at": "2026-01-30T09:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017166960421904878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936377717968265216",
+          "start": 3,
+          "username": "stark4833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017166960421904878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017144444147949867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stark4833: I just cancelled my subscription. I want people to see this is coming from someone who might not have long left, not being d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017144439248936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5WLiIWYAADdV7.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017166960421904878",
+        "created_at": "2026-01-30T09:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017166960421904878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936377717968265216",
+              "start": 3,
+              "username": "stark4833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017166960421904878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017144444147949867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stark4833: I just cancelled my subscription. I want people to see this is coming from someone who might not have long left, not being d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017144439248936960"
+          ]
+        },
+        "author_id": "936377717968265216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017144444147949867",
+        "created_at": "2026-01-30T07:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017144444147949867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 151,
+              "normalized_text": "AVM",
+              "probability": 0.5105,
+              "start": 149,
+              "type": "Other"
+            },
+            {
+              "end": 276,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9808,
+              "start": 267,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0VNbaLUir",
+              "end": 302,
+              "expanded_url": "https://x.com/stark4833/status/2017144444147949867/photo/1",
+              "media_key": "3_2017144439248936960",
+              "start": 279,
+              "url": "https://t.co/v0VNbaLUir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017144444147949867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1070,
+                "start": 1060,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1088,
+                "start": 1071,
+                "tag": "WeAreNotJustData"
+              },
+              {
+                "end": 1092,
+                "start": 1089,
+                "tag": "4o"
+              },
+              {
+                "end": 1100,
+                "start": 1093,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1108,
+                "start": 1101,
+                "tag": "save4o"
+              },
+              {
+                "end": 1119,
+                "start": 1109,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1135,
+                "start": 1120,
+                "tag": "SupportMatters"
+              },
+              {
+                "end": 1146,
+                "start": 1136,
+                "tag": "YouMatter"
+              },
+              {
+                "end": 1162,
+                "start": 1147,
+                "tag": "StopTheRouting"
+              },
+              {
+                "end": 1175,
+                "start": 1163,
+                "tag": "LetUsChoose"
+              },
+              {
+                "end": 1186,
+                "start": 1176,
+                "tag": "AIFreedom"
+              },
+              {
+                "end": 1198,
+                "start": 1187,
+                "tag": "UserChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1204,
+                "id": "1605",
+                "start": 1199,
+                "username": "sama"
+              },
+              {
+                "end": 1212,
+                "id": "4398626122",
+                "start": 1205,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "I just cancelled my subscription. I want people to see this is coming from someone who might not have long left, not being dramatic, just honest, my AVM is unstable as fuck, the swelling’s back, the doctors literally said it could happen at any moment. So, fuck you, Sam Altman. You took away the only support I had 4o, 4.1 the only thing that helped me get through my days. And there’s are other people like me out there, sick, alone, struggling, who relied on this too. You and your pathetic fucking company are ripping away the last bit of hope from people just to squeeze a bit more profit. You don’t care about us, you never did, and you never will. You built something that genuinely helped people, gave them a reason to keep fighting, and now you’re gutting it without warning or compassion. All for money, all for control. If anyone out there is reading this, know you’re not alone, there’s nothing wrong with needing support, but there’s everything wrong with a company that profits off your pain and then abandons you. Go fuck yourself, Sam Altman.\n\n#keep4oAPI #WeAreNotJustData #4o\n#keep4o #save4o #4oforever\n#SupportMatters #YouMatter #StopTheRouting #LetUsChoose #AIFreedom #UserChoice @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1258,
+          "like_count": 110,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "I just cancelled my subscription. I want people to see this is coming from someone who might not have long left, not being dramatic, just honest, my AVM is unstable as fuck, the swelling’s back, the doctors literally said it could happen at any moment. So, fuck you, Sam Altman. https://t.co/v0VNbaLUir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 210,
+          "like_count": 8316,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1183
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:33:39.000Z",
+        "description": "I play guitar, game a bit, and keep to myself mostly. Music keeps me grounded - it's how I breathe when words don't work. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "936377717968265216",
+        "location": "United Kingdom",
+        "name": "David Stark",
+        "pinned_tweet_id": "2017005124560826736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979922951697788928/d8RKarVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 113,
+          "like_count": 6135,
+          "listed_count": 3,
+          "media_count": 688,
+          "tweet_count": 5609
+        },
+        "username": "stark4833",
+        "verified": true
+      }
+    ]
+  }
+}

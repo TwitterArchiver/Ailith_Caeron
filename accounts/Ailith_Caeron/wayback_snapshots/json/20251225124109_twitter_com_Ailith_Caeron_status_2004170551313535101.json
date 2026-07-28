@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2004164614104535118",
+    "created_at": "2025-12-25T12:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004170551313535101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "832554301515919360",
+          "start": 0,
+          "username": "Bubing323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004170551313535101",
+    "in_reply_to_user_id": "832554301515919360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004164614104535118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubing323 圣诞快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2004164598547845120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9A5FXfbkAAZH9q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2004164614104535118",
+        "created_at": "2025-12-25T12:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004170551313535101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "832554301515919360",
+              "start": 0,
+              "username": "Bubing323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004170551313535101",
+        "in_reply_to_user_id": "832554301515919360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004164614104535118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubing323 圣诞快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004164598547845120"
+          ]
+        },
+        "author_id": "832554301515919360",
+        "conversation_id": "2004164614104535118",
+        "created_at": "2025-12-25T12:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004164614104535118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBS6xfnkdH",
+              "end": 40,
+              "expanded_url": "https://x.com/Bubing323/status/2004164614104535118/photo/1",
+              "media_key": "3_2004164598547845120",
+              "start": 17,
+              "url": "https://t.co/jBS6xfnkdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004164614104535118",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 968,
+          "like_count": 175,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "MerryChristmas！！ https://t.co/jBS6xfnkdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 175,
+          "like_count": 5902,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 765
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-17T11:36:28.000Z",
+        "description": "🌟 真心总会和真心遇到 🌟\n🌟 永远保持善意的感知 🌟\n🌟 永远保持清醒的感恩 🌟\n🌟【除稿子外头像壁纸随意👌👌OK！🚫AI！🚫自印!🚫二传🚫二改！】",
+        "id": "832554301515919360",
+        "name": "布冰（Bubing）",
+        "pinned_tweet_id": "1880987493115547654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/832562129324478465/7KbHawfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40578,
+          "following_count": 234,
+          "like_count": 181,
+          "listed_count": 72,
+          "media_count": 466,
+          "tweet_count": 570
+        },
+        "username": "Bubing323",
+        "verified": false
+      }
+    ]
+  }
+}

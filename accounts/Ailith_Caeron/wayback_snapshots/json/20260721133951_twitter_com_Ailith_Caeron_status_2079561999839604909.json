@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2079538831867441259",
+    "created_at": "2026-07-21T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079561999839604909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079561999839604909",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079538831867441259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想吃白灼罗氏虾😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_2079538824385044480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwBivwaoAAgYo1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2079538831867441259",
+        "created_at": "2026-07-21T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079561999839604909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079561999839604909",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079538831867441259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃白灼罗氏虾😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079538824385044480"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2079538831867441259",
+        "created_at": "2026-07-21T12:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079538831867441259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvpEh0v9OO",
+              "end": 80,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2079538831867441259/photo/1",
+              "media_key": "3_2079538824385044480",
+              "start": 57,
+              "url": "https://t.co/QvpEh0v9OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079538831867441259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要实习了我要回家啊…我想吃我妈卤的牛腱子我想吃家楼下的烤鸭我想吃我爸烧的十三香小龙虾我想吃南京大排档的美龄粥 https://t.co/QvpEh0v9OO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 317,
+          "like_count": 11746,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 3040
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

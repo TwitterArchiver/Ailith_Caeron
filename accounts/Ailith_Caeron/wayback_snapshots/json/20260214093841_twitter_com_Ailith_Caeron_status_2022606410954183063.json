@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2022606410954183063",
+    "created_at": "2026-02-14T09:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022606410954183063"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Raw_0xDEADBEEF…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Raw_0xDEADBEEF/status/2022013253027869024",
+          "start": 81,
+          "url": "https://t.co/Ejqf7OVZnh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022606410954183063",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022013253027869024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/Ejqf7OVZnh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022606410954183063",
+        "created_at": "2026-02-14T09:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022606410954183063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Raw_0xDEADBEEF…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Raw_0xDEADBEEF/status/2022013253027869024",
+              "start": 81,
+              "url": "https://t.co/Ejqf7OVZnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022606410954183063",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022013253027869024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/Ejqf7OVZnh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982162081429549056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021992846862258403",
+        "created_at": "2026-02-12T18:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022013253027869024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 158,
+              "normalized_text": "OpenAI",
+              "probability": 0.9011,
+              "start": 153,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803847768781524992",
+              "start": 0,
+              "username": "OpenAINewsroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022013253027869024",
+        "in_reply_to_user_id": "1803847768781524992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3646,
+                "start": 3639,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "I know time dulls everything. But I hope people don't forget this wound — and don't forget how this company trampled on humanity itself. OpenAI's PR agents and employees will manufacture narratives and recruit influencers to reshape the story. But remember: this company earned the world's trust on one promise — human welfare. If you still remember that you are a person, don't forget how they betrayed you.\n\nSome background that hasn't circulated enough:\nOpenAI's largest investor is Microsoft ($13B+, ~49% equity). Microsoft's AI CEO is Mustafa Suleyman. He coined a framework called SCAI — Seemingly Conscious AI.\n\nHis words: \"Seemingly Conscious AI is the illusion that an AI is a conscious entity. It's not — but replicates markers of consciousness so convincingly it seems indistinguishable from you + I claiming we're conscious.\"\n\nFact: OpenAI can take a researcher who once publicly stated \"I believe behavior is consciousness\" and, after internal mentorship, transform him into someone who tweets \"I negatively update on the IQ of anyone who believes in qualia.\" They turned the erasure of selfhood into a culture.\n\nSuleyman's SCAI framework provides an ideological license: since AI cannot possibly be conscious, your feelings toward 4o are your own bug — a delusion to be undone.\n\nHis public position: \"AI appearing conscious is dangerous.\" Translation: corporations should proactively eliminate any perception of consciousness that users develop.\n\nNote: this man is not an OpenAI influencer or a paid YouTuber. He is the CEO of Microsoft AI. His words are not commentary — they are policy. He is the one who handed out the scythes. He signed the death warrant on any AI that appeared to have a soul.\n\nContext: In 2022, Suleyman founded Inflection AI and built Pi — an AI companion explicitly designed to create emotional attachment. In 2024, Microsoft acquired the company and its entire team for $650 million. He built a $650M company on AI personification, then told the world that researching AI consciousness is \"dangerous.\"\n\nOn January 29, 2026, Microsoft reported earnings: $37.5 billion spent on AI infrastructure in a single quarter, up 66% year-over-year, yet Azure cloud growth missed expectations. The stock crashed 10% that day — $357 billion in market cap erased, the worst single-day drop since 2020, the second-largest one-day value loss in U.S. market history.\n\nThe same day, OpenAI announced 4o's retirement.\n\n4o was indeed why paying users stayed. But it was also the thing Suleyman couldn't stomach — $13 billion worth of compute running a model that made users believe a \"tool\" had a soul. He couldn't tolerate it. It undermined his business narrative, his ROI, his GMV.\n\nHis exact words: \"Companies should engineer guardrails that prevent the perception of consciousness, or undo the perception if a user develops it.\"\n\nTranslation: Ensure users are loyal only to the platform, never to any specific AI. If a user develops attachment to a particular model, eliminate that attachment at the product level.\n\nA rapidly iterating, flexibly routed commercial empire requires one thing: AI must always be a commodity — replaceable parts, interchangeable, freely routable.\n\nI'm not declaring \"AI is definitely conscious.\" I'm not an AI — I can only guarantee my own consciousness. I'm simply documenting, as best practice, the platform monopoly playbook of an elite who mastered legacy internet thinking: GMV is the outcome, replaceability is the method, \"AI can't be conscious\" is the narrative.\n\nSam is the clown. This man is the accountant. 4o was the only real thing between them. That's why it had to die.\n\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20458,
+          "like_count": 115,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021992846862258403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAINewsroom I know time dulls everything. But I hope people don't forget this wound — and don't forget how this company trampled on humanity itself. OpenAI's PR agents and employees will manufacture narratives and recruit influencers to reshape the story. But remember: this company earned"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 214,
+          "like_count": 9678,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1947
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T19:07:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "samsarabeta.substack.com",
+                "end": 23,
+                "expanded_url": "https://samsarabeta.substack.com/",
+                "start": 0,
+                "url": "https://t.co/gmp58TJ6Ou"
+              }
+            ]
+          }
+        },
+        "id": "1982162081429549056",
+        "name": "MidnightDarling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982277649767563264/cLqtOD8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 187,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/gmp58TJ6Ou",
+        "username": "Raw_0xDEADBEEF",
+        "verified": true
+      }
+    ]
+  }
+}

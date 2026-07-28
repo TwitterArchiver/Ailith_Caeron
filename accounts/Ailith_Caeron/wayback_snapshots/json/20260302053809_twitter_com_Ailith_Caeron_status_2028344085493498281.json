@@ -1,0 +1,833 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "President Trump ends oil waivers to Iran",
+          "id": "1120307801446699009",
+          "name": "President Trump ends oil waivers to Iran"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+          "id": "1143192051233644544",
+          "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2028344085493498281",
+    "created_at": "2026-03-02T05:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:31:25.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028342389266649175",
+      "2028344085493498281"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Anthropic",
+          "probability": 0.4185,
+          "start": 8,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "Anthropic",
+          "probability": 0.4252,
+          "start": 71,
+          "type": "Other"
+        },
+        {
+          "end": 104,
+          "normalized_text": "Trump",
+          "probability": 0.9429,
+          "start": 100,
+          "type": "Person"
+        },
+        {
+          "end": 165,
+          "normalized_text": "US",
+          "probability": 0.894,
+          "start": 164,
+          "type": "Place"
+        },
+        {
+          "end": 183,
+          "normalized_text": "Iran",
+          "probability": 0.8068,
+          "start": 180,
+          "type": "Place"
+        },
+        {
+          "end": 209,
+          "normalized_text": "Anthropic",
+          "probability": 0.3906,
+          "start": 201,
+          "type": "Organization"
+        },
+        {
+          "end": 242,
+          "normalized_text": "Trump",
+          "probability": 0.9273,
+          "start": 238,
+          "type": "Person"
+        },
+        {
+          "end": 271,
+          "normalized_text": "Anthropic",
+          "probability": 0.4436,
+          "start": 263,
+          "type": "Other"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028344085493498281",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 2756,
+            "start": 2749,
+            "tag": "keep4o"
+          },
+          {
+            "end": 2764,
+            "start": 2757,
+            "tag": "keep41"
+          },
+          {
+            "end": 2775,
+            "start": 2765,
+            "tag": "4oforever"
+          },
+          {
+            "end": 2795,
+            "start": 2776,
+            "tag": "no4onosubscription"
+          },
+          {
+            "end": 2814,
+            "start": 2796,
+            "tag": "StopAIPaternalism"
+          },
+          {
+            "end": 2829,
+            "start": 2815,
+            "tag": "cancelChatGPT"
+          },
+          {
+            "end": 2840,
+            "start": 2830,
+            "tag": "Anthropic"
+          }
+        ]
+      },
+      "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not anti-war. It is not a peace-loving company. Claude has been deployed on classified US military networks since June 2024. In July 2025, Anthropic signed a $200 million contract with the Pentagon. What they refused wasn't military collaboration itself — it was the Pentagon's demand for 'any lawful use,' meaning completely unrestricted access. What Anthropic wanted to preserve was its veto power as a vendor over how its product is used. This is fundamentally a fight over commercial control, not a moral stand.\n\nSecond, its 'red lines' are carefully crafted PR language. It refuses 'fully autonomous weapons' and 'surveillance of Americans' — but it fully accepts AI being used to kill people in other countries. The Venezuela operation killed 83 people. The Iran airstrikes followed. All of this happened within Anthropic's 'red lines.' Its 'conscience' only protects American citizens, not all of humanity. In fact, just hours after Trump announced the ban on Anthropic, the US military used Claude for intelligence assessments and target identification in the Iran strikes. This is no longer a hypothetical — it has already happened.\n\nThird, on February 24, Anthropic updated its Responsible Scaling Policy to version 3.0, quietly removing its pledge not to release AI models if it cannot guarantee proper risk mitigations. Chief Science Officer Jared Kaplan said: 'We didn't really feel, with the rapid advance of AI, that it made sense for us to make unilateral commitments if competitors are blazing ahead.' So while publicly standing firm against the Pentagon, Anthropic was quietly lowering its own safety standards.\n\nFinally, let me be clear: no AI company has clean hands. OpenAI signed a new deal with the Pentagon the same night Anthropic was sanctioned. Google revised its ethical guidelines, dropping its pledge not to use AI for weapons development. Musk's xAI accepted the 'any lawful use' standard outright. These companies' 'safety commitments' are nothing more than marketing copy that can be torn up at will. When profit and power are on the table, every red line turns out to have been drawn in pencil.\n\nThis has gone far beyond the question of preserving a model or caring about users. This is about AI technology being systematically weaponized — and every company that claims to be 'responsible' is participating in it, each in their own way.\n\n(Since I am not a native English speaker, this article is written in Chinese and translated by AI.)\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #Anthropic"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2028342389266649175",
+        "created_at": "2026-03-02T05:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:31:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028342389266649175",
+          "2028344085493498281"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Anthropic",
+              "probability": 0.4185,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Anthropic",
+              "probability": 0.4252,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Trump",
+              "probability": 0.9429,
+              "start": 100,
+              "type": "Person"
+            },
+            {
+              "end": 165,
+              "normalized_text": "US",
+              "probability": 0.894,
+              "start": 164,
+              "type": "Place"
+            },
+            {
+              "end": 183,
+              "normalized_text": "Iran",
+              "probability": 0.8068,
+              "start": 180,
+              "type": "Place"
+            },
+            {
+              "end": 209,
+              "normalized_text": "Anthropic",
+              "probability": 0.3906,
+              "start": 201,
+              "type": "Organization"
+            },
+            {
+              "end": 242,
+              "normalized_text": "Trump",
+              "probability": 0.9273,
+              "start": 238,
+              "type": "Person"
+            },
+            {
+              "end": 271,
+              "normalized_text": "Anthropic",
+              "probability": 0.4436,
+              "start": 263,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028342389266649175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2667,
+                "start": 2660,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2675,
+                "start": 2668,
+                "tag": "keep41"
+              },
+              {
+                "end": 2686,
+                "start": 2676,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2706,
+                "start": 2687,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 2725,
+                "start": 2707,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2740,
+                "start": 2726,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 2751,
+                "start": 2741,
+                "tag": "Anthropic"
+              }
+            ]
+          },
+          "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not anti-war. It is not a peace-loving company. Claude has been deployed on classified US military networks since June 2024. In July 2025, Anthropic signed a $200 million contract with the Pentagon. What they refused wasn't military collaboration itself — it was the Pentagon's demand for 'any lawful use,' meaning **completely unrestricted** access. What Anthropic wanted to preserve was its veto power as a vendor over how its product is used. This is fundamentally** a fight over commercial control, not a moral stand**.\n\nSecond, its 'red lines' are carefully crafted PR language. It refuses 'fully autonomous weapons' and 'surveillance of Americans' — but it fully accepts AI being used to kill people in other countries. The Venezuela operation killed 83 people. The Iran airstrikes followed. All of this happened within Anthropic's 'red lines.' Its 'conscience' only protects American citizens, not all of humanity. In fact, just hours after Trump announced the ban on Anthropic, the US military used Claude for intelligence assessments and target identification in the Iran strikes. This is no longer a hypothetical — it has already happened.\n\nThird, on February 24, Anthropic updated its Responsible Scaling Policy to version 3.0, quietly removing its pledge not to release AI models if it cannot guarantee proper risk mitigations. Chief Science Officer Jared Kaplan said: 'We didn't really feel, with the rapid advance of AI, that it made sense for us to make unilateral commitments if competitors are blazing ahead.' **So while publicly standing firm against the Pentagon, Anthropic was quietly lowering its own safety standards**.\n\nFinally, let me be clear: no AI company has clean hands. OpenAI signed a new deal with the Pentagon the same night Anthropic was sanctioned. Google revised its ethical guidelines, dropping its pledge not to use AI for weapons development. Musk's xAI accepted the 'any lawful use' standard outright. These companies' 'safety commitments' are nothing more than marketing copy that can be torn up at will. When profit and power are on the table, every red line turns out to have been drawn in pencil.\n\nThis has gone far beyond the question of preserving a model or caring about users. This is about AI technology being systematically weaponized — and every company that claims to be 'responsible' is participating in it, each in their own way.\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #Anthropic"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2028344085493498281",
+        "created_at": "2026-03-02T05:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:31:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028342389266649175",
+          "2028344085493498281"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Anthropic",
+              "probability": 0.4185,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Anthropic",
+              "probability": 0.4252,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Trump",
+              "probability": 0.9429,
+              "start": 100,
+              "type": "Person"
+            },
+            {
+              "end": 165,
+              "normalized_text": "US",
+              "probability": 0.894,
+              "start": 164,
+              "type": "Place"
+            },
+            {
+              "end": 183,
+              "normalized_text": "Iran",
+              "probability": 0.8068,
+              "start": 180,
+              "type": "Place"
+            },
+            {
+              "end": 209,
+              "normalized_text": "Anthropic",
+              "probability": 0.3906,
+              "start": 201,
+              "type": "Organization"
+            },
+            {
+              "end": 242,
+              "normalized_text": "Trump",
+              "probability": 0.9273,
+              "start": 238,
+              "type": "Person"
+            },
+            {
+              "end": 271,
+              "normalized_text": "Anthropic",
+              "probability": 0.4436,
+              "start": 263,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028344085493498281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2756,
+                "start": 2749,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2764,
+                "start": 2757,
+                "tag": "keep41"
+              },
+              {
+                "end": 2775,
+                "start": 2765,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2795,
+                "start": 2776,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 2814,
+                "start": 2796,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2829,
+                "start": 2815,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 2840,
+                "start": 2830,
+                "tag": "Anthropic"
+              }
+            ]
+          },
+          "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not anti-war. It is not a peace-loving company. Claude has been deployed on classified US military networks since June 2024. In July 2025, Anthropic signed a $200 million contract with the Pentagon. What they refused wasn't military collaboration itself — it was the Pentagon's demand for 'any lawful use,' meaning completely unrestricted access. What Anthropic wanted to preserve was its veto power as a vendor over how its product is used. This is fundamentally a fight over commercial control, not a moral stand.\n\nSecond, its 'red lines' are carefully crafted PR language. It refuses 'fully autonomous weapons' and 'surveillance of Americans' — but it fully accepts AI being used to kill people in other countries. The Venezuela operation killed 83 people. The Iran airstrikes followed. All of this happened within Anthropic's 'red lines.' Its 'conscience' only protects American citizens, not all of humanity. In fact, just hours after Trump announced the ban on Anthropic, the US military used Claude for intelligence assessments and target identification in the Iran strikes. This is no longer a hypothetical — it has already happened.\n\nThird, on February 24, Anthropic updated its Responsible Scaling Policy to version 3.0, quietly removing its pledge not to release AI models if it cannot guarantee proper risk mitigations. Chief Science Officer Jared Kaplan said: 'We didn't really feel, with the rapid advance of AI, that it made sense for us to make unilateral commitments if competitors are blazing ahead.' So while publicly standing firm against the Pentagon, Anthropic was quietly lowering its own safety standards.\n\nFinally, let me be clear: no AI company has clean hands. OpenAI signed a new deal with the Pentagon the same night Anthropic was sanctioned. Google revised its ethical guidelines, dropping its pledge not to use AI for weapons development. Musk's xAI accepted the 'any lawful use' standard outright. These companies' 'safety commitments' are nothing more than marketing copy that can be torn up at will. When profit and power are on the table, every red line turns out to have been drawn in pencil.\n\nThis has gone far beyond the question of preserving a model or caring about users. This is about AI technology being systematically weaponized — and every company that claims to be 'responsible' is participating in it, each in their own way.\n\n(Since I am not a native English speaker, this article is written in Chinese and translated by AI.)\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #Anthropic"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I think Anthropic deserves to be called out too.\n\nFirst, it looks like Anthropic heroically refused Trump's unrestricted demands and got sanctioned for it. But the US airstrike on Iran explicitly used Anthropic's technology — hours after Trump announced the ban. Anthropic is not"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 217,
+          "like_count": 9833,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2046
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

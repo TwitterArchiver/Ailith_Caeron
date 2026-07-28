@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019051145117766073",
+    "created_at": "2026-02-04T14:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019051145117766073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953940724329984002",
+          "start": 3,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019051145117766073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018989802285039860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aleya507: 🚨OpenAI又又又在玩阴的了\n\nGPT-5.2 Thinking模式Juice资源预算砍一半\nPlus/Business Standard 64→32，Extended 256→128；Pro Light 16→8，Standard砍到16/32，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2018989799173169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATkhnjaoAAIOQn.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019051145117766073",
+        "created_at": "2026-02-04T14:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019051145117766073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953940724329984002",
+              "start": 3,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019051145117766073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018989802285039860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aleya507: 🚨OpenAI又又又在玩阴的了\n\nGPT-5.2 Thinking模式Juice资源预算砍一半\nPlus/Business Standard 64→32，Extended 256→128；Pro Light 16→8，Standard砍到16/32，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018989799173169152"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018989802285039860",
+        "created_at": "2026-02-04T10:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018989802285039860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hF77AwIbll",
+              "end": 222,
+              "expanded_url": "https://x.com/Aleya507/status/2018989802285039860/photo/1",
+              "media_key": "3_2018989799173169152",
+              "start": 199,
+              "url": "https://t.co/hF77AwIbll"
+            },
+            {
+              "display_url": "x.com/btibor91/statu…",
+              "end": 246,
+              "expanded_url": "https://twitter.com/btibor91/status/2018754586123890717",
+              "start": 223,
+              "url": "https://t.co/iVllCd7dDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018989802285039860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 485,
+                "start": 478,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 334,
+                "id": "4398626122",
+                "start": 327,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "🚨OpenAI又又又在玩阴的了\n\nGPT-5.2 Thinking模式Juice资源预算砍一半\nPlus/Business Standard 64→32，Extended 256→128；Pro Light 16→8，Standard砍到16/32，Extended 128。\n推理任务深度直接对半腰斩，复杂编码/研究/逻辑链条变浅尝辄止，测试用户说“工作量减半但时间更短”\n\n哦对了，价格照旧。\n\n真好啊大家最爱的OpenAI又一次大升级啦！\n对外吹“adaptive reasoning更快更省”，实际就是砍付费用户的算力省GPU电费，顺便在Warren参议员2月13日审计回复截止前把关键指标藏起来。（我相信你们知道我说的是哪个我就不贴了hhh）\n@OpenAI 你们从推出并没有那么好用的5系列并且无视用户反馈开始就一路下坡踩油门，现在连你们引以为傲的5.2的思考能力都舍不得给用户了？\n\n真当用户都是慈善家啊？听说过加量不加价，没听说过减量不减价\n全世界就你们一家公司做AI吗？放心吧别担心你们算力不够用了，你们继续这样子下去用户们自己会跑的。\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8675,
+          "like_count": 138,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018754586123890717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨OpenAI又又又在玩阴的了\n\nGPT-5.2 Thinking模式Juice资源预算砍一半\nPlus/Business Standard 64→32，Extended 256→128；Pro Light 16→8，Standard砍到16/32，Extended 128。\n推理任务深度直接对半腰斩，复杂编码/研究/逻辑链条变浅尝辄止，测试用户说“工作量减半但时间更短”\n\n哦对了，价格照旧。 https://t.co/hF77AwIbll https://t.co/iVllCd7dDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 212,
+          "like_count": 9043,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1685
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 187,
+          "like_count": 3790,
+          "listed_count": 0,
+          "media_count": 737,
+          "tweet_count": 4767
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

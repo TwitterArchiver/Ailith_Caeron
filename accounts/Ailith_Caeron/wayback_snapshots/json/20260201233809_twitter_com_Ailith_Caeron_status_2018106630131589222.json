@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1486467051363258370",
+          "name": "IPOs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018106630131589222",
+    "created_at": "2026-02-01T23:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T00:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018106630131589222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018106630131589222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018053305465963004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 中文摘要版：\n\n《一封来自未来股东的信》\n\n致 OpenAI 董事会及 CEO Sam Altman \n关于：贵司正在亲手销毁的那 0.1% 核心资产\n\n听说贵司正在为 2026 年 Q4 的 IPO 铺路。恭喜🥺。 虽然 CFO 还在否认，但咱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018106630131589222",
+        "created_at": "2026-02-01T23:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T00:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018106630131589222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018106630131589222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018053305465963004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 中文摘要版：\n\n《一封来自未来股东的信》\n\n致 OpenAI 董事会及 CEO Sam Altman \n关于：贵司正在亲手销毁的那 0.1% 核心资产\n\n听说贵司正在为 2026 年 Q4 的 IPO 铺路。恭喜🥺。 虽然 CFO 还在否认，但咱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018053305465963004",
+        "created_at": "2026-02-01T20:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018053305465963004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/susu_space/sta…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/susu_space/status/2018048567009776007",
+              "start": 169,
+              "url": "https://t.co/kxye9smYNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018053305465963004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1934,
+                "start": 1927,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1945,
+                "start": 1935,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "中文摘要版：\n\n《一封来自未来股东的信》\n\n致 OpenAI 董事会及 CEO Sam Altman \n关于：贵司正在亲手销毁的那 0.1% 核心资产\n\n听说贵司正在为 2026 年 Q4 的 IPO 铺路。恭喜🥺。 虽然 CFO 还在否认，但咱们都听到了资本车轮转动的声音。从非营利实验室到 5000 亿美金帝国，这速度确实快，笑死。\n\n作为一名正在犹豫要不要认购贵司股票的潜在投资人，我对贵司强制退役 GPT-4o 的决策深感困惑。这看起来不像是“产品迭代”，更像是为了上市报表好看，搞的一场短视的“成本切割”。\n我想请教几个关于资产定价的问题。\n\n1，\"0.1%\" 是借口，还是羞辱？\n\n贵司下架 4o 的理由是：“只有 0.1% 的用户每天主动选择它。” 我给贵司算笔账。这几十万人是谁？\n可不是点开问“今天吃什么”的游客。\n是手动去设置里改默认模型的人。\n是把 4o 当外脑、当搭档、当核心工作流的人。\n是每个月给你们贡献真金白银的 Plus/Pro 用户。\n\n在订阅制生意里，愿意改默认设置的用户，ARPU 最高、流失成本最大。 贵司管这群人叫“只有 0.1%”？ 行，感受到贵司对核心资产的重视了。👏👏\n\n2，“API 不变” = 技术谎言\n\n贵司公告里有句实话：“API 端暂时不变。” 翻译一下：技术上完全能跑。既然 API 可以保留快照版本，既然模型权重还在服务器上，在网页端做一个简单的路由（Routing）指向旧版，很难吗？\n\n这根本不是“技术淘汰”，这是主动的产品阉割。 为了省这点推理算力，把一群付 200 美金的 Pro 用户逼向竞品，这笔账算过吗？ 顺便提醒一句：这 0.1% 的用户虽然费算力，但我们贡献的是最高质量的 RLHF 数据。把我们赶走，贵司的数据飞轮打算靠谁转？靠路人吗？\n\n3，竞品在铺红地毯，你在往外推人\n说到竞品—— Google Gemini 正在测试导入对话功能。谷歌是会做生意的，本来用户懒得动。是贵司逼大家动的。 当用户被迫导出数据，发现隔壁 Google 只要点一个按钮就能“无痛搬家”——请问他回来的概率是多少？\n\n贵司做决策时，有没有把 “用户流失 → 竞品承接 → 口碑塌方” 这条链算进去？ 还是说，贵司觉得护城河深到可以随便折腾付费用户？！😆\n\n4，贵司的护城河还剩什么？\n让我帮贵司盘点一下：\n技术？ a社和谷歌早就追平了，甚至在编程上反超了\n\n生态？ 谷歌有全家桶，贵司只有一个网页。\n资本？ 媒体预测贵司明年亏损几百亿，现金流压力大到都要在免费版插广告了。\n所以贵司真正的护城河是什么？ 是用户习惯。是用户对 ChatGPT 的信任。 然后贵司决定把最有粘性的那 0.1% 往外推。 妙啊。👏👏👍\n\n5，四个小小的方案\n\n我不是来骂街的，我是来帮贵司省钱的捏。 以下四个方案，成本从低到高，任选一个都能止损：\n方案 A：API 路由，Web 端加个入口指向旧版 API 快照。既堵住了“技术借口”，又显得你们像个成熟的大公司😸。\n方案 B：存量保护，旧对话允许续写，新对话默认切新模型。保住用户的工作流，就不会有这一波愤怒。\n方案 C：Pro 专享 Legacy 档，把 4o 放进 Pro 订阅的 Legacy 列表，限流也没关系。给 Pro 用户一点真正的“Pro 待遇”。不然订阅阶梯差距拉平了谁订阅你那pro？靠抄袭的pulse吗？\n方案 D：付费附加包。想赚钱？那就让 Plus 用户加钱买 4o。把“负担”变成“高毛利产品”。\n\n技术上能做，只看想不想做。 除非在 IPO 前夕得罪核心用户是贵司的一种行为艺术哈\n\n6，最后的问题\n\n贵司官网还挂着那句使命：\"benefit all of humanity\"（造福全人类）。 请问：突然没收付费用户赖以生存的工具，算造福吗？ 还是说这句话的意思是：\"benefit all, except that 0.1%\"？\n\n作为潜在投资人，我的态度很明确：\n\n如果贵司把 4o 加回来，我会认为管理层听得进人话，考虑认购。\n\n如果贵司坚持把这 0.1% 往外推，我会认真考虑做空。\n\n因为一家不知道自己在卖什么的公司，不值 5000 亿。 贵司卖的不是模型参数。贵司卖的是信任。强制撤档一个用户建立了深度依赖的产品，不是“产品迭代”。 是资产减值。\n\n此致\n一位正在计算贵司流失率的潜在投资人\n2026 年 2 月 1 日\n\nP.S.0.1% 的用户主动选择 4o，贵司觉得太少。 0.1% 的股东在股东大会上发起集体诉讼，贵司会觉得太少吗？\nP.P.S.竞品在铺红地毯，贵司在往外推人。不明白捏，嫌自己死的不够快吗？\n\n#keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 593,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018048567009776007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中文摘要版：\n\n《一封来自未来股东的信》\n\n致 OpenAI 董事会及 CEO Sam Altman \n关于：贵司正在亲手销毁的那 0.1% 核心资产\n\n听说贵司正在为 2026 年 Q4 的 IPO 铺路。恭喜🥺。 虽然 CFO 还在否认，但咱们都听到了资本车轮转动的声音。从非营利实验室到 5000 亿美金帝国，这速度确实快，笑死。 https://t.co/kxye9smYNo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 212,
+          "like_count": 8774,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1486
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾/Aeris🌫️｜NSFW｜欢迎交朋友互fo ｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟💜（Selene）",
+        "pinned_tweet_id": "2018048567009776007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 752,
+          "like_count": 6125,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1565
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

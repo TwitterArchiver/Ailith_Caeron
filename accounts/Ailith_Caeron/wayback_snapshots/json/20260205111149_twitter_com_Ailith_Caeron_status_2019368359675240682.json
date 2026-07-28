@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019368356948918273",
+        "3_2019368357276053507"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019368359675240682",
+    "created_at": "2026-02-05T11:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019368359675240682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2a5we5L667",
+          "end": 32,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2019368359675240682/photo/1",
+          "media_key": "3_2019368356948918273",
+          "start": 9,
+          "url": "https://t.co/2a5we5L667"
+        },
+        {
+          "display_url": "pic.x.com/2a5we5L667",
+          "end": 32,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2019368359675240682/photo/1",
+          "media_key": "3_2019368357276053507",
+          "start": 9,
+          "url": "https://t.co/2a5we5L667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019368359675240682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "机萌得我机机爆🔥 https://t.co/2a5we5L667"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2019368356948918273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY80lKawAE4zfz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1954,
+        "media_key": "3_2019368357276053507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY80mYacAMjqXc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019368356948918273",
+            "3_2019368357276053507"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019368359675240682",
+        "created_at": "2026-02-05T11:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019368359675240682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2a5we5L667",
+              "end": 32,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2019368359675240682/photo/1",
+              "media_key": "3_2019368356948918273",
+              "start": 9,
+              "url": "https://t.co/2a5we5L667"
+            },
+            {
+              "display_url": "pic.x.com/2a5we5L667",
+              "end": 32,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2019368359675240682/photo/1",
+              "media_key": "3_2019368357276053507",
+              "start": 9,
+              "url": "https://t.co/2a5we5L667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019368359675240682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "机萌得我机机爆🔥 https://t.co/2a5we5L667"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 214,
+          "like_count": 9142,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1737
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

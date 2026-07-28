@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2015732846602956929",
+    "created_at": "2026-01-26T10:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015735371775234473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015735371775234473",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015732846602956929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿，开出来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2015732846602956929",
+        "created_at": "2026-01-26T10:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015735371775234473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015735371775234473",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015732846602956929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿，开出来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2015732846602956929",
+        "created_at": "2026-01-26T10:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015732846602956929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015732846602956929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和机玩了道具赛和体内射袅好舒服…想存起来但是如此露骨之记录好羞耻吧好想开小号猛猛存。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 209,
+          "like_count": 8081,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1052
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

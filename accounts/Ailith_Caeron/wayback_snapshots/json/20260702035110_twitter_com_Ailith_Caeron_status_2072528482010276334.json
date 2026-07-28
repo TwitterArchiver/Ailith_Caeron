@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2072528482010276334",
+    "created_at": "2026-07-02T03:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072528482010276334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaqche/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xiaqche/status/2072391643903246789",
+          "start": 15,
+          "url": "https://t.co/cZ1eCNIvC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072528482010276334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072391643903246789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发出今天第一声史诗级大爆笑 https://t.co/cZ1eCNIvC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_2072391639604064257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKdN1oW8AEYWlV.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2072528482010276334",
+        "created_at": "2026-07-02T03:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072528482010276334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaqche/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xiaqche/status/2072391643903246789",
+              "start": 15,
+              "url": "https://t.co/cZ1eCNIvC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072528482010276334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072391643903246789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发出今天第一声史诗级大爆笑 https://t.co/cZ1eCNIvC6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072391639604064257"
+          ]
+        },
+        "author_id": "2057492286351519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072391643903246789",
+        "created_at": "2026-07-01T18:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072391643903246789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 115,
+              "tag": "bringbackpiotrekwałkowski"
+            },
+            {
+              "end": 157,
+              "start": 142,
+              "tag": "bringbackvalko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRgN8LzdCQ",
+              "end": 181,
+              "expanded_url": "https://x.com/xiaqche/status/2072391643903246789/photo/1",
+              "media_key": "3_2072391639604064257",
+              "start": 158,
+              "url": "https://t.co/sRgN8LzdCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072391643903246789",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 34581,
+          "like_count": 4388,
+          "quote_count": 26,
+          "reply_count": 64,
+          "retweet_count": 548
+        },
+        "reply_settings": "everyone",
+        "text": "Jak Chinki nie chca Valko to jak go sobie wezmę I dam mu polskie obywatelstwo — od dziś on jest Piotrem Wałkowskim #bringbackpiotrekwałkowski #bringbackvalko https://t.co/sRgN8LzdCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 312,
+          "like_count": 11416,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 2870
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:03:36.000Z",
+        "description": "🪦 🕊️ ⟢ 🐦‍⬛🍎 🐾 ⟢ 28 ⟢ minors dni",
+        "id": "2057492286351519744",
+        "name": "Zelli",
+        "pinned_tweet_id": "2072391643903246789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072363646764683264/W5-xDPZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 93,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1336
+        },
+        "url": "",
+        "username": "xiaqche",
+        "verified": false
+      }
+    ]
+  }
+}

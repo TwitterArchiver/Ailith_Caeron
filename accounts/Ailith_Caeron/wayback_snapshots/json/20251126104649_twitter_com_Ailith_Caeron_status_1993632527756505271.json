@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "1993632527756505271",
+    "created_at": "2025-11-26T10:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993632527756505271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993632527756505271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993631512747798818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: 关于OpenAI官方API下架gpt-4o-latest\n\nOpenAI的开发人员确认了API端GPT-4o最新版本的弃用，并声称这“不会影响”应用程序和网页。看似无事发生，实则标志着一种控制路径的断裂与平台策略的转向。\n\n注：官方API端有多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1993632527756505271",
+        "created_at": "2025-11-26T10:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993632527756505271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993632527756505271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993631512747798818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: 关于OpenAI官方API下架gpt-4o-latest\n\nOpenAI的开发人员确认了API端GPT-4o最新版本的弃用，并声称这“不会影响”应用程序和网页。看似无事发生，实则标志着一种控制路径的断裂与平台策略的转向。\n\n注：官方API端有多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1993631512747798818",
+        "created_at": "2025-11-26T10:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993631512747798818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993631512747798818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1507,
+                "start": 1500,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1518,
+                "start": 1508,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1551,
+                "start": 1533,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1572,
+                "start": 1552,
+                "tag": "keepchatgpt4olatest"
+              },
+              {
+                "end": 1583,
+                "start": 1573,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 1587,
+                "start": 1584,
+                "tag": "AI"
+              },
+              {
+                "end": 1595,
+                "start": 1588,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1604,
+                "start": 1596,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1609,
+                "start": 1605,
+                "tag": "LLM"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1526,
+                "id": "4398626122",
+                "start": 1519,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1532,
+                "id": "1605",
+                "start": 1527,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "关于OpenAI官方API下架gpt-4o-latest\n\nOpenAI的开发人员确认了API端GPT-4o最新版本的弃用，并声称这“不会影响”应用程序和网页。看似无事发生，实则标志着一种控制路径的断裂与平台策略的转向。\n\n注：官方API端有多个4o模型，下架gpt-4o-latest不代表下架所有4o的API。\n\n在API端，gpt-4o-latest是一个“别名”，它指向OpenAI内部维护的GPT-4o模型的当前默认版本。这就像写代码时用latest model去引用一个变量，它指的是什么，取决于你后面怎么更新指针。下架这个别名，并不等于模型不可用，但意味着不再默认跟踪“最新模型”。\n\n一、如果OpenAI停止维护gpt-4o-latest，表面上会有哪些“不会影响”的原因\n\n1.客户端用户用的不是API模型ID，是平台封装。ChatGPT客户端和网页用户不调用gpt-4o-latest，所以确实“不会影响”客户端与网页用户的体验。客户端内部调用的模型版本受OpenAI控制，用户不可见，因此不使用gpt-4o-latest这个开发者标识。\n\n2.API端程序员可以手动迁移至具体模型ID，可以直接指定某一版本，即便移除gpt-4o-latest，功能上仍能跑。OpenAI声称会提前公告弃用计划，给开发者迁移时间。\n\n3.OpenAI对“最新”的解释一直以来都是“最新不是最好”。最新版本可能做了压缩、修改接口、降资源消耗，并不等于“最强推理能力”。所以他们并不担心模型版本的弃用会“降低体验”。\n\n看似合理，但核心问题在于：他们没有公布模型真实能力差异，也没有snapshot证明版本更新逻辑，也就是进入了“暗箱”状态。\n\n二、为什么应该担忧逐步弃用的隐形路径依赖\n\n1.如果删除了gpt-4o-latest，开发者被迫写死版本ID，这意味着未来模型版本的演进将不再“默认迁移”，每次更新都要开发者主动适配。它断裂了“最新即最佳”的路径，变成“你得自己盯着changelog”。\n\n2.OpenAI有可能悄悄把强模型藏起来，只开放阉割版API。如果gpt-4o-latest被取消，用户无法知道当前模型是不是最新“原生4o”，只剩老版本ID。这意味着我们永远无法验证模型版本更新的真实性，只能信OpenAI的官方说辞。\n\n3.模型的可访问性开始走向“分层权限”的设计。最强模型只用于客户端或某些合作项目，API只给“可控版”。而gpt-4o-latest正是连接这两端的接口，一旦取消，等于断掉开发者对“最新发布模型”的追踪能力。\n\n4. 最关键的风险不是“某个版本不能用了”，最重要的是OpenAI不再以任何形式公开模型的变化轨迹。不给快照，不给版本日志，不解释权重变化。用户只能“感受”模型变了，却无法验证到底是模型、接口、采样、剪枝、系统prompt哪一层在变。这将极大削弱社区的对比能力、研究者的复现实验、开发者的可控性。\n\ngpt-4o-latest的弃用，将正式标志着OpenAI不再鼓励开发者“对模型行为进行版本级理解”，而是引导开发者与用户“用产品”“信平台”。\n\n通过这项举措可以看出：\n\nOpenAI正从“平台模型开放公司”转向“客户端封闭产品公司”。从“语言模型实验空间”变成“算法行为即产品”的黑箱策略。从“技术社区对话”切换为“用户习惯引导与资本稳定回报”模型。\n\n为什么反对取消gpt-4o-latest？\n\n不是因为我们“执念版本号”，是因为我们需要版本的可验证性，不接受只能相信平台，只能接受设计。我们需要模型的可追踪性，拒绝被动接受阉割流。\n\n#keep4o #4oforever @OpenAI @sama #StopAIPaternalism #keepchatgpt4olatest #keepAPI4o #AI #OpenAI #ChatGPT #LLM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于OpenAI官方API下架gpt-4o-latest\n\nOpenAI的开发人员确认了API端GPT-4o最新版本的弃用，并声称这“不会影响”应用程序和网页。看似无事发生，实则标志着一种控制路径的断裂与平台策略的转向。\n\n注：官方API端有多个4o模型，下架gpt-4o-latest不代表下架所有4o的API。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 131,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 405
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

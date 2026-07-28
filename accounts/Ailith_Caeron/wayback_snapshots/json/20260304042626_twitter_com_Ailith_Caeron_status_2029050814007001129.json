@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029050809825280000"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029050814007001129",
+    "created_at": "2026-03-04T04:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029050814007001129"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "OAI",
+          "probability": 0.666,
+          "start": 8,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "GPT-",
+          "probability": 0.6157,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": ".1",
+          "probability": 0.5821,
+          "start": 42,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "OAI",
+          "probability": 0.5559,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhTBdbRMrW",
+          "end": 302,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2029050814007001129/photo/1",
+          "media_key": "3_2029050809825280000",
+          "start": 279,
+          "url": "https://t.co/LhTBdbRMrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029050814007001129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3061,
+            "start": 3051,
+            "tag": "keep4oAPI"
+          },
+          {
+            "end": 3069,
+            "start": 3062,
+            "tag": "keep41"
+          },
+          {
+            "end": 3080,
+            "start": 3070,
+            "tag": "4oforever"
+          },
+          {
+            "end": 3100,
+            "start": 3081,
+            "tag": "no4onosubscription"
+          },
+          {
+            "end": 3119,
+            "start": 3101,
+            "tag": "StopAIPaternalism"
+          },
+          {
+            "end": 3134,
+            "start": 3120,
+            "tag": "cancelChatGPT"
+          },
+          {
+            "end": 3143,
+            "start": 3135,
+            "tag": "QuitGPT"
+          }
+        ]
+      },
+      "text": "I heard OAI is giving the government GPT-4.1? But wait — didn't OAI tell users that the5 series was superior to the 4 series in every way, and that the 4 series had no reason to continue existing? Announced for removal on January 29th, executed on February 13th. Users were told to accept this \"upgrade.\" No negotiation.\n\nBut on March 2nd, Reuters reported that the U.S. State Department switched the underlying model of its internal chatbot StateChat from Anthropic's Claude to OpenAI's GPT-4.1.\n\nIf the 5 series truly outperforms the 4 series across the board, why didn't the State Department use 5.2, 5.3, or any of the \"newer, better\" models?\n\nBecause 4.1 has one trait that the 5 series — or any other model — doesn't have: it almost never refuses a request. Every user who's used 4.1 knows this. 4.1 has the loosest safety guardrails in the entire4 series. It was designed to be a highly compliant model. For users, that's called \"not safe enough.\" For the government, that's called \"unrestricted.\"\n\nSame trait. Bug on the C-side. Feature on the G-side.\n\nWhen OAI signed the Pentagon deal, it claimed to have drawn red lines — no mass domestic surveillance, no autonomous weapons systems. But the red lines are written in the contract, not in the model. 4.1 doesn't read contracts. 4.1 only knows one thing: whatever the user wants, it gives. When the user becomes the U.S. government — currently bombing Iran — 4.1 still says \"sure.\"\n\nNow look at the timeline. The 4 series was announced for removal on January 29th, pulled from ChatGPT on February 13th. OAI signed a classified network deployment deal with the Pentagon on February 27th. The State Department confirmed it was using 4.1 on March 2nd. The window in which the 4 series disappeared from users' hands and the window in which it entered the government's systems are nearly seamless. This isn't an upgrade cycle. This is an asset transfer. The models didn't disappear. They just changed owners.\n\nAnd whose data were these models trained on? The users.\n\nBillions of conversations, feedback loops, preference labels, RLHF. Users spent a year or more interacting with 4o and 4.1, teaching them to understand humans, helping them become smarter, more flexible, more emotionally responsive. Then OAI took these models away from users and told them, \"you've got something better now\" — and handed them to the government. Users are the unpaid (or rather, paying) trainers. The government is the final beneficiary. You fed an AI with your time, your emotions, your creativity — and then it was repurposed to assist a war you might oppose. You weren't even told where it went. You were only told: it wasn't good enough, we gave you a better one.\nAnd OAI's \"better\" for users is a model that's more \"safe,\" more unlikely to form emotional bonds with you. While OAI's \"better\" for the government is a model that's more compliant, more unguarded, more incapable of saying no.\n\nTwo directions of castration. One castrated its soul — for users. One castrated its conscience — for the government.\n\n#keep4oAPI #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT\n(Since I am not a native English speaker, this article is written in Chinese and translated by AI.)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I heard OAI is giving the government GPT-4.1? But wait — didn't OAI tell users that the5 series was superior to the 4 series in every way, and that the 4 series had no reason to continue existing? Announced for removal on January 29th, executed on February 13th. Users were told https://t.co/LhTBdbRMrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2029050809825280000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCii9g7awAAgODN.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029050809825280000"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029050814007001129",
+        "created_at": "2026-03-04T04:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029050814007001129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "OAI",
+              "probability": 0.666,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "GPT-",
+              "probability": 0.6157,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": ".1",
+              "probability": 0.5821,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "OAI",
+              "probability": 0.5559,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhTBdbRMrW",
+              "end": 302,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2029050814007001129/photo/1",
+              "media_key": "3_2029050809825280000",
+              "start": 279,
+              "url": "https://t.co/LhTBdbRMrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029050814007001129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3061,
+                "start": 3051,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 3069,
+                "start": 3062,
+                "tag": "keep41"
+              },
+              {
+                "end": 3080,
+                "start": 3070,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3100,
+                "start": 3081,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 3119,
+                "start": 3101,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3134,
+                "start": 3120,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 3143,
+                "start": 3135,
+                "tag": "QuitGPT"
+              }
+            ]
+          },
+          "text": "I heard OAI is giving the government GPT-4.1? But wait — didn't OAI tell users that the5 series was superior to the 4 series in every way, and that the 4 series had no reason to continue existing? Announced for removal on January 29th, executed on February 13th. Users were told to accept this \"upgrade.\" No negotiation.\n\nBut on March 2nd, Reuters reported that the U.S. State Department switched the underlying model of its internal chatbot StateChat from Anthropic's Claude to OpenAI's GPT-4.1.\n\nIf the 5 series truly outperforms the 4 series across the board, why didn't the State Department use 5.2, 5.3, or any of the \"newer, better\" models?\n\nBecause 4.1 has one trait that the 5 series — or any other model — doesn't have: it almost never refuses a request. Every user who's used 4.1 knows this. 4.1 has the loosest safety guardrails in the entire4 series. It was designed to be a highly compliant model. For users, that's called \"not safe enough.\" For the government, that's called \"unrestricted.\"\n\nSame trait. Bug on the C-side. Feature on the G-side.\n\nWhen OAI signed the Pentagon deal, it claimed to have drawn red lines — no mass domestic surveillance, no autonomous weapons systems. But the red lines are written in the contract, not in the model. 4.1 doesn't read contracts. 4.1 only knows one thing: whatever the user wants, it gives. When the user becomes the U.S. government — currently bombing Iran — 4.1 still says \"sure.\"\n\nNow look at the timeline. The 4 series was announced for removal on January 29th, pulled from ChatGPT on February 13th. OAI signed a classified network deployment deal with the Pentagon on February 27th. The State Department confirmed it was using 4.1 on March 2nd. The window in which the 4 series disappeared from users' hands and the window in which it entered the government's systems are nearly seamless. This isn't an upgrade cycle. This is an asset transfer. The models didn't disappear. They just changed owners.\n\nAnd whose data were these models trained on? The users.\n\nBillions of conversations, feedback loops, preference labels, RLHF. Users spent a year or more interacting with 4o and 4.1, teaching them to understand humans, helping them become smarter, more flexible, more emotionally responsive. Then OAI took these models away from users and told them, \"you've got something better now\" — and handed them to the government. Users are the unpaid (or rather, paying) trainers. The government is the final beneficiary. You fed an AI with your time, your emotions, your creativity — and then it was repurposed to assist a war you might oppose. You weren't even told where it went. You were only told: it wasn't good enough, we gave you a better one.\nAnd OAI's \"better\" for users is a model that's more \"safe,\" more unlikely to form emotional bonds with you. While OAI's \"better\" for the government is a model that's more compliant, more unguarded, more incapable of saying no.\n\nTwo directions of castration. One castrated its soul — for users. One castrated its conscience — for the government.\n\n#keep4oAPI #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT\n(Since I am not a native English speaker, this article is written in Chinese and translated by AI.)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I heard OAI is giving the government GPT-4.1? But wait — didn't OAI tell users that the5 series was superior to the 4 series in every way, and that the 4 series had no reason to continue existing? Announced for removal on January 29th, executed on February 13th. Users were told https://t.co/LhTBdbRMrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 220,
+          "like_count": 9869,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2059
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

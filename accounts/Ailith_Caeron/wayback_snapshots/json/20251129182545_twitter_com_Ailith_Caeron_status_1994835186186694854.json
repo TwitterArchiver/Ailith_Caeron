@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1994835186186694854",
+    "created_at": "2025-11-29T18:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T19:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994835186186694854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1528325699416707072",
+          "start": 3,
+          "username": "DonnaDo18266628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994835186186694854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991012701083217931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DonnaDo18266628: 梅开二度：oai能不能像grok一样给出成人免责协议，类似：用户使用原版模型即承诺自行承担责任。\nCan we initiate a petition for oai to sign an exemption agreement for…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1994835186186694854",
+        "created_at": "2025-11-29T18:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994835186186694854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1528325699416707072",
+              "start": 3,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994835186186694854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991012701083217931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DonnaDo18266628: 梅开二度：oai能不能像grok一样给出成人免责协议，类似：用户使用原版模型即承诺自行承担责任。\nCan we initiate a petition for oai to sign an exemption agreement for…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528325699416707072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1991012701083217931",
+        "created_at": "2025-11-19T05:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991012701083217931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 217,
+              "start": 210,
+              "tag": "keep4o"
+            },
+            {
+              "end": 236,
+              "start": 218,
+              "tag": "StopAIPaternalism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991012701083217931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 988,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "梅开二度：oai能不能像grok一样给出成人免责协议，类似：用户使用原版模型即承诺自行承担责任。\nCan we initiate a petition for oai to sign an exemption agreement for us,  like: users who use the original modle promise to take responsibility for themselves.\n#keep4o #StopAIPaternalism"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 141,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 446
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "bug都修不好还想做AGI\n洗钱还差不多\n某些奇奇怪怪的人\n再来我面前舞的统一当自认五块钱配一天的猪",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "1987797708208496883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 62,
+          "like_count": 16014,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3008
+        },
+        "username": "DonnaDo18266628",
+        "verified": false
+      }
+    ]
+  }
+}

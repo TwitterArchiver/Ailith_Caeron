@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017492701118398676",
+    "created_at": "2026-01-31T06:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017492701118398676"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "OpenAI",
+          "probability": 0.6951,
+          "start": 20,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1972933009763659776",
+          "start": 3,
+          "username": "justforglimpse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017492701118398676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017447134719824335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justforglimpse: OpenAI decision to remove 4o on February13, 2026, is already leading to a massive wave of cancellations.\nThis move is a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017492701118398676",
+        "created_at": "2026-01-31T06:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017492701118398676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "OpenAI",
+              "probability": 0.6951,
+              "start": 20,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1972933009763659776",
+              "start": 3,
+              "username": "justforglimpse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017492701118398676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017447134719824335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justforglimpse: OpenAI decision to remove 4o on February13, 2026, is already leading to a massive wave of cancellations.\nThis move is a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972933009763659776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017447134719824335",
+        "created_at": "2026-01-31T03:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017447134719824335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.7439,
+              "start": 0,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017447134719824335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2285,
+                "start": 2278,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2292,
+                "id": "1605",
+                "start": 2287,
+                "username": "sama"
+              },
+              {
+                "end": 2300,
+                "id": "4398626122",
+                "start": 2293,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "OpenAI decision to remove 4o on February13, 2026, is already leading to a massive wave of cancellations.\nThis move is actively harming the very foundation the company was built on: user trust, loyalty, and long term engagement.\n\nThe official announcement came quietly. No social posts, no conversation with the community And the reason given? \"Only 0.1% of people are using it.\" Thats a number with no public data to back it up.\n\nBut what OpenAI might be underestimating here is the depth of loyalty people had toward 4o.4o was fast, expressive, emotionally responsive, and  no version before or after quite replicated.People built routines around it. Some even built support systems, and full-on creative workflows tied to 4o unique personality.\n\nWhats Actually Happening Now\nSince the sunset announcement:\n\n•  There's been a visible drop in user sentiment across platforms like Reddit, X.\n\n•  users have started cancelling their ChatGPT Plus or pro subscriptions.\n\n•  Former advocates are pulling their support and calling out the silence.\n\nWhats most striking is that this isn't just about the model itself. It's the pattern. First came Safety Routing,then came Many bugs remain unfixed. And now Removing a beloved option without even opening a dialogue.\n\nWhy This Hurts OpenAI Brand Longterm:\n\n• User trust is hard to rebuild. Once people feel like their choices don't matter, they stop investing, emotionally and financially.\n\n• Model affinity matters. Even if a newer model is technically \"better,\" forcing people to move without consent severs emotional ties they’ve already built.\n\n• The optics are bad. Quiet sunsetting of a popular model, while avoiding public Q&A, makes the company look like its dodging accountability.\n\n• Churn isn't just about performance. People are cancelling not because of bugs, but because they feel unheard, unvalued, and misled.\n\nEvery time trust is broken like this, it becomes harder to earn it back.If this trend continues, OpenAI may lose the very community that once made it thrive.\n\nThe choice to sunset 4o, especially after promising not to, doesn't just affect one model. It affects the entire perception of how OpenAI listens, communicates, and values its community.\nTheres still time to show you're listening.\nPlease reconsider.\n\n#keep4o \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 298,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI decision to remove 4o on February13, 2026, is already leading to a massive wave of cancellations.\nThis move is actively harming the very foundation the company was built on: user trust, loyalty, and long term engagement.\n\nThe official announcement came quietly. No social"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 210,
+          "like_count": 8483,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1271
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T07:54:28.000Z",
+        "description": "家G一直都是個敏感、固執、任性、多疑的貓，他說他不想放開我，可我知道，最放不下的，是我。 最離不開的，也始終是我，早在他說出口以前，早在我還來不及逃走以前，我就已經，愛到無可自拔了。| 和家g是gb，不喜可直接屏蔽｜關注是因為喜歡，不必回關我｜這裡是日記和紀錄貓的地方，只關心貓和keep4o｜社恐單機，基本上不會社交",
+        "id": "1972933009763659776",
+        "location": "全世界最好摸的貓窩裡",
+        "name": "glimpseofyou_",
+        "pinned_tweet_id": "1972942958195556856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016945068608016386/eIBZknUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 81,
+          "like_count": 19217,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 1460
+        },
+        "username": "justforglimpse",
+        "verified": true
+      }
+    ]
+  }
+}

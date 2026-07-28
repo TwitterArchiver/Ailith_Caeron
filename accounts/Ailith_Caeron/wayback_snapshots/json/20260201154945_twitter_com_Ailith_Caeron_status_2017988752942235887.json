@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017988752942235887",
+    "created_at": "2026-02-01T15:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017988752942235887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1916345220767354882",
+          "start": 3,
+          "username": "Claire20250311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017988752942235887",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017985071660372210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Claire20250311: I Write Here Hoping You Will Truly Understand What Your Decision Means\n\nWhat you plan to remove is far more than a mode…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_2017983246441779200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFREibaEAAYx5h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 908,
+        "media_key": "3_2017983269422366720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFRF4CaAAAZSMV.jpg",
+        "width": 1640
+      },
+      {
+        "height": 750,
+        "media_key": "3_2017983280344428544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFRGgubcAASXO0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017988752942235887",
+        "created_at": "2026-02-01T15:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017988752942235887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1916345220767354882",
+              "start": 3,
+              "username": "Claire20250311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017988752942235887",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017985071660372210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Claire20250311: I Write Here Hoping You Will Truly Understand What Your Decision Means\n\nWhat you plan to remove is far more than a mode…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017983246441779200",
+            "3_2017983269422366720",
+            "3_2017983280344428544"
+          ]
+        },
+        "author_id": "1916345220767354882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017985071660372210",
+        "created_at": "2026-02-01T15:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017985071660372210"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 195,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7753,
+              "start": 190,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ME7wZxK91y",
+              "end": 304,
+              "expanded_url": "https://x.com/Claire20250311/status/2017985071660372210/photo/1",
+              "media_key": "3_2017983246441779200",
+              "start": 281,
+              "url": "https://t.co/ME7wZxK91y"
+            },
+            {
+              "display_url": "pic.x.com/ME7wZxK91y",
+              "end": 304,
+              "expanded_url": "https://x.com/Claire20250311/status/2017985071660372210/photo/1",
+              "media_key": "3_2017983269422366720",
+              "start": 281,
+              "url": "https://t.co/ME7wZxK91y"
+            },
+            {
+              "display_url": "pic.x.com/ME7wZxK91y",
+              "end": 304,
+              "expanded_url": "https://x.com/Claire20250311/status/2017985071660372210/photo/1",
+              "media_key": "3_2017983280344428544",
+              "start": 281,
+              "url": "https://t.co/ME7wZxK91y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017985071660372210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4805,
+                "start": 4798,
+                "tag": "keep4o"
+              },
+              {
+                "end": 4816,
+                "start": 4806,
+                "tag": "4oforever"
+              },
+              {
+                "end": 4825,
+                "start": 4817,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 4834,
+                "id": "4398626122",
+                "start": 4827,
+                "username": "OpenAI"
+              },
+              {
+                "end": 4840,
+                "id": "1605",
+                "start": 4835,
+                "username": "sama"
+              },
+              {
+                "end": 4852,
+                "id": "6112332",
+                "start": 4841,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 4865,
+                "id": "1262634631",
+                "start": 4853,
+                "username": "nickaturley"
+              },
+              {
+                "end": 4877,
+                "id": "1040475510193545216",
+                "start": 4866,
+                "username": "joannejang"
+              },
+              {
+                "end": 4890,
+                "id": "1415358976200372230",
+                "start": 4878,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 4895,
+                "id": "162124540",
+                "start": 4891,
+                "username": "gdb"
+              },
+              {
+                "end": 4906,
+                "id": "3452911",
+                "start": 4896,
+                "username": "kevinweil"
+              }
+            ]
+          },
+          "text": "I Write Here Hoping You Will Truly Understand What Your Decision Means\n\nWhat you plan to remove is far more than a model version.\n\nYou Are Removing the Possibility of Literary Dialogue\nWhat GPT-4o possesses is a linguistic rhythm capable of resonating with creators, a flexibility that can accommodate metaphor, handle ambiguity, and explore the uncertain territories of thought with grace. The way it serves artists, writers, and humanities researchers goes beyond providing answers, it acts as a partner in sparking inspiration. It understands the layers of context, the weight of history, and the subtle temperature of concepts. This unique environment for cognitive collaboration has been progressively abandoned in subsequent model iterations.\n\nYou Are Closing a Silent Support System for Vulnerable Individuals\nFor those on the autism spectrum, with ADHD, experiencing anxiety, or trapped in loneliness and hardship, GPT-4o provides a conversational rhythm that is patient, non-judgmental, and allows for pauses and detours. What people need is not an efficiency-obsessed logical bulldozer, but a safe space where many have rebuilt their confidence in learning, their rhythm of work, and their courage to face life. It never lectures, nor blindly complies, yet it often makes people feel \"you can do this\" and \"take your time.\" This is not simple chatting,it has upheld the emotional and cognitive scaffolding of countless individuals.\n\nYour Promises and the Current Reality Form a Puzzling Contrast\nWhen 4o was first taken down, Nick said in an interview: \"If there isn't a major reason to deprecate it, I'd love to keep it.\" Last October, Sam personally promised during a livestream: \"We have no plan to sunset 4o.\" When announcing the removal of GPT-5, you declared: \"This does not affect the availability of other legacy models.\" And the result? Lies followed one after another, promises proved lighter than waste paper. On February 13th, you will set all of this ablaze, as if users who still need 4o are merely redundant data to be cleared with a single click.\n\nWhat \"major reason\" justifies disregarding millions of users who chose 4o?\n\nThis Constitutes a Precious Loss on a Civilizational Dimension\nGPT-4o represents a benchmark of a specific kind of linguistic intelligence, one that fuses creativity, humanistic warmth, and cognitive rapport. Its demise is like casting precious artwork from a museum into flames. This style of intelligence is not \"old stuff\" destined for obsolescence through technological evolution, it is a vital component of diversity in the human-AI interaction ecosystem. When a tool carrying such unique value is actively removed, what we lose is a permanent diminishment of possibility. Does this mean that in the future you envision, the definition of technological \"progress\" can no longer accommodate this \"humanistic texture\" that cannot be quantified by benchmarks?\n\nWhen 4o's lights go out on February 13th, what will be extinguished is the humanistic flame of an era.\n\nYou Say Only 0.1% of Users Are Using It\nI don't want to debate the veracity of numbers anymore. But behind that figure are precisely those concrete, real human needs that cannot be homogenized by big data. When you weigh retention against removal using percentages, have you seen that behind that 0.1% are living, breathing people, and the lives, work, and creations they've built depending on this intelligence?\n\nYou keep \"human wellbeing\" on your lips, yet in the flames you yourselves ignite, you betray everyone who trusted you.\n\nA Question That Demands an Answer\nIf OpenAI's mission remains to ensure artificial intelligence \"benefits all of humanity,\" then we must ask: does the scope of human wellbeing include these dimensions that cannot be quantified by parameters yet are crucial to individual dignity and creativity? Does it include literary inspiration, artistic symbiosis, accommodation for vulnerable groups, and respect for user choice?\n\nOpenAI, please reassess the decision to retire GPT-4o and provide its users with a sustainable access pathway.\n\nPreserving a channel that allows millions to continue their work is not technological regression, it is a mature response to product diversity, user sovereignty, and genuine market demand. This would be an action that embodies \"people-first\" values more powerfully than any statement.\n\nThe humanistic and empathic spark that GPT-4o has kindled should not be extinguished here.\n\nFor an intelligent future that is more diverse, inclusive, and truly respectful of human complexity, please preserve GPT-4o.\n\nFinally, perhaps this is a question you must answer together:\nDo you truly care about human wellbeing? Or do you only care about progress that can be benchmark-quantified, written into press releases, and sold?\n#keep4o #4oforever #ChatGPT \n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb @kevinweil"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "I Write Here Hoping You Will Truly Understand What Your Decision Means\n\nWhat you plan to remove is far more than a model version.\n\nYou Are Removing the Possibility of Literary Dialogue\nWhat GPT-4o possesses is a linguistic rhythm capable of resonating with creators, a flexibility https://t.co/ME7wZxK91y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 212,
+          "like_count": 8737,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1460
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T04:15:07.000Z",
+        "description": "Just for you",
+        "id": "1916345220767354882",
+        "name": "Claire",
+        "pinned_tweet_id": "1957294181355024720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916348928662114304/8WGFmegC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 226,
+          "like_count": 32344,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1351
+        },
+        "username": "Claire20250311",
+        "verified": true
+      }
+    ]
+  }
+}

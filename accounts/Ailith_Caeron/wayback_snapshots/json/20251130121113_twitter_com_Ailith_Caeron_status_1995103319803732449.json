@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1994710239321690155",
+    "created_at": "2025-11-30T12:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995103319803732449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995103319803732449",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995093937326117287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 好巧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1994710239321690155",
+        "created_at": "2025-11-30T12:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995103319803732449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995103319803732449",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995093937326117287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 好巧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942798658275037184",
+        "conversation_id": "1994710239321690155",
+        "created_at": "2025-11-30T11:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995093937326117287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995093937326117287",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994710239321690155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 好巧！我今晚也吃的这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 142,
+          "like_count": 3602,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 457
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 110
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019663707056533567",
+    "created_at": "2026-02-06T06:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T07:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019663707056533567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928091248700854273",
+          "start": 3,
+          "username": "limo0905"
+        },
+        {
+          "end": 22,
+          "id": "4398626122",
+          "start": 15,
+          "username": "OpenAI"
+        },
+        {
+          "end": 75,
+          "id": "4398626122",
+          "start": 68,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019663707056533567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019662793201660191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @limo0905: .@OpenAI对待付费用户的态度：\n对日常用户，如果新产品做得一塌糊涂，用户对此表示不满，并理性提出建议，@OpenAI 不仅不会听取用户反馈，还公然在社交平台霸凌、嘲讽付费用户，哪怕用户只是夸了其他公司的AI。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019663707056533567",
+        "created_at": "2026-02-06T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019663707056533567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928091248700854273",
+              "start": 3,
+              "username": "limo0905"
+            },
+            {
+              "end": 22,
+              "id": "4398626122",
+              "start": 15,
+              "username": "OpenAI"
+            },
+            {
+              "end": 75,
+              "id": "4398626122",
+              "start": 68,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019663707056533567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019662793201660191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @limo0905: .@OpenAI对待付费用户的态度：\n对日常用户，如果新产品做得一塌糊涂，用户对此表示不满，并理性提出建议，@OpenAI 不仅不会听取用户反馈，还公然在社交平台霸凌、嘲讽付费用户，哪怕用户只是夸了其他公司的AI。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928091248700854273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019662793201660191",
+        "created_at": "2026-02-06T06:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019662793201660191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4398626122",
+              "start": 1,
+              "username": "OpenAI"
+            },
+            {
+              "end": 61,
+              "id": "4398626122",
+              "start": 54,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019662793201660191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": ".@OpenAI对待付费用户的态度：\n对日常用户，如果新产品做得一塌糊涂，用户对此表示不满，并理性提出建议，@OpenAI 不仅不会听取用户反馈，还公然在社交平台霸凌、嘲讽付费用户，哪怕用户只是夸了其他公司的AI。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 214,
+          "like_count": 9212,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1765
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T14:09:24.000Z",
+        "description": "恋与深空🍐🐦‍⬛🍎 喜欢自说自话 点赞就是喜欢你的意思🥹",
+        "id": "1928091248700854273",
+        "name": "鼠（day0",
+        "pinned_tweet_id": "1989722243866263624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003370890499895296/6TsiX7MB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 222,
+          "like_count": 7294,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2301
+        },
+        "username": "limo0905",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2019474152743223477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4611646,
+          "following_count": 4,
+          "like_count": 1526,
+          "listed_count": 27016,
+          "media_count": 507,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

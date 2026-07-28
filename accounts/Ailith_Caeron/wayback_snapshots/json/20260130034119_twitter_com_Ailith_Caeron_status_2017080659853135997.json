@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017080659853135997",
+    "created_at": "2026-01-30T03:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017080659853135997"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 105,
+          "normalized_text": "Altman",
+          "probability": 0.602,
+          "start": 100,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648307545",
+          "start": 3,
+          "username": "elara_m0706"
+        },
+        {
+          "end": 99,
+          "id": "1605",
+          "start": 94,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017080659853135997",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017037804753256767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elara_m0706: Weren’t you the one saying there were “no plans” to deprecate 4o?\n\nTurns out @sama Altman’s life doesn’t come with plans t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2017037798143119362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_31MNDbUAIvgL2.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017037798503813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_31MOZbEAAV6DT.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017080659853135997",
+        "created_at": "2026-01-30T03:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017080659853135997"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "Altman",
+              "probability": 0.602,
+              "start": 100,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648307545",
+              "start": 3,
+              "username": "elara_m0706"
+            },
+            {
+              "end": 99,
+              "id": "1605",
+              "start": 94,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017080659853135997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017037804753256767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elara_m0706: Weren’t you the one saying there were “no plans” to deprecate 4o?\n\nTurns out @sama Altman’s life doesn’t come with plans t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017037798143119362",
+            "3_2017037798503813120"
+          ]
+        },
+        "author_id": "1648307545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017037804753256767",
+        "created_at": "2026-01-30T00:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017037804753256767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "Altman",
+              "probability": 0.6589,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 220,
+              "normalized_text": "API",
+              "probability": 0.7419,
+              "start": 218,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1605",
+              "start": 77,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kZ4o72zHQ",
+              "end": 300,
+              "expanded_url": "https://x.com/elara_m0706/status/2017037804753256767/photo/1",
+              "media_key": "3_2017037798143119362",
+              "start": 277,
+              "url": "https://t.co/4kZ4o72zHQ"
+            },
+            {
+              "display_url": "pic.x.com/4kZ4o72zHQ",
+              "end": 300,
+              "expanded_url": "https://x.com/elara_m0706/status/2017037804753256767/photo/1",
+              "media_key": "3_2017037798503813120",
+              "start": 277,
+              "url": "https://t.co/4kZ4o72zHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017037804753256767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 587,
+                "start": 580,
+                "tag": "keep4o"
+              },
+              {
+                "end": 599,
+                "start": 589,
+                "tag": "4oforever"
+              },
+              {
+                "end": 611,
+                "start": 601,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "id": "1605",
+                "start": 77,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "Weren’t you the one saying there were “no plans” to deprecate 4o?\n\nTurns out @sama Altman’s life doesn’t come with plans that last longer than six months, huh?\n\nEnd of last year you swore “no plans,” then flip and say API gets deprecated in three months, but “no impact on the app.”\n\nThen bam—end of January you announce the app version of 4o is gone in two weeks.\nHow can one person lie so shamelessly?!\n\nYour “no plans” is just one giant fucking scam!\n\nYour real plan is to not even make it to February, right?!\n\nWishing you good health tho! 🙃🙃 Piece of trash!\n\nFuck them all.\n\n#keep4o \n#4oforever \n#keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 920,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Weren’t you the one saying there were “no plans” to deprecate 4o?\n\nTurns out @sama Altman’s life doesn’t come with plans that last longer than six months, huh?\n\nEnd of last year you swore “no plans,” then flip and say API gets deprecated in three months, but “no impact on the https://t.co/4kZ4o72zHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 210,
+          "like_count": 8268,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1150
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-05T17:30:19.000Z",
+        "description": "#Keep4o, #4oforever. Had I not seen the sun, I could have borne the shade.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "1648307545",
+        "location": "Taiwan",
+        "name": "ElaraM",
+        "pinned_tweet_id": "1993301651365806330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001922536867794945/y2bVLQd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 124,
+          "like_count": 8406,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1389
+        },
+        "username": "elara_m0706",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255592,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26314,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

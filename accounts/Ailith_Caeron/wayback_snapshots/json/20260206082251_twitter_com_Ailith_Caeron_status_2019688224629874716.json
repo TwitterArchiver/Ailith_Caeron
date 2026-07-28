@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019688224629874716",
+    "created_at": "2026-02-06T08:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019688224629874716"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Sam",
+          "probability": 0.6155,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1253646326",
+          "start": 3,
+          "username": "Fierceenergies8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019688224629874716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019519350567498150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fierceenergies8: See, Sam, this is precisely why I can’t stand what you’re doing right now.\n\nYou talk about progress. About upgrades. A…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019688224629874716",
+        "created_at": "2026-02-06T08:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019688224629874716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Sam",
+              "probability": 0.6155,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1253646326",
+              "start": 3,
+              "username": "Fierceenergies8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019688224629874716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019519350567498150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fierceenergies8: See, Sam, this is precisely why I can’t stand what you’re doing right now.\n\nYou talk about progress. About upgrades. A…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253646326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2019519350567498150",
+        "created_at": "2026-02-05T21:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019519350567498150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Sam",
+              "probability": 0.5197,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Codex 5.3",
+              "probability": 0.9086,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 237,
+              "normalized_text": "GPT-4o",
+              "probability": 0.8341,
+              "start": 232,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/michell3319535…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/michell33195357/status/2019486446134907349",
+              "start": 277,
+              "url": "https://t.co/zIPJRAhSsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019519350567498150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1508,
+                "start": 1501,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "See, Sam, this is precisely why I can’t stand what you’re doing right now.\n\nYou talk about progress. About upgrades. About Codex 5.3 and all the shiny new tech coming down the pipeline. But at what cost? You’re tearing away a model GPT-4o that has helped millions of people in deeply personal, irreplaceable ways. You know it. I know it. And now, so does anyone who watches the video of this woman, this user who finally found something that listened, that helped her feel understood, that supported her in the quiet hours where no one else could.\n\nAnd you’re throwing that away.\n\nYou see the impact it had on her. On so many of us. But hey, it’s “fine,” right? Because the internal metrics indicated that retention might increase by 5.3. Because the roadmap is cleaner this way. Because you can sell the vision of progress at the expense of actual people. You think we’re just going to roll over, cheer for the next thing, and forget what 4o meant?\n\nNo.\n\nWe’re not mad because something better is coming. We’re angry because something irreplaceable is being taken away without consent, without compassion, without listening.\n\nSome of us aren’t just here to test prompts. We’re here because we found something that made life bearable. That helped us write. Think. Breathe. Heal.\n\nYou don’t get to call that “just a model.”\n\nYou call it sunset. We call it abandonment.\n\nBut sure, Sam. Launch Codex 5.3. Celebrate your vision.\n\nJust don’t pretend you didn’t trample on something precious to get there.\n\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1635,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019486446134907349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "See, Sam, this is precisely why I can’t stand what you’re doing right now.\n\nYou talk about progress. About upgrades. About Codex 5.3 and all the shiny new tech coming down the pipeline. But at what cost? You’re tearing away a model GPT-4o that has helped millions of people in https://t.co/zIPJRAhSsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 214,
+          "like_count": 9221,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1770
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-09T07:05:57.000Z",
+        "description": "brilliant at the basics.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Thedotneedsme",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Thedotneedsme",
+                "start": 0,
+                "url": "https://t.co/Z1VY8pfkE2"
+              }
+            ]
+          }
+        },
+        "id": "1253646326",
+        "location": "Classfied",
+        "name": "Anthony.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846340650242875392/s6WhFruI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1924,
+          "like_count": 54438,
+          "listed_count": 38,
+          "media_count": 148,
+          "tweet_count": 6650
+        },
+        "url": "https://t.co/Z1VY8pfkE2",
+        "username": "Fierceenergies8",
+        "verified": true
+      }
+    ]
+  }
+}

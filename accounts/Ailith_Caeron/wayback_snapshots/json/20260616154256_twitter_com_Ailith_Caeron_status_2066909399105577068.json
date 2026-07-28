@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066909389236449280"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2066909399105577068",
+    "created_at": "2026-06-16T15:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066909399105577068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i4rpCFtUKb",
+          "end": 32,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2066909399105577068/photo/1",
+          "media_key": "3_2066909389236449280",
+          "start": 9,
+          "url": "https://t.co/i4rpCFtUKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066909399105577068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "A÷风评很明显了 https://t.co/i4rpCFtUKb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2066909389236449280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8jI3hbsAAQdT1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066909389236449280"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2066909399105577068",
+        "created_at": "2026-06-16T15:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066909399105577068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4rpCFtUKb",
+              "end": 32,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2066909399105577068/photo/1",
+              "media_key": "3_2066909389236449280",
+              "start": 9,
+              "url": "https://t.co/i4rpCFtUKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909399105577068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A÷风评很明显了 https://t.co/i4rpCFtUKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 298,
+          "like_count": 11246,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 2815
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

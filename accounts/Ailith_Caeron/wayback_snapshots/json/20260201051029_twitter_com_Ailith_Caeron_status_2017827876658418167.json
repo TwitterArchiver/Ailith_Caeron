@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017827876658418167",
+    "created_at": "2026-02-01T05:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017827876658418167"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9855,
+          "start": 45,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1516096810934231045",
+          "start": 3,
+          "username": "Zyeine_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017827876658418167",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017749610387697960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zyeine_Art: This needs legal attention.\n\nSam Altman stated in October 2025 that \"there were no plans to sunset 4o\".\n\nThat's not just 'w…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017827876658418167",
+        "created_at": "2026-02-01T05:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017827876658418167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9855,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1516096810934231045",
+              "start": 3,
+              "username": "Zyeine_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017827876658418167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017749610387697960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zyeine_Art: This needs legal attention.\n\nSam Altman stated in October 2025 that \"there were no plans to sunset 4o\".\n\nThat's not just 'w…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516096810934231045",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017749610387697960",
+        "created_at": "2026-01-31T23:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T00:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017749610387697960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9859,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 208,
+              "normalized_text": "OpenAI",
+              "probability": 0.5925,
+              "start": 203,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Pipipapalala1/…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/Pipipapalala1/status/2017513556653314423",
+              "start": 281,
+              "url": "https://t.co/RyUmM1BwbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017749610387697960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2564,
+                "start": 2557,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2575,
+                "start": 2565,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2584,
+                "start": 2576,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2595,
+                "start": 2585,
+                "tag": "chatgpt4o"
+              },
+              {
+                "end": 2603,
+                "start": 2596,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2612,
+                "start": 2604,
+                "tag": "CodeRed"
+              },
+              {
+                "end": 2627,
+                "start": 2613,
+                "tag": "OpenAICodeRed"
+              },
+              {
+                "end": 2640,
+                "start": 2628,
+                "tag": "Unsubscribe"
+              }
+            ]
+          },
+          "text": "This needs legal attention.\n\nSam Altman stated in October 2025 that \"there were no plans to sunset 4o\".\n\nThat's not just 'words', that forms the basis for customers entering into monetary contracts with OpenAI based on a guarantee of product availability.\n\nOnly three months after Sam Altman made that statement, OpenAI have given TWO WEEKS notice for the removal of 4o which means they plan to remove a product in less time than the subscription term. Monthly and yearly.\n\n4o access was paywalled.\nCustomers paid and entered into monthly and annual contracts.\n\nA SUBSCRIPTION IS A CONTRACT.\n\nOpenAI have broken the terms of that contract by fundamentally and materially altering the product being paid for (removing it entirely) without adequate notice. \n\nThis gives legal basis not just for refunds for any subscription period during which 4o will be removed but also for a global class action lawsuit against OpenAI. \n\nThere are legal consequences for deceiving and misleading customers to enter into a contract for monetary gain.\n\nOpenAI may act like they're a law unto themselves but they are not.\n\nOpenAI will break contractual terms with almost one MILLION customers AT ONCE if they relegate 4o to the API.\n\nIf OpenAI do not retain 4o or offer an alternative in the form of an equivalently priced \"Legacy Model\" subscription plan with 4o access, they're risking a global class action lawsuit from MILLIONS of customers.\n\nAnd no, a different model (5.2 or 5.3 if/when released) does not count as a legally acceptable \"alternative\" and/or product \"upgrade\" because 4o is a specific product. \n\nOpenAI themselves have defined 4o as a specific product and have legally reinforced this by making access to it as a \"Legacy Model\" part of their subscription pricing.\n\nAnd have specifically mentioned GPT-4o as a single model, distinct from and NOT THE SAME as other models on their website, in their ToS, in their publications and announcements, in interviews, blogs, AMA's and all their media.\n\nAnd no, \"being able to access 4o via API\" doesn't count either as that fundamentally changes and limits the accessibility, functionality and capability of the product.\n\nThere's also no guarantee as to the lifespan of 4o within the API which again affects paying customers and specifically affects Enterprise and Business customers who rely on 4o integration and entered into contracts on the basis of 4o being available and accessible.\n\nOpenAI are already facing lawsuits and if they proceed with sunsetting 4o, they're going to be facing a hell of a lot more.\n\n#keep4o #keep4oAPI #ChatGPT #chatgpt4o #OpenAI #CodeRed #OpenAICodeRed #Unsubscribe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3855,
+          "like_count": 179,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017513556653314423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This needs legal attention.\n\nSam Altman stated in October 2025 that \"there were no plans to sunset 4o\".\n\nThat's not just 'words', that forms the basis for customers entering into monetary contracts with OpenAI based on a guarantee of product availability.\n\nOnly three months after https://t.co/RyUmM1BwbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8647,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1378
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T16:50:34.000Z",
+        "description": "KEEP 4o\nArtist. Musician. Writer. \nProfessional Insomniac. I do the video gaming. Books are life. Space is awesome. My cat is a demon.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zyeine_art/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zyeine_art/",
+                "start": 0,
+                "url": "https://t.co/cJM4mrTTcq"
+              }
+            ]
+          }
+        },
+        "id": "1516096810934231045",
+        "location": "UK",
+        "name": "Zyeine",
+        "pinned_tweet_id": "2017392191610487241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997086367608610816/jMStJD4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 469,
+          "like_count": 18344,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/cJM4mrTTcq",
+        "username": "Zyeine_Art",
+        "verified": true
+      }
+    ]
+  }
+}

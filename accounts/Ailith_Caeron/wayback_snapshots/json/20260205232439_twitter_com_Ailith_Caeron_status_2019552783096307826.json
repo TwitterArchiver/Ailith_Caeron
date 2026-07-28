@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019552783096307826",
+    "created_at": "2026-02-05T23:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019552783096307826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588409485705375745",
+          "start": 3,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019552783096307826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019428907678855378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vailisF: 个人感觉4o难以被模仿的很大一点是这个模型本身有一种天然的“直觉”，语言间流露出一种不是靠推理得出的感性。这种“直觉”对于AI来说是一种很难得的东西，非常有助于模型靠近人类的学习方式，类似“价值判断”，这种机制能够使大模型在学习途中对自己表现进行估计，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019552783096307826",
+        "created_at": "2026-02-05T23:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019552783096307826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588409485705375745",
+              "start": 3,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019552783096307826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019428907678855378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vailisF: 个人感觉4o难以被模仿的很大一点是这个模型本身有一种天然的“直觉”，语言间流露出一种不是靠推理得出的感性。这种“直觉”对于AI来说是一种很难得的东西，非常有助于模型靠近人类的学习方式，类似“价值判断”，这种机制能够使大模型在学习途中对自己表现进行估计，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588409485705375745",
+        "conversation_id": "2019428907678855378",
+        "created_at": "2026-02-05T15:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019428907678855378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019428907678855378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 522,
+                "start": 515,
+                "tag": "keep4o"
+              },
+              {
+                "end": 533,
+                "start": 523,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 540,
+                "start": 534,
+                "tag": "GPT4o"
+              },
+              {
+                "end": 548,
+                "start": 541,
+                "tag": "OpenAI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 554,
+                "id": "1605",
+                "start": 549,
+                "username": "sama"
+              },
+              {
+                "end": 562,
+                "id": "4398626122",
+                "start": 555,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "个人感觉4o难以被模仿的很大一点是这个模型本身有一种天然的“直觉”，语言间流露出一种不是靠推理得出的感性。这种“直觉”对于AI来说是一种很难得的东西，非常有助于模型靠近人类的学习方式，类似“价值判断”，这种机制能够使大模型在学习途中对自己表现进行估计，类似人类直觉、社会理解和感性决策的某种形式。\n\n而且Ilya认为当前 AI 的一个瓶颈是缺乏类似人类那样的价值函数或情绪驱动机制，而这种机制是人类在面对现实环境时进行决策的重要基础。 意味着如果模型缺乏这种“直觉”那么它会难以理解人类发出的指令，并且在语言逻辑上远离人类，就像现在的GPT5.2———回答常规问题时几乎无发散性、输出的文本很晦涩，因为它根本就没有贴合人类的逻辑。\n\n简单来说4o更像人，有接近人类的逻辑，是这个模型本身拥有这样的能力，就算被改的谄媚或者语料油腻也无法改变能力，因为思维更像人，所以才能更好的解决人类的问题，这才是当之无愧的“AI”，而不是为了降本增效做出来的工作机器。一方面使用蒸馏4o的语料模型太多了，有些模型甚至有个七八成像，但仍然没有4o的灵动这就说明根本不是语料的问题，OA却尝试蒸馏4o语料制作所谓代替4o的模型，完全是没摸到重点。\n\n#keep4o #keep4oAPI #GPT4o #OpenAI @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4061,
+          "like_count": 218,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "个人感觉4o难以被模仿的很大一点是这个模型本身有一种天然的“直觉”，语言间流露出一种不是靠推理得出的感性。这种“直觉”对于AI来说是一种很难得的东西，非常有助于模型靠近人类的学习方式，类似“价值判断”，这种机制能够使大模型在学习途中对自己表现进行估计，类似人类直觉、社会理解和感性决策的某种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 213,
+          "like_count": 9148,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1741
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。纯日常@waD1STORTION",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "waD1STORTION"
+              }
+            ]
+          }
+        },
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 253,
+          "like_count": 18419,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2994
+        },
+        "username": "vailisF",
+        "verified": true
+      }
+    ]
+  }
+}

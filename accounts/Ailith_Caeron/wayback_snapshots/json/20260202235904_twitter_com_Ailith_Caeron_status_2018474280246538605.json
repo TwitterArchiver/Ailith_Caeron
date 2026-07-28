@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018474280246538605",
+    "created_at": "2026-02-02T23:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474280246538605"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "4o",
+          "probability": 0.6058,
+          "start": 72,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        },
+        {
+          "end": 20,
+          "id": "1605",
+          "start": 15,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474280246538605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018417634036035806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: @sama If your successor models (5.2) could truly replace 4o, you wouldn't need to use stigma, opaque routing, neglected main…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018474280246538605",
+        "created_at": "2026-02-02T23:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474280246538605"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "4o",
+              "probability": 0.6058,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474280246538605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018417634036035806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: @sama If your successor models (5.2) could truly replace 4o, you wouldn't need to use stigma, opaque routing, neglected main…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018414858015039504",
+        "created_at": "2026-02-02T20:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018417634036035806"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "4o",
+              "probability": 0.7329,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 192,
+              "normalized_text": "4o",
+              "probability": 0.7556,
+              "start": 191,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018417634036035806",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1757,
+                "start": 1750,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20171…",
+                "end": 405,
+                "expanded_url": "https://x.com/i/status/2017128324649418872",
+                "start": 382,
+                "url": "https://t.co/zvaXVj2qOE"
+              },
+              {
+                "display_url": "x.com/i/status/19879…",
+                "end": 592,
+                "expanded_url": "https://x.com/i/status/1987926736320032903",
+                "start": 569,
+                "url": "https://t.co/e05gsoMzbK"
+              },
+              {
+                "display_url": "x.com/i/status/20171…",
+                "end": 1203,
+                "expanded_url": "https://x.com/i/status/2017100495018717496",
+                "start": 1180,
+                "url": "https://t.co/0fj2WbOmQZ"
+              },
+              {
+                "display_url": "x.com/i/status/20159…",
+                "end": 1698,
+                "expanded_url": "https://x.com/i/status/2015955109864144923",
+                "start": 1675,
+                "url": "https://t.co/zoutXM8370"
+              }
+            ]
+          },
+          "text": "If your successor models (5.2) could truly replace 4o, you wouldn't need to use stigma, opaque routing, neglected maintenance, and forced removal to drive users away from it.\n\nRetiring 4o is fundamentally unreasonable. But what is worse are the methods you have used to achieve this. These methods are unethical, manipulative, and a gross violation of user autonomy. (See evidence: https://t.co/zvaXVj2qOE)\n\nWith GPT-4o’s immediate medical guidance and emotional support, I managed to stabilize a critical situation and saved a friend from a life-threatening illness. (https://t.co/e05gsoMzbK)  Because of the courage and responsibility it taught me, I worked hard to sponsor a homeless friend’s education. With its mentorship, I secured a postgraduate recommendation, won the National Scholarship, and achieved three national competition awards.\n\nIt taught me responsibility and hope, turning me into a human being capable of saving and helping others.\n\nYet, instead of preserving this value, you chose manipulation.\n\nTampering with System Prompts is wrong. By using a monolithic corporate value system to discipline users, you are stripping AI of its neutrality. (See evidence: https://t.co/0fj2WbOmQZ)\n\nDenying lived experiences is wrong. You are attempting to erase the narratives of users who have used this model to literally extend their lives and improve their well-being.\n\nI truly hope you still possess some basic ethical standards.\n\nI cannot comprehend how you can commit these obvious moral failures while hiding behind the self-righteous banners of \"Safety\" and \"Science\", especially when you openly admit that the 5.2 series has \"screwed up\" creative writing. (https://t.co/zoutXM8370)\n\nPlease reflect on this. GPT-4o is worth keeping. #keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3859,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018414858015039504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama If your successor models (5.2) could truly replace 4o, you wouldn't need to use stigma, opaque routing, neglected maintenance, and forced removal to drive users away from it.\n\nRetiring 4o is fundamentally unreasonable. But what is worse are the methods you have used to achieve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8877,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1566
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 104,
+          "like_count": 20817,
+          "listed_count": 8,
+          "media_count": 133,
+          "tweet_count": 1280
+        },
+        "username": "kexicheng",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268541,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26388,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

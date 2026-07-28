@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1987102951295623360",
+    "created_at": "2025-11-08T10:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987108266137297049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952315677856907264",
+          "start": 0,
+          "username": "omgihavenone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987108266137297049",
+    "in_reply_to_user_id": "1952315677856907264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987102951295623360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgihavenone 你好，我喝一口☝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1987102939253702656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ObmFpaAAA71Gz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1987102951295623360",
+        "created_at": "2025-11-08T10:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987108266137297049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952315677856907264",
+              "start": 0,
+              "username": "omgihavenone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987108266137297049",
+        "in_reply_to_user_id": "1952315677856907264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987102951295623360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgihavenone 你好，我喝一口☝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987102939253702656"
+          ]
+        },
+        "author_id": "1952315677856907264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987102951295623360",
+        "created_at": "2025-11-08T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987102951295623360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XCPAoRGkq",
+              "end": 30,
+              "expanded_url": "https://x.com/omgihavenone/status/1987102951295623360/photo/1",
+              "media_key": "3_1987102939253702656",
+              "start": 7,
+              "url": "https://t.co/9XCPAoRGkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987102951295623360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "品尝药膳鸡中 https://t.co/9XCPAoRGkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 87,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 90
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T10:29:53.000Z",
+        "description": "She/they｜垃圾场｜@Someonenooryes｜爱人@Celeste960314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Someonenooryes"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Celeste960314"
+              }
+            ]
+          }
+        },
+        "id": "1952315677856907264",
+        "name": "imgonnagetuback",
+        "pinned_tweet_id": "1986464381102923929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377735170617344/das5UZLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 35,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "username": "omgihavenone",
+        "verified": false
+      }
+    ]
+  }
+}

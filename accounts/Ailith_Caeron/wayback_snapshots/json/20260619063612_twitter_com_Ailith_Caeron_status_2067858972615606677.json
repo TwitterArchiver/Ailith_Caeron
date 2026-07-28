@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067758686408429568"
+      ],
+      "media_source_tweet_id": [
+        "2067758780130218317"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2067858972615606677",
+    "created_at": "2026-06-19T06:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067858972615606677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1614594433818972160",
+          "start": 3,
+          "username": "PlusGifti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/srUSI6Pid4",
+          "end": 49,
+          "expanded_url": "https://x.com/PlusGifti/status/2067758780130218317/video/1",
+          "media_key": "13_2067758686408429568",
+          "start": 26,
+          "url": "https://t.co/srUSI6Pid4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067858972615606677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067758780130218317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PlusGifti: Food lover https://t.co/srUSI6Pid4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14800,
+        "height": 1280,
+        "media_key": "13_2067758686408429568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067758686408429568/img/Jx3jRoDvG7KPuMPj.jpg",
+        "public_metrics": {
+          "view_count": 387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758686408429568/vid/avc1/320x568/o19TygqCCHZYzTTj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758686408429568/vid/avc1/480x852/ZS50WEZmjQXNIzpe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758686408429568/vid/avc1/720x1280/-FdBi4b8zIPQrolI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067758686408429568/pl/3SnBwjCu4M9hpnAe.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067758686408429568"
+          ],
+          "media_source_tweet_id": [
+            "2067758780130218317"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2067858972615606677",
+        "created_at": "2026-06-19T06:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067858972615606677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614594433818972160",
+              "start": 3,
+              "username": "PlusGifti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/srUSI6Pid4",
+              "end": 49,
+              "expanded_url": "https://x.com/PlusGifti/status/2067758780130218317/video/1",
+              "media_key": "13_2067758686408429568",
+              "start": 26,
+              "url": "https://t.co/srUSI6Pid4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067858972615606677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067758780130218317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PlusGifti: Food lover https://t.co/srUSI6Pid4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067758686408429568"
+          ]
+        },
+        "author_id": "1614594433818972160",
+        "conversation_id": "2067758780130218317",
+        "created_at": "2026-06-18T23:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067758780130218317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srUSI6Pid4",
+              "end": 34,
+              "expanded_url": "https://x.com/PlusGifti/status/2067758780130218317/video/1",
+              "media_key": "13_2067758686408429568",
+              "start": 11,
+              "url": "https://t.co/srUSI6Pid4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067758780130218317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1694,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Food lover https://t.co/srUSI6Pid4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 304,
+          "like_count": 11288,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:06:03.000Z",
+        "description": "Love for #raccoons\nAll images and videos belong to their respective owners\nPlease DM for Credit / Removal",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 9,
+                "tag": "raccoons"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaarashop.com/collections/ra…",
+                "end": 23,
+                "expanded_url": "https://jaarashop.com/collections/raccoon-gift",
+                "start": 0,
+                "url": "https://t.co/t3StApsu5b"
+              }
+            ]
+          }
+        },
+        "id": "1614594433818972160",
+        "name": "GiftiPlus",
+        "pinned_tweet_id": "2067631535545798975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621307998663757824/mGpFi_BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9098,
+          "following_count": 6046,
+          "like_count": 2077,
+          "listed_count": 41,
+          "media_count": 2699,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/t3StApsu5b",
+        "username": "PlusGifti",
+        "verified": false
+      }
+    ]
+  }
+}

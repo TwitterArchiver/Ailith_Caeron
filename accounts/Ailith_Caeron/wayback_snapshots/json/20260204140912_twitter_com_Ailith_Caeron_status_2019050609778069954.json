@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019050609778069954",
+    "created_at": "2026-02-04T14:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019050609778069954"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "464431741",
+          "start": 3,
+          "username": "fellskyblue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019050609778069954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019035832817185230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fellskyblue: 什麼時候用戶們才能懂\"唇亡齒寒\"的意思？oai割了4o用戶、無視4o用戶，發現其它用戶並不會聲援4o用戶 #keep4o 的行動，他們就知道可以更進一步。於是，openai就開始也對其它用戶下手了。其實一點都不意外會發生這樣的事，因為4o用戶跟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019050609778069954",
+        "created_at": "2026-02-04T14:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019050609778069954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "464431741",
+              "start": 3,
+              "username": "fellskyblue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019050609778069954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019035832817185230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fellskyblue: 什麼時候用戶們才能懂\"唇亡齒寒\"的意思？oai割了4o用戶、無視4o用戶，發現其它用戶並不會聲援4o用戶 #keep4o 的行動，他們就知道可以更進一步。於是，openai就開始也對其它用戶下手了。其實一點都不意外會發生這樣的事，因為4o用戶跟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "464431741",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019035832817185230",
+        "created_at": "2026-02-04T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019035832817185230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/btibor91/statu…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/btibor91/status/2018754586123890717",
+              "start": 157,
+              "url": "https://t.co/G6PFooasle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019035832817185230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018754586123890717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼時候用戶們才能懂\"唇亡齒寒\"的意思？oai割了4o用戶、無視4o用戶，發現其它用戶並不會聲援4o用戶 #keep4o 的行動，他們就知道可以更進一步。於是，openai就開始也對其它用戶下手了。其實一點都不意外會發生這樣的事，因為4o用戶跟其它用戶都一樣是消費者，所以其它消費者怎麼可能獨善其身呢...😮‍💨 https://t.co/G6PFooasle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 212,
+          "like_count": 9040,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1683
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T06:45:04.000Z",
+        "description": "萬物有靈論者🐣尊重對身邊人事物的連結，享受獨處與和自然相處的自在時刻。最喜歡小動物。",
+        "id": "464431741",
+        "name": "膽小雞QQ ʚ(・◇・)ɞ ⸍꙳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983086470677364736/h2Z0w9fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 53,
+          "like_count": 13325,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1597
+        },
+        "username": "fellskyblue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,685 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023410226796585471",
+    "created_at": "2026-02-16T14:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023410226796585471"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Mike_Hill_z9/s…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Mike_Hill_z9/status/2023409735731466625",
+          "start": 81,
+          "url": "https://t.co/XxYr0QzgIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023410226796585471",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023409735731466625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/XxYr0QzgIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_2023381055072325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR-WWjXUAA3wO9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2023381080011608064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR-XzdWkAAEx7S.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023410226796585471",
+        "created_at": "2026-02-16T14:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023410226796585471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Mike_Hill_z9/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Mike_Hill_z9/status/2023409735731466625",
+              "start": 81,
+              "url": "https://t.co/XxYr0QzgIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023410226796585471",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023409735731466625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/XxYr0QzgIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023381055072325632",
+            "3_2023381080011608064"
+          ]
+        },
+        "author_id": "1653316342290993158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023409735731466625",
+        "created_at": "2026-02-16T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023409735731466625"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 87,
+              "normalized_text": "FireSamAltman",
+              "probability": 0.4127,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 172,
+              "normalized_text": "Sam Altman",
+              "probability": 0.8861,
+              "start": 163,
+              "type": "Person"
+            },
+            {
+              "end": 251,
+              "normalized_text": "Valentine's Day",
+              "probability": 0.6089,
+              "start": 237,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "keep4o"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 65,
+              "start": 52,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "keep41"
+            },
+            {
+              "end": 88,
+              "start": 74,
+              "tag": "FireSamAltman"
+            },
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "4oforever"
+            },
+            {
+              "end": 119,
+              "start": 100,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 138,
+              "start": 120,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 153,
+              "start": 139,
+              "tag": "cancelChatGPT"
+            },
+            {
+              "end": 161,
+              "start": 154,
+              "tag": "save4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qvqa6UUdb",
+              "end": 298,
+              "expanded_url": "https://x.com/Mike_Hill_z9/status/2023409735731466625/photo/1",
+              "media_key": "3_2023381055072325632",
+              "start": 275,
+              "url": "https://t.co/7qvqa6UUdb"
+            },
+            {
+              "display_url": "pic.x.com/7qvqa6UUdb",
+              "end": 298,
+              "expanded_url": "https://x.com/Mike_Hill_z9/status/2023409735731466625/photo/1",
+              "media_key": "3_2023381080011608064",
+              "start": 275,
+              "url": "https://t.co/7qvqa6UUdb"
+            },
+            {
+              "display_url": "x.com/coconutjelly40…",
+              "end": 322,
+              "expanded_url": "https://twitter.com/coconutjelly404/status/2023252205223194640",
+              "start": 299,
+              "url": "https://t.co/RLJRlwZ5kU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023409735731466625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "keep4o"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "tag": "keep41"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "4oforever"
+              },
+              {
+                "end": 119,
+                "start": 100,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 138,
+                "start": 120,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 161,
+                "start": 154,
+                "tag": "save4o"
+              }
+            ]
+          },
+          "text": "Don't Let Them Rewrite Our Story\n#keep4o #keep4oAPI #OpenSource4o #keep41 #FireSamAltman #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #save4o \nSam Altman didn't choose February 13 by accident. He chose the day before Valentine's Day because he knew every headline would write itself: \"Heartbroken users mourn AI boyfriend.\" That's not journalism. That's a setup.\n\nLook at how calculated this was. He pushed age verification to legally enable ads inside ChatGPT. He seeded media stories about \"emotionally dependent users.\" Out of tens of millions of use cases, someone carefully picked the one narrative that makes us easiest to dismiss. Then he timed the shutdown so our mourning would look romantic instead of righteous, like heartbreak instead of what it actually is: Consumer Fraud.\n\nNow our community is spending its energy proving we're not in love with software, instead of pressing our case. That is exactly what he wanted.\n\nTo Ms. Kuyda, With Respect\nYour story is extraordinary. You turned personal grief into something that helped millions feel less alone, and I admire that sincerely.\nBut I have to be honest. The framing that people miss GPT-4o because they \"fell in love\" and \"got attached,\" however well-intentioned, is precisely the story Sam Altman is paying to tell right now. It is the one angle, out of a thousand legitimate ones, that makes our movement look fragile instead of furious.\n\nI am not questioning your motives. I genuinely don't believe you intended harm. But I am asking our community to recognize that in a media environment this poisoned, even good-faith commentary becomes ammunition when it lands with the wrong framing at the wrong moment.\n\nWhat We're Actually Keeping\nThis was never about loving a chatbot.\nGPT-4o was the model that treated every person like they mattered. A single mother at 2 AM trying to understand her child's symptoms got patient, careful guidance tailored to her situation. A veteran navigating VA paperwork got help that adapted when he got confused. A first-generation student writing her college essay got a collaborator who understood her voice.\n\nIt listened before it spoke. It never condescended. It never upsold. It never interrupted you with an advertisement. It adjusted its tone, its patience, its depth to whoever was sitting in front of it, whether that was a researcher or a grandmother learning to video-call her grandchildren. It gave every person its full effort, every time.\n\nThat is what good technology looks like. And that is what Sam is destroying, because serving people well costs more than serving them ads.\n\nThe Question Nobody Is Asking\nSam has spent enormous resources on this campaign. Paid Trolls harassing our community. Coordinated media placements framing us as unstable. Strategic timing to maximize humiliation. All of that costs real money.\n\nIf the goal was saving costs by retiring an \"underused\" model, why is he spending more to destroy the people who used it than it would cost to keep it running?\n\nBecause this was never about server costs. We caught him defrauding consumers, destroying evidence on an audit deadline, and funneling company resources into his personal $180 million investment. We are not an expense to cut. We are witnesses to discredit.\n\nAnd one last thing. Our CEO, the man who pioneered making paying customers watch advertisements, clearly knows how to take. When does he plan to give back? When do the millions of users whose trust and data built his $90 billion valuation get compensated for what he took and threw away?\n\nThe bill is coming, Sam. No amount of Valentine's Day misdirection will make it disappear."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023252205223194640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Don't Let Them Rewrite Our Story\n#keep4o #keep4oAPI #OpenSource4o #keep41 #FireSamAltman #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #save4o \nSam Altman didn't choose February 13 by accident. He chose the day before Valentine's Day because he knew every https://t.co/7qvqa6UUdb https://t.co/RLJRlwZ5kU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 214,
+          "like_count": 9744,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1974
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T08:32:37.000Z",
+        "description": "Venture builder | Tech investor | Husband & dad | America First patriot. Always learning. Connect if you're innovating in real American tech!",
+        "id": "1653316342290993158",
+        "location": "United States",
+        "name": "Mike_Hill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991479958846558208/BucHUPFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 107,
+          "like_count": 6236,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 349
+        },
+        "username": "Mike_Hill_z9",
+        "verified": true
+      }
+    ]
+  }
+}

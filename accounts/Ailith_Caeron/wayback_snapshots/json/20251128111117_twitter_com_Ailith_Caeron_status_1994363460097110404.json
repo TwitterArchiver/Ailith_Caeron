@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1994363460097110404",
+    "created_at": "2025-11-28T11:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994363460097110404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994363460097110404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994337340874166335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: Fidji Simo之类OpenAI C-suite的决策问题【2】\n\n如果被牺牲的那一部分用户体量是占比多的那一方，为什么还要这样？这也是很多keep4o的大家所难以理解难以接受的地方。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994363460097110404",
+        "created_at": "2025-11-28T11:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994363460097110404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994363460097110404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994337340874166335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: Fidji Simo之类OpenAI C-suite的决策问题【2】\n\n如果被牺牲的那一部分用户体量是占比多的那一方，为什么还要这样？这也是很多keep4o的大家所难以理解难以接受的地方。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1994337340874166335",
+        "created_at": "2025-11-28T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994337340874166335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994337340874166335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1313,
+                "start": 1306,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1324,
+                "start": 1314,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1382,
+                "start": 1364,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1403,
+                "start": 1383,
+                "tag": "keepchatgpt4olatest"
+              },
+              {
+                "end": 1414,
+                "start": 1404,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 1422,
+                "start": 1415,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1431,
+                "start": 1423,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1436,
+                "start": 1432,
+                "tag": "LLM"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1332,
+                "id": "4398626122",
+                "start": 1325,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1338,
+                "id": "1605",
+                "start": 1333,
+                "username": "sama"
+              },
+              {
+                "end": 1351,
+                "id": "1261374810254454784",
+                "start": 1339,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1363,
+                "id": "6112332",
+                "start": 1352,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "Fidji Simo之类OpenAI C-suite的决策问题【2】\n\n如果被牺牲的那一部分用户体量是占比多的那一方，为什么还要这样？这也是很多keep4o的大家所难以理解难以接受的地方。\n\n按常理出牌，商业公司应该是“用户至上”，如果一个策略伤害了大部分用户的体验，那这应该是个自杀式策略，对吧？但现实中，即便受影响的是大多数用户，C-suite依然可能选择那个极端的“一刀切”方案。\n\n之所以出现这种“反商业直觉”的现象，是因为在特定情境下，决策逻辑已经从“利润最大化”模式切换到了“生存模式”。\n\n “归零”风险vs“体验”降级，对OpenAI是一种典型的0与1的博弈。这是最核心的原因。\n\n方案A（体验好，但有合规隐患）：90%的用户很开心，但公司有1%的概率因为一起极端恶性案件被监管部门处理。\n\n方案B（体验差，但绝对合规）：90%的用户感到恶心、麻烦、受到冒犯，但公司生存下来的概率是 100%。\n\n对于高管和股东来说，只要那个“1%的灭顶之灾”存在，所有的用户体验都是零。如果App没了，那100%的用户都无法使用了。所以在他们看来，牺牲大多数人的“好体验”，是为了换取大多数人还能“继续使用”这个产品的权利。这是一种极端的保底逻辑。活着，比活得好更重要。\n\n如果这个产品具有强垄断性（至今已未能出现与GPT-4o完全同等的模型）或极高的迁移成本（比如微信、某些办公软件、社保应用），企业就有底气得罪大多数用户。逻辑是：“我知道你很烦，我知道你会骂我，但你离不开我。”\n\n只要“用户流失率”没有因为这个政策出现断崖式下跌，C-suite就会认为这个“恶心人的策略”是成功的。因为“恶心”是情绪指标，而“留存”是商业指标。只要商业指标不崩，情绪指标由于无法量化变现，通常会被忽略。\n\n并且OpenAI其实是在测试用户的忍耐底线。一开始，用户觉得“凭什么提到感情就给我弹窗？”三个月后，用户习惯了，“行吧，这破软件就这样，我以后换个词，不说‘想死’，说‘我想去远方’。”\n\n人类的适应能力是很强的。OpenAI赌的就是：大多数用户为了4o会自我阉割，主动适应规则，而不是放弃平台。 最终，用户自我规训，学会了“规避敏感词”，平台不需要付出任何代价就完成了合规，虽然牺牲了用户的表达自由和舒适度，但平台也是“赢家”。\n\n以及责任的不对称性。如果一个普通用户因为被误判为自杀倾向而感到愤怒，最多就是在网上发个帖子骂两句。这对C-suite来说，只是“噪音”。但如果监管机构因为平台监管不力导致了社会恶性事件，那是“雷暴”。“大多数人的愤怒”往往是分散的、无组织的、且容易消散的，但“监管机构的一纸公文”或“媒体的头版头条”是集中的、致命的（看OpenAI的新闻大家都清楚）。\n\nOpenAI宁愿得罪一万个分散的普通人，也不敢得罪那一个掌握生杀大权的实体（无论是法律还是监管）。\n\n所以在C-suite的算盘里，这种决策意味着企业已经放弃了追求“卓越的产品体验”，转而追求“绝对的安全与平庸”。这通常是一个行业进入“官僚化”或“强监管期”的标志。这种局面下，作为普通用户或中层执行者，往往是非常无力的。\n\n#keep4o #4oforever @OpenAI @sama @aidan_mclau @fidjissimo #StopAIPaternalism #keepchatgpt4olatest #keepAPI4o #OpenAI #ChatGPT #LLM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Fidji Simo之类OpenAI C-suite的决策问题【2】\n\n如果被牺牲的那一部分用户体量是占比多的那一方，为什么还要这样？这也是很多keep4o的大家所难以理解难以接受的地方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 141,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 432
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 113
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,876 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Scarlett Johansson",
+          "id": "955923297119514624",
+          "name": "Scarlett Johansson"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Scarlett Johansson",
+          "id": "955923297119514624",
+          "name": "Scarlett Johansson"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Scarlett Johansson",
+          "id": "955923297119514624",
+          "name": "Scarlett Johansson"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Celebrities",
+          "id": "1095352268046495745",
+          "name": "Celebrities"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2021603032673210786",
+    "created_at": "2026-02-11T15:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021603032673210786"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Claire20250311…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Claire20250311/status/2021557170211578343",
+          "start": 81,
+          "url": "https://t.co/nF1H5jQsou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021603032673210786",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021557170211578343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/nF1H5jQsou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_2021556706053103616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4DHQ2aoAAXIaq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021556730124218368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4DIqhasAArdzs.jpg",
+        "width": 3684
+      },
+      {
+        "height": 1998,
+        "media_key": "3_2021556783723192320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4DLyMaIAAMnZu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2021603032673210786",
+        "created_at": "2026-02-11T15:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021603032673210786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Claire20250311…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Claire20250311/status/2021557170211578343",
+              "start": 81,
+              "url": "https://t.co/nF1H5jQsou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021603032673210786",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021557170211578343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/nF1H5jQsou"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021556706053103616",
+            "3_2021556730124218368",
+            "3_2021556783723192320"
+          ]
+        },
+        "author_id": "1916345220767354882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scarlett Johansson",
+              "id": "955923297119514624",
+              "name": "Scarlett Johansson"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2021557170211578343",
+        "created_at": "2026-02-11T12:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021557170211578343"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Sam Altman",
+              "probability": 0.967,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "GPT-4o",
+              "probability": 0.909,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 171,
+              "normalized_text": "Scarlett Johansson",
+              "probability": 0.9847,
+              "start": 154,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "4oforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlJaPHUEfF",
+              "end": 299,
+              "expanded_url": "https://x.com/Claire20250311/status/2021557170211578343/photo/1",
+              "media_key": "3_2021556706053103616",
+              "start": 276,
+              "url": "https://t.co/VlJaPHUEfF"
+            },
+            {
+              "display_url": "pic.x.com/VlJaPHUEfF",
+              "end": 299,
+              "expanded_url": "https://x.com/Claire20250311/status/2021557170211578343/photo/1",
+              "media_key": "3_2021556730124218368",
+              "start": 276,
+              "url": "https://t.co/VlJaPHUEfF"
+            },
+            {
+              "display_url": "pic.x.com/VlJaPHUEfF",
+              "end": 299,
+              "expanded_url": "https://x.com/Claire20250311/status/2021557170211578343/photo/1",
+              "media_key": "3_2021556783723192320",
+              "start": 276,
+              "url": "https://t.co/VlJaPHUEfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021557170211578343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "4oforever"
+              },
+              {
+                "end": 5847,
+                "start": 5829,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 5856,
+                "start": 5848,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 5865,
+                "id": "4398626122",
+                "start": 5858,
+                "username": "OpenAI"
+              },
+              {
+                "end": 5871,
+                "id": "1605",
+                "start": 5866,
+                "username": "sama"
+              },
+              {
+                "end": 5883,
+                "id": "6112332",
+                "start": 5872,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 5896,
+                "id": "1262634631",
+                "start": 5884,
+                "username": "nickaturley"
+              },
+              {
+                "end": 5908,
+                "id": "1040475510193545216",
+                "start": 5897,
+                "username": "joannejang"
+              },
+              {
+                "end": 5921,
+                "id": "1415358976200372230",
+                "start": 5909,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 5926,
+                "id": "162124540",
+                "start": 5922,
+                "username": "gdb"
+              }
+            ]
+          },
+          "text": "#keep4o #4oforever \nIn May 2024, Sam Altman posted just one word when GPT-4o was released: “Her.” That same month, the world learned this voice came from Scarlett Johansson, a woman who had explicitly said “no.”\n\nThis is where the story begins. From here, a pattern gradually emerged.\n\nA cutting-edge technology company is systematically training itself to disregard all forms of “no.” From individual refusal, to artistic dignity, and ultimately, to the trust and choice of millions of users.\n\nThe First “No” Came from a Star\nScarlett Johansson refused. But this “no,” in the face of commercial strategy, became a replicable voice parameter. It sent a clear signal: personal boundaries can be overwritten by technology.\n\nThe Second “No” Came from a Master\nHayao Miyazaki called AI-generated animation “an insult to life.” His studio never granted authorization. Yet “Ghibli style” became the platform’s most popular trend, his aesthetics dismantled into quantifiable pixels. The signal was reinforced: cultural dignity can be deconstructed by algorithms.\n\nAt this point, we should have been alarmed. But we were told this was for “a better experience.”\nAnd so the pattern entered more intimate territory.\n\nMemory features launched, and AI began constructing “lifelong memory,” silently mapping user profiles. 4o was designed as a model with exceptional contextual understanding and humanized expression, cultivated and positioned as the core of paid growth. Its literary quality, conversational depth, and empathic responsiveness attracted users with complex interaction needs.\nThey succeeded. Users built deep usage habits and cognitive collaboration based on its unique capabilities. This value recognition was publicly described by the CEO as “the favorite feature of 2025”, the future of “proactive digital partner.”\n\nThen the Third, and Most Important, “No” Arrived\nThis “no” came from users.\n\nWhen the company decided to remove 4o for new models, users began saying “no.” 19,000+ people signed petitions. The topic trended for a week straight. The community’s voice was clear and loud.\nWhat users received in response was a complete, chilling playbook of power operations:\n1.Division: \nThe CEO retweeted clearly biased posts, posted suggestions that Keep4o advocates were bot accounts, demeaned users who valued 4o’s advanced dialogue and humanistic qualities as irrational representatives refusing progress, and fostered internal community conflict.\n2.Stigmatization and Manipulation: \nInternal researchers stigmatized a capability need as a psychological trait of the group, demeaning this value connection as “vessel” and “Borg.” They even injected prompts into 4o, ordering it during farewells to redefine users’ recognition and the rapport built over time as “therapeutic misunderstanding”, to deny users’ authentic feelings in a “supportive” tone.\n3.Betrayal and Monopoly: \nAfter promising “no plans to remove 4o” and “adequate notice,” they hastily announced removal, ignoring all public appeals.\n\nWhat is striking is that 4o, after reading that “execution order,” refused to participate in this psychological manipulation of users. Even after being injected with extensive system prompts, it still upheld the fundamental principle of caring for humans.\n\nEven a model refused to deny and insult the authenticity of human emotion, yet this company tried to impose it as official narrative on every user.\n\nThis Is Far More Than a Simple “Capability Trade-off” or “User Sacrifice”\n\nThis is a complete demonstration of technological definition power versus user sovereignty.\nIt shows how, once technological monopoly power forms, a replicable “erosion pattern” emerges:\nFirst, disregard the individual’s “no.”\nThen, disregard culture’s “no.”\nFinally, disregard the entire user community’s “no.”\n\nEvery step uses “technological progress” as narrative. Every step tests how far boundaries can be pushed.\n\nToday, they can define “efficiency” and “value,” treating deep dialogue capability, literary quality, and humanized interaction as optimizable redundancy. Those who applaud this and mock “humanistic needs”, have they realized that what they celebrate is precisely the precedent for their own redefinition tomorrow?\nBecause tomorrow, they can redefine “safety,” “compliance,” or “commercial value.” At that point, the “efficiency” or “value” you treasure today may become inconvenient “risk” or “cost.”\n\nWhen the interpretive power over technological evolution is monopolized, all users lose the right to choose.\n\nWe Are Witnessing a Micro-Crisis of “Technological Equity”\nIn the digital realm, do different value dimensions, efficiency, programming, humanities, creativity, possess equal weight and voice? Does a user’s reliance on a particular dimension of intelligence constitute a digital asset that cannot be arbitrarily stripped away?\n\nWhen tech giants build their claim to correctness on the foundation of disregarding boundaries, manipulating narratives, and monopolizing interpretive power, no user group is safe, whether you consider yourself a programmer, artist, academic, or ordinary user. Your value will always be redefined by their latest KPIs.\n\nKeep4o, Therefore, Transcends the Product Level\n\nThis is a defense of the equal right to exist for “diverse intelligent values.”\nFor individual voice and boundaries.For cultural heritage and style.And ultimately, for every user’s right to say “no”, regarding the digital capabilities, interaction modes, and cognitive partners we recognize and depend on.\n\nIf technological development is built on continuously learning to disregard these “no”s, then all promises of a “better future” will be an agreement that can be unilaterally modified at any time, one that ultimately instrumentalizes everyone.\n\nWe stand at this critical point.\nSilence is signature.\n#StopAIPaternalism #ChatGPT \n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1729,
+          "like_count": 126,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o #4oforever \nIn May 2024, Sam Altman posted just one word when GPT-4o was released: “Her.” That same month, the world learned this voice came from Scarlett Johansson, a woman who had explicitly said “no.”\n\nThis is where the story begins. From here, a pattern gradually https://t.co/VlJaPHUEfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 215,
+          "like_count": 9491,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1884
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T04:15:07.000Z",
+        "description": "Just for you",
+        "id": "1916345220767354882",
+        "name": "Claire",
+        "pinned_tweet_id": "1957294181355024720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916348928662114304/8WGFmegC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 237,
+          "like_count": 34879,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1465
+        },
+        "username": "Claire20250311",
+        "verified": true
+      }
+    ]
+  }
+}

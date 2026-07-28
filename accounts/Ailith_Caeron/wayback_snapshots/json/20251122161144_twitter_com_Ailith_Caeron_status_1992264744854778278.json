@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991627886227517447"
+      ],
+      "media_source_tweet_id": [
+        "1991629017175523568"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855303327088640000",
+          "name": "The Legend of Zelda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1992264744854778278",
+    "created_at": "2025-11-22T16:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992264744854778278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804869510413045760",
+          "start": 3,
+          "username": "aogiringo_z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlmKTyOKyH",
+          "end": 76,
+          "expanded_url": "https://x.com/aogiringo_z/status/1991629017175523568/photo/1",
+          "media_key": "3_1991627886227517447",
+          "start": 53,
+          "url": "https://t.co/SlmKTyOKyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992264744854778278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 589
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991629017175523568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aogiringo_z: 🎉Age of Calamity🎉\n\n出撃前にご飯食べるのが好きです！ https://t.co/SlmKTyOKyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1991627886227517447",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6OvAqtacAcGJSu.jpg",
+        "width": 1597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991627886227517447"
+          ],
+          "media_source_tweet_id": [
+            "1991629017175523568"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1992264744854778278",
+        "created_at": "2025-11-22T16:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992264744854778278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804869510413045760",
+              "start": 3,
+              "username": "aogiringo_z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlmKTyOKyH",
+              "end": 76,
+              "expanded_url": "https://x.com/aogiringo_z/status/1991629017175523568/photo/1",
+              "media_key": "3_1991627886227517447",
+              "start": 53,
+              "url": "https://t.co/SlmKTyOKyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992264744854778278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 589
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991629017175523568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aogiringo_z: 🎉Age of Calamity🎉\n\n出撃前にご飯食べるのが好きです！ https://t.co/SlmKTyOKyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991627886227517447"
+          ]
+        },
+        "author_id": "1804869510413045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855303327088640000",
+              "name": "The Legend of Zelda"
+            }
+          }
+        ],
+        "conversation_id": "1991629017175523568",
+        "created_at": "2025-11-20T22:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991629017175523568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlmKTyOKyH",
+              "end": 59,
+              "expanded_url": "https://x.com/aogiringo_z/status/1991629017175523568/photo/1",
+              "media_key": "3_1991627886227517447",
+              "start": 36,
+              "url": "https://t.co/SlmKTyOKyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991629017175523568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 36767,
+          "like_count": 5247,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 589
+        },
+        "reply_settings": "everyone",
+        "text": "🎉Age of Calamity🎉\n\n出撃前にご飯食べるのが好きです！ https://t.co/SlmKTyOKyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 326
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:30:05.000Z",
+        "description": "20↑/3L ok/ tloz Botw & Totk Link. Zelink FA. Z⬆️L ⬇️.\n🌱💧リ右固定。ゼルリンが好き。\n壁打ち。FRご自由に。\n【Do not reupload my art/Do not use my art for AI training】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/h5DDVTnOsKdX…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/h5DDVTnOsKdXGzo2AQ0Qfd3RIon2",
+                "start": 0,
+                "url": "https://t.co/ul4bKcCuJq"
+              }
+            ]
+          }
+        },
+        "id": "1804869510413045760",
+        "location": "🚫転載・AI利用禁止🚫",
+        "name": "あおごま(aogoma)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804869603220398081/0At-hEnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 5,
+          "like_count": 1237,
+          "listed_count": 28,
+          "media_count": 41,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/ul4bKcCuJq",
+        "username": "aogiringo_z",
+        "verified": false
+      }
+    ]
+  }
+}

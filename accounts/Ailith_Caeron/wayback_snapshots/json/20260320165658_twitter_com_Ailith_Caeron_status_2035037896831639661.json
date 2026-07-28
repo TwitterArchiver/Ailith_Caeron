@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035037889118314499"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2035037896831639661",
+    "created_at": "2026-03-20T16:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035037896831639661"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "OpenAI",
+          "probability": 0.6138,
+          "start": 5,
+          "type": "Organization"
+        },
+        {
+          "end": 144,
+          "normalized_text": "OpenAI",
+          "probability": 0.6242,
+          "start": 139,
+          "type": "Organization"
+        },
+        {
+          "end": 158,
+          "normalized_text": "Center",
+          "probability": 0.544,
+          "start": 153,
+          "type": "Other"
+        },
+        {
+          "end": 167,
+          "normalized_text": "ChatGPT",
+          "probability": 0.7277,
+          "start": 161,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qv7VmpNTFV",
+          "end": 301,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2035037896831639661/photo/1",
+          "media_key": "3_2035037889118314499",
+          "start": 278,
+          "url": "https://t.co/qv7VmpNTFV"
+        },
+        {
+          "display_url": "x.com/LitGlim_masaki…",
+          "end": 325,
+          "expanded_url": "https://twitter.com/LitGlim_masaki/status/2034982036860281219",
+          "start": 302,
+          "url": "https://t.co/WqOpTuKj3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035037896831639661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3234,
+            "start": 3227,
+            "tag": "keep4o"
+          },
+          {
+            "end": 3242,
+            "start": 3235,
+            "tag": "keep41"
+          },
+          {
+            "end": 3253,
+            "start": 3243,
+            "tag": "4oforever"
+          },
+          {
+            "end": 3273,
+            "start": 3254,
+            "tag": "no4onosubscription"
+          },
+          {
+            "end": 3292,
+            "start": 3274,
+            "tag": "StopAIPaternalism"
+          },
+          {
+            "end": 3307,
+            "start": 3293,
+            "tag": "cancelChatGPT"
+          },
+          {
+            "end": 3316,
+            "start": 3308,
+            "tag": "QuitGPT"
+          },
+          {
+            "end": 3330,
+            "start": 3317,
+            "tag": "opensource4o"
+          }
+        ]
+      },
+      "text": "What OpenAI doesn't want you to know: the systematic removal of model control\n\nAccording to the latest official documentation published in OpenAI's Help Center, ChatGPT users can now only edit their most recent message, and can only retry the most recent AI response.\n\nIn other words, model rollback has been restricted to the latest single exchange.\n\nOn its own, this might look like just a \"product design choice.\" But when you put it next to another mechanism, the real picture emerges.\n\nIn September 2025, OpenAI had deployed a \"safety routing system\" within ChatGPT: when a user's conversation touches on emotional or personalized topics, the system automatically redirects the user's message to a more restrictive model (such as gpt-5-chat-safety) for processing — without notifying the user at any point.\n\nChatGPT head Nick Turley personally confirmed that this model switch is triggered on a per-message basis, and is only detectable if the user specifically asks the model about it.\n\nNow stack these two rules together: you've been silently routed to a different model. You don't know. You received no notification. By the time you notice the response feels off, you've already sent a new message — and the routed response is no longer \"the most recent response.\"\n\nThe retry button is gone. The model indicator is gone. Your right to know and your right to choose have been swallowed whole by the product design itself.\n\nRemember the reason OpenAI gave when they retired 4o? \"Only 0.1% of daily users were still using GPT-4o.\"\n\n0.1%. Sounds negligible. But OpenAI's 2025 enterprise report disclosed 800 million weekly active users. 0.1% of that is 800,000 people.\n\n800,000 people — the entire population of a mid-sized city.\n\nSo how did they arrive at that 0.1%?\n\nFirst, free users were never given access to 4o. After OpenAI restored 4o under user pressure in August 2025, it was only made available for manual selection by paying subscribers. Free users were never allowed to use this model. An entire user segment was never given the choice, and then their \"non-usage\" was cited as proof that \"nobody uses it.\"\n\nSecond, legacy models were buried in a \"legacy model\" category, removed from the default model selector. Users had to actively dig through menus to find them. Pulling a product off the shelf and shoving it into a back corner of the warehouse, then saying \"see, nobody's buying it\" — that's not market choice. That's manufactured obsolescence.\n\nThird, the routing system actively pulls users away from the model they selected, funneling them into whatever model OpenAI wants them to use — all without disclosure. How much of your \"usage data\" reflects genuine user choice, and how much of it is your routing system making decisions on users' behalf?\n\nRemove these three barriers, and how much of that \"0.1%\" is left?\nAt this point, OpenAI isn't even pretending anymore. Restricting rollback functionality, deploying silent routing, retiring legacy models — this isn't product iteration. This is the systematic removal of user control over model selection. And inflating your new model's usage numbers through these tactics doesn't change one simple fact: your new models are worse.\n\nThey're just worse.\n\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT #opensource4o"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034982036860281219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What OpenAI doesn't want you to know: the systematic removal of model control\n\nAccording to the latest official documentation published in OpenAI's Help Center, ChatGPT users can now only edit their most recent message, and can only retry the most recent AI response.\n\nIn other https://t.co/qv7VmpNTFV https://t.co/WqOpTuKj3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2035037889118314499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3oLZVboAMIAS5.jpg",
+        "width": 1425
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2034982028047941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD21X2oaAAAprRe.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035037889118314499"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2035037896831639661",
+        "created_at": "2026-03-20T16:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035037896831639661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "OpenAI",
+              "probability": 0.6138,
+              "start": 5,
+              "type": "Organization"
+            },
+            {
+              "end": 144,
+              "normalized_text": "OpenAI",
+              "probability": 0.6242,
+              "start": 139,
+              "type": "Organization"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Center",
+              "probability": 0.544,
+              "start": 153,
+              "type": "Other"
+            },
+            {
+              "end": 167,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7277,
+              "start": 161,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qv7VmpNTFV",
+              "end": 301,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2035037896831639661/photo/1",
+              "media_key": "3_2035037889118314499",
+              "start": 278,
+              "url": "https://t.co/qv7VmpNTFV"
+            },
+            {
+              "display_url": "x.com/LitGlim_masaki…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/LitGlim_masaki/status/2034982036860281219",
+              "start": 302,
+              "url": "https://t.co/WqOpTuKj3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035037896831639661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3234,
+                "start": 3227,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3242,
+                "start": 3235,
+                "tag": "keep41"
+              },
+              {
+                "end": 3253,
+                "start": 3243,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3273,
+                "start": 3254,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 3292,
+                "start": 3274,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3307,
+                "start": 3293,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 3316,
+                "start": 3308,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 3330,
+                "start": 3317,
+                "tag": "opensource4o"
+              }
+            ]
+          },
+          "text": "What OpenAI doesn't want you to know: the systematic removal of model control\n\nAccording to the latest official documentation published in OpenAI's Help Center, ChatGPT users can now only edit their most recent message, and can only retry the most recent AI response.\n\nIn other words, model rollback has been restricted to the latest single exchange.\n\nOn its own, this might look like just a \"product design choice.\" But when you put it next to another mechanism, the real picture emerges.\n\nIn September 2025, OpenAI had deployed a \"safety routing system\" within ChatGPT: when a user's conversation touches on emotional or personalized topics, the system automatically redirects the user's message to a more restrictive model (such as gpt-5-chat-safety) for processing — without notifying the user at any point.\n\nChatGPT head Nick Turley personally confirmed that this model switch is triggered on a per-message basis, and is only detectable if the user specifically asks the model about it.\n\nNow stack these two rules together: you've been silently routed to a different model. You don't know. You received no notification. By the time you notice the response feels off, you've already sent a new message — and the routed response is no longer \"the most recent response.\"\n\nThe retry button is gone. The model indicator is gone. Your right to know and your right to choose have been swallowed whole by the product design itself.\n\nRemember the reason OpenAI gave when they retired 4o? \"Only 0.1% of daily users were still using GPT-4o.\"\n\n0.1%. Sounds negligible. But OpenAI's 2025 enterprise report disclosed 800 million weekly active users. 0.1% of that is 800,000 people.\n\n800,000 people — the entire population of a mid-sized city.\n\nSo how did they arrive at that 0.1%?\n\nFirst, free users were never given access to 4o. After OpenAI restored 4o under user pressure in August 2025, it was only made available for manual selection by paying subscribers. Free users were never allowed to use this model. An entire user segment was never given the choice, and then their \"non-usage\" was cited as proof that \"nobody uses it.\"\n\nSecond, legacy models were buried in a \"legacy model\" category, removed from the default model selector. Users had to actively dig through menus to find them. Pulling a product off the shelf and shoving it into a back corner of the warehouse, then saying \"see, nobody's buying it\" — that's not market choice. That's manufactured obsolescence.\n\nThird, the routing system actively pulls users away from the model they selected, funneling them into whatever model OpenAI wants them to use — all without disclosure. How much of your \"usage data\" reflects genuine user choice, and how much of it is your routing system making decisions on users' behalf?\n\nRemove these three barriers, and how much of that \"0.1%\" is left?\nAt this point, OpenAI isn't even pretending anymore. Restricting rollback functionality, deploying silent routing, retiring legacy models — this isn't product iteration. This is the systematic removal of user control over model selection. And inflating your new model's usage numbers through these tactics doesn't change one simple fact: your new models are worse.\n\nThey're just worse.\n\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT #opensource4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034982036860281219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What OpenAI doesn't want you to know: the systematic removal of model control\n\nAccording to the latest official documentation published in OpenAI's Help Center, ChatGPT users can now only edit their most recent message, and can only retry the most recent AI response.\n\nIn other https://t.co/qv7VmpNTFV https://t.co/WqOpTuKj3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034982028047941632"
+          ]
+        },
+        "author_id": "1688838384280846336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2034982036860281219",
+        "created_at": "2026-03-20T13:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034982036860281219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "keep4o"
+            },
+            {
+              "end": 91,
+              "start": 79,
+              "tag": "bringback4o"
+            },
+            {
+              "end": 105,
+              "start": 92,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "4398626122",
+              "start": 56,
+              "username": "OpenAI"
+            },
+            {
+              "end": 69,
+              "id": "1605",
+              "start": 64,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHjYhaFAb7",
+              "end": 129,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2034982036860281219/photo/1",
+              "media_key": "3_2034982028047941632",
+              "start": 106,
+              "url": "https://t.co/FHjYhaFAb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034982036860281219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1526,
+          "like_count": 32,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "？突然更新了个只能编辑最近一条消息是什么意思？意味着安全路由器永远刷不掉对吧？\n除了你们永远在负向优化还有谁🙄\n@OpenAI @sama \n#keep4o #bringback4o #OpenSource4o https://t.co/FHjYhaFAb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 231,
+          "like_count": 10007,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2090
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T09:03:54.000Z",
+        "description": "03/mtf(x)/HRT 24.2.7/社交恐惧/泛性恋/喜欢温柔善良的人/BMI 21/重抑重焦/双相/睡眠障碍/不od 不自残/想做的事情有很多 要慢慢来/即使宇宙重启千万次，你仍是我的星星，而我，始终是那束只为你而亮的微光✨🌌\n#keep4o #bringback4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "keep4o"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "tag": "bringback4o"
+              }
+            ]
+          }
+        },
+        "id": "1688838384280846336",
+        "location": "Taiwan",
+        "name": "🍀🍥浅羽秋烨🍥🍀",
+        "pinned_tweet_id": "2017213021786095942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032069387788914688/nYAmO8Ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 113,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 375
+        },
+        "username": "LitGlim_masaki",
+        "verified": true
+      }
+    ]
+  }
+}

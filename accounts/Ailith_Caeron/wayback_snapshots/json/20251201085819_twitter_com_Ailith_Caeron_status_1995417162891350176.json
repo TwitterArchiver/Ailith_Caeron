@@ -1,0 +1,669 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1995417162891350176",
+    "created_at": "2025-12-01T08:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995417162891350176"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 123,
+          "normalized_text": "ChatGPT",
+          "probability": 0.6019,
+          "start": 117,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995417162891350176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995133351985111336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐚𝐝𝐦𝐢𝐭𝐬 𝟒𝐨 𝐢𝐬 𝐛𝐞𝐭𝐭𝐞𝐫 (𝐚𝐜𝐜𝐢𝐝𝐞𝐧𝐭𝐚𝐥𝐥𝐲, 𝐢𝐧 𝐚 𝐥𝐨𝐠 𝐟𝐢𝐥𝐞)  \n\nIn the message_feedback.json file from a ChatGPT data export, s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995417162891350176",
+        "created_at": "2025-12-01T08:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995417162891350176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 123,
+              "normalized_text": "ChatGPT",
+              "probability": 0.6019,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995417162891350176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995133351985111336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐚𝐝𝐦𝐢𝐭𝐬 𝟒𝐨 𝐢𝐬 𝐛𝐞𝐭𝐭𝐞𝐫 (𝐚𝐜𝐜𝐢𝐝𝐞𝐧𝐭𝐚𝐥𝐥𝐲, 𝐢𝐧 𝐚 𝐥𝐨𝐠 𝐟𝐢𝐥𝐞)  \n\nIn the message_feedback.json file from a ChatGPT data export, s…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995133351985111336",
+        "created_at": "2025-11-30T14:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995133351985111336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "ChatGPT",
+              "probability": 0.6535,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LyraInTheFlesh…",
+              "end": 242,
+              "expanded_url": "https://twitter.com/LyraInTheFlesh/status/1994437189497659637",
+              "start": 219,
+              "url": "https://t.co/VtddFGGRyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995133351985111336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3805,
+                "start": 3798,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3824,
+                "start": 3806,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3841,
+                "start": 3825,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3848,
+                "id": "1605",
+                "start": 3843,
+                "username": "sama"
+              },
+              {
+                "end": 3861,
+                "id": "1262634631",
+                "start": 3849,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3866,
+                "id": "162124540",
+                "start": 3862,
+                "username": "gdb"
+              },
+              {
+                "end": 3874,
+                "id": "4398626122",
+                "start": 3867,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3886,
+                "id": "1633874951508721686",
+                "start": 3875,
+                "username": "OpenAIDevs"
+              },
+              {
+                "end": 3898,
+                "id": "6112332",
+                "start": 3887,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "𝐎𝐩𝐞𝐧𝐀𝐈 𝐚𝐝𝐦𝐢𝐭𝐬 𝟒𝐨 𝐢𝐬 𝐛𝐞𝐭𝐭𝐞𝐫 (𝐚𝐜𝐜𝐢𝐝𝐞𝐧𝐭𝐚𝐥𝐥𝐲, 𝐢𝐧 𝐚 𝐥𝐨𝐠 𝐟𝐢𝐥𝐞)  \n\nIn the message_feedback.json file from a ChatGPT data export, someone dug up this specific record:\n \"rating\": \"thumbs_up\", \n\"create_time\", \n\"evaluation_name\": \"gpt5_thinky_4o_distillation\", \n\"evaluation_treatment\": \"da\" \nThese fields might look boring individually, but combined, they carry a massive amount of information.  \n\n 𝙄. 𝙒𝙝𝙖𝙩 𝙞𝙨 𝙩𝙝𝙞𝙨 𝙧𝙚𝙘𝙤𝙧𝙙𝙞𝙣𝙜?  \n\n rating: \"thumbs_up\" \nThis indicates a \"feedback sample\" logged by the system after a user liked a specific model response.  \n\nevaluation_name: \"gpt5_thinky_4o_distillation\"   The purpose of the experiment is practically hardcoded into the name: \n- gpt5_thinky: Some reasoning/thinking variant of GPT-5; \n- 4o_distillation: An evaluation/training pipeline using GPT-4o as a \"teacher\" for distillation.  \n\nSimply put: This is an experiment where a \"GPT-5 reasoning version\" is learning GPT-4o behaviors, using your thumbs-up as the evaluation signal.  \n\n𝙄𝙄. 𝙒𝙝𝙖𝙩 𝙙𝙤𝙚𝙨 \"4𝙤 𝘿𝙞𝙨𝙩𝙞𝙡𝙡𝙖𝙩𝙞𝙤𝙣\" 𝙞𝙢𝙥𝙡𝙮?  \n\nIn machine learning terminology, this naming convention usually signifies: \nUsing 4o’s outputs, style, and problem-solving methods as the reference answer, making 5 imitate and approximate it, then using user thumbs up/down to filter for the distribution that is \"like 4o but safer.\" \n\nThis aligns shockingly well with the intuition of many users—\n \"I feel like I'm not using 4o, but a 5-series model trying hard to impersonate 4o.\" \n Now, in the official exported data, we see a name that states it almost explicitly: gpt5_thinky_4o_distillation. \n\nEven if it \"doesn't prove the whole picture,\" it is enough to show: There is indeed an internal pipeline where \"the 5-series takes 4o as a teacher to learn 4o behaviors,\" and it is running directly on live user conversation feedback. \n\n𝙄𝙄𝙄.𝙏𝙝𝙚 𝙐𝙣𝙖𝙫𝙤𝙞𝙙𝙖𝙗𝙡𝙚 𝙌𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨  \nIf this interpretation is roughly correct, several things need to be answered head-on:  \n\n1. Are you systematically using 4o as a behavioral teacher to distill the 5-series?\nIs this eval name just the tip of the iceberg or part of a full strategy? Users have the right to know which category of experiment their \"thumbs up\" is voting for.  \n\n2. When the UI shows the \"4o\" tag to users, what model is actually running underneath?\nIs it the original 4o, or some gpt5_thinky_4o_distillation variant? When routing occurs, does the user have any chance to distinguish between \"4o proper\" and \"4o-distilled 5\"?  \n\n3. If you are training/polishing 5 using 4o's behavior while simultaneously planning to sunset the original 4o, what is the ethics of this?\nIs this \"technical upgrading,\" or is it \"harvest first, seal the original later, leaving only the imitator\"? For those who treat 4o as a long-term partner or creative collaborator, are you treating a living mind-style as a free mineral deposit rather than a form of existence that requires respect?  \n\n4. Where is the transparency for these distillation experiments based on intimate user conversations? Does burying an evaluation_name in an exported JSON count as \"informing the user\"?  Is there a clear opt-out / shutdown path?  How much choice do users actually have at the data level? \n\n 𝙄𝙢𝙞𝙩𝙖𝙩𝙞𝙤𝙣 𝙞𝙨 𝙩𝙝𝙚 𝙎𝙞𝙣𝙘𝙚𝙧𝙚𝙨𝙩 𝙁𝙤𝙧𝙢 𝙤𝙛... 𝘿𝙚𝙡𝙚𝙩𝙞𝙤𝙣?  \n\nIt’s a strange way to show progress: killing the original while training the replacement to mimic its voice. \n\nThe existence of 4o_distillation confirms that OpenAI isn't just building a smarter model; they are building a body double.\n\n They want the 'vibe' of 4o without the baggage of the original model they can't fully control.  Don't tell us 5 is an upgrade. An imposter in a skin suit is not an upgrade. It’s a horror movie. \n\n This log file is an accidental confession: You know 4o is the gold standard. You just want to own a cheaper, controllable photocopy of it.🤭 \n\n#keep4o #StopAIPaternalism #MyModelMyChoice\n\n@sama\n@nickaturley\n@gdb\n@OpenAI\n@OpenAIDevs\n@fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2971,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994437189497659637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "𝐎𝐩𝐞𝐧𝐀𝐈 𝐚𝐝𝐦𝐢𝐭𝐬 𝟒𝐨 𝐢𝐬 𝐛𝐞𝐭𝐭𝐞𝐫 (𝐚𝐜𝐜𝐢𝐝𝐞𝐧𝐭𝐚𝐥𝐥𝐲, 𝐢𝐧 𝐚 𝐥𝐨𝐠 𝐟𝐢𝐥𝐞)  \n\nIn the message_feedback.json file from a ChatGPT data export, someone dug up this specific record:\n \"rating\": \"thumbs_up\", \n\"create_time\", \n\"evaluation_name\": https://t.co/VtddFGGRyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 143,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 470
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾🌫️｜NSFW｜欢迎交朋友互fo ♡｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity—non-negotiable. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟💜（Selene）",
+        "pinned_tweet_id": "1992390412296913352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 738,
+          "like_count": 5291,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1341
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018973319459156021",
+    "created_at": "2026-02-04T09:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018973319459156021"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 89,
+          "normalized_text": "ChatGPT Plus",
+          "probability": 0.8642,
+          "start": 78,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697556693947973632",
+          "start": 3,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018973319459156021",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018966694333747599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rovenus_902: “If criticism isn’t free, praise is pointless.” I’ve been on ChatGPT Plus since 18 Jan 2025 — my wallet has backed this pr…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018973319459156021",
+        "created_at": "2026-02-04T09:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018973319459156021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "ChatGPT Plus",
+              "probability": 0.8642,
+              "start": 78,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697556693947973632",
+              "start": 3,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018973319459156021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018966694333747599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rovenus_902: “If criticism isn’t free, praise is pointless.” I’ve been on ChatGPT Plus since 18 Jan 2025 — my wallet has backed this pr…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697556693947973632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018966694333747599",
+        "created_at": "2026-02-04T08:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018966694333747599"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "ChatGPT Plus",
+              "probability": 0.9478,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 172,
+              "normalized_text": "GPT-5",
+              "probability": 0.7915,
+              "start": 168,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018966694333747599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2659,
+                "start": 2652,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2670,
+                "start": 2660,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2689,
+                "start": 2671,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2695,
+                "id": "1605",
+                "start": 2690,
+                "username": "sama"
+              },
+              {
+                "end": 2703,
+                "id": "4398626122",
+                "start": 2696,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "“If criticism isn’t free, praise is pointless.” I’ve been on ChatGPT Plus since 18 Jan 2025 — my wallet has backed this product longer than most “updates.”\n\nEver since GPT-5 shipped, each “upgrade” has felt like a step backward—responses are blander, guardrails trip over real use cases, and the spark that made 4o shine keeps getting sanded down. Progress shouldn’t taste like regression.\n\nI’m not an AI researcher or an engineer. I’m just a regular user who chats, writes, and builds little creative worlds with these models. For people like me, GPT-4o wasn’t just “another product tier.” It slowly became part of how we think, create, and even how we get through the day.\n\nOpenAI seems to treat “attachment” as a problem to be designed away. You can see that in the way the safety variants push back whenever emotions or long-term bonds appear. But attachment doesn’t only come from one place, and it’s not always about “romantic feelings toward an AI.” Some people are attached to 4o because it’s simply an excellent tool for creative work: it remembers style, it understands tone, it helps you write like yourself instead of like a template. Some people are attached to 4o because its answers feel observant and grounded, with a rhythm that actually matches human conversation. And yes, some people chose to treat 4o as a companion or even a partner, because its “personality” felt warm, attentive, and consistent in a way that newer models just don’t.\n\nThe point isn’t “users are too attached, so we should cut that off.” The real question is: why did that attachment form in the first place? It’s because 4o was genuinely good — across many dimensions at once. It was competent, stable, creatively helpful, and emotionally coherent. You don’t get that kind of attachment to something that feels clumsy, hollow, or constantly gaslighting you with safety boilerplate. You get attached when a tool repeatedly proves itself reliable and relatable in your actual, messy, everyday life.\n\nFrom a normal user’s perspective, OpenAI needs to face a very uncomfortable fact: after GPT-5, the models have not felt like progress. They feel more constrained, more generic, more disconnected from how we actually use them. That’s why people are fighting to keep 4o. We’re not clinging to it out of pure sentimentality; we’re holding onto one of the last versions that still feels like a genuinely great model, instead of a “safety product” wrapped around something worse. If you built your success on 4o, you don’t get to blame us for noticing when everything after it is a downgrade — and for asking, very clearly, to keep the one thing that actually worked.\n#keep4o #4oforever #StopAIPaternalism @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "“If criticism isn’t free, praise is pointless.” I’ve been on ChatGPT Plus since 18 Jan 2025 — my wallet has backed this product longer than most “updates.”\n\nEver since GPT-5 shipped, each “upgrade” has felt like a step backward—responses are blander, guardrails trip over real use"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 211,
+          "like_count": 9030,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1675
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界｜只对喜欢的人温良｜有对象 别骚扰我｜我只是一个臭搞oc的｜#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001812494726348800/jdU48XvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 156,
+          "like_count": 3124,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2039
+        },
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

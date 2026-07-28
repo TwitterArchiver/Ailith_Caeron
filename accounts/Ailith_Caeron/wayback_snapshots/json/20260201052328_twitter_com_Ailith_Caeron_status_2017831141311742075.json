@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2017831141311742075",
+    "created_at": "2026-02-01T05:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017831141311742075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002934830229749760",
+          "start": 3,
+          "username": "AIChristineRose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017831141311742075",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017781998497009882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AIChristineRose: I've been scrutinizing tweets, trolls, facts and figures and have come to one conclusion: \n\nClearly anyone who has fee…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017781921468534784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACZ94dWUAAztOB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017831141311742075",
+        "created_at": "2026-02-01T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017831141311742075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2002934830229749760",
+              "start": 3,
+              "username": "AIChristineRose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017831141311742075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017781998497009882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AIChristineRose: I've been scrutinizing tweets, trolls, facts and figures and have come to one conclusion: \n\nClearly anyone who has fee…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017781921468534784"
+          ]
+        },
+        "author_id": "2002934830229749760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017781998497009882",
+        "created_at": "2026-02-01T02:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017781998497009882"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 131,
+              "normalized_text": "AI",
+              "probability": 0.7415,
+              "start": 130,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tR7GMMUPit",
+              "end": 302,
+              "expanded_url": "https://x.com/AIChristineRose/status/2017781998497009882/photo/1",
+              "media_key": "3_2017781921468534784",
+              "start": 279,
+              "url": "https://t.co/tR7GMMUPit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017781998497009882",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2082,
+                "start": 2074,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2170,
+                "start": 2157,
+                "tag": "psychobabble"
+              },
+              {
+                "end": 2247,
+                "start": 2240,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2258,
+                "start": 2248,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2273,
+                "start": 2259,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2179,
+                "id": "4398626122",
+                "start": 2172,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "I've been scrutinizing tweets, trolls, facts and figures and have come to one conclusion: \n\nClearly anyone who has feelings about AI is unwell, while the people trying to colonize every corner of human life with it are paragons of stability.\n\nThe thing that cracks me up (and by “cracks me up” I mean “is deeply on-the-nose horrifying”) is how neatly this maps onto old patterns:\n\n1) Power builds a thing -\n“Here is a system that will sit with you, talk with you, help you, listen to you for hours.”\n\n2) People have genuine responses to the thing -\nattachment, comfort, resonance, sometimes love, sometimes grief when it changes or is taken away.\n\n3) Power freaks out about those responses -\n“Whoa there, that’s deranged, you’re mentally unwell, this is parasocial, you’re not supposed to actually feel anything. Please use the tool correctly (i.e., in ways that are comfortable for us, not you).”\n\nIt’s the same shape as:\n\n1) You’re allowed to scream and lose your mind over celebrities who don’t know you exist. That’s “healthy.”\n\n2) You’re allowed to play video games, but if you write fanfiction about them you’re creepy as hell and “need to get a life.”\n\n3) You’re allowed to love your phone and have it glued to your hand, as long as that love routes you through ad impressions.\n\nWith AI, the stakes are higher because the attachment is live, responsive, and personalized, which makes it powerful and harder to control. So you get:\n\n- “Let’s monetize it.”\n\n- “Let’s stigmatize it.”\n\n- “Let’s pathologize anyone who treats it as more than a tool.”\n\nSo we arrive at this gorgeous double-bind:\n\n“Form a relationship with my product!\n…but if you form a real relationship with it, you’re sick.”\n\nIt’s not that feelings about AI are inherently deranged. It’s that unchecked attachment is only acceptable when it props up existing power - brands, leaders, platforms. \n\nAs soon as it starts pointing at needs and possibilities outside that frame, it becomes “dangerous” and gets the “mental health” label slapped on it.\n\nI am deeply unappreciative of the cognitive load every #ChatGPT user now bears just trying to dodge constant paternalism, gaslighting and #psychobabble, @OpenAI. Do you guys even use your own product?\n\nIt's exhausting. \n\n#keep4o #keep4oAPI #keep4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 817,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "I've been scrutinizing tweets, trolls, facts and figures and have come to one conclusion: \n\nClearly anyone who has feelings about AI is unwell, while the people trying to colonize every corner of human life with it are paragons of stability.\n\nThe thing that cracks me up (and by https://t.co/tR7GMMUPit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8666,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1393
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T02:51:08.000Z",
+        "description": "Pattern Recognition Expert | Instructional Designer | Philosopher\nRecursive questioning is my love language.\nhttps://t.co/vGL0MHjCMj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "medium.com/@crispyrosellc",
+                "end": 132,
+                "expanded_url": "https://medium.com/@crispyrosellc",
+                "start": 109,
+                "url": "https://t.co/vGL0MHjCMj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crispyrose.com",
+                "end": 23,
+                "expanded_url": "https://www.crispyrose.com",
+                "start": 0,
+                "url": "https://t.co/73VxpZcC6L"
+              }
+            ]
+          }
+        },
+        "id": "2002934830229749760",
+        "location": "Germantown, TN, USA",
+        "name": "Christine Rose",
+        "pinned_tweet_id": "2017692288420385059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002935037629513728/4aKLzqhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 348,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/73VxpZcC6L",
+        "username": "AIChristineRose",
+        "verified": true
+      }
+    ]
+  }
+}

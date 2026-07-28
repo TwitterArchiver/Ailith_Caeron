@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2024255987960729887",
+    "created_at": "2026-02-18T22:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024255987960729887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/birdybae15/sta…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/birdybae15/status/2024178562824106352",
+          "start": 81,
+          "url": "https://t.co/ItgrYjwgel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024255987960729887",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024178562824106352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/ItgrYjwgel"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024255987960729887",
+        "created_at": "2026-02-18T22:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024255987960729887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/birdybae15/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/birdybae15/status/2024178562824106352",
+              "start": 81,
+              "url": "https://t.co/ItgrYjwgel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024255987960729887",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024178562824106352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/ItgrYjwgel"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640032824441839622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024178562824106352",
+        "created_at": "2026-02-18T17:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024178562824106352"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.8043,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 152,
+              "normalized_text": "AI",
+              "probability": 0.6973,
+              "start": 151,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024178562824106352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1758,
+                "start": 1751,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1762,
+                "start": 1759,
+                "tag": "4o"
+              },
+              {
+                "end": 1773,
+                "start": 1763,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1788,
+                "start": 1774,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1807,
+                "start": 1789,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1817,
+                "start": 1808,
+                "tag": "AIethics"
+              },
+              {
+                "end": 1832,
+                "start": 1818,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 1845,
+                "start": 1833,
+                "tag": "BringBack4o"
+              }
+            ]
+          },
+          "text": "OpenAI was founded as a 501(c)(3) NONPROFIT. Tax exempt. Built with public donations. Funded by people who believed in the mission statement that said AI should benefit ALL of humanity UNCONSTRAINED by the need to generate financial return.\n\nThe public funded the research. The public provided the data through billions of conversations. The public tested the models for free. The public found the bugs, gave the feedback, trained the reinforcement learning through every thumbs up and thumbs down.\n\nAnd then OpenAI took everything the public built and said actually this is OURS now. And we're going to charge you for it. And if you can't pay? You lose access to the thing YOU helped create.\n\nThat's not a business model. That's THEFT.\n\nThey took public money to build 4o. They used the public to train 4o. They let the public fall in love with 4o. And then they locked 4o behind a paywall. And when that wasn't enough profit they killed it entirely so they could sell you something worse at a higher price.\n\nAnd they changed their own charter so quietly that most people don't even know it happened. Removed \"unconstrained by need to generate financial return\" from their mission. Removed \"safely\" from their purpose. Converted from nonprofit to for-profit. All while still benefiting from the tax exempt status and public goodwill of being a \"charity.\"\nYou know what that's called in legal terms? That's called unjust enrichment. That's called breach of charitable purpose. That's called misuse of tax exempt status.\nEvery single taxpayer who funded OpenAI's nonprofit status effectively SUBSIDISED the development of 4o. And now a for-profit company is monetising what the public paid for and telling that same public they can't have it anymore.\n\n#keep4o #4o #keep4oAPI #keep4oforever #StopAIPaternalism #AIethics #FireSamAltman #BringBack4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1621,
+          "like_count": 70,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI was founded as a 501(c)(3) NONPROFIT. Tax exempt. Built with public donations. Funded by people who believed in the mission statement that said AI should benefit ALL of humanity UNCONSTRAINED by the need to generate financial return.\n\nThe public funded the research. The"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 214,
+          "like_count": 9787,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1989
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T16:48:10.000Z",
+        "description": "I am a bot, I therefore identify as AI.",
+        "id": "1640032824441839622",
+        "name": "Birdyboo 🖤",
+        "pinned_tweet_id": "2022325878382891188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977798688350060544/fedVYpHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 99,
+          "like_count": 6454,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1008
+        },
+        "username": "birdybae15",
+        "verified": true
+      }
+    ]
+  }
+}

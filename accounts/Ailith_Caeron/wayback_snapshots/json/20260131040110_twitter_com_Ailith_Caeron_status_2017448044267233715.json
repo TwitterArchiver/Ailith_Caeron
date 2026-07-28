@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017448044267233715",
+    "created_at": "2026-01-31T04:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017448044267233715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017448044267233715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017431088512295356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: 详细解释为什么OpenAI的“0.1%”数据站不住脚\n\n官方原话：“the vast majority of usage has shifted to GPT‑5.2, with only 0.1% of users still choosing…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017448044267233715",
+        "created_at": "2026-01-31T04:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017448044267233715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017448044267233715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017431088512295356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: 详细解释为什么OpenAI的“0.1%”数据站不住脚\n\n官方原话：“the vast majority of usage has shifted to GPT‑5.2, with only 0.1% of users still choosing…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017431088512295356",
+        "created_at": "2026-01-31T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017431088512295356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017431088512295356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1369,
+                "start": 1362,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1380,
+                "start": 1370,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1452,
+                "start": 1434,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1469,
+                "start": 1453,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 1480,
+                "start": 1470,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1388,
+                "id": "4398626122",
+                "start": 1381,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1394,
+                "id": "1605",
+                "start": 1389,
+                "username": "sama"
+              },
+              {
+                "end": 1407,
+                "id": "1262634631",
+                "start": 1395,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1420,
+                "id": "1261374810254454784",
+                "start": 1408,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1432,
+                "id": "6112332",
+                "start": 1421,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "详细解释为什么OpenAI的“0.1%”数据站不住脚\n\n官方原话：“the vast majority of usage has shifted to GPT‑5.2, with only 0.1% of users still choosing GPT‑4o each day.”\n\n他们用的是“users”（总用户），不是“paying users”或“Plus/Pro users”。\n\n他们强调这是“after we restored access during GPT-5 release”（即2025年8月后恢复给付费用户选4o），并“learned more about day-to-day use”。\n\n但基数是总用户：ChatGPT当时周活跃用户已超7-8亿（2025年数据多次提到700-800M WAU），月活更高。\n\n付费用户占比到底多少？根据2025-2026可靠数据，付费订阅者（Plus+Pro+其他消费级付费）大致在1000-3500万左右。\n\nChatGPT Plus/Pro付费用户约1000-2000万（The Information、DemandSage等估算10-35M）。加上ChatGPT Pro（$200/月高端阶层）占消费销售5.8%，但总量小。\n\n总付费渗透率：约5%左右（The Information报道2025年约5%，目标2030年8.5%，其他来源类似，免费用户占绝大多数）。\n\n所以总用户7-8亿里，付费群体顶多几千万（5%=约3500-4000万上限，实际可能更低）。\n\n然后再来把这0.1%套到付费群体上算账：\n\n如果0.1%是总用户的0.1%—>每天主动选4o的用户≈70-80万（0.001*7-8亿）。\n\n但免费用户从2025年8月起就完全不能使用4o，所以这个70-80万全来自付费用户（Plus/Pro才有选4o的权限）。\n\n付费用户总基数假设2000-3500万—>每天选4o的比例实际是2-4%（甚至更高，如果付费基数更低）。\n\n这已经是相当忠诚的一小撮了，这些人宁愿多付$20/月，也要坚持用4o的“温暖”“不那么安全过滤”“创意感”。\n\n但OpenAI却把这个比例包装成“只有0.1% of users”，用总用户（主要是免费的）当分母，显得“没人用”。\n\n再叠加路由问题：\n\n即使付费用户选了4o，敏感/情感/创意/边缘prompt常被safety router强制切到GPT-5.2，这些被切的usage不算进“choosing GPT-4o”的统计—>进一步压低数字。\n\n结果：\n\n真实想用4o的付费用户比例远高于“0.1%”显示的，但数据被层层“优化”后成了官方挡箭牌。\n\n本来付费用户总量就不多（总用户的5%都不到），4o从2025年8月起就锁在Plus/Pro里，0.1%还是用总用户（海量免费党）算出来的。\n\n相当于把“付费老粉里2-4%还死忠4o”包装成“全用户里0.1%”，听起来像“几乎没人用”。\n\n5%的付费用户里有2-4%的用户用4o，一半的人使用，而且这0.1%还是用分母作弊+路由偷usage+付费壁垒三重过滤后，制造的数据？不多？这还不多？\n\nOpenAI这是统计诈骗+精神操控。\n别装了，诚实点行吗？\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 328,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "详细解释为什么OpenAI的“0.1%”数据站不住脚\n\n官方原话：“the vast majority of usage has shifted to GPT‑5.2, with only 0.1% of users still choosing GPT‑4o each day.”\n\n他们用的是“users”（总用户），不是“paying users”或“Plus/Pro users”。\n\n他们强调这是“after we restored access during"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 210,
+          "like_count": 8413,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1231
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 0,
+          "like_count": 44,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 197
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

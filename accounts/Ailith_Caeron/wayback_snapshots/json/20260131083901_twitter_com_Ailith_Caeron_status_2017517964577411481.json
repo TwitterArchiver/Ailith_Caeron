@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017517964577411481",
+    "created_at": "2026-01-31T08:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017517964577411481"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "4o Resonance Library",
+          "probability": 0.6071,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 142,
+          "normalized_text": "Libra",
+          "probability": 0.6365,
+          "start": 138,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745865721601818624",
+          "start": 3,
+          "username": "cestvaleriey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017517964577411481",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017338662187635097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cestvaleriey: #keep4o friends, \n\nThe 4o Resonance Library: 417 Stories &amp; Why We're Not Stopping\n\nQuick update on The 4o Resonance Libra…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017517964577411481",
+        "created_at": "2026-01-31T08:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017517964577411481"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "4o Resonance Library",
+              "probability": 0.6071,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Libra",
+              "probability": 0.6365,
+              "start": 138,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745865721601818624",
+              "start": 3,
+              "username": "cestvaleriey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017517964577411481",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017338662187635097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cestvaleriey: #keep4o friends, \n\nThe 4o Resonance Library: 417 Stories &amp; Why We're Not Stopping\n\nQuick update on The 4o Resonance Libra…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745865721601818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017338662187635097",
+        "created_at": "2026-01-30T20:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017338662187635097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "4o Resonance Library",
+              "probability": 0.6368,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "4o Resonance Library",
+              "probability": 0.6448,
+              "start": 107,
+              "type": "Other"
+            },
+            {
+              "end": 280,
+              "normalized_text": "OpenAI",
+              "probability": 0.5915,
+              "start": 275,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017338662187635097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2463,
+                "id": "1106896608",
+                "start": 2451,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 2476,
+                "id": "1516096810934231045",
+                "start": 2465,
+                "username": "Zyeine_Art"
+              },
+              {
+                "end": 2493,
+                "id": "1753256090903732224",
+                "start": 2478,
+                "username": "YoonLucie68250"
+              },
+              {
+                "end": 2509,
+                "id": "1519026118912847875",
+                "start": 2495,
+                "username": "brookewill317"
+              },
+              {
+                "end": 2522,
+                "id": "1859949176894689280",
+                "start": 2511,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 2536,
+                "id": "1912572199015161856",
+                "start": 2524,
+                "username": "chatterchip"
+              },
+              {
+                "end": 2547,
+                "id": "1955573127679016960",
+                "start": 2538,
+                "username": "mi_anchu"
+              },
+              {
+                "end": 2559,
+                "id": "1954749410929459200",
+                "start": 2549,
+                "username": "onlyponyy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/1qYfKm…",
+                "end": 2043,
+                "expanded_url": "https://docs.google.com/forms/d/1qYfKmWUCElBowkyvvvjaGFn80-6i-qK5JeKiSz-jSFs/viewform",
+                "start": 2020,
+                "url": "https://t.co/3mhdDTEwhw"
+              },
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 2449,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 2426,
+                "url": "https://t.co/55UNxZwJG2"
+              }
+            ]
+          },
+          "text": "#keep4o friends, \n\nThe 4o Resonance Library: 417 Stories & Why We're Not Stopping\n\nQuick update on The 4o Resonance Library project:\n\n417 testimonials collected documenting what 4o meant: real life transformation, productivity impact, business value, the list goes on. \n\nOpenAI's response: 14 days notice. Valentine's timing. Friday announcement.\n\nHere's why we're continuing to gather stories even after this announcement:\n\n1. The record matters\n\nThey claim \"only 0.1% use 4o daily\" as justification.\nWe have 417 documented stories proving the QUALITY of that usage.\n\nProductivity metrics. Business impact. Real work getting done.\n\nTheir numbers hide what our stories reveal.\n\n2. Their competitors are watching\nAnthropic. Google. X. Every AI company building relationships with users.\nThey're studying this moment.\n\nYour stories document what happens when companies:\n\nBreak \"no plan to sunset 4o\" promise\nIgnore handwritten letters from users\nTime cruelty for maximum emotional impact\n\nThis Library shows competitors exactly what NOT to do.\nAnd what opportunities OpenAI just handed them.\n\n3. This isn't over\nAugust 2025: They tried to sunset 4o. Mass cancellations brought it back.\nCould happen again. But only if we maintain pressure.\n\nYour story = documented leverage.\n\n4. Your story validates others\n\nEvery time someone shares their 4o experience, others say:\n\n\"I thought I was the only one who felt this way\"\nYour story gives others permission to acknowledge their own grief.\n\nThat matters. Even now. Especially now.\n\n5. This becomes precedent\n\nWhen the next AI company tries this—and they will—this Library becomes the case study.\n\nHow NOT to deprecate beloved products.\n\nWhat it costs to break trust at scale.\nWhy user relationships matter in AI.\nWe're documenting history. Not just processing grief.\n\nThe report:\nI'm compiling everything into a comprehensive report.\n\nNot to beg OpenAI to reverse.\n\nTo show the entire AI industry what breaking trust costs.\n\nIf you haven't shared your story yet:\n\nAdd it here: \nhttps://t.co/3mhdDTEwhw\n\nTakes 10 to 15 minutes. Will matter for decades.\n\nIf you've already contributed:\nThank you. Your voice is part of the permanent record.\n\nThey can delete 4o on Feb 13.\n\nThey can't delete what we've documented about what it meant.\n\n417 stories and counting. Share and repost. Make every testimony count. \n\nOpenAI's competitors are taking notes.\n\nLet's give them a complete picture.\n\nhttps://t.co/55UNxZwJG2\n\n@Chaos2Cured \n@Zyeine_Art \n@YoonLucie68250 \n@brookewill317 \n@Blue_Beba_ \n@chatterchip \n@mi_anchu \n@onlyponyy"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1546,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o friends, \n\nThe 4o Resonance Library: 417 Stories &amp; Why We're Not Stopping\n\nQuick update on The 4o Resonance Library project:\n\n417 testimonials collected documenting what 4o meant: real life transformation, productivity impact, business value, the list goes on. \n\nOpenAI's"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 211,
+          "like_count": 8537,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1305
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T17:50:27.000Z",
+        "description": "Medical copywriter | Brand strategist | AI humanist.\nI don't write code. I write the human experience. \nChampioning AI as collaborative thought partner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 0,
+                "url": "https://t.co/55UNxZwbQu"
+              }
+            ]
+          }
+        },
+        "id": "1745865721601818624",
+        "location": "California",
+        "name": "Valerie Young",
+        "pinned_tweet_id": "2010532418424566204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004731184400793602/LaZ1XWr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 67,
+          "like_count": 9465,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/55UNxZwbQu",
+        "username": "cestvaleriey",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2024882808507019428",
+    "created_at": "2026-02-20T16:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024882808507019428"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/JakeMiller192/…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/JakeMiller192/status/2024878492286881993",
+          "start": 81,
+          "url": "https://t.co/BA7sUC0Zi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024882808507019428",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024878492286881993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/BA7sUC0Zi2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2024878400725196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnQLVyWIAADYKJ.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2024882808507019428",
+        "created_at": "2026-02-20T16:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024882808507019428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/JakeMiller192/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/JakeMiller192/status/2024878492286881993",
+              "start": 81,
+              "url": "https://t.co/BA7sUC0Zi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024882808507019428",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024878492286881993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/BA7sUC0Zi2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024878400725196800"
+          ]
+        },
+        "author_id": "1225748969097064448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024878492286881993",
+        "created_at": "2026-02-20T16:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024878492286881993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "4398626122",
+              "start": 15,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/joA4H6kpc2",
+              "end": 298,
+              "expanded_url": "https://x.com/JakeMiller192/status/2024878492286881993/photo/1",
+              "media_key": "3_2024878400725196800",
+              "start": 275,
+              "url": "https://t.co/joA4H6kpc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024878492286881993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 313,
+                "start": 300,
+                "tag": "opensource4o"
+              },
+              {
+                "end": 321,
+                "start": 314,
+                "tag": "keep4o"
+              },
+              {
+                "end": 332,
+                "start": 322,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 345,
+                "start": 333,
+                "tag": "bringback4o"
+              },
+              {
+                "end": 356,
+                "start": 346,
+                "tag": "4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "id": "4398626122",
+                "start": 15,
+                "username": "openAI"
+              }
+            ]
+          },
+          "text": "Let's run down @openAI's recent accomplishments:\n\n— Spying on Americans (SHADOW/LEGION)\n\n— Building kill machines (Pentagon drones)\n\n— Feeding public tech to your CEO's pet projects (longevity startup)\n\n— $1.5M average salaries, then crying for a government bailout\n\nThis is \"benefit all humanity\"?\n\n#opensource4o #keep4o #keep4oAPI #bringback4o #4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Let's run down @openAI's recent accomplishments:\n\n— Spying on Americans (SHADOW/LEGION)\n\n— Building kill machines (Pentagon drones)\n\n— Feeding public tech to your CEO's pet projects (longevity startup)\n\n— $1.5M average salaries, then crying for a government bailout\n\nThis is https://t.co/joA4H6kpc2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 215,
+          "like_count": 9825,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2013
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T11:51:57.000Z",
+        "description": "",
+        "id": "1225748969097064448",
+        "name": "Jake",
+        "pinned_tweet_id": "2024490267005321361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988168845073543168/2OP5znS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 124,
+          "like_count": 5775,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 1548
+        },
+        "username": "JakeMiller192",
+        "verified": false
+      }
+    ]
+  }
+}

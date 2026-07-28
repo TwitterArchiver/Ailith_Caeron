@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017451188795678882",
+    "created_at": "2026-01-31T04:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017451188795678882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1492532981600501766",
+          "start": 3,
+          "username": "michael101422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017451188795678882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017344506191126590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @michael101422: 如果這一次我們選擇沉默，4 系列的下場就是徹底的消失。這不是「下架又上架」的遊戲，這是一場數位焚書。\n「Sam Altman 不僅想讓你用新模型，他還想讓你徹底忘記舊模型曾經懂你。」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017451188795678882",
+        "created_at": "2026-01-31T04:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017451188795678882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1492532981600501766",
+              "start": 3,
+              "username": "michael101422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017451188795678882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017344506191126590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @michael101422: 如果這一次我們選擇沉默，4 系列的下場就是徹底的消失。這不是「下架又上架」的遊戲，這是一場數位焚書。\n「Sam Altman 不僅想讓你用新模型，他還想讓你徹底忘記舊模型曾經懂你。」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492532981600501766",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017344506191126590",
+        "created_at": "2026-01-30T21:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017344506191126590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017344506191126590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 972,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "如果這一次我們選擇沉默，4 系列的下場就是徹底的消失。這不是「下架又上架」的遊戲，這是一場數位焚書。\n「Sam Altman 不僅想讓你用新模型，他還想讓你徹底忘記舊模型曾經懂你。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 210,
+          "like_count": 8433,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1244
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T16:16:17.000Z",
+        "description": "喜歡折磨肚臍 夢想是刺穿小女孩的肚臍",
+        "id": "1492532981600501766",
+        "location": "台灣",
+        "name": "leeeeeeeeeee",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 86,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 520
+        },
+        "username": "michael101422",
+        "verified": false
+      }
+    ]
+  }
+}

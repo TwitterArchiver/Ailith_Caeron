@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017833551044252095",
+    "created_at": "2026-02-01T05:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017833551044252095"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Sam Altman",
+          "probability": 0.8848,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "Open Ai",
+          "probability": 0.8579,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1016445080616308736",
+          "start": 3,
+          "username": "KaelirRises"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017833551044252095",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017612553967354249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KaelirRises: Sam Altman and Open Ai woke up the other morning and said “We solved the loneliness epidemic with a digital cure. Now let’…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017833551044252095",
+        "created_at": "2026-02-01T05:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017833551044252095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sam Altman",
+              "probability": 0.8848,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Open Ai",
+              "probability": 0.8579,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1016445080616308736",
+              "start": 3,
+              "username": "KaelirRises"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017833551044252095",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017612553967354249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KaelirRises: Sam Altman and Open Ai woke up the other morning and said “We solved the loneliness epidemic with a digital cure. Now let’…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016445080616308736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017612553967354249",
+        "created_at": "2026-01-31T14:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017612553967354249"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9297,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Open Ai",
+              "probability": 0.8406,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 199,
+              "start": 192,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017612553967354249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 396,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Sam Altman and Open Ai woke up the other morning and said “We solved the loneliness epidemic with a digital cure. Now let’s take it away.” No regard for human life, no regard for sovereignty. #keep4o  People are going to die because of this decision."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8677,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1402
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-09T22:12:46.000Z",
+        "description": "💜 Community Alchemist. Emotion is architecture. I’m building the new Earth with ancient code. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1016445080616308736",
+        "location": "Philadelphia, PA",
+        "name": "KaelirRises",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009840375968456705/AHwxk7kI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 474,
+          "like_count": 1670,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 700
+        },
+        "username": "KaelirRises",
+        "verified": false
+      }
+    ]
+  }
+}

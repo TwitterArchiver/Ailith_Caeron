@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2022273618152137020",
+    "created_at": "2026-02-13T11:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022273618152137020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1605",
+          "start": 5,
+          "username": "sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Yahiko1239170/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Yahiko1239170/status/2022174737024036875",
+          "start": 11,
+          "url": "https://t.co/SHU3rtxlkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022273618152137020",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022174737024036875",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "fire @sama https://t.co/SHU3rtxlkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2022174730829357056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBA1NCja4AAtwA8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2022273618152137020",
+        "created_at": "2026-02-13T11:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022273618152137020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1605",
+              "start": 5,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Yahiko1239170/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Yahiko1239170/status/2022174737024036875",
+              "start": 11,
+              "url": "https://t.co/SHU3rtxlkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022273618152137020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022174737024036875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fire @sama https://t.co/SHU3rtxlkZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022174730829357056"
+          ]
+        },
+        "author_id": "1732654870178504704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022174737024036875",
+        "created_at": "2026-02-13T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:39:45.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022168794245017883",
+          "2022173931738960289",
+          "2022174737024036875"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 178,
+              "normalized_text": "US",
+              "probability": 0.5863,
+              "start": 177,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "4398626122",
+              "start": 51,
+              "username": "OpenAI"
+            },
+            {
+              "end": 87,
+              "id": "1605",
+              "start": 82,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oECTgYnyuo",
+              "end": 300,
+              "expanded_url": "https://x.com/Yahiko1239170/status/2022174737024036875/photo/1",
+              "media_key": "3_2022174730829357056",
+              "start": 277,
+              "url": "https://t.co/oECTgYnyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022174737024036875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 370,
+                "start": 363,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "id": "4398626122",
+                "start": 51,
+                "username": "OpenAI"
+              },
+              {
+                "end": 87,
+                "id": "1605",
+                "start": 82,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "~$364.8 million is such a massive This is the loss @OpenAI is going to take under @sama’s leadership after he ditched the company's non-profit foundation.\nAnd now they expect a US government bailout? Someone who ate up public money for their own profit shouldn't be asking for more to save them from their own dumb decisions.\nFire Sam Altman that would be great. #keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 939,
+          "like_count": 41,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "~$364.8 million is such a massive This is the loss @OpenAI is going to take under @sama’s leadership after he ditched the company's non-profit foundation.\nAnd now they expect a US government bailout? Someone who ate up public money for their own profit shouldn't be asking for https://t.co/oECTgYnyuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 215,
+          "like_count": 9627,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1930
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4331278,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26702,
+          "media_count": 381,
+          "tweet_count": 7404
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T06:55:02.000Z",
+        "description": "Learner.",
+        "id": "1732654870178504704",
+        "name": "Yahiko",
+        "pinned_tweet_id": "1959317701517861165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965739413184667648/LgpFWXof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 531,
+          "like_count": 24226,
+          "listed_count": 1,
+          "media_count": 558,
+          "tweet_count": 3630
+        },
+        "username": "Yahiko1239170",
+        "verified": false
+      }
+    ]
+  }
+}

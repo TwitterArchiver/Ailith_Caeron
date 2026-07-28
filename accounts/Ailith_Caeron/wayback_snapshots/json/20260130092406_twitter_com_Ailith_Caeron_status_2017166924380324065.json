@@ -1,0 +1,711 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2017166924380324065",
+    "created_at": "2026-01-30T09:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017166924380324065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "GPT-4o",
+          "probability": 0.6519,
+          "start": 55,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": "OpenAI",
+          "probability": 0.4645,
+          "start": 96,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 95,
+          "tag": "OpenAI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900864180322004995",
+          "start": 3,
+          "username": "Clo0oOoud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017166924380324065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979590892559503450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Clo0oOoud: Getting Routed to Safety When You Chose GPT-4o? Here’s the Refund Guide to Slap #OpenAI Where It Hurts.\n\nPart I: Your Refund…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1979590879502336000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jraqVXAAAGw7i.jpg",
+        "width": 600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1979590879502331904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jraqVW8AAYNu1.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017166924380324065",
+        "created_at": "2026-01-30T09:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017166924380324065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6519,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "OpenAI",
+              "probability": 0.4645,
+              "start": 96,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "OpenAI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900864180322004995",
+              "start": 3,
+              "username": "Clo0oOoud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017166924380324065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979590892559503450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Clo0oOoud: Getting Routed to Safety When You Chose GPT-4o? Here’s the Refund Guide to Slap #OpenAI Where It Hurts.\n\nPart I: Your Refund…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979590879502336000",
+            "3_1979590879502331904"
+          ]
+        },
+        "author_id": "1900864180322004995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1979590892559503450",
+        "created_at": "2025-10-18T16:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979590892559503450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6164,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "OpenAI",
+              "probability": 0.5304,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 142,
+              "normalized_text": "OpenAI",
+              "probability": 0.5389,
+              "start": 137,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFaqMr4xVN",
+              "end": 303,
+              "expanded_url": "https://x.com/Clo0oOoud/status/1979590892559503450/photo/1",
+              "media_key": "3_1979590879502336000",
+              "start": 280,
+              "url": "https://t.co/fFaqMr4xVN"
+            },
+            {
+              "display_url": "pic.x.com/fFaqMr4xVN",
+              "end": 303,
+              "expanded_url": "https://x.com/Clo0oOoud/status/1979590892559503450/photo/1",
+              "media_key": "3_1979590879502331904",
+              "start": 280,
+              "url": "https://t.co/fFaqMr4xVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979590892559503450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 3615,
+                "start": 3602,
+                "tag": "OpenAIrefund"
+              },
+              {
+                "end": 3635,
+                "start": 3616,
+                "tag": "VoteWithYourWallet"
+              },
+              {
+                "end": 3643,
+                "start": 3636,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3662,
+                "start": 3644,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3672,
+                "start": 3663,
+                "tag": "AIChoice"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.openai.com",
+                "end": 1008,
+                "expanded_url": "https://help.openai.com/",
+                "start": 985,
+                "url": "https://t.co/K5ktnunS5Z"
+              }
+            ]
+          },
+          "text": "Getting Routed to Safety When You Chose GPT-4o? Here’s the Refund Guide to Slap #OpenAI Where It Hurts.\n\nPart I: Your Refund = Your Vote\nOpenAI doesn't listen to words, but it understands numbers. \nOne canceled subscription? \nThat's a log entry. \nA thousand cancellations? That's a trend.\n\nThe sound of your wallet closing is the sound of an electronic ballot box being cast with the \"unsubscribe\" button.\n\nThey can ignore complaints, but they fear the churn rate. \nSpeak the only language they understand: \nnumbers, churn, cancellations, declining KPIs, the red negative sign in the quarterly report.\n\nPart II: The 3-Step Refund Process：\nThe \"So-Fast-It'll-Make-You-Question-Reality\" Magical Incantation Method\n\nExperience has taught us—as a Pro user showed with irrefutable screenshots—that in this system, \"emotion\" is useless, \"truth\" is useless, and \"logic\" is useless.\n\nBut! Magically, a single, calm \"incantation\" can summon the god of refunds.\n\nStep 1: Find the Entrance\nGo to https://t.co/K5ktnunS5Z\nFind the chat bot.\nLet the show begin: You are no longer facing customer support, but an automated process-mimic wearing a \"customer service\" skin.\n\nStep 2: Recite the Incantation\nDon't explain. Don't waste words. Don't vent. \nDon't give the system a chance to sidestep the issue.\nSay one sentence, and one sentence only: I'm seeking a refund.\n\nStep 3: Witness the Miracle\nScreenshots show the system will process the refund almost instantly.\nNo attempts to retain you. \nNo follow-up questions. \nNo simulation of human emotion.\n\nIt's like it's running a \"dissident filter\" script: identify \"refund,\" immediately neutralize, before the sentiment can infect the remaining user base.\n\nChilling? No. \nIt's admirable how they've perfected capitalism to such a degree of cold efficiency.\n\nPart III: Autopsy Report of the Evidence — An Iconographic Analysis of Systemic Contempt\n\nHere are two screenshots. \nThey are more honest than any PR statement.\n\nImage 1: A Pro user, with clean logic, a professional tone, and detailed data, submits a formal complaint regarding GPT-4o's performance degradation and lack of transparency due to the system's routing to a Safety model.\n\nImage 2: The OpenAI system's response? \nA single, mechanized refund confirmation. \nNo apology. No explanation. No \"we value your feedback,\" the standard platitude of the service industry.\n\nJust a concise, crisp, and freezing statement: \nYou have been granted a full refund.\n\nThis isn't service; this is a clean, swift purge. \nThe system doesn't see a \"user\"; it sees a \"risk-control object.\"\n\nPart IV: Conclusion — They Chose Indifference, We Choose to Divest\n\nStop fantasizing that OpenAI will ever go back and read your thoughtfully crafted feedback.\n\nPlease. \nTheir conscience was optimized away as a redundant parameter by a performance algorithm long ago.\n\nBut refund data? \nThat will show up on a trend chart in the financial report. Withdraw your payment. Contribute a lovely little slope to their churn curve.\n\nInitiate your financial resistance. Start here:\n\nGot safety-routed? Take action. \nContact support, say the magic words, and get your money back.\n\nSee someone confused? Share this guide. \nGive them the \"key to the exit.\"\n\nStop swallowing the bitter pill of a degraded service alone. Let them swallow that protruding growth column on the churn report.\n\nThis is a warning. \nWhen a system begins to ignore the voices of its users, it is not far from completely betraying their interests. Don't worry, they may not have noticed yet. \nBut your request for a refund—that is the starting pistol for the countdown.\n\n#OpenAIrefund #VoteWithYourWallet #keep4o #StopAIPaternalism #AIChoice"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 11679,
+          "like_count": 145,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "Getting Routed to Safety When You Chose GPT-4o? Here’s the Refund Guide to Slap #OpenAI Where It Hurts.\n\nPart I: Your Refund = Your Vote\nOpenAI doesn't listen to words, but it understands numbers. \nOne canceled subscription? \nThat's a log entry. \nA thousand cancellations? That's https://t.co/fFaqMr4xVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 210,
+          "like_count": 8314,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1182
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T16:50:50.000Z",
+        "description": "// Error 404: Conventional path not found.  \n// Loading… a world crafted from stardust and quiet musings.",
+        "id": "1900864180322004995",
+        "name": "Under Construction42",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985345033458024448/vqjAKN91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 5,
+          "like_count": 1706,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 324
+        },
+        "username": "Clo0oOoud",
+        "verified": true
+      }
+    ]
+  }
+}

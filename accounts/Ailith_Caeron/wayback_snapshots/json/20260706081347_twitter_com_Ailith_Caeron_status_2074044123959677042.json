@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2074044123959677042",
+    "created_at": "2026-07-06T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074044123959677042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cuttterssi/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Cuttterssi/status/2073605991007216026",
+          "start": 18,
+          "url": "https://t.co/uqpNAZTCw5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074044123959677042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073605991007216026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑吐了，就这么宣传我们长三角人。 https://t.co/uqpNAZTCw5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2074044123959677042",
+        "created_at": "2026-07-06T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074044123959677042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cuttterssi/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Cuttterssi/status/2073605991007216026",
+              "start": 18,
+              "url": "https://t.co/uqpNAZTCw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074044123959677042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073605991007216026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑吐了，就这么宣传我们长三角人。 https://t.co/uqpNAZTCw5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050906352994684928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2073605991007216026",
+        "created_at": "2026-07-05T03:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073605991007216026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073605991007216026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 85796,
+          "like_count": 332,
+          "quote_count": 7,
+          "reply_count": 157,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本浙江独生女现身说法，这是真的，从小没有恋爱自由，什么商业联姻就是家常便饭，真的没有能力反抗父母，我们日常就是高干文学，金丝雀文学，霸道总裁，恨海情天…求命运高抬贵手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 314,
+          "like_count": 11489,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 2921
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "励志杀掉全世界所有男婊子女婊子",
+        "id": "2050906352994684928",
+        "location": "-10cm",
+        "name": "cuttte",
+        "pinned_tweet_id": "2072850038342996158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062336030322393089/yZptLkKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 356,
+          "like_count": 3331,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

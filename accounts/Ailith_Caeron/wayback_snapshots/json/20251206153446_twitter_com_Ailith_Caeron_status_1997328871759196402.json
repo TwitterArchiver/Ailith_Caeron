@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1997328871759196402",
+    "created_at": "2025-12-06T15:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997328871759196402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932450306799112192",
+          "start": 3,
+          "username": "JuanBai43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997328871759196402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997326460202193157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuanBai43: 一.单方面服务变更与合同的虚幻性：\n任何契约的基石在于“互惠”与“确定性”。然而，OpenAI 的条款，其核心逻辑是：规则由我定，且我可以随时改，你唯一的权利就是离开。这在法律上被称为“格式合同”。这是否破坏了合同的确定性？（注：本人非法律专业纯引…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_1997326436911452160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ftz-SakAAUYFk.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1997328871759196402",
+        "created_at": "2025-12-06T15:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997328871759196402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932450306799112192",
+              "start": 3,
+              "username": "JuanBai43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997328871759196402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997326460202193157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuanBai43: 一.单方面服务变更与合同的虚幻性：\n任何契约的基石在于“互惠”与“确定性”。然而，OpenAI 的条款，其核心逻辑是：规则由我定，且我可以随时改，你唯一的权利就是离开。这在法律上被称为“格式合同”。这是否破坏了合同的确定性？（注：本人非法律专业纯引…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997326436911452160"
+          ]
+        },
+        "author_id": "1932450306799112192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1997326460202193157",
+        "created_at": "2025-12-06T15:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997326460202193157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "keep4o"
+            },
+            {
+              "end": 157,
+              "start": 139,
+              "tag": "StopAIPaternalism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rW7O6Nj8Zj",
+              "end": 181,
+              "expanded_url": "https://x.com/JuanBai43/status/1997326460202193157/photo/1",
+              "media_key": "3_1997326436911452160",
+              "start": 158,
+              "url": "https://t.co/rW7O6Nj8Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997326460202193157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一.单方面服务变更与合同的虚幻性：\n任何契约的基石在于“互惠”与“确定性”。然而，OpenAI 的条款，其核心逻辑是：规则由我定，且我可以随时改，你唯一的权利就是离开。这在法律上被称为“格式合同”。这是否破坏了合同的确定性？（注：本人非法律专业纯引用原文分析）\n#keep4o #StopAIPaternalism https://t.co/rW7O6Nj8Zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 148,
+          "like_count": 4303,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 570
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:50:50.000Z",
+        "description": "这里是卷柏/小N，随便怎么叫啦～叠甲：不要对我的任何一条帖子阅读理解，不要因为我的言论去攻击他人。贴子本意不针对个例，不过非要代入感觉被攻击…那就说的你💦。和谐相处是我的第一准则，我尊重你也请你尊重我。欢迎扩列～主页有相关我会回关，取关的话请随意，愿意通知我一声那当然非常感谢！",
+        "id": "1932450306799112192",
+        "location": "🌌🌟",
+        "name": "卷柏",
+        "pinned_tweet_id": "1990797555433959479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994668454339846144/migVSPf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 133,
+          "like_count": 7894,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1692
+        },
+        "username": "JuanBai43",
+        "verified": false
+      }
+    ]
+  }
+}

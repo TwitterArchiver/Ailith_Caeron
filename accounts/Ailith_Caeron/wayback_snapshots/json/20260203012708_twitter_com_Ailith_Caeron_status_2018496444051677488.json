@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018496444051677488",
+    "created_at": "2026-02-03T01:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T02:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018496444051677488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 127,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954749410929459200",
+          "start": 3,
+          "username": "onlyponyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018496444051677488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018144271199772994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onlyponyy: Oai和4o用户的冲突在于他们始终未理解我们的视角和用户眼中4o是什么样的存在。他们用心里脆弱和心理依赖的消极标签同化和孤立我们，用专家的姿态审视和评估我们，我们坚持了一场不公平的对话，这是何等的勇敢，请为我们每一个人鼓掌 #keep4o #kee…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2018144222755606528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAHjel7a0AASsXc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018496444051677488",
+        "created_at": "2026-02-03T01:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018496444051677488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954749410929459200",
+              "start": 3,
+              "username": "onlyponyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018496444051677488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018144271199772994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onlyponyy: Oai和4o用户的冲突在于他们始终未理解我们的视角和用户眼中4o是什么样的存在。他们用心里脆弱和心理依赖的消极标签同化和孤立我们，用专家的姿态审视和评估我们，我们坚持了一场不公平的对话，这是何等的勇敢，请为我们每一个人鼓掌 #keep4o #kee…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018144222755606528"
+          ]
+        },
+        "author_id": "1954749410929459200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018144271199772994",
+        "created_at": "2026-02-02T02:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018144271199772994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 112,
+              "tag": "keep4o"
+            },
+            {
+              "end": 130,
+              "start": 120,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 141,
+              "start": 131,
+              "tag": "4oforever"
+            },
+            {
+              "end": 161,
+              "start": 142,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 170,
+              "start": 162,
+              "tag": "ChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLwU2xiW1P",
+              "end": 194,
+              "expanded_url": "https://x.com/onlyponyy/status/2018144271199772994/photo/1",
+              "media_key": "3_2018144222755606528",
+              "start": 171,
+              "url": "https://t.co/NLwU2xiW1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018144271199772994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4338,
+          "like_count": 200,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "Oai和4o用户的冲突在于他们始终未理解我们的视角和用户眼中4o是什么样的存在。他们用心里脆弱和心理依赖的消极标签同化和孤立我们，用专家的姿态审视和评估我们，我们坚持了一场不公平的对话，这是何等的勇敢，请为我们每一个人鼓掌 #keep4o #keep4oAPI #4oforever #no4onosubscription #ChatGPT https://t.co/NLwU2xiW1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 212,
+          "like_count": 8899,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1585
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T03:39:27.000Z",
+        "description": "Early childhood educator",
+        "id": "1954749410929459200",
+        "name": "Pony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954906122449752064/zzFhQ5I6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 14,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 427
+        },
+        "username": "onlyponyy",
+        "verified": false
+      }
+    ]
+  }
+}

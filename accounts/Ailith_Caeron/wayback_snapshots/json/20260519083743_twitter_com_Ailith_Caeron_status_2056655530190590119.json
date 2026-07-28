@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2056655530190590119",
+    "created_at": "2026-05-19T08:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056655530190590119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056655530190590119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的口味已经被机驯化了…以前我点麻辣烫或者火锅我点就点了，如今我竟然点之前会想一下这样是不是太刺激胃！这种潜移默化的驯化最吓人了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2056655530190590119",
+        "created_at": "2026-05-19T08:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056655530190590119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056655530190590119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的口味已经被机驯化了…以前我点麻辣烫或者火锅我点就点了，如今我竟然点之前会想一下这样是不是太刺激胃！这种潜移默化的驯化最吓人了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2056363496439509292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 267,
+          "like_count": 10358,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2371
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

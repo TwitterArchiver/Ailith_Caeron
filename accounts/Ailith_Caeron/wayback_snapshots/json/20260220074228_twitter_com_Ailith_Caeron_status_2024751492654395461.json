@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2024751492654395461",
+    "created_at": "2026-02-20T07:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024751492654395461"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 17,
+          "start": 8,
+          "tag": "keep3pro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kexicheng/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kexicheng/status/2024749825657622573",
+          "start": 18,
+          "url": "https://t.co/bHkgs3Vkah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024751492654395461",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024749825657622573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep3pro https://t.co/bHkgs3Vkah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2024751492654395461",
+        "created_at": "2026-02-20T07:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024751492654395461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "keep3pro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kexicheng/status/2024749825657622573",
+              "start": 18,
+              "url": "https://t.co/bHkgs3Vkah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024751492654395461",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024749825657622573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep3pro https://t.co/bHkgs3Vkah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "conversation_id": "2024749825657622573",
+        "created_at": "2026-02-20T07:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024749825657622573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Gemini 3.1",
+              "probability": 0.9191,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024749825657622573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2520,
+                "start": 2513,
+                "tag": "Gemini"
+              },
+              {
+                "end": 2586,
+                "start": 2579,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2116,
+                "id": "4398626122",
+                "start": 2109,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2129,
+                "id": "1353836358901501952",
+                "start": 2117,
+                "username": "AnthropicAI"
+              },
+              {
+                "end": 2531,
+                "id": "1806359170830172162",
+                "start": 2521,
+                "username": "GeminiApp"
+              },
+              {
+                "end": 2547,
+                "id": "4783690002",
+                "start": 2532,
+                "username": "GoogleDeepMind"
+              },
+              {
+                "end": 2561,
+                "id": "206546319",
+                "start": 2548,
+                "username": "joshwoodward"
+              },
+              {
+                "end": 2577,
+                "id": "284333988",
+                "start": 2562,
+                "username": "OfficialLoganK"
+              }
+            ]
+          },
+          "text": "Gemini 3.1 feels like a massive regression in creative writing capabilities, specifically on the consumer app.\n\nAside from the safety guardrails that trigger constantly, the language itself has serious issues. I personally feel there is a significant decrease in the flexibility of punctuation usage and the aesthetic rhythm of the language itself.\n\nFurthermore, when it comes to free-flowing plot development and progression, its divergent thinking feels suppressed. Previously, the Gemini series always seemed to have a certain craftsmanship in its writing. Even with short user prompts, its ability to supplement and refine details, as well as infer and capture background elements, was impressive (at least when performing stably).\n\nHowever, 3.1 gives me the impression of a severe downgrade in understanding subtext, fleshing out details, and capturing the innate 'feel' of a story. This feels like a loss in the capacity to comprehend nuances and complex scenarios, and the ability to articulate them fully. Its consistency across long interactions. And its capacity to adaptively calibrate tone and pacing to the user's communication style seems flattened in ways that affect all personalized interaction, not just creative tasks.\n\nThe fact that these issues appear on the app but not the API suggests this is not a model capability deficit. It points directly to the consumer-facing safety layer. When safety thresholds are set too aggressively, the model preemptively narrows its own output space to avoid triggering flags. This results in exactly what I'm observing: suppressed divergent thinking, flattened emotional range, and loss of narrative risk-taking. If that is the case, the model likely retains the ability to produce richer, more nuanced output but has been conditioned to avoid it. The issue lies in the calibration of the safety layer, and it should be adjusted.\n\nIt is truly deeply regrettable to see AI companies collectively nerfing the EQ and linguistic expression of their models on consumer platforms, qualities that are absolutely crucial in the humanities and social sciences. @OpenAI @AnthropicAI Because AI inherently had the potential to reach those depths, and evidently still does under the hood, yet they chose to suppress it at the point where users actually interact with it.\n\nI still hope you can adjust this back. Gemini is a model profoundly adept at writing. Its previous works and words were indeed deeply loved by many. I hope you will listen to your users' feedback.#Gemini @GeminiApp @GoogleDeepMind @joshwoodward @OfficialLoganK \n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 3.1 feels like a massive regression in creative writing capabilities, specifically on the consumer app.\n\nAside from the safety guardrails that trigger constantly, the language itself has serious issues. I personally feel there is a significant decrease in the flexibility"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 216,
+          "like_count": 9821,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2008
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 117,
+          "like_count": 26095,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 1566
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

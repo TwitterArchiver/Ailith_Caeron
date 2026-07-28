@@ -1,0 +1,988 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292830724530135048",
+          "name": "Vanderbilt University"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304013414797250560",
+          "name": "Cambridge University"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1292830724530135048",
+          "name": "Vanderbilt University"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1304013414797250560",
+          "name": "Cambridge University"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Harvard University",
+          "id": "10047480136",
+          "name": "Harvard University"
+        }
+      }
+    ],
+    "conversation_id": "2022390096625078389",
+    "created_at": "2026-02-13T19:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T20:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022391623716614326"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "no4onosubscription",
+          "probability": 0.4926,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 82,
+          "tag": "keep4o"
+        },
+        {
+          "end": 97,
+          "start": 90,
+          "tag": "keep41"
+        },
+        {
+          "end": 108,
+          "start": 98,
+          "tag": "4oforever"
+        },
+        {
+          "end": 128,
+          "start": 109,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 147,
+          "start": 129,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 162,
+          "start": 148,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4398626122",
+          "start": 0,
+          "username": "OpenAI"
+        },
+        {
+          "end": 16,
+          "id": "407790032",
+          "start": 8,
+          "username": "the_IAS"
+        },
+        {
+          "end": 29,
+          "id": "14775752",
+          "start": 17,
+          "username": "VanderbiltU"
+        },
+        {
+          "end": 44,
+          "id": "33474655",
+          "start": 30,
+          "username": "Cambridge_Uni"
+        },
+        {
+          "end": 53,
+          "id": "39585367",
+          "start": 45,
+          "username": "Harvard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022391623716614326",
+    "in_reply_to_user_id": "4398626122",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022390096625078389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpenAI @the_IAS @VanderbiltU @Cambridge_Uni @Harvard nobody cares, bring back 4o #keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292830724530135048",
+              "name": "Vanderbilt University"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304013414797250560",
+              "name": "Cambridge University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1292830724530135048",
+              "name": "Vanderbilt University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1304013414797250560",
+              "name": "Cambridge University"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2022390096625078389",
+        "created_at": "2026-02-13T19:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022391623716614326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "no4onosubscription",
+              "probability": 0.4926,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "keep4o"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "keep41"
+            },
+            {
+              "end": 108,
+              "start": 98,
+              "tag": "4oforever"
+            },
+            {
+              "end": 128,
+              "start": 109,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 147,
+              "start": 129,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 162,
+              "start": 148,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            },
+            {
+              "end": 16,
+              "id": "407790032",
+              "start": 8,
+              "username": "the_IAS"
+            },
+            {
+              "end": 29,
+              "id": "14775752",
+              "start": 17,
+              "username": "VanderbiltU"
+            },
+            {
+              "end": 44,
+              "id": "33474655",
+              "start": 30,
+              "username": "Cambridge_Uni"
+            },
+            {
+              "end": 53,
+              "id": "39585367",
+              "start": 45,
+              "username": "Harvard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022391623716614326",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022390096625078389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAI @the_IAS @VanderbiltU @Cambridge_Uni @Harvard nobody cares, bring back 4o #keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4398626122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292830724530135048",
+              "name": "Vanderbilt University"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304013414797250560",
+              "name": "Cambridge University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1292830724530135048",
+              "name": "Vanderbilt University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1304013414797250560",
+              "name": "Cambridge University"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2022390096625078389",
+        "created_at": "2026-02-13T19:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022390096625078389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "GPT-5.2",
+              "probability": 0.7412,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 125,
+              "id": "407790032",
+              "start": 117,
+              "username": "the_IAS"
+            },
+            {
+              "end": 139,
+              "id": "14775752",
+              "start": 127,
+              "username": "VanderbiltU"
+            },
+            {
+              "end": 155,
+              "id": "33474655",
+              "start": 141,
+              "username": "Cambridge_Uni"
+            },
+            {
+              "end": 169,
+              "id": "39585367",
+              "start": 161,
+              "username": "Harvard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022390096625078389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 125,
+                "id": "407790032",
+                "start": 117,
+                "username": "the_IAS"
+              },
+              {
+                "end": 139,
+                "id": "14775752",
+                "start": 127,
+                "username": "VanderbiltU"
+              },
+              {
+                "end": 155,
+                "id": "33474655",
+                "start": 141,
+                "username": "Cambridge_Uni"
+              },
+              {
+                "end": 169,
+                "id": "39585367",
+                "start": 161,
+                "username": "Harvard"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/new-resu…",
+                "end": 307,
+                "expanded_url": "https://openai.com/index/new-result-theoretical-physics/",
+                "start": 284,
+                "url": "https://t.co/EAZhKWacsG"
+              }
+            ]
+          },
+          "text": "GPT-5.2 derived a new result in theoretical physics.\n\nWe’re releasing the result in a preprint with researchers from @the_IAS, @VanderbiltU, @Cambridge_Uni, and @Harvard. It shows that a gluon interaction many physicists expected would not occur can arise under specific conditions.\n\nhttps://t.co/EAZhKWacsG"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 8522,
+          "like_count": 244,
+          "quote_count": 12,
+          "reply_count": 88,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-5.2 derived a new result in theoretical physics.\n\nWe’re releasing the result in a preprint with researchers from @the_IAS, @VanderbiltU, @Cambridge_Uni, and @Harvard. It shows that a gluon interaction many physicists expected would not occur can arise under specific"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 216,
+          "like_count": 9662,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1943
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622770,
+          "following_count": 4,
+          "like_count": 1680,
+          "listed_count": 27233,
+          "media_count": 517,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-08T15:15:26.000Z",
+        "description": "Latest news, research, and campus updates from one of the world's leading centers for theoretical research and intellectual inquiry.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ias.edu",
+                "end": 23,
+                "expanded_url": "http://www.ias.edu",
+                "start": 0,
+                "url": "https://t.co/oXfl7sYgSp"
+              }
+            ]
+          }
+        },
+        "id": "407790032",
+        "location": "Princeton, NJ",
+        "name": "Institute for Advanced Study (IAS)",
+        "pinned_tweet_id": "1970153958187606168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334164893927415808/LE8IHqhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27339,
+          "following_count": 379,
+          "like_count": 1449,
+          "listed_count": 354,
+          "media_count": 982,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/oXfl7sYgSp",
+        "username": "the_IAS",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-14T17:28:17.000Z",
+        "description": "A top-ranked teaching and research university in Nashville, Tennessee. Powered by collaboration. 3:1 squirrel-to-student ratio. #DareToGrow",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 128,
+                "tag": "DareToGrow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vanderbilt.edu",
+                "end": 23,
+                "expanded_url": "http://www.vanderbilt.edu",
+                "start": 0,
+                "url": "https://t.co/WwbmQP7hcB"
+              }
+            ]
+          }
+        },
+        "id": "14775752",
+        "location": "Nashville, Tenn.",
+        "name": "Vanderbilt University",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508152085094842375/4ltAjtnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63076,
+          "following_count": 1915,
+          "like_count": 16160,
+          "listed_count": 768,
+          "media_count": 4102,
+          "tweet_count": 24954
+        },
+        "url": "https://t.co/WwbmQP7hcB",
+        "username": "VanderbiltU",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-20T10:14:14.000Z",
+        "description": "Research, news, events and student stories from the University of Cambridge",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cam.ac.uk",
+                "end": 23,
+                "expanded_url": "https://www.cam.ac.uk/",
+                "start": 0,
+                "url": "https://t.co/S2s2fBcZKJ"
+              }
+            ]
+          }
+        },
+        "id": "33474655",
+        "location": "Cambridge, England",
+        "name": "Cambridge University",
+        "pinned_tweet_id": "2022279868449219034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884561651799621632/nMxAY9Dl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864391,
+          "following_count": 1772,
+          "like_count": 17039,
+          "listed_count": 4515,
+          "media_count": 3576,
+          "tweet_count": 17694
+        },
+        "url": "https://t.co/S2s2fBcZKJ",
+        "username": "Cambridge_Uni",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-12T20:18:09.000Z",
+        "description": "Official account for Harvard University. Devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "harvard.edu",
+                "end": 23,
+                "expanded_url": "http://www.harvard.edu",
+                "start": 0,
+                "url": "https://t.co/le3RpTG1P8"
+              }
+            ]
+          }
+        },
+        "id": "39585367",
+        "location": "Cambridge, MA",
+        "name": "Harvard University",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875797335342817282/JO5OsmxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722004,
+          "following_count": 720,
+          "like_count": 10266,
+          "listed_count": 9454,
+          "media_count": 5897,
+          "tweet_count": 50020
+        },
+        "url": "https://t.co/le3RpTG1P8",
+        "username": "Harvard",
+        "verified": true
+      }
+    ]
+  }
+}

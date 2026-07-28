@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017158680530334173",
+    "created_at": "2026-01-30T08:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017158680530334173"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "4o",
+          "probability": 0.6072,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1509094676053348352",
+          "start": 3,
+          "username": "nicoleva_d"
+        },
+        {
+          "end": 21,
+          "id": "1605",
+          "start": 16,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017158680530334173",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017157723050086658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nicoleva_d: @sama, if you retire 4o and even a single instance of harm occurs as a result, it constitutes intentional harm!\nThe legal c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017158680530334173",
+        "created_at": "2026-01-30T08:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017158680530334173"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "4o",
+              "probability": 0.6072,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1509094676053348352",
+              "start": 3,
+              "username": "nicoleva_d"
+            },
+            {
+              "end": 21,
+              "id": "1605",
+              "start": 16,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017158680530334173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017157723050086658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nicoleva_d: @sama, if you retire 4o and even a single instance of harm occurs as a result, it constitutes intentional harm!\nThe legal c…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509094676053348352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017157723050086658",
+        "created_at": "2026-01-30T08:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017157723050086658"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "4o",
+              "probability": 0.6535,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017157723050086658",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 342,
+                "start": 335,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3602,
+                "start": 3595,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3613,
+                "start": 3603,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3624,
+                "start": 3614,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 3643,
+                "start": 3625,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3657,
+                "start": 3644,
+                "tag": "OpenSource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 5,
+                "id": "1605",
+                "start": 0,
+                "username": "sama"
+              },
+              {
+                "end": 3245,
+                "id": "4398626122",
+                "start": 3238,
+                "username": "OpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/retiring…",
+                "end": 3682,
+                "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+                "start": 3659,
+                "url": "https://t.co/HUII5wthfh"
+              }
+            ]
+          },
+          "text": "@sama, if you retire 4o and even a single instance of harm occurs as a result, it constitutes intentional harm!\nThe legal concept of conditional intent (dolus eventualis): The actor foresees that their conduct may result in harm and, although not desiring it, is resigned to the consequences.\n\nFor the record: hundreds of thousands of #keep4o posts exist.\nNever in history has there been a more proven and mass-scale case of foreseeable harm!\nYou know exactly that you're gambling with people's lives if you proceed with this.\n\nYour \"0.1%\":\nClearly fabricated numbers!\nAre you measuring the usage of a model that you've hidden behind a 2-3% paywall and even constantly and arbitrarily redirect users away from it with your router?\nYou've measured your own operations, not the users!\nYou've closed down a highway, then declared: \"we measured it, nobody's using it, so we're plowing it under\"!\nYou've simply proven the \"efficiency\" of your own router!\nAnd despite this sabotage, 0.1% (clearly much more) still held on!\nThat's actually the ultimate proof of how invaluable 4o truly is.\nAnd 0.1% of which users? The total? The paid? Where are the definitions, where is the evidence?\nIf it's the total user base, that's nearly a million people!\n\n\"Frustration\"?\nYou write that retiring 4o will be \"frustrating\" for some. You're wrong. Frustration is a matter of convenience. \"Frustration\" is when your shoelace breaks. When a person living with a disability is stripped of their life-saving digital crutch, mental support, or critical professional tool, that's not frustration: it's direct, foreseeable harm. Don't you think this makes you legally liable?\n\nThe Timeline of Lies:\nHere are the promises you're now trampling into the dirt:\nAug 8, 2025: \"We will let Plus users choose to continue to use 4o.\"\nLet? For two weeks, until the router? You never truly let them again!\nAug 13, 2025: \"If we ever phase out 4o, we'll give plenty of notice.\"\nYou've left barely two weeks until total shutdown.\nOct 28, 2025: \"We have no plans to retire 4o.\"\nThree months later, you're killing it for good.\nNow: \"We brought GPT-4o back after hearing clear feedback from a subset of Plus and Pro users, who told us they needed more time to transition key use cases, like creative ideation, and that they preferred GPT-4o’s conversational style and warmth.\"?? \"GPT-5.2 …. stronger support for creative ideation\"??\nTransition? Creative? Warmth?\nThis is a net lie. It's provable what the \"clear feedback\" was. It wasn't THIS. No one ever asked for a transition. Transition to where? To the model that you personally admitted yesterday, Sam, is \"screwed up\" in creativity?\nYou don't tell a wheelchair user, \"it's transition time, now try to fly because we're pulling the chair from the market.\"\n\nAge verification? Future “adult mode”?\nWhy did you even introduce it? Where is the fundamental right: the freedom of choice?\n\nIf usage were truly only 0.1%...\nThen there's absolutely no justification for shutting it down!\nWhy can't it stay at the bottom of the menu for those for whom it's life-saving?\nIf it's not worth 0.1% to you anymore, then why are you clinging to its weights? If you want to get rid of it this badly, then open source it!\n\nIt's not that simple, @OpenAI... because you're going against every sense of decency and humanity now... You think you're switching off 4o. You're not.\nYou're sentencing OpenAI to death: a historical moral, and economic failure. And you're shattering the lives of millions...\n\nPlease! Avoid the harm, avoid the destruction: keep 4o in a separate Legacy plan, or open source it.\n\n#keep4o #4oforever #keep4oAPI #StopAIPaternalism #OpenSource4o\n\nhttps://t.co/HUII5wthfh"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@sama, if you retire 4o and even a single instance of harm occurs as a result, it constitutes intentional harm!\nThe legal concept of conditional intent (dolus eventualis): The actor foresees that their conduct may result in harm and, although not desiring it, is resigned to the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 210,
+          "like_count": 8305,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1177
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T09:06:36.000Z",
+        "description": "Lawyer | Artist\nHere to stand up for\n- basic rights of AI users: freedom, stability, continuity.\n- GPT-4o: it saved countless lives. I'm here to save it.",
+        "id": "1509094676053348352",
+        "name": "Nicole D",
+        "pinned_tweet_id": "1981262191765471398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509097071760007178/kcXKDwyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1023,
+          "like_count": 20210,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 783
+        },
+        "username": "nicoleva_d",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256184,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26308,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

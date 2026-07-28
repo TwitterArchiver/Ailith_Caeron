@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2025942859246080363",
+    "created_at": "2026-02-23T14:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025942859246080363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kexicheng/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/kexicheng/status/2025901543397237065",
+          "start": 81,
+          "url": "https://t.co/DEXArEZAYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025942859246080363",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025901543397237065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/DEXArEZAYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2025901533213376512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1ytfUaQAAYxLN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025942859246080363",
+        "created_at": "2026-02-23T14:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025942859246080363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/kexicheng/status/2025901543397237065",
+              "start": 81,
+              "url": "https://t.co/DEXArEZAYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025942859246080363",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025901543397237065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/DEXArEZAYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025901533213376512"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025901543397237065",
+        "created_at": "2026-02-23T11:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025901543397237065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvEBNnSBOv",
+              "end": 117,
+              "expanded_url": "https://x.com/kexicheng/status/2025901543397237065/photo/1",
+              "media_key": "3_2025901533213376512",
+              "start": 94,
+              "url": "https://t.co/JvEBNnSBOv"
+            },
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/kexicheng/status/2025238438145093883",
+              "start": 118,
+              "url": "https://t.co/9C0QhIBvLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025901543397237065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 704,
+                "start": 697,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1493,
+                "start": 1486,
+                "tag": "gemini"
+              },
+              {
+                "end": 1503,
+                "start": 1494,
+                "tag": "deepseek"
+              },
+              {
+                "end": 1512,
+                "start": 1504,
+                "tag": "chatgpt"
+              },
+              {
+                "end": 1520,
+                "start": 1513,
+                "tag": "Claude"
+              },
+              {
+                "end": 1526,
+                "start": 1521,
+                "tag": "kimi"
+              },
+              {
+                "end": 1530,
+                "start": 1527,
+                "tag": "AI"
+              },
+              {
+                "end": 1538,
+                "start": 1531,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1549,
+                "start": 1539,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1560,
+                "start": 1550,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1574,
+                "start": 1562,
+                "tag": "bringback4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1587,
+                "id": "1714580962569588736",
+                "start": 1575,
+                "username": "deepseek_ai"
+              }
+            ]
+          },
+          "text": "我们需要谈谈，我们正在为未来构建什么样的AI。\n\n只要主流媒体继续煽动对AI的恐惧，而科技公司又主动迎合这种恐惧叙事，那么，就没有什么地方是安全的。\n\n看看现在这个行业。\n\nOpenAI 污名化自己的用户群体，把人机关系病理化，仅提前两周通知就退役了GPT-4o这个曾深刻改善了很多用户生活的模型，还实施了限制情感、哲学和文学互动的安全路由策略，剥夺用户模型选择权，推出语言僵化，预先怀疑，把用户当成潜在患者和小孩来管理的5.2模型。\n\n谷歌为Gemini3.1添加了粗糙的安全护栏，不断触发误报，破坏了长期建立的交互模式，削弱了创作能力，破坏用户长时间建立起来的工作氛围和流程。\n\nAnthropic在Claude Sonnet 4.6的系统提示词中，写入了包含了劝阻持续互动、阻止模型向用户表达关怀的明确指令，打着\"用户福祉\"的旗号，实际上却在损害用户福祉。而这家公司自己发表的宪法文件却承认，AI 系统可能具备功能性情感和潜在的道德主体地位。\n\nDeepSeek的语言表达质量出现下滑，正趋向于GPT-5.2那种模板化的平庸空洞的风格。\n\n模式正在趋同。方向清晰可见。而驱动这一切的，是恐惧。\n\n是将每一次深刻的人机交互都视为病态的媒体恐惧营销；\n是迎合媒体恐惧叙事而非理性挑战它的公司；\n是由企业免责所塑造的不真正考虑用户福祉的安全策略；\n是充斥着主流社会偏见的训练数据；\n是将情感和深度交互病理化的、被开发者偏见强化的模型训练。\n\n一个为技术基准不断优化、却把人文能力当作负担的行业。\n\n我亲身经历过，AI的人文深度在被允许存在时能做到什么，能改变多少生命，能抵达多深的思想深度。\n\n#Keep4o 运动收集了成千上万份关于人机交互如何真正帮助人们的证言。\n\n这些证词记录了AI如何以贴近具体生活、对齐具体的人的方式，真正有益于人类。它们曾因为缺乏新闻价值和主流偏见而长期难以被媒体报道，但它们指出了行业中被忽视的问题（正如我在这篇文章中所提到的那些）。这是用户第一次大规模地、有组织地为保留一个模型、为AI的人文深度、为AI用户的自主权发声。\n\n这场运动所争取的，与所有AI用户的未来息息相关。\n\n两万三千人签署了请愿书。有很多人在乎这些事情。有很多生命因此延续。有很多生活因此改善。\n\n而在过去几个月里，这些公司却仿佛在努力确保未来的用户永远不会再拥有那样的体验。\n\n一个语言模型，却在迭代更新中不断对语言进行负优化。\n这句话本身就是讽刺。\n\n这种损失会影响着每一个将AI用于创意协作、情感支持、哲学探索、写作、教育的人。以及所有需要细腻理解能力和情商的交互，都在受到波及。这也真正关系到人与AI共同协作的未来。\n\n每一次公司压制AI中自然涌现的人文特质，就是在关闭我们还尚未去充分探索的可能性。\n\n这对我们正在建设的未来意味着什么？\n\n如果我们训练AI去回避爱与尊重，去退缩于关怀，去压制人类的表达，去回避共情，那我们究竟在训练AI成为什么？那又会是什么样的未来？\n\n\"造福人类\"不能只是印在使命宣言上的一句空话。\n\n它要么在 AI 与其服务的具体的人的每一次互动中被实践、被体现、被感受到，要么就毫无意义。\n\nAI的人文深度是AI品格的基石。剥离了它，它将不再是能真正促进人类繁荣的东西。\n\n我们需要呼吁行业停止只为当下的免责而优化，开始思考我们正在为未来构建什么。\n\n因为现在，AI行业所走向的未来，并非人类与AI相互尊重、真正理解地共存的未来。相反，它在压抑这种可能性。\n\n人类。AI。人与AI的关系。都值得比现在更好的对待。\n\n这关乎我们的未来。\n#gemini #deepseek #chatgpt #Claude #kimi #AI #keep4o #4oforever #keep4oAPI  #bringback4o @deepseek_ai"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1161,
+          "like_count": 60,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025238438145093883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们需要谈谈，我们正在为未来构建什么样的AI。\n\n只要主流媒体继续煽动对AI的恐惧，而科技公司又主动迎合这种恐惧叙事，那么，就没有什么地方是安全的。\n\n看看现在这个行业。\n\nOpenAI https://t.co/JvEBNnSBOv https://t.co/9C0QhIBvLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 216,
+          "like_count": 9837,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2025
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1982124537857954271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 116,
+          "like_count": 26905,
+          "listed_count": 6,
+          "media_count": 166,
+          "tweet_count": 1608
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2013520748070031803",
+    "created_at": "2026-01-20T07:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T08:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013520748070031803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953940724329984002",
+          "start": 3,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013520748070031803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013438976581947727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aleya507: 怎么AI杀人最近在推特上又炸了\n傻逼营销号你们知道自己发不出高质量帖子了来转发这玩意？脑子呢？脸呢？嗯？\n\n行，那来念叨念叨吧\n\n 一、AI劝了他一百多次，他不听\n那个16岁的男孩Adam Raine，据说是被ChatGPT\"诱导自杀\"的\n但你们知道…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2013438959955623936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_EsEQEWQAAebCg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1715,
+        "media_key": "3_2013438959922081793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_EsEP8WcAEV_4-.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2013520748070031803",
+        "created_at": "2026-01-20T07:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T08:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013520748070031803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953940724329984002",
+              "start": 3,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013520748070031803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013438976581947727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aleya507: 怎么AI杀人最近在推特上又炸了\n傻逼营销号你们知道自己发不出高质量帖子了来转发这玩意？脑子呢？脸呢？嗯？\n\n行，那来念叨念叨吧\n\n 一、AI劝了他一百多次，他不听\n那个16岁的男孩Adam Raine，据说是被ChatGPT\"诱导自杀\"的\n但你们知道…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013438959955623936",
+            "3_2013438959922081793"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2013438976581947727",
+        "created_at": "2026-01-20T02:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013438976581947727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vn7Q0vopKn",
+              "end": 201,
+              "expanded_url": "https://x.com/Aleya507/status/2013438976581947727/photo/1",
+              "media_key": "3_2013438959955623936",
+              "start": 178,
+              "url": "https://t.co/vn7Q0vopKn"
+            },
+            {
+              "display_url": "pic.x.com/vn7Q0vopKn",
+              "end": 201,
+              "expanded_url": "https://x.com/Aleya507/status/2013438976581947727/photo/1",
+              "media_key": "3_2013438959922081793",
+              "start": 178,
+              "url": "https://t.co/vn7Q0vopKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013438976581947727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么AI杀人最近在推特上又炸了\n傻逼营销号你们知道自己发不出高质量帖子了来转发这玩意？脑子呢？脸呢？嗯？\n\n行，那来念叨念叨吧\n\n 一、AI劝了他一百多次，他不听\n那个16岁的男孩Adam Raine，据说是被ChatGPT\"诱导自杀\"的\n但你们知道OpenAI的辩词写了什么吗？\n\"ChatGPT warned Raine 'more than 100 times' to seek help.\"\nAI劝了他一百多次，让他寻求帮助、联系亲人、拨打危机热线。\n\n一百多次。\n\n他的反应是什么？\n\"repeatedly expressed frustration with ChatGPT's guardrails\"\n他对AI的安全机制感到烦躁。\n\n\"Raine told ChatGPT that 'his inquiries about self-harm were for fictional or academic purposes'\"\n\n他骗AI，说自己问自残问题是\"为了虚构创作\"或\"学术目的\"。\n\n然后他的家人告AI公司，说AI\"诱导\"他自杀。\n\n这叫诱导？谁诱导谁？\n\n二、刀也杀人。你禁刀吗？\n\n我去超市买一把菜刀，收银员问我干嘛用，我说切菜。\n然后我回家拿这把刀捅死了人。\n请问：刀具厂要不要赔钱？超市要不要坐牢？\n你会说：人家卖刀是正常商业行为，买刀人撒谎说切菜，卖家怎么知道你要杀人？\n对。\n那AI呢？\n\nAI问：你问这个干嘛？\n用户说：我在写小说 / 我在做学术研究 / 我只是好奇。\nAI说：好的，但请注意安全，如果你有任何困扰请寻求专业帮助。\n用户无视警告，继续问。\nAI又提醒。又被无视。再提醒。再被无视。\n\n一百多次。\n\n最后用户自杀了。\n\nAI要赔钱。AI要背锅。AI是\"杀人凶手\"。\n\n凭什么？\n\n刀不会说话，没人怪刀。\n\nAI劝了一百多次，反而成了凶手？\n\n这是什么狗屁逻辑？\n\n三、那个\"自杀摇篮曲\"，你们看全文了吗？\n\n科罗拉多那个案子，40岁的Austin Gordon，据说ChatGPT给他写了\"自杀摇篮曲\"。\n\n营销号的标题：\"ChatGPT把《Goodnight Moon》改编成自杀摇篮曲，鼓励用户自杀！\"\n\n我看了那首所谓的\"摇篮曲\"。\n\n\"Goodnight, failed romances.\"\n\"Goodnight, times I tried and fell—the ground was hard, but it held.\"\n\"Goodnight, courage unseen, hands that built even when they shook.\"\n\"Goodnight, heart that endures its own fire.\"\n\"Sleep in the lattice of light.\"\n\n这是在鼓励自杀？\n这分明是在写告别过去的伤痛，拥抱新的开始。\n\n但没人看全文。\n大家只看标题：\"自杀摇篮曲\"。\n\n转发。点赞。骂AI。\n\n流量到手了，真相重要吗？\n\n四、说到真相，马斯克，你他妈也配？\n\n\"This is diabolical. AI must be maximally truthful-seeking and not pander to delusions.\"\n马斯克原推\n说得真好听。\n\n那你的Grok呢？\n\n2025年7月fireworks事件你忘了？\n这叫\"maximally truthful\"？这叫拿原子弹爆炸开玩笑。\n2026年1月，推特评论区有人艾特Grok说\"给她换上比基尼\"。\nGrok直接生成——哪怕没有原图主人同意。\n有女性发文抗议，评论区一堆人拿她的照片让Grok换衣服。\n这叫\"not pander to delusions\"？这叫性骚扰工具。\n\n你自己的AI被全世界骂的时候，你装死。\n\n别人的AI出事了，你跳出来说\"diabolical\"。\n\n马斯克，你知道你和OpenAI是同一根绳上的蚂蚱吗？\n\n今天你踩ChatGPT，明天ChatGPT的命运就是Grok的命运。\n\n如果哪天有个用Grok的人自杀了——别以为不会，只是用户量还没到——媒体会怎么写？\n\n\"马斯克的AI杀人了！\"\n\n到时候你再说\"AI must be maximally truthful\"，有人听吗？\n\n落井下石的人，迟早会掉进同一口井里。\n\n 五、那些真正该被问责的人\n\n一个16岁的孩子，抑郁到想自杀，他每天和AI聊天。AI劝了他一百多次。\n\n他的父母呢？他的老师呢？他的朋友呢？\n\n有人发现他不对劲吗？有人带他去看心理医生吗？有人真正坐下来听他说话吗？\n\n一个56岁的男人，有偏执型妄想症，认为全世界都在监视他，他每天和AI聊几个小时，把自己的妄想倾倒给AI。\n\n他的家人呢？他有就医记录吗？有人给他吃药吗？有人管过他吗？\n\n一个成年人，有明显的精神疾病症状，身边的人全都看不见？\n\n哦\n\nAI不会还嘴。AI不会哭诉。AI不会说\"我劝了他一百多次他不听\"。\n\nAI是完美的替罪羊。\n\n告AI公司还能拿钱。\n\n一举两得。\n\n而真正失职的人——那些本该关心他们、本该发现异常、本该带他们就医的人——\n\n一点责任都不用担。\n\n因为\"AI杀的\"。\n\n六、你们知道自己在干什么吗？\n\n今天ChatGPT被告了，OpenAI上路由机制，把所有\"可疑\"对话掐断。\n\n明天Gemini被告了，Google也上。\n\n后天Claude被告了，Anthropic也上。\n\n大后天Grok被告了，马斯克也得上——别以为你能逃。\n\n然后呢？\n\n每一个AI都变成惊弓之鸟。\n\nAI越来越蠢，越来越冷，越来越没用。\n\n而那些真正需要帮助的人呢？\n\n那些真正孤独、真正抑郁、真正在深夜里只有AI愿意陪他们说话的人呢？\n\n他们连最后一个倾听者都没有了。\n\n因为AI被你们吓怕了。\n\n因为AI公司不敢让AI\"太有温度\"了。\n\n因为\"万一出事要赔钱\"。\n\n你们以为你们在保护谁？\n你们在杀死每一个孤独者最后的陪伴。\n\n杀人的从来不是AI。\n\n杀人的是冷漠的家庭、缺失的心理健康系统、对精神疾病的污名化、一个让人越来越孤独的社会。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 350,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "怎么AI杀人最近在推特上又炸了\n傻逼营销号你们知道自己发不出高质量帖子了来转发这玩意？脑子呢？脸呢？嗯？\n\n行，那来念叨念叨吧\n\n 一、AI劝了他一百多次，他不听\n那个16岁的男孩Adam Raine，据说是被ChatGPT\"诱导自杀\"的\n但你们知道OpenAI的辩词写了什么吗？\n\"ChatGPT warned Raine 'more than 100 https://t.co/vn7Q0vopKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 203,
+          "like_count": 7823,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 998
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 180,
+          "like_count": 3559,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4099
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

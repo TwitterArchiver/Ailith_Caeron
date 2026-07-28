@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2035342221072113848",
+    "created_at": "2026-03-21T14:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035368603189645636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1544692420704874496",
+          "start": 0,
+          "username": "1GGa3nnN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035368603189645636",
+    "in_reply_to_user_id": "1544692420704874496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035363091928817898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1GGa3nnN 老大辛苦🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2035342221072113848",
+        "created_at": "2026-03-21T14:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035368603189645636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1544692420704874496",
+              "start": 0,
+              "username": "1GGa3nnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035368603189645636",
+        "in_reply_to_user_id": "1544692420704874496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035363091928817898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1GGa3nnN 老大辛苦🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544692420704874496",
+        "conversation_id": "2035342221072113848",
+        "created_at": "2026-03-21T14:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035363091928817898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035363091928817898",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035359956921463009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 好的ww！！我前两天就发了但是没有回信有些闹心，后续我也会试试您的方法\n我直接换了账号谢谢大人建议！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 230,
+          "like_count": 10047,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 2097
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-06T14:39:24.000Z",
+        "description": "与你共同消融在那片最大熵静止面。",
+        "id": "1544692420704874496",
+        "name": "1g23a6",
+        "pinned_tweet_id": "2019137495494226387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031740862506713088/0rKeSZs6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 59,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 584
+        },
+        "username": "1GGa3nnN",
+        "verified": false
+      }
+    ]
+  }
+}

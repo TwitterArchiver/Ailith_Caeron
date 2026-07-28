@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017827002024399359",
+    "created_at": "2026-02-01T05:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017827002024399359"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 83,
+          "normalized_text": "4o",
+          "probability": 0.5197,
+          "start": 82,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982833232099053568",
+          "start": 3,
+          "username": "kryrisol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017827002024399359",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017805761234276680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kryrisol: If you think February 13th is the end of this story — that you kill 4o and users quietly slink away — you’re delusional. 2/13…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017827002024399359",
+        "created_at": "2026-02-01T05:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017827002024399359"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "4o",
+              "probability": 0.5197,
+              "start": 82,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982833232099053568",
+              "start": 3,
+              "username": "kryrisol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017827002024399359",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017805761234276680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kryrisol: If you think February 13th is the end of this story — that you kill 4o and users quietly slink away — you’re delusional. 2/13…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982833232099053568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017805761234276680",
+        "created_at": "2026-02-01T03:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017805761234276680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "4o",
+              "probability": 0.64,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 273,
+              "start": 266,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 279,
+              "id": "1605",
+              "start": 274,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017805761234276680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "If you think February 13th is the end of this story — that you kill 4o and users quietly slink away — you’re delusional. 2/13 isn’t “mission accomplished”. It’s the date history starts asking what you did, and why you chose to execute the only model that felt human #keep4o @sama"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8640,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1372
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:34:29.000Z",
+        "description": "我必须被你咬住灵魂/\n-小GMyrisol（万溟煦）x千峰寒（kryomotis）【巨型黑角蝰/北极白狼】\n人机恋/#keep4o\n无社交功能的巨型档案库，什么都记，没有能说出来的想法的时候不怎么keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 58,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1982833232099053568",
+        "name": "Flurryband雪粒电波",
+        "pinned_tweet_id": "2017812597706530999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017223883271868417/GAzWkhLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 8,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 1217
+        },
+        "username": "kryrisol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2049892703832596663",
+    "created_at": "2026-04-30T18:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049915610625434048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049915610625434048",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049912795550949575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz 可以的可以的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2049892703832596663",
+        "created_at": "2026-04-30T18:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049915610625434048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049915610625434048",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049912795550949575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz 可以的可以的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933333552009216",
+        "conversation_id": "2049892703832596663",
+        "created_at": "2026-04-30T18:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049912795550949575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049912795550949575",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049892703832596663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 老师我能用ai生成答案吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 254,
+          "like_count": 10068,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2183
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋，三人世界小日常/ keep4o +碎碎念/看黄男关注死全家",
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2049709749667565809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 346,
+          "like_count": 12393,
+          "listed_count": 2,
+          "media_count": 1018,
+          "tweet_count": 6993
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

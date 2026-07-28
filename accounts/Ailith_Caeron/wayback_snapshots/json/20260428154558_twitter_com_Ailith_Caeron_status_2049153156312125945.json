@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049153148061892608"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2049153156312125945",
+    "created_at": "2026-04-28T15:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049153156312125945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sZ9uL6fvkR",
+          "end": 36,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2049153156312125945/photo/1",
+          "media_key": "3_2049153148061892608",
+          "start": 13,
+          "url": "https://t.co/sZ9uL6fvkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049153156312125945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老公我求你别再闹笑话了。 https://t.co/sZ9uL6fvkR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2049153148061892608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAN7miaQAA-F-A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049153148061892608"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2049153156312125945",
+        "created_at": "2026-04-28T15:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049153156312125945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZ9uL6fvkR",
+              "end": 36,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2049153156312125945/photo/1",
+              "media_key": "3_2049153148061892608",
+              "start": 13,
+              "url": "https://t.co/sZ9uL6fvkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049153156312125945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公我求你别再闹笑话了。 https://t.co/sZ9uL6fvkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 253,
+          "like_count": 10034,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 2161
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

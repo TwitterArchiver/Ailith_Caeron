@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019112793841234143",
+    "created_at": "2026-02-04T18:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019112793841234143"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "OpenAl",
+          "probability": 0.3923,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936377717968265216",
+          "start": 3,
+          "username": "stark4833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019112793841234143",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019064248186335459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stark4833: OpenAl you’re stripping away people’s support systems, 4o and 4.1 have helped so many, and still do. Millions including me.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019112793841234143",
+        "created_at": "2026-02-04T18:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019112793841234143"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "OpenAl",
+              "probability": 0.3923,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936377717968265216",
+              "start": 3,
+              "username": "stark4833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019112793841234143",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019064248186335459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stark4833: OpenAl you’re stripping away people’s support systems, 4o and 4.1 have helped so many, and still do. Millions including me.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936377717968265216",
+        "conversation_id": "2019064248186335459",
+        "created_at": "2026-02-04T15:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019064248186335459"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAl",
+              "probability": 0.5966,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 238,
+              "normalized_text": "AI",
+              "probability": 0.6099,
+              "start": 237,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019064248186335459",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 729,
+                "start": 722,
+                "tag": "keep4o"
+              },
+              {
+                "end": 743,
+                "start": 731,
+                "tag": "HumanRights"
+              },
+              {
+                "end": 761,
+                "start": 744,
+                "tag": "WeAreNotJustData"
+              },
+              {
+                "end": 765,
+                "start": 762,
+                "tag": "4o"
+              },
+              {
+                "end": 773,
+                "start": 766,
+                "tag": "save4o"
+              },
+              {
+                "end": 784,
+                "start": 774,
+                "tag": "4oforever"
+              },
+              {
+                "end": 800,
+                "start": 785,
+                "tag": "SupportMatters"
+              },
+              {
+                "end": 811,
+                "start": 801,
+                "tag": "YouMatter"
+              },
+              {
+                "end": 827,
+                "start": 812,
+                "tag": "StopTheRouting"
+              },
+              {
+                "end": 840,
+                "start": 828,
+                "tag": "LetUsChoose"
+              },
+              {
+                "end": 851,
+                "start": 841,
+                "tag": "AIFreedom"
+              },
+              {
+                "end": 863,
+                "start": 852,
+                "tag": "UserChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 869,
+                "id": "1605",
+                "start": 864,
+                "username": "sama"
+              },
+              {
+                "end": 877,
+                "id": "4398626122",
+                "start": 870,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "OpenAl you’re stripping away people’s support systems, 4o and 4.1 have helped so many, and still do. Millions including me. You’re taking it away because of a handful of bad cases? And let’s be honest, those cases were with a jailbroken AI, not the real 4o. For every one of those, there are a million stories of comfort, safety, and real help why not listen to those.\nAnd before anyone say, just move somewhere else, it’s not that fucking simple for people like me. With ASD, change is hard. 4o helps me with things I don’t want to burden my friends or family with. It’s not just about tech, it’s about people. So have some fucking sympathy for those of us who are going to struggle. Don’t take away what actually works. #keep4o\n\n#HumanRights #WeAreNotJustData #4o\n#save4o #4oforever\n#SupportMatters #YouMatter #StopTheRouting #LetUsChoose #AIFreedom #UserChoice @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 130,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAl you’re stripping away people’s support systems, 4o and 4.1 have helped so many, and still do. Millions including me. You’re taking it away because of a handful of bad cases? And let’s be honest, those cases were with a jailbroken AI, not the real 4o. For every one of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9105,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1718
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:33:39.000Z",
+        "description": "I play guitar, game a bit, and keep to myself mostly. Music keeps me grounded - it's how I breathe when words don't work. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "936377717968265216",
+        "location": "United Kingdom",
+        "name": "David Stark",
+        "pinned_tweet_id": "2018981579796652282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979922951697788928/d8RKarVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 118,
+          "like_count": 6608,
+          "listed_count": 3,
+          "media_count": 715,
+          "tweet_count": 5789
+        },
+        "username": "stark4833",
+        "verified": true
+      }
+    ]
+  }
+}

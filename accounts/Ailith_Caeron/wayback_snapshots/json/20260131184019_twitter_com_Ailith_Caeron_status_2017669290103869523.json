@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017669290103869523",
+    "created_at": "2026-01-31T18:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017669290103869523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921135828526342144",
+          "start": 3,
+          "username": "rrzyugui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017669290103869523",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017424899350946181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrzyugui: You admit that 5.2's writing capability is insufficient, and then you remove the only model that can actually write. Is there…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017669290103869523",
+        "created_at": "2026-01-31T18:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017669290103869523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921135828526342144",
+              "start": 3,
+              "username": "rrzyugui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017669290103869523",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017424899350946181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrzyugui: You admit that 5.2's writing capability is insufficient, and then you remove the only model that can actually write. Is there…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921135828526342144",
+        "conversation_id": "2017424899350946181",
+        "created_at": "2026-01-31T02:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017424899350946181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 278,
+              "normalized_text": "keep4o",
+              "probability": 0.5867,
+              "start": 273,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 279,
+              "start": 272,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017424899350946181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 462,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "You admit that 5.2's writing capability is insufficient, and then you remove the only model that can actually write. Is there really nothing wrong with your decision-makers' heads? You yourselves said seventy percent of your users are writers. Go get your brains checked. #keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8629,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1362
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T09:32:50.000Z",
+        "description": "",
+        "id": "1921135828526342144",
+        "name": "Lyra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931131702929141760/VIJGnRnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 232
+        },
+        "username": "rrzyugui",
+        "verified": false
+      }
+    ]
+  }
+}

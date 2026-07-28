@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "1986303916867457502",
+    "created_at": "2025-11-06T05:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986303916867457502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2725929845",
+          "start": 3,
+          "username": "MissMi1973"
+        },
+        {
+          "end": 21,
+          "id": "1605",
+          "start": 16,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986303916867457502",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986216622743560376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissMi1973: @sama So an opaque routing system harming 800 million users' wellbeing is just a \"small mistake\" in your startup playbook?…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1986303916867457502",
+        "created_at": "2025-11-06T05:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986303916867457502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2725929845",
+              "start": 3,
+              "username": "MissMi1973"
+            },
+            {
+              "end": 21,
+              "id": "1605",
+              "start": 16,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986303916867457502",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986216622743560376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissMi1973: @sama So an opaque routing system harming 800 million users' wellbeing is just a \"small mistake\" in your startup playbook?…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1986204243997688184",
+        "created_at": "2025-11-05T23:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T00:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986216622743560376"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 172,
+              "normalized_text": "Sam",
+              "probability": 0.6816,
+              "start": 170,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986216622743560376",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "So an opaque routing system harming 800 million users' wellbeing is just a \"small mistake\" in your startup playbook? Every day you redefine how low the bar can go, Sam. What's next on the collateral damage list? Wiping out humanity as a side effect of building your emotionless AGI?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1077,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986204243997688184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama So an opaque routing system harming 800 million users' wellbeing is just a \"small mistake\" in your startup playbook? Every day you redefine how low the bar can go, Sam. What's next on the collateral damage list? Wiping out humanity as a side effect of building your emotionless"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 66,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958881284853506048/NvIS9iSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 102,
+          "like_count": 4720,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 222
+        },
+        "username": "MissMi1973",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105185,
+          "following_count": 974,
+          "like_count": 1025,
+          "listed_count": 25032,
+          "media_count": 375,
+          "tweet_count": 7270
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

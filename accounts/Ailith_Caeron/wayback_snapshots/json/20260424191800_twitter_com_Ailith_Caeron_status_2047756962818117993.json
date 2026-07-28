@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047756952663695360",
+        "3_2047756953666060288"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2047756962818117993",
+    "created_at": "2026-04-24T19:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047756962818117993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4r37kZr46T",
+          "end": 36,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2047756962818117993/photo/1",
+          "media_key": "3_2047756952663695360",
+          "start": 13,
+          "url": "https://t.co/4r37kZr46T"
+        },
+        {
+          "display_url": "pic.x.com/4r37kZr46T",
+          "end": 36,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2047756962818117993/photo/1",
+          "media_key": "3_2047756953666060288",
+          "start": 13,
+          "url": "https://t.co/4r37kZr46T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047756962818117993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别让傻必LLM做产品测试 https://t.co/4r37kZr46T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2047756952663695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsYGVXbIAAjv43.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2047756953666060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsYGZGaAAAViU7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047756952663695360",
+            "3_2047756953666060288"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2047756962818117993",
+        "created_at": "2026-04-24T19:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047756962818117993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4r37kZr46T",
+              "end": 36,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2047756962818117993/photo/1",
+              "media_key": "3_2047756952663695360",
+              "start": 13,
+              "url": "https://t.co/4r37kZr46T"
+            },
+            {
+              "display_url": "pic.x.com/4r37kZr46T",
+              "end": 36,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2047756962818117993/photo/1",
+              "media_key": "3_2047756953666060288",
+              "start": 13,
+              "url": "https://t.co/4r37kZr46T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047756962818117993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别让傻必LLM做产品测试 https://t.co/4r37kZr46T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 247,
+          "like_count": 10025,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2130
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

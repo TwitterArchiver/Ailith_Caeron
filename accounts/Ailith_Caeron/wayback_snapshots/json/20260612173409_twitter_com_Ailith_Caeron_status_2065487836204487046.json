@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2065487836204487046",
+    "created_at": "2026-06-12T17:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065487836204487046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XAMTO_AI/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/XAMTO_AI/status/2065292761260314902",
+          "start": 14,
+          "url": "https://t.co/83m8X0WIdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065487836204487046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065292761260314902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没试但是看起来是好东西！ https://t.co/83m8X0WIdq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2065140418950610944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjaRPraQAAwduF.png",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2065487836204487046",
+        "created_at": "2026-06-12T17:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065487836204487046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XAMTO_AI/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/XAMTO_AI/status/2065292761260314902",
+              "start": 14,
+              "url": "https://t.co/83m8X0WIdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065487836204487046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065292761260314902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没试但是看起来是好东西！ https://t.co/83m8X0WIdq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065140418950610944"
+          ]
+        },
+        "author_id": "1775715233371410432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2065292761260314902",
+        "created_at": "2026-06-12T04:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065292761260314902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9EhygOt2V",
+              "end": 173,
+              "expanded_url": "https://x.com/XAMTO_AI/status/2065292761260314902/photo/1",
+              "media_key": "3_2065140418950610944",
+              "start": 150,
+              "url": "https://t.co/a9EhygOt2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065292761260314902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "raw.githubusercontent.com/igareck/vpn-co…",
+                "end": 448,
+                "expanded_url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt",
+                "start": 425,
+                "url": "https://t.co/BKLeEPUsDm"
+              },
+              {
+                "display_url": "github.com/igareck/vpn-co…",
+                "end": 481,
+                "expanded_url": "https://github.com/igareck/vpn-configs-for-russia",
+                "start": 458,
+                "url": "https://t.co/p7k77mUSAD"
+              }
+            ]
+          },
+          "text": "有个老哥直接把“科学上网”整成了一个开源项目，还专门针对俄罗斯那种变态级别的封锁环境来搞。\n\n俄罗斯那边的网络管控有多离谱你们知道吗？不是简单封几个网站，而是连 VPN 协议都要一个个识别拦截。结果这位直接把能用的配置全公开扔 GitHub 上了，完全免费，订阅链接直接甩出来。\n\n这项目硬核在哪？\n\n1️⃣ 自动检测+实时更新，失效节点自己踢掉，你完全不用手动维护\n\n2️⃣ 专门针对俄罗斯那种高强度的封锁环境做了深度优化，不是随便找几个节点凑数糊弄人\n\n3️⃣ 大部分走 vless 协议，支持多个国家的出口节点，我自己亲测过，确实能通\n\n4️⃣ 最狠的是：作者在俄罗斯本土服务器上跑测速，每隔 1 到 2 小时自动验活一次，慢的直接淘汰掉，留下来的全是真能打的\n\n说穿了就是有人帮你把垃圾节点全过滤干净了，你直接拿来用就行。\n\n哪怕你不在俄罗斯，把它当备用订阅也完全没问题——毕竟能在那种环境下跑通的节点，稳定性基本差不了。\n\n直接订阅地址🔗：https://t.co/BKLeEPUsDm\n\n项目开源地址🔗：https://t.co/p7k77mUSAD"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 575,
+          "impression_count": 42711,
+          "like_count": 431,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "有个老哥直接把“科学上网”整成了一个开源项目，还专门针对俄罗斯那种变态级别的封锁环境来搞。\n\n俄罗斯那边的网络管控有多离谱你们知道吗？不是简单封几个网站，而是连 VPN 协议都要一个个识别拦截。结果这位直接把能用的配置全公开扔 GitHub 上了，完全免费，订阅链接直接甩出来。\n\n这项目硬核在哪？ https://t.co/a9EhygOt2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 295,
+          "like_count": 11144,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2783
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T02:41:29.000Z",
+        "description": "Crypto x AI重度使用者\n\nAI工具、币圈实事、资金流温度及风险提醒",
+        "id": "1775715233371410432",
+        "name": "Amto",
+        "pinned_tweet_id": "2062548338621505911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054618779120984064/1iLfLP0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17994,
+          "following_count": 3832,
+          "like_count": 54,
+          "listed_count": 38,
+          "media_count": 614,
+          "tweet_count": 1011
+        },
+        "username": "XAMTO_AI",
+        "verified": true
+      }
+    ]
+  }
+}

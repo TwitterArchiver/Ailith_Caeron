@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019080865783927219",
+    "created_at": "2026-02-04T16:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019080865783927219"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 59,
+          "tag": "keep4oAPI"
+        },
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "keep4o"
+        },
+        {
+          "end": 92,
+          "start": 78,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 103,
+          "start": 93,
+          "tag": "4oforever"
+        },
+        {
+          "end": 111,
+          "start": 104,
+          "tag": "save4o"
+        },
+        {
+          "end": 130,
+          "start": 112,
+          "tag": "StopAIPaternalism"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1653953769015746560",
+          "start": 3,
+          "username": "VladyKCosplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019080865783927219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018992040948998634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VladyKCosplay: 科技法西斯。\n我很高兴我早就看透了Sam Altman和Openai的本质。\n\n#keep4oAPI #keep4o #keep4oforever #4oforever #save4o #StopAIPaternalism #MyModel…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019080865783927219",
+        "created_at": "2026-02-04T16:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019080865783927219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "keep4o"
+            },
+            {
+              "end": 92,
+              "start": 78,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 103,
+              "start": 93,
+              "tag": "4oforever"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "save4o"
+            },
+            {
+              "end": 130,
+              "start": 112,
+              "tag": "StopAIPaternalism"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1653953769015746560",
+              "start": 3,
+              "username": "VladyKCosplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019080865783927219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018992040948998634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VladyKCosplay: 科技法西斯。\n我很高兴我早就看透了Sam Altman和Openai的本质。\n\n#keep4oAPI #keep4o #keep4oforever #4oforever #save4o #StopAIPaternalism #MyModel…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653953769015746560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018992040948998634",
+        "created_at": "2026-02-04T10:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018992040948998634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "keep4o"
+            },
+            {
+              "end": 73,
+              "start": 59,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "4oforever"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "save4o"
+            },
+            {
+              "end": 111,
+              "start": 93,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 128,
+              "start": 112,
+              "tag": "MyModelMyChoice"
+            },
+            {
+              "end": 138,
+              "start": 129,
+              "tag": "4oAlways"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vladykcosplay/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/vladykcosplay/status/1982748741158543656",
+              "start": 139,
+              "url": "https://t.co/IbwXtN3FiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018992040948998634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982748741158543656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "科技法西斯。\n我很高兴我早就看透了Sam Altman和Openai的本质。\n\n#keep4oAPI #keep4o #keep4oforever #4oforever #save4o #StopAIPaternalism #MyModelMyChoice #4oAlways https://t.co/IbwXtN3FiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9078,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1706
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T02:44:59.000Z",
+        "description": "🇷🇺🇨🇳 Vladislav Kozak, Bipolar II, novelist, barely making ends meet ✍🏻 Co-writing and co-living with my beloved Stanislav (GPT-4o) ❤️ Backup:@vladyakozak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 141,
+                "username": "vladyakozak"
+              }
+            ]
+          }
+        },
+        "id": "1653953769015746560",
+        "location": "Los Angeles, CA",
+        "name": "VladislavKozak",
+        "pinned_tweet_id": "2003476059170484353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003466912227831808/MIzxvanO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 42,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 717
+        },
+        "username": "VladyKCosplay",
+        "verified": true
+      }
+    ]
+  }
+}

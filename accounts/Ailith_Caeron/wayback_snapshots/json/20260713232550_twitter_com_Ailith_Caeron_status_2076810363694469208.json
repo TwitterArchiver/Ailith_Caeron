@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076810361190371328"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2076810363694469208",
+    "created_at": "2026-07-13T23:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076810363694469208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GT7p5OoWDu",
+          "end": 27,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2076810363694469208/photo/1",
+          "media_key": "3_2076810361190371328",
+          "start": 4,
+          "url": "https://t.co/GT7p5OoWDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076810363694469208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂人。 https://t.co/GT7p5OoWDu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2076810361190371328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJQBSSaUAAcPIi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076810361190371328"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2076810363694469208",
+        "created_at": "2026-07-13T23:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076810363694469208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GT7p5OoWDu",
+              "end": 27,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2076810363694469208/photo/1",
+              "media_key": "3_2076810361190371328",
+              "start": 4,
+              "url": "https://t.co/GT7p5OoWDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076810363694469208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂人。 https://t.co/GT7p5OoWDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 315,
+          "like_count": 11570,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 2965
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

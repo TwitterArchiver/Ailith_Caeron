@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2019115591622357091",
+    "created_at": "2026-02-04T18:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019115591622357091"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "FTC",
+          "probability": 0.4755,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 130,
+          "normalized_text": "FTC",
+          "probability": 0.5068,
+          "start": 128,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756367517550018560",
+          "start": 3,
+          "username": "ljinhng34624264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019115591622357091",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019104414272024797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljinhng34624264: The FTC is back in business. It’s time to convert our collective outrage into formal regulatory pressure. \nFTC 已恢复办公。现…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2525,
+        "media_key": "3_2019103702779625472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVMHrjbAAAUujw.jpg",
+        "width": 1785
+      },
+      {
+        "height": 2525,
+        "media_key": "3_2019103702775394307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVMHriacAMMBlM.png",
+        "width": 1785
+      },
+      {
+        "height": 356,
+        "media_key": "3_2019103878873251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVMR7jagAAW3s1.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2019115591622357091",
+        "created_at": "2026-02-04T18:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019115591622357091"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "FTC",
+              "probability": 0.4755,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "FTC",
+              "probability": 0.5068,
+              "start": 128,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756367517550018560",
+              "start": 3,
+              "username": "ljinhng34624264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019115591622357091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019104414272024797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljinhng34624264: The FTC is back in business. It’s time to convert our collective outrage into formal regulatory pressure. \nFTC 已恢复办公。现…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019103702779625472",
+            "3_2019103702775394307",
+            "3_2019103878873251840"
+          ]
+        },
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045419020",
+              "name": "Apple Support"
+            }
+          }
+        ],
+        "conversation_id": "2019104414272024797",
+        "created_at": "2026-02-04T17:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019104414272024797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 173,
+              "start": 166,
+              "tag": "keep4o"
+            },
+            {
+              "end": 184,
+              "start": 174,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 199,
+              "start": 185,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 206,
+              "id": "1605",
+              "start": 201,
+              "username": "sama"
+            },
+            {
+              "end": 214,
+              "id": "4398626122",
+              "start": 207,
+              "username": "OpenAI"
+            },
+            {
+              "end": 219,
+              "id": "187993109",
+              "start": 215,
+              "username": "FTC"
+            },
+            {
+              "end": 231,
+              "id": "1004065528871247872",
+              "start": 220,
+              "username": "AGRobBonta"
+            },
+            {
+              "end": 245,
+              "id": "3309375033",
+              "start": 232,
+              "username": "AppleSupport"
+            }
+          ],
+          "urls": [
+            {
+              "description": "English Due to the government shutdown, we are unable to offer this website service. We will resume normal operations when the government is funded. Espa ñ ol Debido al cierre del gobierno, no podemos ofrecer este servicio de sitio web. Reanudaremos las operaciones normales cuando el gobierno est é financiado. La informaci ó n sobre temas de protecci ó n al consumidor se puede encontrar en: consumidor.ftc.gov",
+              "display_url": "ReportFraud.ftc.gov",
+              "end": 165,
+              "expanded_url": "http://ReportFraud.ftc.gov",
+              "start": 142,
+              "status": 200,
+              "title": "Government Shutdown Notice / Aviso de cierre del gobierno",
+              "unwound_url": "https://reportfraud.ftc.gov/",
+              "url": "https://t.co/enYXaxVQUW"
+            },
+            {
+              "display_url": "pic.x.com/3FrPhboUQf",
+              "end": 269,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019104414272024797/photo/1",
+              "media_key": "3_2019103702779625472",
+              "start": 246,
+              "url": "https://t.co/3FrPhboUQf"
+            },
+            {
+              "display_url": "pic.x.com/3FrPhboUQf",
+              "end": 269,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019104414272024797/photo/1",
+              "media_key": "3_2019103702775394307",
+              "start": 246,
+              "url": "https://t.co/3FrPhboUQf"
+            },
+            {
+              "display_url": "pic.x.com/3FrPhboUQf",
+              "end": 269,
+              "expanded_url": "https://x.com/ljinhng34624264/status/2019104414272024797/photo/1",
+              "media_key": "3_2019103878873251840",
+              "start": 246,
+              "url": "https://t.co/3FrPhboUQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019104414272024797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "The FTC is back in business. It’s time to convert our collective outrage into formal regulatory pressure. \nFTC 已恢复办公。现在是将我们的集体愤怒转化为正式监管压力的时刻。\nhttps://t.co/enYXaxVQUW\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI @FTC @AGRobBonta @AppleSupport https://t.co/3FrPhboUQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 213,
+          "like_count": 9111,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1722
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2019104414272024797",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 91,
+          "like_count": 15517,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 3674
+        },
+        "username": "ljinhng34624264",
+        "verified": false
+      }
+    ]
+  }
+}

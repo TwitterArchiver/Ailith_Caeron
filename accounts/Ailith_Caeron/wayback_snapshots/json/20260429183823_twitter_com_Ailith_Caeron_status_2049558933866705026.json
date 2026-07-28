@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048751810551349248"
+      ],
+      "media_source_tweet_id": [
+        "2049446345195344344"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2049558933866705026",
+    "created_at": "2026-04-29T18:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049558933866705026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774751593428398080",
+          "start": 3,
+          "username": "raccoonAuras"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHtrsDI3Yu",
+          "end": 41,
+          "expanded_url": "https://x.com/raccoonAuras/status/2049446345195344344/video/1",
+          "media_key": "13_2048751810551349248",
+          "start": 18,
+          "url": "https://t.co/CHtrsDI3Yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049558933866705026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049446345195344344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raccoonAuras: https://t.co/CHtrsDI3Yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48715,
+        "height": 1280,
+        "media_key": "13_2048751810551349248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048751810551349248/img/vN1-t8YPiYA0jvTg.jpg",
+        "public_metrics": {
+          "view_count": 966
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/320x568/9EnYdI-ZpVT1Vl7c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/480x852/xPo7VqhKboRVuRsa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/720x1280/XwIv-1v7X2mBxj_r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/pl/IS3GBd3ovBrnHsHC.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 48715,
+        "height": 1280,
+        "media_key": "13_2048751810551349248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048751810551349248/img/vN1-t8YPiYA0jvTg.jpg",
+        "public_metrics": {
+          "view_count": 980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/320x568/9EnYdI-ZpVT1Vl7c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/480x852/xPo7VqhKboRVuRsa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/vid/avc1/720x1280/XwIv-1v7X2mBxj_r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048751810551349248/pl/IS3GBd3ovBrnHsHC.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048751810551349248"
+          ],
+          "media_source_tweet_id": [
+            "2049446345195344344"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2049558933866705026",
+        "created_at": "2026-04-29T18:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049558933866705026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774751593428398080",
+              "start": 3,
+              "username": "raccoonAuras"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHtrsDI3Yu",
+              "end": 41,
+              "expanded_url": "https://x.com/raccoonAuras/status/2049446345195344344/video/1",
+              "media_key": "13_2048751810551349248",
+              "start": 18,
+              "url": "https://t.co/CHtrsDI3Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049558933866705026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049446345195344344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raccoonAuras: https://t.co/CHtrsDI3Yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048751810551349248"
+          ]
+        },
+        "author_id": "1774751593428398080",
+        "conversation_id": "2049446345195344344",
+        "created_at": "2026-04-29T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049446345195344344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHtrsDI3Yu",
+              "end": 23,
+              "expanded_url": "https://x.com/raccoonAuras/status/2049446345195344344/video/1",
+              "media_key": "13_2048751810551349248",
+              "start": 0,
+              "url": "https://t.co/CHtrsDI3Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049446345195344344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4044,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CHtrsDI3Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 254,
+          "like_count": 10043,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2172
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T10:52:46.000Z",
+        "description": "Even raccoon can confuse “us”. | dm for credit or removal",
+        "id": "1774751593428398080",
+        "location": "🔔",
+        "name": "raccoon with confusing auras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904315840419487744/Pwi78XuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26801,
+          "following_count": 11,
+          "like_count": 12011,
+          "listed_count": 63,
+          "media_count": 11305,
+          "tweet_count": 12201
+        },
+        "username": "raccoonAuras",
+        "verified": true
+      }
+    ]
+  }
+}

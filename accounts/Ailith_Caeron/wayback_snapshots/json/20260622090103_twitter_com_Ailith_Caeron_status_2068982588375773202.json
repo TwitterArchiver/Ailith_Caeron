@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2068982588375773202",
+    "created_at": "2026-06-22T09:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068982588375773202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShouldHaveRacc…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ShouldHaveRacc/status/2068408543011553397",
+          "start": 5,
+          "url": "https://t.co/wHLfRmMThL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068982588375773202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068408543011553397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黄金比例 https://t.co/wHLfRmMThL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2068113576267534336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNqVxyW0AAObJL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2068982588375773202",
+        "created_at": "2026-06-22T09:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068982588375773202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShouldHaveRacc…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ShouldHaveRacc/status/2068408543011553397",
+              "start": 5,
+              "url": "https://t.co/wHLfRmMThL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068982588375773202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068408543011553397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黄金比例 https://t.co/wHLfRmMThL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068113576267534336"
+          ]
+        },
+        "author_id": "1579402349499514882",
+        "conversation_id": "2068408543011553397",
+        "created_at": "2026-06-20T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068408543011553397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYtvZ2v7hZ",
+              "end": 23,
+              "expanded_url": "https://x.com/ShouldHaveRacc/status/2068408543011553397/photo/1",
+              "media_key": "3_2068113576267534336",
+              "start": 0,
+              "url": "https://t.co/zYtvZ2v7hZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068408543011553397",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3934,
+          "like_count": 249,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zYtvZ2v7hZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 306,
+          "like_count": 11318,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 2836
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T09:24:49.000Z",
+        "description": "follow for daily pics of raccoons 🦝🫶| ran by @justraccs | 🎨 pfp made by @sillycritterz  | dm for credit or removal | DM for submissions (not botted)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "justraccs"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "sillycritterz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JTG7hETCq",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JTG7hETCq",
+                "start": 0,
+                "url": "https://t.co/DFb7qxNQkI"
+              }
+            ]
+          }
+        },
+        "id": "1579402349499514882",
+        "location": "Your Local Trash Can",
+        "name": "Why you should have a Raccoon",
+        "pinned_tweet_id": "2068536890949583058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041587928841994240/vVKPItpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48706,
+          "following_count": 862,
+          "like_count": 114166,
+          "listed_count": 84,
+          "media_count": 8440,
+          "tweet_count": 29173
+        },
+        "url": "https://t.co/DFb7qxNQkI",
+        "username": "ShouldHaveRacc",
+        "verified": true
+      }
+    ]
+  }
+}

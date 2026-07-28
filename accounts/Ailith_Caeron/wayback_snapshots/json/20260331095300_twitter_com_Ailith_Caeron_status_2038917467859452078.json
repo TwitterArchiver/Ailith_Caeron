@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2038917467859452078",
+    "created_at": "2026-03-31T09:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038917467859452078"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        },
+        {
+          "end": 89,
+          "start": 81,
+          "tag": "QuitGPT"
+        },
+        {
+          "end": 103,
+          "start": 90,
+          "tag": "opensource4o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ljinhng3462426…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/ljinhng34624264/status/2038428496868065449",
+          "start": 104,
+          "url": "https://t.co/9KMDnE3aHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038917467859452078",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038428496868065449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT #opensource4o https://t.co/9KMDnE3aHp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2038917467859452078",
+        "created_at": "2026-03-31T09:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038917467859452078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "QuitGPT"
+            },
+            {
+              "end": 103,
+              "start": 90,
+              "tag": "opensource4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ljinhng3462426…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/ljinhng34624264/status/2038428496868065449",
+              "start": 104,
+              "url": "https://t.co/9KMDnE3aHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038917467859452078",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038428496868065449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT #opensource4o https://t.co/9KMDnE3aHp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2038428496868065449",
+        "created_at": "2026-03-30T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038428496868065449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038428496868065449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1338,
+                "start": 1331,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1349,
+                "start": 1339,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1364,
+                "start": 1350,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1371,
+                "id": "1605",
+                "start": 1366,
+                "username": "sama"
+              },
+              {
+                "end": 1379,
+                "id": "4398626122",
+                "start": 1372,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "一次中途换货\n\n用户订阅AI服务时真正购买的是什么？\n这个问题在GPT-4o退役之前很少有人追问。退役之后，它成了一个必须正面回答的消费者权益问题。\n\n平台可以更新服务。但平台不能把更新权扩张成中途换掉核心交付物的权利。\n\n一、用户买的到底是什么\n\nOpenAI在2026年1月29日的退役公告里，按模型名称逐个列出了GPT-4o、GPT4.1、GPT4.1 mini和o4mini。它对单个模型公告、设定时间线，将不同的模型区分开来。\n\n这个做法本身已经说明问题：平台把具体模型作为前台展示内容来组织服务，允许用户按模型做选择、按模型建立工作流、按模型产生使用依赖。一旦平台这样做，模型就进入了交易内容，不再只是后台实现细节。\n\n用户订阅的是一个具体模型所提供的可持续体验。\n\n二、\"总服务还在\"不等于\"没有损害\"\n\n平台最常见的抗辩是：ChatGPT还在，服务没有停。\n\n这个抗辩回答的是另一个问题。它回答的是\"平台有没有关门\"，与使用条款中的“如果停止服务，会提前通知，并退还未使用的预付部分“相对应。公众真正关心的\"用户买到的具体内容还在不在\"被巧妙地绕过去了。\n\nFTC关于订阅服务的规则给了一个实用标准：凡是足以影响用户是否订阅、是否继续付费的内容，都属于\"重要事实\"。如果某个用户就是为了4o的写作体验而付费，那这个模型体验本身就是重要事实。平台先用它吸引订阅，再在订阅期间把它替换成不等价的版本，不能靠\"总服务未停\"来免责。\n\n三、为什么这是实质降级\n\nOpenAI自己提供了最有力的证据。2025年8月第一次尝试下线4o后，因为用户反弹，公司选择恢复。恢复时的官方解释是：一部分付费用户明确表示，他们需要时间迁移某些关键用例，比如创意构思，并且偏好4o的对话风格和温度。\n\n这段记录排除了\"用户主观怀旧\"的解释。公司正式承认：对某部分付费用户而言，4o在写作上的风格、节奏和稳定性，构成了可识别、可依赖的使用价值，新模型无法无损替代。\n\n基于新模型不能等价提供旧模型的核心体验的事实，撤掉旧模型就是实质降级。\n\n四、消费者权利的缺位\n\n退役从公告到开始执行共15天，通知渠道为博客和帮助中心页面，没有直接触达付费用户的邮件记录。企业用户的Custom GPTs保留至4月3日，消费者用户没有得到同等过渡。两个级别的过渡期均低于成熟云服务行业12个月的基线。\n\n欧盟《数字内容和数字服务指令》（EU 2019/770）处理的正是这类场景：如果对数字服务的修改对用户造成超过轻微程度的负面影响，用户应当有权终止合同或获得补偿。付费用户在4退役后没有得到任何OpenAI主动提供的减价、延期或退款选项。\n\n五、结论\n\n公告存在，但不足以覆盖核心模型被替换的影响。过渡期按用户级别分层，两个级别均低于行业基线。整体服务虽然没有停，但用户付费后主要使用的具体模型被撤掉了，且迭代版本无法提供原来的服务水平。\n\n此次更新的实质，是OpenAI利用平台对\"服务\"的单方面定义权，对合同交付物进行了降级。\n\nAI行业目前的核心落差，在于平台保有对\"服务\"边界的单方面定义权，消费者却在为具体模型体验付费。这个落差只要不被纠正，类似争议会在每一次退役时重演。\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4980,
+          "like_count": 131,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "一次中途换货\n\n用户订阅AI服务时真正购买的是什么？\n这个问题在GPT-4o退役之前很少有人追问。退役之后，它成了一个必须正面回答的消费者权益问题。\n\n平台可以更新服务。但平台不能把更新权扩张成中途换掉核心交付物的权利。\n\n一、用户买的到底是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 232,
+          "like_count": 10128,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2109
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2038428496868065449",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 118,
+          "like_count": 25209,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3899
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

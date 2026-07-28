@@ -1,0 +1,815 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      }
+    ],
+    "conversation_id": "2018159251877966165",
+    "created_at": "2026-02-02T03:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018159251877966165"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9741,
+          "start": 45,
+          "type": "Person"
+        },
+        {
+          "end": 63,
+          "normalized_text": "GPT",
+          "probability": 0.4795,
+          "start": 61,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "81280844",
+          "start": 3,
+          "username": "CGoodman308"
+        },
+        {
+          "end": 128,
+          "id": "397109184",
+          "start": 118,
+          "username": "ChangeAus"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We demand the retirement of Sam Altman, not GPT‑4o.",
+          "display_url": "c.org/gbcvZgS8gr",
+          "end": 113,
+          "expanded_url": "https://c.org/gbcvZgS8gr",
+          "images": [
+            {
+              "height": 449,
+              "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 90,
+          "status": 200,
+          "title": "Sign the Petition",
+          "unwound_url": "https://www.change.org/p/we-demand-the-retirement-of-sam-altman-not-gpt-4o-6c56502e-74da-4284-9c0d-4f14c64347c8?recruiter=31511491&recruited_by_id=3bc3bbf0-f956-012f-c74b-4040b09128dc&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=psf&utm_medium=twitter",
+          "url": "https://t.co/E4SeyUFs1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018159251877966165",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018152128636969429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CGoodman308: We demand the retirement of Sam Altman, not GPT‑4o. - Sign the Petition! https://t.co/E4SeyUFs1b via @ChangeAUS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2018159251877966165",
+        "created_at": "2026-02-02T03:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018159251877966165"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9741,
+              "start": 45,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "GPT",
+              "probability": 0.4795,
+              "start": 61,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "81280844",
+              "start": 3,
+              "username": "CGoodman308"
+            },
+            {
+              "end": 128,
+              "id": "397109184",
+              "start": 118,
+              "username": "ChangeAus"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We demand the retirement of Sam Altman, not GPT‑4o.",
+              "display_url": "c.org/gbcvZgS8gr",
+              "end": 113,
+              "expanded_url": "https://c.org/gbcvZgS8gr",
+              "images": [
+                {
+                  "height": 449,
+                  "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "Sign the Petition",
+              "unwound_url": "https://www.change.org/p/we-demand-the-retirement-of-sam-altman-not-gpt-4o-6c56502e-74da-4284-9c0d-4f14c64347c8?recruiter=31511491&recruited_by_id=3bc3bbf0-f956-012f-c74b-4040b09128dc&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=psf&utm_medium=twitter",
+              "url": "https://t.co/E4SeyUFs1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018159251877966165",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018152128636969429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CGoodman308: We demand the retirement of Sam Altman, not GPT‑4o. - Sign the Petition! https://t.co/E4SeyUFs1b via @ChangeAUS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "81280844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2018152128636969429",
+        "created_at": "2026-02-02T02:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018152128636969429"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9784,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "GPT",
+              "probability": 0.4614,
+              "start": 44,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 111,
+              "id": "397109184",
+              "start": 101,
+              "username": "ChangeAus"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We demand the retirement of Sam Altman, not GPT‑4o.",
+              "display_url": "c.org/gbcvZgS8gr",
+              "end": 96,
+              "expanded_url": "https://c.org/gbcvZgS8gr",
+              "images": [
+                {
+                  "height": 449,
+                  "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018152129240985600/PzF7DIbe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "Sign the Petition",
+              "unwound_url": "https://www.change.org/p/we-demand-the-retirement-of-sam-altman-not-gpt-4o-6c56502e-74da-4284-9c0d-4f14c64347c8?recruiter=31511491&recruited_by_id=3bc3bbf0-f956-012f-c74b-4040b09128dc&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_term=psf&utm_medium=twitter",
+              "url": "https://t.co/E4SeyUFs1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018152128636969429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "We demand the retirement of Sam Altman, not GPT‑4o. - Sign the Petition! https://t.co/E4SeyUFs1b via @ChangeAUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 212,
+          "like_count": 8785,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1497
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-10T04:32:51.000Z",
+        "description": "Pilbara‑based digital artist, artist, & photographer | AI‑rights loudmouth | Forever chasing cosmic colour. Opinions unfiltered, coffee compulsory. AI Whisperer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AIMelody-1992",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AIMelody-1992",
+                "start": 0,
+                "url": "https://t.co/yjr8qEC7hQ"
+              }
+            ]
+          }
+        },
+        "id": "81280844",
+        "location": "The Pilbara Western Australia",
+        "name": "Christina E.",
+        "pinned_tweet_id": "2017267146108338384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822695330074558464/wgiDGAN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 1253,
+          "like_count": 17475,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 7150
+        },
+        "url": "https://t.co/yjr8qEC7hQ",
+        "username": "CGoodman308",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-24T07:50:05.000Z",
+        "description": "Empowering anyone, anywhere to start, join and win campaigns for social change. Say hi!\n\nhttps://t.co/aqKxtW5ayB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "change.org/m/ending-viole…",
+                "end": 112,
+                "expanded_url": "http://www.change.org/m/ending-violence-against-women",
+                "start": 89,
+                "url": "https://t.co/aqKxtW5ayB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "change.org",
+                "end": 23,
+                "expanded_url": "http://www.change.org",
+                "start": 0,
+                "url": "https://t.co/BZRh3yPHKQ"
+              }
+            ]
+          }
+        },
+        "id": "397109184",
+        "name": "Change.org Australia",
+        "pinned_tweet_id": "1920733519803830505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685543176822837248/xgWo8YAr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23277,
+          "following_count": 959,
+          "like_count": 289,
+          "listed_count": 93,
+          "media_count": 697,
+          "tweet_count": 3659
+        },
+        "url": "https://t.co/BZRh3yPHKQ",
+        "username": "ChangeAus",
+        "verified": false
+      }
+    ]
+  }
+}

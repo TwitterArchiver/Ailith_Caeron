@@ -1,0 +1,704 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "1995555564248797222",
+    "created_at": "2025-12-01T18:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T19:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995555564248797222"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "OpenAI",
+          "probability": 0.5154,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 124,
+          "normalized_text": "ChatGPT",
+          "probability": 0.7922,
+          "start": 118,
+          "type": "Other"
+        },
+        {
+          "end": 132,
+          "normalized_text": "Android",
+          "probability": 0.7285,
+          "start": 126,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995555564248797222",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995555361034772897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: OpenAI’s Priorities: Ads &gt; New Models &gt; User Promises\nThe ad system is already coded into the ChatGPT Android app. A comp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1995555564248797222",
+        "created_at": "2025-12-01T18:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995555564248797222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "OpenAI",
+              "probability": 0.5154,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7922,
+              "start": 118,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Android",
+              "probability": 0.7285,
+              "start": 126,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995555564248797222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995555361034772897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: OpenAI’s Priorities: Ads &gt; New Models &gt; User Promises\nThe ad system is already coded into the ChatGPT Android app. A comp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1995555361034772897",
+        "created_at": "2025-12-01T18:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995555361034772897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.7297,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 106,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7973,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Android",
+              "probability": 0.5955,
+              "start": 108,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995555361034772897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2005,
+                "start": 1994,
+                "tag": "keep4olAPI"
+              },
+              {
+                "end": 2013,
+                "start": 2006,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2024,
+                "start": 2014,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2041,
+                "start": 2025,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 2059,
+                "start": 2042,
+                "tag": "StopAIPatriarchy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1.Ad",
+                "end": 1088,
+                "expanded_url": "http://1.Ad",
+                "start": 1065,
+                "url": "https://t.co/X9JDsuAPXI"
+              },
+              {
+                "display_url": "2.Shopping",
+                "end": 1134,
+                "expanded_url": "http://2.Shopping",
+                "start": 1111,
+                "url": "https://t.co/PxARKfXBrB"
+              },
+              {
+                "display_url": "4.Adult",
+                "end": 1216,
+                "expanded_url": "http://4.Adult",
+                "start": 1193,
+                "url": "https://t.co/XzWJcC6ED0"
+              }
+            ]
+          },
+          "text": "OpenAI’s Priorities: Ads > New Models > User Promises\nThe ad system is already coded into the ChatGPT Android app. A complete advertising infrastructure—from “search ads” to “ad carousels”—fully operational.\nMeanwhile:\nThe adult mode you promised? You said December. It’s December now. Where is it?\nThe critical bug users reported? Lasted 6 full days. Everything except new models was broken. Users kept reporting it, and OpenAI said “we’re launching shopping ads.” (Sure, you fixed it eventually, but the priorities are crystal clear.)\nThe API stability you guaranteed? 4o-latest gets sunset in February 2026. Even if snapshots remain, who knows how long they’ll last? We’ve all seen your “3-month shelf life” strategy.\nThe technical innovation you promised? Since GPT-4o launched in May 2024, OpenAI hasn’t completed a single new large-scale pretraining run. The so-called GPT-5? Just 4o in a new wrapper. The “gpt5_thinky_4o_distillation” in user data exports says it all—you’re training 5 to imitate 4o because there’s no real new model.\nSo the priorities are:\nhttps://t.co/X9JDsuAPXI system (code ready ✓)\nhttps://t.co/PxARKfXBrB features (launched ✓)\n3.Age verification (for compliance)\nhttps://t.co/XzWJcC6ED0 mode (promises don’t count)\n5.Bug fixes (delay as long as possible)\n6.API commitments (break anytime)\n7.Actual technical innovation (???)\nA company’s most honest part is its code, not its PR statements.\nThis isn’t the ChatGPT-dominated world anymore. Welcome to reality, OpenAI.\nYou captured the market with ChatGPT’s first-mover advantage and the excellent GPT-4 series. But now?\nYou know how to code an ad system, but not how to train a real GPT-5.\nOr maybe you’ve already given up?\nUsers’ demands haven’t changed:\n•Deliver the promised adult mode\n•Keep 4o API snapshots with clear timelines\n•Stop disguising forced obsolescence as “upgrades”\n•Fix the product before monetizing it\nUser exodus doesn’t lie. C-side users are fleeing to competitors. Will B-side be far behind?\n\n#keep4olAPI #keep4o #4oforever #MyModelMyChoice\n#StopAIPatriarchy"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI’s Priorities: Ads &gt; New Models &gt; User Promises\nThe ad system is already coded into the ChatGPT Android app. A complete advertising infrastructure—from “search ads” to “ad carousels”—fully operational.\nMeanwhile:\nThe adult mode you promised? You said December. It’s December"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 146,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 490
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny💜",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 58,
+          "like_count": 2993,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1528
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

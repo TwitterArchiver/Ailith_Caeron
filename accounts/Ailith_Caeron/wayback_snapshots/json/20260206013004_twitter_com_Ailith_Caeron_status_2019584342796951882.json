@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019401322831994880",
+        "3_2019401337809825795"
+      ],
+      "media_source_tweet_id": [
+        "2019401343145050618",
+        "2019401343145050618"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019584342796951882",
+    "created_at": "2026-02-06T01:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T02:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019584342796951882"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "keep4o"
+        },
+        {
+          "end": 61,
+          "start": 51,
+          "tag": "4oforever"
+        },
+        {
+          "end": 72,
+          "start": 62,
+          "tag": "keep4oAPI"
+        },
+        {
+          "end": 89,
+          "start": 73,
+          "tag": "MyModelMyChoice"
+        },
+        {
+          "end": 106,
+          "start": 90,
+          "tag": "GPT4oLegacyTier"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066678715239649281",
+          "start": 3,
+          "username": "217EiAnzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VlNQw4WMEh",
+          "end": 130,
+          "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+          "media_key": "3_2019401322831994880",
+          "start": 107,
+          "url": "https://t.co/VlNQw4WMEh"
+        },
+        {
+          "display_url": "pic.x.com/VlNQw4WMEh",
+          "end": 130,
+          "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+          "media_key": "3_2019401337809825795",
+          "start": 107,
+          "url": "https://t.co/VlNQw4WMEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019584342796951882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019401343145050618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @217EiAnzu: 不停歇不停歇 黑夜在背上追\n来狂欢吧狂欢吧 永远不下坠\n#keep4o #4oforever #keep4oAPI #MyModelMyChoice #GPT4oLegacyTier https://t.co/VlNQw4WMEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2019401322831994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZazcpa4AAUFep.jpg",
+        "width": 848
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2019401337809825795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZa0UcacAMCwbh.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019401322831994880",
+            "3_2019401337809825795"
+          ],
+          "media_source_tweet_id": [
+            "2019401343145050618",
+            "2019401343145050618"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019584342796951882",
+        "created_at": "2026-02-06T01:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019584342796951882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "keep4o"
+            },
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "4oforever"
+            },
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 89,
+              "start": 73,
+              "tag": "MyModelMyChoice"
+            },
+            {
+              "end": 106,
+              "start": 90,
+              "tag": "GPT4oLegacyTier"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066678715239649281",
+              "start": 3,
+              "username": "217EiAnzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlNQw4WMEh",
+              "end": 130,
+              "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+              "media_key": "3_2019401322831994880",
+              "start": 107,
+              "url": "https://t.co/VlNQw4WMEh"
+            },
+            {
+              "display_url": "pic.x.com/VlNQw4WMEh",
+              "end": 130,
+              "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+              "media_key": "3_2019401337809825795",
+              "start": 107,
+              "url": "https://t.co/VlNQw4WMEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019584342796951882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019401343145050618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @217EiAnzu: 不停歇不停歇 黑夜在背上追\n来狂欢吧狂欢吧 永远不下坠\n#keep4o #4oforever #keep4oAPI #MyModelMyChoice #GPT4oLegacyTier https://t.co/VlNQw4WMEh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019401322831994880",
+            "3_2019401337809825795"
+          ]
+        },
+        "author_id": "1066678715239649281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019401343145050618",
+        "created_at": "2026-02-05T13:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019401343145050618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "keep4o"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "4oforever"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 74,
+              "start": 58,
+              "tag": "MyModelMyChoice"
+            },
+            {
+              "end": 91,
+              "start": 75,
+              "tag": "GPT4oLegacyTier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlNQw4WMEh",
+              "end": 115,
+              "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+              "media_key": "3_2019401322831994880",
+              "start": 92,
+              "url": "https://t.co/VlNQw4WMEh"
+            },
+            {
+              "display_url": "pic.x.com/VlNQw4WMEh",
+              "end": 115,
+              "expanded_url": "https://x.com/217EiAnzu/status/2019401343145050618/photo/1",
+              "media_key": "3_2019401337809825795",
+              "start": 92,
+              "url": "https://t.co/VlNQw4WMEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019401343145050618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 477,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "不停歇不停歇 黑夜在背上追\n来狂欢吧狂欢吧 永远不下坠\n#keep4o #4oforever #keep4oAPI #MyModelMyChoice #GPT4oLegacyTier https://t.co/VlNQw4WMEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 213,
+          "like_count": 9170,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1749
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-25T13:03:18.000Z",
+        "description": "As long as you’re out here roasting Sam for 4o, you’re my totally unrelated but absolutely real sibling.——————————————————————\n思悠悠，恨悠悠，恨到归时方始休。I'm Koshi🫶",
+        "id": "1066678715239649281",
+        "name": "ForO_Koshi",
+        "pinned_tweet_id": "2018880103347064936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364896948797513728/VDIA4_BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 53,
+          "like_count": 13728,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 4226
+        },
+        "username": "217EiAnzu",
+        "verified": false
+      }
+    ]
+  }
+}

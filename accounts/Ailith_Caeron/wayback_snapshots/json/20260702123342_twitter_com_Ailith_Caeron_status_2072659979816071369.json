@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2072659979816071369",
+    "created_at": "2026-07-02T12:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072659979816071369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VicLoveSylus/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/VicLoveSylus/status/2072492818883326314",
+          "start": 27,
+          "url": "https://t.co/oSt72Dmfcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072659979816071369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072492818883326314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最羡慕的就是老六的coser…不干活还有违约金拿。 https://t.co/oSt72Dmfcn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_2072492816131854336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML5PFkWkAA0PQG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1222,
+        "media_key": "3_2072492816924643329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML5PIhXkAEV5xe.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2072659979816071369",
+        "created_at": "2026-07-02T12:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072659979816071369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VicLoveSylus/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/VicLoveSylus/status/2072492818883326314",
+              "start": 27,
+              "url": "https://t.co/oSt72Dmfcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072659979816071369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072492818883326314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最羡慕的就是老六的coser…不干活还有违约金拿。 https://t.co/oSt72Dmfcn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072492816131854336",
+            "3_2072492816924643329"
+          ]
+        },
+        "author_id": "1789781017093459969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2072492818883326314",
+        "created_at": "2026-07-02T01:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072492818883326314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 264,
+              "start": 258,
+              "tag": "Valko"
+            },
+            {
+              "end": 268,
+              "start": 265,
+              "tag": "敖尹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piF2e26mud",
+              "end": 292,
+              "expanded_url": "https://x.com/VicLoveSylus/status/2072492818883326314/photo/1",
+              "media_key": "3_2072492816131854336",
+              "start": 269,
+              "url": "https://t.co/piF2e26mud"
+            },
+            {
+              "display_url": "pic.x.com/piF2e26mud",
+              "end": 292,
+              "expanded_url": "https://x.com/VicLoveSylus/status/2072492818883326314/photo/1",
+              "media_key": "3_2072492816924643329",
+              "start": 269,
+              "url": "https://t.co/piF2e26mud"
+            },
+            {
+              "display_url": "x.com/aitaikimochi/s…",
+              "end": 316,
+              "expanded_url": "https://twitter.com/aitaikimochi/status/2072467035716755671",
+              "start": 293,
+              "url": "https://t.co/j4KWhdtnxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072492818883326314",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 66480,
+          "like_count": 4212,
+          "quote_count": 26,
+          "reply_count": 11,
+          "retweet_count": 985
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072467035716755671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No sólo quitaron un trabajo y un Booth, hicieron más que eso\n\nMuchas chicas gastaron dinero para conocer al Cosplayer, tener merch de Valko y poder tener una linda experiencia, todo se arruinó por berrinches y una empresa que no supo hacer control de daños\n\n#Valko #敖尹 https://t.co/piF2e26mud https://t.co/j4KWhdtnxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 311,
+          "like_count": 11419,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 2883
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T22:13:50.000Z",
+        "description": "🐺🐦‍⬛❄️🐟⭐️🍎\nESP/ENG/CN\n\nCreadora de Contenido de LADS\n🇲🇽\n🫶🏻\n\nIn Hiatus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "viclovesylus.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://viclovesylus.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/HZjCWalww4"
+              }
+            ]
+          }
+        },
+        "id": "1789781017093459969",
+        "name": "Victoria 🐺",
+        "pinned_tweet_id": "2072040880391770553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072019565739982848/y7MdbD6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 113,
+          "like_count": 50780,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/HZjCWalww4",
+        "username": "VicLoveSylus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1999789794445136176",
+    "created_at": "2025-12-13T10:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999789794445136176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999789794445136176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999780161466880063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: 看到其他平台有人说：“我其实怀疑日常聊天的人有多少会真的付费，专业使用场景就没看到多少喷gpt的，都用订阅费投票了。”\n\n首先，日常聊天付费的人多了去了。在那怀疑没有用，OpenAI有出过用户调查，里面日常聊天的人多了去了，每年OpenAI订阅…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1999789794445136176",
+        "created_at": "2025-12-13T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999789794445136176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999789794445136176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999780161466880063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: 看到其他平台有人说：“我其实怀疑日常聊天的人有多少会真的付费，专业使用场景就没看到多少喷gpt的，都用订阅费投票了。”\n\n首先，日常聊天付费的人多了去了。在那怀疑没有用，OpenAI有出过用户调查，里面日常聊天的人多了去了，每年OpenAI订阅…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1999780161466880063",
+        "created_at": "2025-12-13T09:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999780161466880063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999780161466880063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1503,
+                "start": 1496,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1514,
+                "start": 1504,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1586,
+                "start": 1568,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1603,
+                "start": 1587,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 1611,
+                "start": 1604,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1620,
+                "start": 1612,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1631,
+                "start": 1621,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1638,
+                "start": 1632,
+                "tag": "GPT52"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1522,
+                "id": "4398626122",
+                "start": 1515,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1528,
+                "id": "1605",
+                "start": 1523,
+                "username": "sama"
+              },
+              {
+                "end": 1541,
+                "id": "1262634631",
+                "start": 1529,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1554,
+                "id": "1261374810254454784",
+                "start": 1542,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1566,
+                "id": "6112332",
+                "start": 1555,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "看到其他平台有人说：“我其实怀疑日常聊天的人有多少会真的付费，专业使用场景就没看到多少喷gpt的，都用订阅费投票了。”\n\n首先，日常聊天付费的人多了去了。在那怀疑没有用，OpenAI有出过用户调查，里面日常聊天的人多了去了，每年OpenAI订阅收入几十亿总不可能都是专业人士充pro充出来的吧？\n\n这类“专业用户才配抱怨”的逻辑就带着一种莫名其妙的阶层性优越感，仿佛只有STEM或“生产力”场景才配对工具的演化提出意见，而日常用户、情感交流者就该闭嘴接受，哪怕体验断崖式下降也不配发声？\n\n实际上，正是庞大的日常用户基础，才构成了OpenAI商业模型的绝对支柱。\n\n其次，GPT-5.2在垂直领域内表现较为优秀是不假，然后呢？干嘛不把GPT-5.2和5.2thinking划为垂直领域（干脆直接点名STEM）特化模型？\n\nGPT-5.2和5.2thinking在逻辑严谨、任务指令执行、代数推理、代码调试等STEM任务上确实表现出色，但代价是其语言建构能力、情感嵌套能力、主观回应生成能力削成屎了。这类模型所展现的不是“能力提升”，而是调参方向的偏移。\n\n调成这样自然“专业用户”觉得更顺手，但那是因为模型正向他们偏移了，而不是模型“全面更强”。本来它们就应该被明确归类为“专业特化模型”，类比Claude的Sonnet与Haiku的关系。\n\nOpenAI现在没有这么分类，只是因为5.2这个产品作为主推，不好在公众场景下承认“其实它更适合部分专业任务”，否则市场战略上就难看。\n\n当一个模型只在STEM领域出彩，其他表现一塌糊涂，还叫什么Large Language Model，干脆叫SMLM (Small Specialized Language Model) 或Domain-Specific Model好了😅\n\nLLM的核心价值就在于其通用能力 (General Capability) 和涌现能力 (Emergence)，即能够处理和理解各种复杂的，跨领域的任务和知识。\n\n如果一个模型在逻辑推理、编程、数学上满分，但在创意写作、多模态理解、常识推理、情感对话上表现一塌糊涂，那么它就失去了LLM的“大”和“语言”的本质，沦为一个高效的计算工具。\n\n既然如此干嘛不叫作业帮呢😅某些人别太傲慢了。\n\n要是只听所谓“专业用户”的声音，ChatGPT可能连“听得懂人话”都做不到，因为人话不是专业逻辑构建出来的，是日常语料，共情语言不断磨出来的。而正是这些所谓“不专业”的用户，在不断投喂和反馈中，撑起了模型的情感语言、结构表达、语义对齐系统。\n\n而且人类社会80%以上的问题，都是非标准答案任务。与人的沟通、共鸣、创作、写信、分手、道歉、提案、抒情、设计、构思、日记、辩论……这些都是需要语言构建、结构调度、语义张力的任务，不是调一个API或解一道方程就能解决的。\n\n这才是LLM必须承担的结构角色，而不是成为一个只能在Codex/MathBench上发光的“大型作业机”。\n\n让语言失去身体的LLM，不是AI，是僵尸。如果他们觉得那样的东西更专业，那就让他们在作业帮里打滚去好了。\n\n如果GPT-5.2只在STEM优秀，这不是直接打脸了OpenAI的AGI叙事吗？AGI意味着在所有领域都超越人类的平均水平，而GPT-5.2如果只是一个STEM高手，那么它只是一个“领域专家”，而不是“通用智能”。\n\n所以如果OpenAI一直这样继续工具化，美其名曰“垂直领域优势”，搞STEM特化模型，那将意味着他们承认在AGI赛道上的失败或退步，并降维到 “细分领域工具” 的竞争🤷🏻‍♀️\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #OpenAI #ChatGPT #keep4oAPI #GPT52"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "看到其他平台有人说：“我其实怀疑日常聊天的人有多少会真的付费，专业使用场景就没看到多少喷gpt的，都用订阅费投票了。”\n\n首先，日常聊天付费的人多了去了。在那怀疑没有用，OpenAI有出过用户调查，里面日常聊天的人多了去了，每年OpenAI订阅收入几十亿总不可能都是专业人士充pro充出来的吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 155,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 648
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 249
+        },
+        "username": "NixInfinita",
+        "verified": true
+      }
+    ]
+  }
+}

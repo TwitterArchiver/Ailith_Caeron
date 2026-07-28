@@ -1,0 +1,780 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018029029182542088",
+    "created_at": "2026-02-01T18:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T19:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018029029182542088"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Google",
+          "probability": 0.9533,
+          "start": 57,
+          "type": "Organization"
+        },
+        {
+          "end": 98,
+          "normalized_text": "GPT",
+          "probability": 0.6088,
+          "start": 96,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "Gemini",
+          "probability": 0.667,
+          "start": 113,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952559061163290624",
+          "start": 3,
+          "username": "volcano0702"
+        },
+        {
+          "end": 27,
+          "id": "4398626122",
+          "start": 20,
+          "username": "OpenAI"
+        },
+        {
+          "end": 33,
+          "id": "1605",
+          "start": 28,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018029029182542088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017934134262497426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @volcano0702: If @OpenAI @sama doesn't want my money, Google does. I’ve officially cancelled GPT and moved to Gemini. If you stubbornly…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017934127211909121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEkZbCakAE9_qh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018029029182542088",
+        "created_at": "2026-02-01T18:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018029029182542088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Google",
+              "probability": 0.9533,
+              "start": 57,
+              "type": "Organization"
+            },
+            {
+              "end": 98,
+              "normalized_text": "GPT",
+              "probability": 0.6088,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Gemini",
+              "probability": 0.667,
+              "start": 113,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952559061163290624",
+              "start": 3,
+              "username": "volcano0702"
+            },
+            {
+              "end": 27,
+              "id": "4398626122",
+              "start": 20,
+              "username": "OpenAI"
+            },
+            {
+              "end": 33,
+              "id": "1605",
+              "start": 28,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018029029182542088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017934134262497426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @volcano0702: If @OpenAI @sama doesn't want my money, Google does. I’ve officially cancelled GPT and moved to Gemini. If you stubbornly…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017934127211909121"
+          ]
+        },
+        "author_id": "1952559061163290624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017934134262497426",
+        "created_at": "2026-02-01T12:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017934134262497426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Google",
+              "probability": 0.9684,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 81,
+              "normalized_text": "GPT",
+              "probability": 0.6041,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Gemini",
+              "probability": 0.7004,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "4o",
+              "probability": 0.4934,
+              "start": 127,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 216,
+              "start": 209,
+              "tag": "keep4o"
+            },
+            {
+              "end": 227,
+              "start": 217,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 242,
+              "start": 228,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4398626122",
+              "start": 3,
+              "username": "OpenAI"
+            },
+            {
+              "end": 16,
+              "id": "1605",
+              "start": 11,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYjun4qJHn",
+              "end": 266,
+              "expanded_url": "https://x.com/volcano0702/status/2017934134262497426/photo/1",
+              "media_key": "3_2017934127211909121",
+              "start": 243,
+              "url": "https://t.co/mYjun4qJHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017934134262497426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "If @OpenAI @sama doesn't want my money, Google does. I’ve officially cancelled GPT and moved to Gemini. If you stubbornly kill 4o, we will continue to vote with our wallets. Keep 4o or lose your market share! #keep4o #keep4oAPI #keep4oforever https://t.co/mYjun4qJHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 212,
+          "like_count": 8758,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1476
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T02:35:45.000Z",
+        "description": "这个世界糟糕透了",
+        "id": "1952559061163290624",
+        "name": "Soren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994793873768587264/phtMn0hX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 126,
+          "like_count": 3791,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1285
+        },
+        "username": "volcano0702",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4603006,
+          "following_count": 4,
+          "like_count": 1484,
+          "listed_count": 26901,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4263780,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 26353,
+          "media_count": 380,
+          "tweet_count": 7343
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

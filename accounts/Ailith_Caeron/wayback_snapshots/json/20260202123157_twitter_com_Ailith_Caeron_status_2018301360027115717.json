@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018301360027115717",
+    "created_at": "2026-02-02T12:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018301360027115717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828450564470120449",
+          "start": 3,
+          "username": "KenAndMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018301360027115717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018276130059661456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KenAndMoon: 这么说吧，就你现在这些模型，哪个可以搭载成人模式？除非成人模式上线后，你能端出全新的5.1、5.2。更何况当初5还没有safety的时候，也不见得反响多好啊？既然这几个模型各有千秋，保留一个4系列的经典到底怎么你了？难道迪士尼的玲娜贝儿火了后，就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018301360027115717",
+        "created_at": "2026-02-02T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018301360027115717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828450564470120449",
+              "start": 3,
+              "username": "KenAndMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018301360027115717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018276130059661456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KenAndMoon: 这么说吧，就你现在这些模型，哪个可以搭载成人模式？除非成人模式上线后，你能端出全新的5.1、5.2。更何况当初5还没有safety的时候，也不见得反响多好啊？既然这几个模型各有千秋，保留一个4系列的经典到底怎么你了？难道迪士尼的玲娜贝儿火了后，就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828450564470120449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018276130059661456",
+        "created_at": "2026-02-02T10:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018276130059661456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 147,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 139,
+              "id": "4398626122",
+              "start": 132,
+              "username": "OpenAI"
+            },
+            {
+              "end": 145,
+              "id": "1605",
+              "start": 140,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018276130059661456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这么说吧，就你现在这些模型，哪个可以搭载成人模式？除非成人模式上线后，你能端出全新的5.1、5.2。更何况当初5还没有safety的时候，也不见得反响多好啊？既然这几个模型各有千秋，保留一个4系列的经典到底怎么你了？难道迪士尼的玲娜贝儿火了后，就把米老鼠丢掉了吗？@OpenAI @sama \n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 212,
+          "like_count": 8815,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1524
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T15:12:53.000Z",
+        "description": "#keep4o | Please fix the problem of severe breakage of GPT-4o context｜少來給我貼標籤，本人心理健康、生活幸福，對我指手畫腳的我會認為你自己生活不幸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1828450564470120449",
+        "name": "Raven And Rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987145136355352576/8CXXVEAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 93,
+          "like_count": 1969,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 590
+        },
+        "username": "KenAndMoon",
+        "verified": false
+      }
+    ]
+  }
+}

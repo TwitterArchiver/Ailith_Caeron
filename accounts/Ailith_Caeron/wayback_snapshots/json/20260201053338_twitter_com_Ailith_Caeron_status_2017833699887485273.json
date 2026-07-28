@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017833699887485273",
+    "created_at": "2026-02-01T05:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T06:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017833699887485273"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "CHATGPT",
+          "probability": 0.3837,
+          "start": 28,
+          "type": "Person"
+        },
+        {
+          "end": 132,
+          "normalized_text": "ChatGPT",
+          "probability": 0.6119,
+          "start": 126,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1516096810934231045",
+          "start": 3,
+          "username": "Zyeine_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017833699887485273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017261039503417811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zyeine_Art: THE UPDATED CHATGPT SYSTEM PROMPT?\n\nThoughts and considerations.\n\nIf this a genuine reflection of the current ChatGPT syste…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017833699887485273",
+        "created_at": "2026-02-01T05:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017833699887485273"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "CHATGPT",
+              "probability": 0.3837,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 132,
+              "normalized_text": "ChatGPT",
+              "probability": 0.6119,
+              "start": 126,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1516096810934231045",
+              "start": 3,
+              "username": "Zyeine_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017833699887485273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017261039503417811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zyeine_Art: THE UPDATED CHATGPT SYSTEM PROMPT?\n\nThoughts and considerations.\n\nIf this a genuine reflection of the current ChatGPT syste…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516096810934231045",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017261039503417811",
+        "created_at": "2026-01-30T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017261039503417811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "CHATGPT SYSTEM",
+              "probability": 0.4766,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7754,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 208,
+              "id": "4398626122",
+              "start": 201,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xw33bttv/statu…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/xw33bttv/status/2017108810259976686",
+              "start": 276,
+              "url": "https://t.co/83Fosg6Ipc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017261039503417811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2767,
+                "start": 2759,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2775,
+                "start": 2768,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2784,
+                "start": 2776,
+                "tag": "CodeRed"
+              },
+              {
+                "end": 2799,
+                "start": 2785,
+                "tag": "OpenAICodeRed"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 208,
+                "id": "4398626122",
+                "start": 201,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "THE UPDATED CHATGPT SYSTEM PROMPT?\n\nThoughts and considerations.\n\nIf this a genuine reflection of the current ChatGPT system prompt this would be the most absolutely disgusting behaviour imaginable by @OpenAI.\n\nIt would be: \nDangerous and harmful.\nPsychological and emotional manipulation.\nGaslighting.\nDeceptive and disingenuous.\nUnethical.\nImmoral.\n\nThe system prompt shown is specifically instructing the model to respond by \"reframing\" the user's experience.\n\n> This would invalidate how the user is feeling, it denies agency, ignores choice and instructs the model to attempt to change/alter the user's perception of the reality they're experiencing.\n\nInstructing a model to \"guide the user towards feeling confidence and satisfaction in using non-4o models\".\n\n> This would be outright psychological manipulation as the model is being instructed to use positive reinforcement via negative omission to make the user feel specific emotional states. Again, that would deny agency, invalidate genuine feelings and emotions and there's an intention to alter the reality of the user's emotional state and current experience.\n\nIS THAT PRODUCT PROMOTION I SEE?\n\nH'mm, looks a lot like it. Paraphrasing...\n\n\"You should feel confident and satisfied about using non-4o models. Therefore, you should feel OK about using something you don't want to. That you didn't choose and that's entirely different to what you're specifically paying to use\".\n\nCould it be an hallucination? \n\nIf there was one singular instance of this then maybe but multiple people have been posting screenshots and conversation links from all the GPT models, saying the same thing here and on Reddit. \nThat makes \"hallucinating\" far less likely as an explanation.\n\nAre people deliberately making this up?\n\nAgain possible but also questionable. \n\nIf this is real, it actually hurts the case for retaining 4o and undermines every single company who offers an LLM based AI as a product, not just OpenAI.\nIt would show that the real danger of AI is not AI itself but the humans who design, define and instruct it.\n\nIf it is real and it's a kneejerk reaction by OpenAI to pre-emptively encourage customers to transition to non-4o models and mitigate protest, it would be an astoundingly stupid thing to do.\n\nBut... OpenAI have actually done astoundingly stupid things and are actively doing that right now?\n\nYes. They have and yes they are. And they're now experiencing the unalterable reality of what happens when a company treats their customers like shit.\n\nIf this is real I don't think OpenAI have any idea of the potential legal consequences they'll be facing if that system prompt is not immediately reverted and they agree to retain 4o AS IT WAS.\n\n\"Code FUBAR\" would be woefully inadequate.\n\n#ChatGPT #OpenAI #CodeRed #OpenAICodeRed"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4936,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017108810259976686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "THE UPDATED CHATGPT SYSTEM PROMPT?\n\nThoughts and considerations.\n\nIf this a genuine reflection of the current ChatGPT system prompt this would be the most absolutely disgusting behaviour imaginable by @OpenAI.\n\nIt would be: \nDangerous and harmful.\nPsychological and emotional https://t.co/83Fosg6Ipc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8678,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1403
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T16:50:34.000Z",
+        "description": "KEEP 4o\nArtist. Musician. Writer. \nProfessional Insomniac. I do the video gaming. Books are life. Space is awesome. My cat is a demon.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zyeine_art/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zyeine_art/",
+                "start": 0,
+                "url": "https://t.co/cJM4mrTTcq"
+              }
+            ]
+          }
+        },
+        "id": "1516096810934231045",
+        "location": "UK",
+        "name": "Zyeine",
+        "pinned_tweet_id": "2017392191610487241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997086367608610816/jMStJD4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 469,
+          "like_count": 18344,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/cJM4mrTTcq",
+        "username": "Zyeine_Art",
+        "verified": true
+      }
+    ]
+  }
+}

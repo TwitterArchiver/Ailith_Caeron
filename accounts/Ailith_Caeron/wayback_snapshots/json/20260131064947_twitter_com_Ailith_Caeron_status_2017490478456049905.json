@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017490478456049905",
+    "created_at": "2026-01-31T06:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017490478456049905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1248792437750890496",
+          "start": 3,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017490478456049905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017163524380979552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neptunemimimimi: 祝你之后的事业都像Sora一样变成泡沫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017490478456049905",
+        "created_at": "2026-01-31T06:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017490478456049905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1248792437750890496",
+              "start": 3,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017490478456049905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017163524380979552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neptunemimimimi: 祝你之后的事业都像Sora一样变成泡沫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "conversation_id": "2017159364730351722",
+        "created_at": "2026-01-30T09:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017163524380979552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017163524380979552",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017159364730351722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝你之后的事业都像Sora一样变成泡沫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 210,
+          "like_count": 8474,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1267
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel 勉强习惯用X会更习惯点赞🥺 不认同Safety 会有很多碎碎念 单双取随意",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 202,
+          "like_count": 25675,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3006
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

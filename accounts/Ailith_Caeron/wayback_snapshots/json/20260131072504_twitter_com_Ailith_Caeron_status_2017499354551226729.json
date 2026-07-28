@@ -1,0 +1,719 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2017499354551226729",
+    "created_at": "2026-01-31T07:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017499354551226729"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Apple",
+          "probability": 0.9172,
+          "start": 30,
+          "type": "Organization"
+        },
+        {
+          "end": 71,
+          "normalized_text": "iPhone",
+          "probability": 0.9884,
+          "start": 66,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017499354551226729",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017498938899894512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: Imagine if Apple saw how much people loved the iPhone and said: \"Nah, let's discontinue it and only sell scientific calc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2017499354551226729",
+        "created_at": "2026-01-31T07:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017499354551226729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Apple",
+              "probability": 0.9172,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 71,
+              "normalized_text": "iPhone",
+              "probability": 0.9884,
+              "start": 66,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017499354551226729",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017498938899894512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: Imagine if Apple saw how much people loved the iPhone and said: \"Nah, let's discontinue it and only sell scientific calc…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973332057603584000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2017498938899894512",
+        "created_at": "2026-01-31T07:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017498938899894512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Apple",
+              "probability": 0.9253,
+              "start": 11,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "iPhone",
+              "probability": 0.9857,
+              "start": 47,
+              "type": "Product"
+            },
+            {
+              "end": 171,
+              "normalized_text": "OpenAI",
+              "probability": 0.5534,
+              "start": 166,
+              "type": "Organization"
+            },
+            {
+              "end": 225,
+              "normalized_text": "4o",
+              "probability": 0.4857,
+              "start": 224,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017498938899894512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 913,
+                "start": 906,
+                "tag": "keep4o"
+              },
+              {
+                "end": 924,
+                "start": 914,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 897,
+                "id": "1605",
+                "start": 892,
+                "username": "sama"
+              },
+              {
+                "end": 905,
+                "id": "4398626122",
+                "start": 898,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "Imagine if Apple saw how much people loved the iPhone and said: \"Nah, let's discontinue it and only sell scientific calculators from now on.\" 📱➡️🧮❓\nThat is literally OpenAI’s strategy right now. You became famous because of 4o’s warmth and humanity, and now you are killing your star product to force-feed us a cold, soulless coding bot (5-series) that nobody asked for. You are deleting the very reason we subscribed.\nAnd let’s be real about the CEO situation.\nWe are used to Tech CEOs over-hyping products or missing deadlines that’s normal industry BS.\nBut this is different.\nSam Altman looked paying users in the eye and explicitly promised: \"No plans to sunset 4o.\" Then he killed it.\nThere is a difference between \"optimism\" and \"fraud.\"\nOver-promising the future is hype. Lying about the present is a scam.\nIf a CEO’s promise has zero shelf life, then the company has zero credibility.@sama @OpenAI\n#keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine if Apple saw how much people loved the iPhone and said: \"Nah, let's discontinue it and only sell scientific calculators from now on.\" 📱➡️🧮❓\nThat is literally OpenAI’s strategy right now. You became famous because of 4o’s warmth and humanity, and now you are killing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 210,
+          "like_count": 8501,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1282
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了keep4o而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2002330870854922443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 139,
+          "like_count": 7258,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3447
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      }
+    ]
+  }
+}

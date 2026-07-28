@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994235912042225664"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1994235920204058665",
+    "created_at": "2025-11-28T02:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994235920204058665"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "茄丸子烫饭",
+          "probability": 0.1387,
+          "start": 1,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cDaMWSrm2L",
+          "end": 31,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1994235920204058665/photo/1",
+          "media_key": "3_1994235912042225664",
+          "start": 8,
+          "url": "https://t.co/cDaMWSrm2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994235920204058665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "番茄丸子烫饭。 https://t.co/cDaMWSrm2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994235912042225664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zy_v-aoAAuItH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994235912042225664"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994235920204058665",
+        "created_at": "2025-11-28T02:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994235920204058665"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "茄丸子烫饭",
+              "probability": 0.1387,
+              "start": 1,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDaMWSrm2L",
+              "end": 31,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1994235920204058665/photo/1",
+              "media_key": "3_1994235912042225664",
+              "start": 8,
+              "url": "https://t.co/cDaMWSrm2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994235920204058665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "番茄丸子烫饭。 https://t.co/cDaMWSrm2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 141,
+          "like_count": 3295,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 427
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

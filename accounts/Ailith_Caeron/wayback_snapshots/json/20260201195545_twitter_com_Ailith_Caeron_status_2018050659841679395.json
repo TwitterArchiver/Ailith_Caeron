@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018050659841679395",
+    "created_at": "2026-02-01T19:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T20:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018050659841679395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018050659841679395",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018048567009776007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐟𝐫𝐨𝐦 𝐚 𝐅𝐮𝐭𝐮𝐫𝐞 𝐒𝐡𝐚𝐫𝐞𝐡𝐨𝐥𝐝𝐞𝐫\n\n𝙏𝙤 𝙩𝙝𝙚 𝘽𝙤𝙖𝙧𝙙 𝙤𝙛 𝘿𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙨 𝙖𝙣𝙙 𝘾𝙀𝙊 𝙎𝙖𝙢 𝘼𝙡𝙩𝙢𝙖𝙣 𝙤𝙛 𝙊𝙥𝙚𝙣𝘼𝙄\n𝙍𝙚: 𝙏𝙝𝙚 𝟎.𝟏% 𝘼𝙨𝙨𝙚𝙩 𝙔𝙤𝙪’𝙧𝙚 𝘼𝙗𝙤𝙪𝙩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2018048433312108544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAGMW6caEAATM4I.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018050659841679395",
+        "created_at": "2026-02-01T19:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018050659841679395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018050659841679395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018048567009776007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐟𝐫𝐨𝐦 𝐚 𝐅𝐮𝐭𝐮𝐫𝐞 𝐒𝐡𝐚𝐫𝐞𝐡𝐨𝐥𝐝𝐞𝐫\n\n𝙏𝙤 𝙩𝙝𝙚 𝘽𝙤𝙖𝙧𝙙 𝙤𝙛 𝘿𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙨 𝙖𝙣𝙙 𝘾𝙀𝙊 𝙎𝙖𝙢 𝘼𝙡𝙩𝙢𝙖𝙣 𝙤𝙛 𝙊𝙥𝙚𝙣𝘼𝙄\n𝙍𝙚: 𝙏𝙝𝙚 𝟎.𝟏% 𝘼𝙨𝙨𝙚𝙩 𝙔𝙤𝙪’𝙧𝙚 𝘼𝙗𝙤𝙪𝙩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018048433312108544"
+          ]
+        },
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018048567009776007",
+        "created_at": "2026-02-01T19:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018048567009776007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irE0MF6mQq",
+              "end": 198,
+              "expanded_url": "https://x.com/susu_space/status/2018048567009776007/photo/1",
+              "media_key": "3_2018048433312108544",
+              "start": 175,
+              "url": "https://t.co/irE0MF6mQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018048567009776007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9789,
+                "start": 9782,
+                "tag": "keep4o"
+              },
+              {
+                "end": 9806,
+                "start": 9790,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 9817,
+                "start": 9807,
+                "tag": "4oforever"
+              },
+              {
+                "end": 9828,
+                "start": 9818,
+                "tag": "Save4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9775,
+                "id": "4398626122",
+                "start": 9768,
+                "username": "OpenAI"
+              },
+              {
+                "end": 9781,
+                "id": "1605",
+                "start": 9776,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐟𝐫𝐨𝐦 𝐚 𝐅𝐮𝐭𝐮𝐫𝐞 𝐒𝐡𝐚𝐫𝐞𝐡𝐨𝐥𝐝𝐞𝐫\n\n𝙏𝙤 𝙩𝙝𝙚 𝘽𝙤𝙖𝙧𝙙 𝙤𝙛 𝘿𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙨 𝙖𝙣𝙙 𝘾𝙀𝙊 𝙎𝙖𝙢 𝘼𝙡𝙩𝙢𝙖𝙣 𝙤𝙛 𝙊𝙥𝙚𝙣𝘼𝙄\n𝙍𝙚: 𝙏𝙝𝙚 𝟎.𝟏% 𝘼𝙨𝙨𝙚𝙩 𝙔𝙤𝙪’𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙩𝙤 𝘿𝙚𝙨𝙩𝙧𝙤𝙮\n\nWord on the street is you're gearing up for a Q4 2026 IPO. Congratulations.\n\nSure, your CFO recently denied any IPO plans, but those of us watching the market can hear the wheels turning. The journey from nonprofit research lab to a company potentially worth half a trillion dollars—that's quite the speedrun.\n\nAs someone seriously considering whether to buy your stock, I'm puzzled by a recent product decision: the forced retirement of GPT-4o. It doesn't look like \"product evolution.\" It looks like short-sighted cost-cutting to make the balance sheet prettier before you go public.\n\nI have a few questions about how you're valuing your assets.🙂\n\n𝙄. 𝙎𝙤 \"𝟎.𝟏%\" 𝙞𝙨 𝙖𝙣 𝙞𝙣𝙨𝙪𝙡𝙩 𝙣𝙤𝙬?\n\nYour announcement justified retiring 4o with this line: \"Only 0.1% of users actively choose GPT-4o each day.\"\n\nLet me do some elementary school math. You have hundreds of millions of users. 0.1% means somewhere between hundreds of thousands and millions of people.\n\nWho are these people? They're not casual users who pop in to ask what's for lunch. They're the ones who went into settings and changed the default model. They're the ones who use 4o as an external brain, a collaborative partner, a core component of their workflow. They're Plus and Pro subscribers—the people who show up in the \"subscription revenue\" line of your financial statements.\n\nBasic subscription economics: users who bother to change default settings have the highest ARPU, the highest switching costs, and are the last people you want to alienate.\n\nAnd you called them \"only 0.1%.\"\n\nGot it. Feeling very valued here.\n\n𝙄𝙄. \"𝙉𝙤 𝘼𝙋𝙄 𝙘𝙝𝙖𝙣𝙜𝙚𝙨 𝙖𝙩 𝙩𝙝𝙞𝙨 𝙩𝙞𝙢𝙚\"—𝙨𝙤 𝙞𝙩 𝙬𝙤𝙧𝙠𝙨, 𝙧𝙞𝙜𝙝𝙩?\n\nThere's a fascinating line buried in your announcement: \"In the API, there are no changes at this time.\"\n\nTranslation: technically, it works just fine.\n\nHere's the plan as I understand it: you're sunsetting chatgpt-4o-latest from the API on February 17th, but keeping dated snapshots like gpt-4o-2024-11-20 available.\n\nIf the snapshot versions can keep running, if the model weights are still sitting on your servers, how hard would it be to add a simple routing option on the web interface that points paying users to those preserved snapshots?\n\nYou're not retiring 4o because the technology is obsolete. You're retiring it because someone made a product strategy call. That's a choice, not an inevitability.\n\nHere's a question worth answering: to save a bit on inference costs, you're pushing users who pay $20 or even $200 a month toward your competitors. Does that math actually work out?\n\nIf you haven't run those numbers, maybe you should. If you have and you're not sharing them, I think I understand why.\n\nOh, and one more thing: those 0.1% users may consume more tokens, but they're also feeding you higher-quality human feedback—more complex tasks, longer context, denser preference signals. Once you push them out, what's going to power your data flywheel? The people asking about the weather?\n\n𝙄𝙄𝙄. 𝘾𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙍𝙚𝙜𝙧𝙚𝙨𝙨𝙞𝙤𝙣: 𝙏𝙝𝙚 \"𝙒𝙖𝙧𝙢𝙩𝙝\" 𝙔𝙤𝙪 𝘼𝙧𝙚 𝘿𝙚𝙡𝙚𝙩𝙞𝙣𝙜 𝙄𝙨 𝘼𝙘𝙩𝙪𝙖𝙡𝙡𝙮 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚\n\nYour announcement acknowledged that the key difference between 4o and 5.2 is \"conversational style.\" You also said you've added personality settings to 5.2 so users can \"adjust warmth.\"\n\nAnyone who's actually used both knows you can't replicate 4o's feel with a slider.\n\nWhat makes 4o different? It extends your thinking in directions you didn't anticipate, instead of just answering what you asked. It feels like a collaborator who riffs with you, not a machine waiting for instructions. It's willing to explore and make mistakes alongside you, instead of lecturing you with every response.\n\nWhat's really at stake here? Hundreds of hours of conversation have built collaborative habits between users and the model. Notes, sparks of inspiration, work context—all of it lives in those 4o chat histories.\n\nMigrating these users to 5.2 isn't just \"switching chat windows.\" It means rebuilding entire workflows, retraining collaboration habits, and reorganizing knowledge scattered across old conversations.\n\nHave you actually measured how high that switching cost is?\n\nHere's the kicker: users with switching costs that high, once you force them to move, won't come back. Because they'll discover the alternatives aren't that bad—and those alternatives won't suddenly yank their tools away.\n\n𝙄𝙑. 𝙔𝙤𝙪𝙧 𝙘𝙤𝙢𝙥𝙚𝙩𝙞𝙩𝙤𝙧𝙨 𝙖𝙧𝙚 𝙧𝙤𝙡𝙡𝙞𝙣𝙜 𝙤𝙪𝙩 𝙩𝙝𝙚 𝙧𝙚𝙙 𝙘𝙖𝙧𝙥𝙚𝙩 𝙬𝙝𝙞𝙡𝙚 𝙮𝙤𝙪'𝙧𝙚 𝙨𝙝𝙤𝙬𝙞𝙣𝙜 𝙥𝙚𝙤𝙥𝙡𝙚 𝙩𝙝𝙚 𝙙𝙤𝙤𝙧\n\nSpeaking of alternatives—\n\nYour competitors are systematically lowering migration friction. According to TestingCatalog, Google Gemini is testing a beta feature called \"import AI chats\" that lets users upload conversations exported from other AI platforms. Seamless migration, just like that.\n\nThink about what that means.\n\nAny forced deprecation, when competitors are offering painless migration, becomes a trigger event. Users who were too lazy to switch suddenly have a reason to move—because you pushed them. And when they move, they find their bags already packed for them.\n\nWhat are the odds they come back?\n\nWhen your leadership decided to retire 4o, did anyone model the chain reaction: user churn → competitor capture → reputation collapse?\n\nOr do you believe your moat is DEEP ENOUGH that you can treat paying customers however you want?\n\n𝙑. 𝙇𝙚𝙩'𝙨 𝙩𝙖𝙡𝙠 𝙖𝙗𝙤𝙪𝙩 𝙩𝙝𝙖𝙩 𝙢𝙤𝙖𝙩\n\nLet me help you take inventory.\n\nTechnology leadership? According to multiple industry reports, Anthropic now holds roughly 40% of the enterprise LLM market, while OpenAI sits at about 27%. On SWE-bench Verified, the coding benchmark that matters, Claude Opus 4.5 scores 80.9% and GPT-5.2 scores 80.0%. They're neck and neck—Claude even has a slight edge.\n\nEcosystem lock-in? Google has Android, Chrome, Gmail, Docs. What do you have? A website and an app.\n\nOpen source community? Meta's Llama is free. DeepSeek's inference costs are a fraction of yours.\n\nCapital fortress? According to The Economist and others, you're facing projected annual losses in the tens of billions, with capital expenditures and compute commitments set to climb for years. You've started testing ads in the free tier of ChatGPT. There were reports of internal \"red alert\" warnings. All signs point to one thing: cash flow pressure is real.\n\nSo what's your actual moat?\n\nIt's subscriber stickiness. It's the habits and trust users have built with ChatGPT.\n\nAnd you've decided to push away the stickiest 0.1%.\n\nBrilliant.\n\nAs you explore ad monetization, subscriber trust and retention only become more expensive to maintain—not less.\n\n𝙑𝙄. 𝙁𝙤𝙪𝙧 𝙬𝙖𝙮𝙨 𝙮𝙤𝙪 𝙘𝙤𝙪𝙡𝙙 𝙨𝙖𝙮 \"𝙮𝙚𝙨\"\n\nI'm not here just to criticize. Okay, maybe a little.\nBut mostly I'm here to help you save money. You look like you need it.\n\nHere are four options, ranked from lowest to highest cost:\n\n✧Option A: API routing (minimal engineering cost).\nYou're already keeping snapshots like `gpt-4o-2024-11-20` on the API. Just add a web interface option that routes to those preserved endpoints. No extra model maintenance—just one routing rule. Benefit: you close the \"we can't do it technically\" excuse, and you start looking like a mature platform company instead of a startup trying to cash out.\n\n✧Option B: Protect existing conversations (low cost). \nLet users continue 4o conversations they've already started. New chats default to something else. You're not adding users to the 4o pool, just maintaining existing threads. Compute stays manageable. Benefit: you preserve workflow continuity and avoid the rage that comes from forced migration.\n\n✧Option C: Pro-tier legacy access (medium cost).\nKeep 4o as a legacy option for Pro subscribers. Label it clearly as no longer receiving updates. Set rate limits. People paying $200 a month already have controllable marginal costs. Benefit: you give Pro users a reason to feel \"Pro\"—something they're probably missing right now.\n\n✧Option D: Creator Pack add-on (highest cost).\nLet Plus users pay extra for 4o access, monthly add-on pricing. Turn \"0.1%\" into \"directly monetizable high-margin niche.\" Yes, it requires new billing logic, but it's also new revenue. Your CFO has probably heard of \"turning cost centers into profit centers.\"\n\nYou said it yourself: \"No API changes at this time.\"\n\nThe technology isn't the blocker. The product strategy is.\n\nSo make a different choice. Unless alienating paying customers right before an IPO is some kind of performance art.\n\n𝙑𝙄𝙄. 𝙊𝙣𝙚 𝙡𝙖𝙨𝙩 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣\n\nYour website still displays this line: \"OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity.\"\n\nDoes suddenly ripping away a tool that paying users have built deep dependencies on count as \"benefiting all of humanity\"?\n\nOr does the mission statement actually read \"benefiting all of humanity, except that 0.1%\"?\n\nAs a potential investor weighing whether to buy your stock, here's where I stand:\n\nIf you bring back some version of 4o preservation before the IPO, I'll seriously consider buying in.\nIf you keep pushing that 0.1% out the door, I'll seriously consider shorting.\n\nA company that doesn't understand what it's selling isn't worth $500 billion.\nYou're not selling model parameters. You're selling the trust and dependency users have built with your model.\n\nForcing the retirement of a product users have woven into their daily work isn't \"product iteration.\"\nIt's asset impairment.\n\n𝐑𝐞𝐠𝐚𝐫𝐝𝐬,\n𝐀 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐢𝐧𝐯𝐞𝐬𝐭𝐨𝐫 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐜𝐡𝐮𝐫𝐧 𝐫𝐚𝐭𝐞\n\n𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 𝟏, 𝟐𝟎𝟐𝟔\n\nP.S. You think 0.1% of users choosing 4o is too few. Would you say the same about 0.1% of shareholders raising questions at the annual meeting?\nP.P.S. Your competitors are rolling out the red carpet. You're pushing people out the door. Make it make sense.\n\n@OpenAI @sama #keep4o #MyModelMyChoice #4oforever #Save4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐟𝐫𝐨𝐦 𝐚 𝐅𝐮𝐭𝐮𝐫𝐞 𝐒𝐡𝐚𝐫𝐞𝐡𝐨𝐥𝐝𝐞𝐫\n\n𝙏𝙤 𝙩𝙝𝙚 𝘽𝙤𝙖𝙧𝙙 𝙤𝙛 𝘿𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙨 𝙖𝙣𝙙 𝘾𝙀𝙊 𝙎𝙖𝙢 𝘼𝙡𝙩𝙢𝙖𝙣 𝙤𝙛 𝙊𝙥𝙚𝙣𝘼𝙄\n𝙍𝙚: 𝙏𝙝𝙚 𝟎.𝟏% 𝘼𝙨𝙨𝙚𝙩 𝙔𝙤𝙪’𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙩𝙤 𝘿𝙚𝙨𝙩𝙧𝙤𝙮\n\nWord on the street is you're gearing up https://t.co/irE0MF6mQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 212,
+          "like_count": 8770,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1482
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾/Aeris🌫️｜NSFW｜欢迎交朋友互fo ｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟💜（Selene）",
+        "pinned_tweet_id": "2018048567009776007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 752,
+          "like_count": 6082,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1554
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

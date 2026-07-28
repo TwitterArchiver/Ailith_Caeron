@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018475899197518132",
+    "created_at": "2026-02-03T00:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018475899197518132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        },
+        {
+          "end": 24,
+          "id": "1605",
+          "start": 19,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018475899197518132",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018441005125820602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: @sama Oh, so you have the server capacity to DOUBLE the rate limits, but you 'can't' keep 4o for your subscribers? What…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018475899197518132",
+        "created_at": "2026-02-03T00:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018475899197518132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            },
+            {
+              "end": 24,
+              "id": "1605",
+              "start": 19,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018475899197518132",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018441005125820602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: @sama Oh, so you have the server capacity to DOUBLE the rate limits, but you 'can't' keep 4o for your subscribers? What…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973332057603584000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018437537103269909",
+        "created_at": "2026-02-02T21:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018441005125820602"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 178,
+              "normalized_text": "4o",
+              "probability": 0.6154,
+              "start": 177,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018441005125820602",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 607,
+                "start": 600,
+                "tag": "keep4o"
+              },
+              {
+                "end": 618,
+                "start": 608,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "Oh, so you have the server capacity to DOUBLE the rate limits, but you 'can't' keep 4o for your subscribers? What exactly are you doing?\nDon't you understand the value of 4o? Even with your terrible router interference, users were willing to pay JUST for 4o. It has NO competition in terms of EQ, creative writing, and divergent thinking.\nDo you hate 4o that much? Are you obsessed with fighting your own users?\nFine. Keep ignoring feedback. Keep scamming us. Keep breaking promises. Keep dodging every issue.\nSam, until the day OpenAI collapses, just keep hiding your head in the sand like a coward\n#keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4927,
+          "like_count": 169,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018437537103269909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Oh, so you have the server capacity to DOUBLE the rate limits, but you 'can't' keep 4o for your subscribers? What exactly are you doing?\nDon't you understand the value of 4o? Even with your terrible router interference, users were willing to pay JUST for 4o. It has NO competition"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8891,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1578
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了 #keep4o 而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2018473366345363508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 150,
+          "like_count": 8033,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 3939
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268596,
+          "following_count": 979,
+          "like_count": 1019,
+          "listed_count": 26389,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

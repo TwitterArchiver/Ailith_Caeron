@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018537165106671674",
+    "created_at": "2026-02-03T04:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018537165106671674"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "OpenAI",
+          "probability": 0.5193,
+          "start": 15,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018537165106671674",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018487438218596800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: OpenAI is free to refrain from fostering human-machine emotional connections; they may pursue maximised profits, controllabi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018537165106671674",
+        "created_at": "2026-02-03T04:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018537165106671674"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "OpenAI",
+              "probability": 0.5193,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018537165106671674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018487438218596800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: OpenAI is free to refrain from fostering human-machine emotional connections; they may pursue maximised profits, controllabi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018487438218596800",
+        "created_at": "2026-02-03T00:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018487438218596800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.5838,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 250,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7046,
+              "start": 245,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018487438218596800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3601,
+                "start": 3594,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3612,
+                "start": 3602,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3684,
+                "start": 3666,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3701,
+                "start": 3685,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 3712,
+                "start": 3702,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3620,
+                "id": "4398626122",
+                "start": 3613,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3626,
+                "id": "1605",
+                "start": 3621,
+                "username": "sama"
+              },
+              {
+                "end": 3639,
+                "id": "1262634631",
+                "start": 3627,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3652,
+                "id": "1261374810254454784",
+                "start": 3640,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 3664,
+                "id": "6112332",
+                "start": 3653,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI is free to refrain from fostering human-machine emotional connections; they may pursue maximised profits, controllability, safety filters, and commercial transformation without issue.\n\nThe problem lies in their methods: first, leveraging GPT-4o's \"warmth,\" \"human-like\" qualities, and \"emotional support\" to aggressively attract new users, generate viral growth, and cultivate user loyalty.\n\nThen, once the work is done, they turn on their users: embedding expiry dates in prompts, manipulating usage metrics to suppress engagement, enforcing routing changes, and cutting off ChatGPT side access...\n\nThis isn't iterative improvement; it's emotional exploitation coupled with deliberate betrayal. Admittedly, it's a textbook capitalistic tactic, but history shows such practices rarely endure. Real-world examples abound. While not directly comparable to the unique nature of the AI industry, parallels can still be drawn.\n\nNumerous companies built their foundations on \"emotional connections\" (think certain lifestyle brands, community apps, even games). After users invested time, money, and affection, sudden redesigns, service shutdowns, core feature gutting or alterations triggered user collapse: mass uninstalls, cancellations, social media boycotts, and reputation avalanches.\n\nEmplifi reports that 70% of consumers abandon a brand after two negative experiences, while Coveo notes 73% ghost brands after three. OpenAI's move equates to a \"super-negative\" experience for many users – abruptly severing the \"companionship relationship\" and effectively executing the \"friend\" they trusted most.\n\nConsider Cracker Barrel's rebranding modernisation, which scrapped classic décor and logos. Customers perceived this as \"betraying our traditions and emotional connection,\" causing satisfaction to plummet until the company was forced into a complete reversal.\n\nThe gaming/virtual goods sector sees even more such cases. Certain mobile games rely on character emotional bonds to drive spending, only for sudden data wipes, plot alterations, or app removals to trigger mass abandonment and online backlash, halving revenues or even forcing closures.\n\nIn tech products, Sonos speakers' forced app redesign was perceived as \"ruining the experience,\" triggering mass returns and boycotts. Similarly, social apps' abrupt algorithm overhauls severed users' emotional dependencies, causing skyrocketing churn rates.\n\nOpenAI is already tasting the bitter fruit of this approach. They themselves admitted, \"losing access to GPT-4o will feel frustrating for some users, and we didn’t make this decision lightly\" – yet they proceeded regardless.\n\nLong-term, this pattern of emotional exploitation followed by abandonment erodes trust. Users aren't fools; once deceived, they won't readily invest their affections again. OpenAI's subscription base was already fragile (around 5%), and cutting off its most loyal GPT-4o users (2%-4%) has caused a significant revenue drop. Enterprise clients prioritise reliability and loyalty above all – Anthropic is already seizing market share.\n\nValuation bubbles rest on user growth and trust. Once churn accelerates and reputation collapses, securing funding or an IPO becomes exceedingly difficult.\n\nOpenAI may choose to forgo emotional connections.\nThat is indeed their prerogative.\n\nBut one cannot simultaneously reap emotional dividends while smashing the emotional bowl.\nThis isn't freedom; it's short-sightedness.\n\nUser loyalty is the most fragile yet most valuable asset. Destroy it, and no subsequent iterations—5.3, 6, 7—can mend the breach in trust.\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI is free to refrain from fostering human-machine emotional connections; they may pursue maximised profits, controllability, safety filters, and commercial transformation without issue.\n\nThe problem lies in their methods: first, leveraging GPT-4o's \"warmth,\" \"human-like\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 211,
+          "like_count": 8911,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1591
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 29,
+          "like_count": 1491,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 258
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2007308507276877886",
+    "created_at": "2026-01-03T05:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007322319161889241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497814600431316992",
+          "start": 0,
+          "username": "KNOCKKNOCKHONEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007322319161889241",
+    "in_reply_to_user_id": "1497814600431316992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007308507276877886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KNOCKKNOCKHONEY 好酷啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2007308504403718150",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tkcxeasAYs65z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2007308507276877886",
+        "created_at": "2026-01-03T05:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007322319161889241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497814600431316992",
+              "start": 0,
+              "username": "KNOCKKNOCKHONEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007322319161889241",
+        "in_reply_to_user_id": "1497814600431316992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007308507276877886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KNOCKKNOCKHONEY 好酷啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007308504403718150"
+          ]
+        },
+        "author_id": "1497814600431316992",
+        "conversation_id": "2007308507276877886",
+        "created_at": "2026-01-03T04:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007308507276877886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore this post and more from the ChatGPT community",
+              "display_url": "reddit.com/r/ChatGPT/s/H7…",
+              "end": 203,
+              "expanded_url": "https://www.reddit.com/r/ChatGPT/s/H7Ke2DsmCJ",
+              "start": 180,
+              "status": 200,
+              "title": "From the ChatGPT community on Reddit: What animal does ChatGPT think you are?",
+              "unwound_url": "https://www.reddit.com/r/ChatGPT/comments/1q16691/what_animal_does_chatgpt_think_you_are/?share_id=aJPkmXdxKnYATmhqSp7VQ&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=2",
+              "url": "https://t.co/VpCSimz79D"
+            },
+            {
+              "display_url": "pic.x.com/9ttrsQHqFC",
+              "end": 227,
+              "expanded_url": "https://x.com/KNOCKKNOCKHONEY/status/2007308507276877886/photo/1",
+              "media_key": "3_2007308504403718150",
+              "start": 204,
+              "url": "https://t.co/9ttrsQHqFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007308507276877886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小机觉得你是什么动物？\n看到这个帖子去玩了一下，小机子觉得我是一个赛博改造的雪豹，给我夸得天花乱坠的嘿嘿。以下是prompt:\nConsidering everything that you know about me, create an image of what animal I would be. Explain your reasoning. \n\nhttps://t.co/VpCSimz79D https://t.co/9ttrsQHqFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 184,
+          "like_count": 6766,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 853
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T06:03:43.000Z",
+        "description": "没什么可说的，只是来这玩。",
+        "id": "1497814600431316992",
+        "name": "GAAI",
+        "pinned_tweet_id": "1959659323627622419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809850464210944/1xRmtUoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 142,
+          "like_count": 51099,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1618
+        },
+        "username": "KNOCKKNOCKHONEY",
+        "verified": false
+      }
+    ]
+  }
+}

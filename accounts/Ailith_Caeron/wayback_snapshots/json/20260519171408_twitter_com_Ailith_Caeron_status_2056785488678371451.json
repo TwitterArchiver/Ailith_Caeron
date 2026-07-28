@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2056781075121414177",
+    "created_at": "2026-05-19T17:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056785488678371451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029088501279670274",
+          "start": 0,
+          "username": "xvajidgsja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056785488678371451",
+    "in_reply_to_user_id": "2029088501279670274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056782511339110596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvajidgsja 咪师傅…！感谢之吻之！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056782511339110596].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056782511339110596",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056782511339110596"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2056781075121414177",
+        "created_at": "2026-05-19T17:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056785488678371451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029088501279670274",
+              "start": 0,
+              "username": "xvajidgsja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056785488678371451",
+        "in_reply_to_user_id": "2029088501279670274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056782511339110596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvajidgsja 咪师傅…！感谢之吻之！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2056363496439509292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 268,
+          "like_count": 10356,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2380
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T06:56:23.000Z",
+        "description": "she/her｜May we meet again at the mouth of Eden.｜中文/EN｜Ask me anything:https://t.co/KLHgMbiP3Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sz96729",
+                "end": 93,
+                "expanded_url": "https://ngl.link/sz96729",
+                "start": 70,
+                "url": "https://t.co/KLHgMbiP3Y"
+              }
+            ]
+          }
+        },
+        "id": "2029088501279670274",
+        "name": "Déjà le printemps.",
+        "pinned_tweet_id": "2055538233539510744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049982057154224128/fzbirvPd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 56,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 500
+        },
+        "username": "xvajidgsja",
+        "verified": false
+      }
+    ]
+  }
+}

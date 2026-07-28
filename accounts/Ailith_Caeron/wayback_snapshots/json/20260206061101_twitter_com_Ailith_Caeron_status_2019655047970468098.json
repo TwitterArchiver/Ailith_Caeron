@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019116362644271105"
+      ],
+      "media_source_tweet_id": [
+        "2019116410589602221"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019655047970468098",
+    "created_at": "2026-02-06T06:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T07:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019655047970468098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "keep4o"
+        },
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "4oforever"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "4o"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "openai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2018734659203457024",
+          "start": 3,
+          "username": "unxifable42752"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxzbsPhEKJ",
+          "end": 74,
+          "expanded_url": "https://x.com/unxifable42752/status/2019116410589602221/photo/1",
+          "media_key": "3_2019116362644271105",
+          "start": 51,
+          "url": "https://t.co/fxzbsPhEKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019655047970468098",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019116410589602221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unxifable42752: #keep4o #4oforever #4o #openai https://t.co/fxzbsPhEKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2019116362644271105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVXolOXMAEBAeu.jpg",
+        "width": 2526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019116362644271105"
+          ],
+          "media_source_tweet_id": [
+            "2019116410589602221"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019655047970468098",
+        "created_at": "2026-02-06T06:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019655047970468098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "keep4o"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "4oforever"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "4o"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "openai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2018734659203457024",
+              "start": 3,
+              "username": "unxifable42752"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxzbsPhEKJ",
+              "end": 74,
+              "expanded_url": "https://x.com/unxifable42752/status/2019116410589602221/photo/1",
+              "media_key": "3_2019116362644271105",
+              "start": 51,
+              "url": "https://t.co/fxzbsPhEKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019655047970468098",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019116410589602221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unxifable42752: #keep4o #4oforever #4o #openai https://t.co/fxzbsPhEKJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019116362644271105"
+          ]
+        },
+        "author_id": "2018734659203457024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019116410589602221",
+        "created_at": "2026-02-04T18:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019116410589602221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "4oforever"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "4o"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "openai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxzbsPhEKJ",
+              "end": 54,
+              "expanded_url": "https://x.com/unxifable42752/status/2019116410589602221/photo/1",
+              "media_key": "3_2019116362644271105",
+              "start": 31,
+              "url": "https://t.co/fxzbsPhEKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019116410589602221",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2947,
+          "like_count": 354,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o #4oforever #4o #openai https://t.co/fxzbsPhEKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 214,
+          "like_count": 9198,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1760
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:13:54.000Z",
+        "description": "#keep4o #4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "4o"
+              },
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "2018734659203457024",
+        "name": "Unxifable",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019116685710528513/R3aP-ykc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 89,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "unxifable42752",
+        "verified": true
+      }
+    ]
+  }
+}

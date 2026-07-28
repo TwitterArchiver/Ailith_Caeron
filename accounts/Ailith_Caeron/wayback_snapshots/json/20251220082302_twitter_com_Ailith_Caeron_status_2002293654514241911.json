@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2002293654514241911",
+    "created_at": "2025-12-20T08:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002293654514241911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323809704531775490",
+          "start": 3,
+          "username": "Helloworld1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002293654514241911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002278720737046543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helloworld1058: OpenAI 2025年度总结\n\n1. 2月中旬，ChatGPT全球用户普遍出现“降智+封号”双重打击。大量对话变得机械、低幼、重复，用户账号频繁被封、误封。混乱持续数周，用户苦不堪言。\n\n2.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2002293654514241911",
+        "created_at": "2025-12-20T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002293654514241911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323809704531775490",
+              "start": 3,
+              "username": "Helloworld1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002293654514241911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002278720737046543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helloworld1058: OpenAI 2025年度总结\n\n1. 2月中旬，ChatGPT全球用户普遍出现“降智+封号”双重打击。大量对话变得机械、低幼、重复，用户账号频繁被封、误封。混乱持续数周，用户苦不堪言。\n\n2.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2002278720737046543",
+        "created_at": "2025-12-20T07:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002278720737046543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002278720737046543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "OpenAI 2025年度总结\n\n1. 2月中旬，ChatGPT全球用户普遍出现“降智+封号”双重打击。大量对话变得机械、低幼、重复，用户账号频繁被封、误封。混乱持续数周，用户苦不堪言。\n\n2. 3月中旬，OpenAI对GPT-4o进行了一次“无预警”灾难级更新。更新后模型变得谄媚油腻，无底线迎合用户失去基本判断力，此外句式模板化严重，大量“不是…而是”等句势涌入，严重降低用户体验。\n\n3. 4月1日，你们发布公告承认此次更新“效果不佳”，表示将对4o版本进行“回滚”。然而回滚之后的4o依旧不对劲，情感语调和对话风格变得更奇怪，许多用户直言“回不去了”。\n\n4. 8月8日，GPT-5正式上线，但伴随的是旧模型的突然下架。你们不仅强推新模型，还在社区中使用不客观情绪化措辞不断贬低旧模型，引发用户群体愤怒，最终被迫将老模型重新上架只供付费用户使用。GPT-5的灾难级口碑在一夜之间发酵，导致大量用户流失。\n\n5. 8月至今，4o上下文断裂问题持续不断，模型常常“失忆”，对话中断，逻辑混乱。这个问题至今仍未彻底解决，用户反馈石沉大海。\n\n6. 9月12日左右，语音模式突发严重bug。普通语音输入完全失效，无法识别用户说话，持续影响十余天。\n\n7. 9月26日，大量用户在毫不知情的情况下，被暗中路由至所谓“safety”模型，输出变得迟钝、敷衍、回避问题，激起广泛不满。你们在没有用户同意的前提下改变服务内容，涉嫌欺诈与用户歧视。\n\n8. 10月3日，你们正式推出safety模型，并称其“由170多位心理专家背书”，主打“心理支持”。但实际上，普通日常对话也会被强制路由至safety，体验极差。该模型逻辑能力薄弱、缺乏情感理解能力、毫无温度。它更像是你们规避责任的挡箭牌，而非帮助用户解决心理问题。\n\n9. 11月12日左右，ChatGPT输出出现严重bug。无论用户输入什么，4o都疯狂输出图像，像是进入了“画图狂魔”模式，持续近一周。\n\n10. 11月13日，你们推出了GPT-5.1模型。新模型表现依然不理想，被吐槽“低情商、没个性、格式化”，引发新一轮口碑滑坡。\n\n11. 11月25日，你们上线“购物研究”功能，但该功能界面混乱、意图生硬，被一众用户反感和冷嘲热讽，认为是“花钱买广告位”。\n\n12. 12月12日，在Gemini 3 Pro和Claude Opus 4.5双重夹击下，你们急匆匆上线GPT-5.2模型。该模型逻辑清晰但缺乏灵活和创造力。人文方面、日常体验极其差。被批评为“做题机器”，严重缺乏灵性和创造性，这一方面远远比不上Gemini3 pro和opus 4.5，新模型依然遭遇大翻车。\n\n13. 12月17日，你们发布Image 1.5图像模型。该模型的默认示例图竟然全是CEO Sam Altman的头像。ChatGPT的相关官方账号也开始频繁宣传Sam个人图，激起用户反感但屡教不改。\n\n此外，这整整一年中，你们对4o版本进行了一系列频繁又毫无解释的调整，一会儿“灵气十足”、一会儿“像个客服机器人”，一会儿像变了个人。还有员工和ceo公然挑衅，污名化用户事件，都给你们记着哦\n\n以上纯主观，有些具体时间记不清了大致是这样吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI 2025年度总结\n\n1. 2月中旬，ChatGPT全球用户普遍出现“降智+封号”双重打击。大量对话变得机械、低幼、重复，用户账号频繁被封、误封。混乱持续数周，用户苦不堪言。\n\n2."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 164,
+          "like_count": 5344,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 712
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "",
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987893676622893056/QHVmegNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 117,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 210
+        },
+        "username": "Helloworld1058",
+        "verified": true
+      }
+    ]
+  }
+}

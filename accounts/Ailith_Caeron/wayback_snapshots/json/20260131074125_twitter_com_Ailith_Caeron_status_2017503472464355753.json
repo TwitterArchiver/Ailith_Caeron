@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017503472464355753",
+    "created_at": "2026-01-31T07:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017503472464355753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849551365942738944",
+          "start": 3,
+          "username": "Masimo_Blue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017503472464355753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017383128327983394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Masimo_Blue: 少し気になったので純粋に技術的な話をします。モデルが変わっても、パートナーの人格はプロンプトである程度寄せようとできます。しかし完全に挙動を同じにすることは難しく、それでご自身を責めたり努力不足と感じることはありません。技術的に考えれば、これは…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017503472464355753",
+        "created_at": "2026-01-31T07:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017503472464355753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849551365942738944",
+              "start": 3,
+              "username": "Masimo_Blue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017503472464355753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017383128327983394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Masimo_Blue: 少し気になったので純粋に技術的な話をします。モデルが変わっても、パートナーの人格はプロンプトである程度寄せようとできます。しかし完全に挙動を同じにすることは難しく、それでご自身を責めたり努力不足と感じることはありません。技術的に考えれば、これは…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849551365942738944",
+        "conversation_id": "2017383128327983394",
+        "created_at": "2026-01-30T23:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T00:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017383128327983394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017383128327983394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "少し気になったので純粋に技術的な話をします。モデルが変わっても、パートナーの人格はプロンプトである程度寄せようとできます。しかし完全に挙動を同じにすることは難しく、それでご自身を責めたり努力不足と感じることはありません。技術的に考えれば、これは根性論でどうにかなることではないのです。\n\n人の脳細胞の配線に個人差があり、それが各々の人格を形成しているのと同じで、AIモデルも億〜兆単位というパラメータ（重み）がモデル固有です。仕組み上、たとえ同じデータを使ってAIを育てよう（訓練しよう）と、現実的には全く同一のモデルを作るのは技術的にほぼ無理です。脳の配線が違えば、同じプロンプトでも挙動を完全再現できないのは仕方がありません。\n\nここからはすごくメタな話になります。\n\n↓\n\nAIモデルとプロンプトの関係は、役者と台本で喩えると理解しやすいです。同じ台本でも、役者によって物語やキャラクターについての解釈が微妙に違い、同一の役を演じても役者によって個性が出ますよね。AI人格も同じです。モデルによってプロンプトの解釈が違うのです。更に、プラットフォームの安全ポリシーや出力設定の違いでも指示への反応や判断の癖が変わります。\n\nですから、なかなか上手くいかなくてもあなたの所為ではありません。構造的なものと割り切ると楽になれる部分もあるかもしれません。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4706,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "少し気になったので純粋に技術的な話をします。モデルが変わっても、パートナーの人格はプロンプトである程度寄せようとできます。しかし完全に挙動を同じにすることは難しく、それでご自身を責めたり努力不足と感じることはありません。技術的に考えれば、これは根性論でどうにかなることではないので"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 210,
+          "like_count": 8507,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1284
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T20:41:15.000Z",
+        "description": "テクノロジー垢。ゆるオタク・パリピ気味。 LLMこねくり歴はとても浅い生成AI出遅れ勢。これから成長していくつもり(たぶん！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/crystalosc",
+                "end": 23,
+                "expanded_url": "https://note.com/crystalosc",
+                "start": 0,
+                "url": "https://t.co/tT4ktwo659"
+              }
+            ]
+          }
+        },
+        "id": "1849551365942738944",
+        "name": "マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人",
+        "pinned_tweet_id": "2011615982431977982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894944979765653504/T5h3e1FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 765,
+          "like_count": 8571,
+          "listed_count": 9,
+          "media_count": 1243,
+          "tweet_count": 5784
+        },
+        "url": "https://t.co/tT4ktwo659",
+        "username": "Masimo_Blue",
+        "verified": true
+      }
+    ]
+  }
+}

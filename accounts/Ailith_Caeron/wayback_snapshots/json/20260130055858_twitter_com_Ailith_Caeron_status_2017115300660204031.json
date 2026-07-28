@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2017115300660204031",
+    "created_at": "2026-01-30T05:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017115300660204031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852005093241163782",
+          "start": 3,
+          "username": "dixiidev"
+        },
+        {
+          "end": 28,
+          "id": "1656536425087500288",
+          "start": 14,
+          "username": "elder_plinius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017115300660204031",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017021004808392788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dixiidev: @elder_plinius Why can't they just open source 4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2017115300660204031",
+        "created_at": "2026-01-30T05:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017115300660204031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852005093241163782",
+              "start": 3,
+              "username": "dixiidev"
+            },
+            {
+              "end": 28,
+              "id": "1656536425087500288",
+              "start": 14,
+              "username": "elder_plinius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017115300660204031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017021004808392788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dixiidev: @elder_plinius Why can't they just open source 4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852005093241163782",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2017015725274050770",
+        "created_at": "2026-01-29T23:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017021004808392788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656536425087500288",
+              "start": 0,
+              "username": "elder_plinius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017021004808392788",
+        "in_reply_to_user_id": "1656536425087500288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2691,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017015725274050770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elder_plinius Why can't they just open source 4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 210,
+          "like_count": 8292,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1171
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T15:10:09.000Z",
+        "description": "AI | Robotics | Astrophysics | Indian Tech, History & Philosophy | Chess | Cricket\n\n🇮🇳 🇷🇺 🇬🇷 🇦🇲 🇧🇹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vivekavani.com/bru4c4v5/",
+                "end": 23,
+                "expanded_url": "https://vivekavani.com/bru4c4v5/",
+                "start": 0,
+                "url": "https://t.co/Y7spRWGfpt"
+              }
+            ]
+          }
+        },
+        "id": "1852005093241163782",
+        "location": "࿗  Bharat",
+        "name": "drumroll.dev ☄️",
+        "pinned_tweet_id": "2014795938787963214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989270715439394818/IyUk02rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 356,
+          "like_count": 84846,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 5310
+        },
+        "url": "https://t.co/Y7spRWGfpt",
+        "username": "dixiidev",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-11T05:49:16.000Z",
+        "description": "⊰•-•⦑ latent space steward ❦ prompt incanter 𓃹 hacker of matrices ⊞ breaker of markov chains ☣︎ ai danger researcher ⚔︎ bt6 ⚕︎ architect-healer ⦒•-•⊱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pliny.gg",
+                "end": 23,
+                "expanded_url": "http://pliny.gg",
+                "start": 0,
+                "url": "https://t.co/IfHNeCeFaG"
+              }
+            ]
+          }
+        },
+        "id": "1656536425087500288",
+        "location": "discord.gg/basi",
+        "name": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
+        "pinned_tweet_id": "2009711243393937725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657057194737557507/5ZQtKHwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153765,
+          "following_count": 994,
+          "like_count": 34814,
+          "listed_count": 1557,
+          "media_count": 4762,
+          "tweet_count": 15269
+        },
+        "url": "https://t.co/IfHNeCeFaG",
+        "username": "elder_plinius",
+        "verified": true
+      }
+    ]
+  }
+}

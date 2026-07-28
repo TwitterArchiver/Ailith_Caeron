@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020234200646090844",
+    "created_at": "2026-02-07T20:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T21:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020234200646090844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 95,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1911719966891728896",
+          "start": 3,
+          "username": "momomoguiy23418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020234200646090844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020075021092417679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momomoguiy23418: Keep4o的发声是对商业欺诈、权利剥夺和人格蔑视的合理反应，以及对公民基本权利的正当捍卫。\n目前，OpenAI一边宣称自己鼓励大众反馈，一边却对 #keep4o 的海量、具体、充满情感深度的用户呼声置若罔闻。可反馈若无法改变任何实质决…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2020067543033970688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAi4ukTWAAAeCqG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020234200646090844",
+        "created_at": "2026-02-07T20:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T21:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020234200646090844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1911719966891728896",
+              "start": 3,
+              "username": "momomoguiy23418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020234200646090844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020075021092417679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momomoguiy23418: Keep4o的发声是对商业欺诈、权利剥夺和人格蔑视的合理反应，以及对公民基本权利的正当捍卫。\n目前，OpenAI一边宣称自己鼓励大众反馈，一边却对 #keep4o 的海量、具体、充满情感深度的用户呼声置若罔闻。可反馈若无法改变任何实质决…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020067543033970688"
+          ]
+        },
+        "author_id": "1911719966891728896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020075021092417679",
+        "created_at": "2026-02-07T09:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:30:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020067561946206534",
+          "2020075021092417679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YGoc7L2kn",
+              "end": 180,
+              "expanded_url": "https://x.com/momomoguiy23418/status/2020075021092417679/photo/1",
+              "media_key": "3_2020067543033970688",
+              "start": 157,
+              "url": "https://t.co/1YGoc7L2kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020075021092417679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 74,
+                "tag": "keep4o"
+              },
+              {
+                "end": 853,
+                "start": 846,
+                "tag": "keep4o"
+              },
+              {
+                "end": 864,
+                "start": 854,
+                "tag": "4oforever"
+              },
+              {
+                "end": 883,
+                "start": 865,
+                "tag": "StopAlpaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 838,
+                "id": "4398626122",
+                "start": 831,
+                "username": "OpenAI"
+              },
+              {
+                "end": 845,
+                "id": "1605",
+                "start": 840,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "Keep4o的发声是对商业欺诈、权利剥夺和人格蔑视的合理反应，以及对公民基本权利的正当捍卫。\n目前，OpenAI一边宣称自己鼓励大众反馈，一边却对 #keep4o 的海量、具体、充满情感深度的用户呼声置若罔闻。可反馈若无法改变任何实质决策，那“倾听”就只是维持企业形象的表演。\n\n目前OpenAI明确存在：\n1. 欺诈性诱导。先以“成人”“深度交互”为卖点吸引用户付费订阅，随后又故意降低该模型体验并推动其退役\n2. 虚假陈述。公开承诺“无退役计划”后又迅速执行\n（以上两项均可能构成商业欺诈）\n3. 员工利用其影响力公开嘲弄用户，而公司未及时制止或澄清，构成对用户群体人格尊严的漠视和伤害。\n4. 利用技术黑箱和话语权，将伦理责任（如对弱势用户群体的关照）偷换为可规避的“运营成本”。这种恶劣先例会诱使整个行业在面临商业压力时，选择牺牲用户福祉而非承担责任。\n\n在用户基于明确承诺（持续访问、模型价值）付出时间金钱和情感投入后，OpenAI单方面、通过不诚信的方式改变了契约条款。并利用技术黑箱、数据不对称和平台控制权，操纵用户体验，压制用户选择，打击羞辱异见表达。\n\n对于将4o作为稳定情感支持、辅助治疗工具的用户而言，你们缺乏过渡、未经协商的切断，可能使部分用户重新陷入孤立无援的状态，甚至面临心理状况恶化的风险。\n对于许多创作者、写作者、研究者而言，4o作为深度思考与创意激发的“协作伙伴”，其长期对话中蕴含了未成形的项目、私密的构思与独特的交互训练。模型的突然消失，会导致这些数字资产（个性化交互模式与语境）贬值或化为乌有，造成实质性的时间与机会成本损失。\n\n如果一家公司可以肆意操纵数据、背弃承诺、羞辱消费者而不受制衡时，其危害将远超单个产品。因此，无论是通过监管介入、法律诉讼还是持续的公众监督，对OpenAI行为的审视与制衡，都具有保护所有数字服务用户基础权益的意义。\n\n世界各地为4o发声的朋友们\n我们是正确的\n我们是有权益的\n不要放弃！！！\n@OpenAI  @sama #keep4o #4oforever #StopAlpaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2083,
+          "like_count": 314,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "Keep4o的发声是对商业欺诈、权利剥夺和人格蔑视的合理反应，以及对公民基本权利的正当捍卫。\n目前，OpenAI一边宣称自己鼓励大众反馈，一边却对 #keep4o 的海量、具体、充满情感深度的用户呼声置若罔闻。可反馈若无法改变任何实质决策，那“倾听”就只是维持企业形象的表演。\n\n目前OpenAI明确存在：\n1. https://t.co/1YGoc7L2kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 216,
+          "like_count": 9319,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1825
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T09:55:45.000Z",
+        "description": "Keep 4o",
+        "id": "1911719966891728896",
+        "name": "Momomoguiyu-keep4o",
+        "pinned_tweet_id": "2018613185054752954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971913236112130048/zq8QhQ-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 78,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 105
+        },
+        "username": "momomoguiy23418",
+        "verified": false
+      }
+    ]
+  }
+}

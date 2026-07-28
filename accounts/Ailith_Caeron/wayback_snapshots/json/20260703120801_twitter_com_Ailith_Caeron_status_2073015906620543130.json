@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2073015906620543130",
+    "created_at": "2026-07-03T12:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073015906620543130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xavtoes/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/xavtoes/status/2072968577859396091",
+          "start": 12,
+          "url": "https://t.co/AFa7JCc8tD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073015906620543130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072968577859396091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道您这是怎么了。 https://t.co/AFa7JCc8tD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2072968571483983873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSp7sXaEAE86Yl.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2073015906620543130",
+        "created_at": "2026-07-03T12:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073015906620543130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xavtoes/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xavtoes/status/2072968577859396091",
+              "start": 12,
+              "url": "https://t.co/AFa7JCc8tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073015906620543130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072968577859396091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道您这是怎么了。 https://t.co/AFa7JCc8tD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072968571483983873"
+          ]
+        },
+        "author_id": "1816370956283305986",
+        "conversation_id": "2072968577859396091",
+        "created_at": "2026-07-03T08:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072968577859396091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 122,
+              "tag": "BringBackvalko"
+            },
+            {
+              "end": 153,
+              "start": 138,
+              "tag": "BRINGVALKOBACK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjmiVfgXFd",
+              "end": 177,
+              "expanded_url": "https://x.com/xavtoes/status/2072968577859396091/photo/1",
+              "media_key": "3_2072968571483983873",
+              "start": 154,
+              "url": "https://t.co/PjmiVfgXFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072968577859396091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 17652,
+          "like_count": 2235,
+          "quote_count": 26,
+          "reply_count": 50,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "Hey guys all the LI’s have participated in the protest and have decided to shave their heads for Valko please support us! #BringBackvalko #BRINGVALKOBACK https://t.co/PjmiVfgXFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 313,
+          "like_count": 11447,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T07:13:00.000Z",
+        "description": "minors DNI and if you hate any LI (Xavier, Sylus, Caleb, Zayne, Raffy or Valko) block me",
+        "id": "1816370956283305986",
+        "name": "San ੈ✩‧₊˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071991302758313984/TXAGPB6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 241,
+          "like_count": 2470,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1414
+        },
+        "url": "",
+        "username": "xavtoes",
+        "verified": false
+      }
+    ]
+  }
+}

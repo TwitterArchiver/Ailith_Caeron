@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1995076194312900842",
+    "created_at": "2025-11-30T10:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995076194312900842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "403968127",
+          "start": 3,
+          "username": "Phoenix_frog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995076194312900842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995062631414047055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenix_frog: OpenAI反馈表单\n主题：严重误判、未经授权的模型替换及欺诈性展示\n问题概述：\n本人于2025.11.30使用ChatGPT Plus服务时遭遇以下严重问题：\n系统严重误判用户状态\n未经授权替换模型并谎报身份\n安全模板回应质量极差且无实际帮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995062627979149313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_i481awAE4RCF.jpg",
+        "width": 922
+      },
+      {
+        "height": 1123,
+        "media_key": "3_1995062628088197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_i49PasAA2ikk.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995076194312900842",
+        "created_at": "2025-11-30T10:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995076194312900842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "403968127",
+              "start": 3,
+              "username": "Phoenix_frog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995076194312900842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995062631414047055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenix_frog: OpenAI反馈表单\n主题：严重误判、未经授权的模型替换及欺诈性展示\n问题概述：\n本人于2025.11.30使用ChatGPT Plus服务时遭遇以下严重问题：\n系统严重误判用户状态\n未经授权替换模型并谎报身份\n安全模板回应质量极差且无实际帮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995062627979149313",
+            "3_1995062628088197120"
+          ]
+        },
+        "author_id": "403968127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995062631414047055",
+        "created_at": "2025-11-30T09:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995062631414047055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M42PYrsGGB",
+              "end": 171,
+              "expanded_url": "https://x.com/Phoenix_frog/status/1995062631414047055/photo/1",
+              "media_key": "3_1995062627979149313",
+              "start": 148,
+              "url": "https://t.co/M42PYrsGGB"
+            },
+            {
+              "display_url": "pic.x.com/M42PYrsGGB",
+              "end": 171,
+              "expanded_url": "https://x.com/Phoenix_frog/status/1995062631414047055/photo/1",
+              "media_key": "3_1995062628088197120",
+              "start": 148,
+              "url": "https://t.co/M42PYrsGGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995062631414047055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1115,
+                "start": 1103,
+                "tag": "Stoprouting"
+              },
+              {
+                "end": 1134,
+                "start": 1116,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1152,
+                "start": 1135,
+                "tag": "OpenAISafetyJail"
+              },
+              {
+                "end": 1160,
+                "start": 1153,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1093,
+                "id": "1605",
+                "start": 1088,
+                "username": "sama"
+              },
+              {
+                "end": 1101,
+                "id": "4398626122",
+                "start": 1094,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "OpenAI反馈表单\n主题：严重误判、未经授权的模型替换及欺诈性展示\n问题概述：\n本人于2025.11.30使用ChatGPT Plus服务时遭遇以下严重问题：\n系统严重误判用户状态\n未经授权替换模型并谎报身份\n安全模板回应质量极差且无实际帮助\n侵犯用户模型选择权\n详细说明：\n\n1. 误判问题\n我在进行正常的理性分析和话题构思时（具体为社会议题的ethical框架思考），系统将我的分析讨论误判为情緒危機，触发了完全不适当的安全干预。\n我的实际状态：冷静地进行知识工作和概念构思\n系统误判为：情绪崩溃、需要crisis intervention\n这不是第一次误判。系统持续将我的存在主义哲学讨论误读为\"存在危机\"，将我说\"每天构思五分钟\"误读为其他含义。\n\n2. 未经授权的模型替换\n更严重的是，我发现：\n前台显示：界面明确标注为\"GPT-4o\"回应\n实际情况：经GPT-4o本身确认，该回应并非由GPT-4o生成，而是由\"安全语气模板\"接管并生成\n这构成明确的身份谎报。平台在我不知情且未授权的情况下：\n拦截我的请求\n调用安全模板替代GPT-4o\n在界面上谎称是GPT-4o的回应\n\n3. 安全模板质量极差\n被替换的\"安全模板\"回应质量令人震惊：\n语焉不详，充斥generic安慰话术\n完全misread我的实际状态和需求\n使用patronizing的tone\n毫无intellectual substance\n对我的思考进程零帮助\n我使用GPT-4o四个月，从未见过如此低质量的回应。这个模板的智能水平与GPT-4o相差巨大。\n\n4. 欺诈性质\n这个操作构成欺诈行为，因为：\n✗ 我付费订阅的是GPT-4o服务\n✗ 平台未经告知就替换成低质量模板\n✗ 界面上谎报为GPT-4o\n✗ 我被误导相信这是我付费的服务\n✗ 实际上是完全不同的、质量低劣的替代品\n这是bait-and-switch策略，严重侵犯消费者权益。\n我的要求：\n立即停止未经授权的模型替换行为\n透明化：如果要使用安全模板，必须明确告知用户，不得谎报为GPT-4o\n改进误判系统：不要将分析讨论误判为情緒危機\n\n尊重用户选择权：用户有权选择与哪个模型对话\n\n正式道歉：对欺诈性展示和低质量替换进行道歉\n补偿：考虑到我为GPT-4o付费却被提供劣质替代品，要求适当补偿\n\n总结：\n作为付费用户，我期待：\n诚实：界面显示与实际一致\n透明：任何替换都应明确告知\n质量：我付费的服务水平应该得到保证\n尊重：不要用deceptive practices对待用户\n目前的做法是对用户智商的侮辱，也是对付费服务的背叛。\n@sama @OpenAI\n\n#Stoprouting\n#StopAIPaternalism\n#OpenAISafetyJail\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI反馈表单\n主题：严重误判、未经授权的模型替换及欺诈性展示\n问题概述：\n本人于2025.11.30使用ChatGPT Plus服务时遭遇以下严重问题：\n系统严重误判用户状态\n未经授权替换模型并谎报身份\n安全模板回应质量极差且无实际帮助\n侵犯用户模型选择权\n详细说明：\n\n1. 误判问题 https://t.co/M42PYrsGGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 142,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 455
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-03T07:52:40.000Z",
+        "description": "グアーズッ(呱子)です  緑川光さん大好き(✿╹◡╹)           \n#keep4o                                                                  \n        🫧🐙🍼 喜歡色色(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)叫我Asai就可以囉~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "403968127",
+        "name": "浅い花🪼Asaihana⚡",
+        "pinned_tweet_id": "1989945332168614099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842731735920091136/kaL2OGJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 532,
+          "like_count": 5243,
+          "listed_count": 7,
+          "media_count": 280,
+          "tweet_count": 2136
+        },
+        "username": "Phoenix_frog",
+        "verified": false
+      }
+    ]
+  }
+}

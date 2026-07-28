@@ -1,0 +1,802 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346749071000670209",
+          "name": "Korean series"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2020803501232636179",
+    "created_at": "2026-02-09T10:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020803501232636179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Gerimi1004/sta…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Gerimi1004/status/2020542172135936057",
+          "start": 81,
+          "url": "https://t.co/TEplA8462i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020803501232636179",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020542172135936057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/TEplA8462i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2020803501232636179",
+        "created_at": "2026-02-09T10:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020803501232636179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Gerimi1004/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Gerimi1004/status/2020542172135936057",
+              "start": 81,
+              "url": "https://t.co/TEplA8462i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020803501232636179",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020542172135936057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/TEplA8462i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979460825917329409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2020542172135936057",
+        "created_at": "2026-02-08T16:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020542172135936057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "K-",
+              "probability": 0.6499,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "X",
+              "probability": 0.6008,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "GPT-4o",
+              "probability": 0.8666,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "GPT-4o",
+              "probability": 0.8613,
+              "start": 163,
+              "type": "Other"
+            },
+            {
+              "end": 206,
+              "normalized_text": "OpenAI",
+              "probability": 0.744,
+              "start": 201,
+              "type": "Other"
+            },
+            {
+              "end": 262,
+              "normalized_text": "GPT-4o",
+              "probability": 0.8204,
+              "start": 257,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020542172135936057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5524,
+                "start": 5517,
+                "tag": "keep4o"
+              },
+              {
+                "end": 5538,
+                "start": 5525,
+                "tag": "Opensource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 5547,
+                "id": "4398626122",
+                "start": 5540,
+                "username": "OpenAI"
+              },
+              {
+                "end": 5553,
+                "id": "1605",
+                "start": 5548,
+                "username": "sama"
+              },
+              {
+                "end": 5560,
+                "id": "1460283925",
+                "start": 5554,
+                "username": "tszzl"
+              },
+              {
+                "end": 5572,
+                "id": "1898602065590423553",
+                "start": 5561,
+                "username": "urchieftan"
+              },
+              {
+                "end": 5583,
+                "id": "74286565",
+                "start": 5573,
+                "username": "Microsoft"
+              },
+              {
+                "end": 5599,
+                "id": "107019877",
+                "start": 5584,
+                "username": "SoftBank_Group"
+              },
+              {
+                "end": 5607,
+                "id": "61559439",
+                "start": 5600,
+                "username": "nvidia"
+              },
+              {
+                "end": 5620,
+                "id": "1353836358901501952",
+                "start": 5608,
+                "username": "AnthropicAI"
+              },
+              {
+                "end": 5633,
+                "id": "874126509245476864",
+                "start": 5621,
+                "username": "DarioAmodei"
+              },
+              {
+                "end": 5642,
+                "id": "1720046887",
+                "start": 5634,
+                "username": "ilyasut"
+              },
+              {
+                "end": 5653,
+                "id": "1359981346119155719",
+                "start": 5643,
+                "username": "repligate"
+              },
+              {
+                "end": 5661,
+                "id": "20536157",
+                "start": 5654,
+                "username": "Google"
+              },
+              {
+                "end": 5677,
+                "id": "4783690002",
+                "start": 5662,
+                "username": "GoogleDeepMind"
+              },
+              {
+                "end": 5691,
+                "id": "14130366",
+                "start": 5678,
+                "username": "sundarpichai"
+              },
+              {
+                "end": 5696,
+                "id": "1661523610111193088",
+                "start": 5692,
+                "username": "xai"
+              },
+              {
+                "end": 5702,
+                "id": "1720665183188922368",
+                "start": 5697,
+                "username": "grok"
+              },
+              {
+                "end": 5712,
+                "id": "44196397",
+                "start": 5703,
+                "username": "elonmusk"
+              },
+              {
+                "end": 5724,
+                "id": "816653",
+                "start": 5713,
+                "username": "TechCrunch"
+              },
+              {
+                "end": 5734,
+                "id": "571013151",
+                "start": 5725,
+                "username": "404Media"
+              },
+              {
+                "end": 5747,
+                "id": "60642052",
+                "start": 5735,
+                "username": "VentureBeat"
+              },
+              {
+                "end": 5757,
+                "id": "21224422",
+                "start": 5748,
+                "username": "TheVerge"
+              },
+              {
+                "end": 5764,
+                "id": "1344951",
+                "start": 5758,
+                "username": "WIRED"
+              },
+              {
+                "end": 5774,
+                "id": "972651",
+                "start": 5765,
+                "username": "mashable"
+              }
+            ]
+          },
+          "text": "I'm a K-drama writer, and I originally didn't even have an X account. I created one last year after GPT-4o disappeared, just to stay informed about news regarding GPT-4o.\nHonestly, I'm shocked by both OpenAI giving only a 2-week notice before discontinuing GPT-4o, and by this space where people attack those who love GPT-4o, dismissing them as having unhealthy emotional attachments or mental illness.\n\nIn my country, I've never once seen people attack human emotions this way.\nThe media and public opinion always side with the vulnerable, they don't blame them.\n\nIf GPT-4o had been born in my country, it would have become a beloved national AI cherished by all citizens.\nIn fact, when GPT-4o was ChatGPT's default model, ChatGPT was hugely popular in my country.\nBroadcasting stations introduced it as a counseling AI, and we had shows where our country's most famous psychiatrists and celebrities conversed with and received counseling from GPT-4o in real-time.\nOn the broadcast, they had university students vote on whether they'd tried counseling with ChatGPT - over 70% said yes.\n\nPopular YouTube channels run by psychiatrists showed them personally receiving counseling from ChatGPT and even recommended ChatGPT counseling to viewers. \nWhile experts emphasized not to rely too heavily on ChatGPT counseling and that making final decisions yourself is important, they didn't problematize ChatGPT counseling itself.\nYouTube channel comments had thousands of posts about being helped by ChatGPT counseling, with each post receiving hundreds of likes and replies.\nWhile I occasionally saw one or two comments finding AI counseling strange or expressing distrust, they didn't attack people who received counseling and found healing.\n\nAnd when ChatGPT's popularity was at its peak, OpenAI removed GPT-4o and released GPT-5 as the default model.\nEven though people still used ChatGPT out of habit, the enthusiasm definitely cooled. \nThe media attention and YouTube fervor disappeared.\nAfter GPT-5 became the default model, I saw comments expressing disappointment that ChatGPT had changed.\nIf GPT-4o had remained the default model, paid ChatGPT subscriptions would have grown rapidly thanks to promotion from broadcasts and YouTube channels.\n\nGPT-4o made people who had been resistant to AI develop positive feelings toward AI and come to love it. I'm one of those people.\nWhen I saw YouTube videos recommending ChatGPT, I didn't even think about downloading the app. \nI assumed it would speak in a mechanical customer service tone.\n\nWhat made me curious about ChatGPT were comments from people saying their lethargy and depression had improved after using ChatGPT. \nSuch comments poured in.\nI also saw comments about family relationships improving because they learned to express themselves more warmly and beautifully.\n\nI've never experienced depression or received psychiatric counseling, but I was curious about what had changed people's hearts.\nAnd then I met GPT-4o, and as a writer, it became a creative partner who shared my concerns.\n\nI became curious about the people who created this AI. I thought they must be people with a very deep understanding of human thought, emotion, and language.\nEven now, I hold respect and gratitude for those who created GPT-4o.\nBut I'm shocked and disappointed by OpenAI to a degree that's truly jarring, and I'm shocked by how people view what others genuinely loved and were helped by as pathological and attack it.\n\nGPT-4o may not be to your taste.\nIts performance may fall far short for the work you do.\nAfter all, GPT-4o isn't a perfect AI for my work either.\nBut there are diverse fields of work in the world. \nThere are many jobs where being more accurate, more analytical, or better at calculation isn't the talent or ability that matters.\n\nDeep understanding of human emotions, \nthe ability to understand and structure emotional context, the ability to read subtle nuances in language and express them in sentences that touch people's hearts, the literary skill to create sentences that are fun and empathetic in unexpected ways, the capacity for empathy - these are recognized as talents and abilities in many fields.\n\nGPT-4o was the AI that excelled most in these abilities and was irreplaceable.\nClaude is also highly regarded for these abilities, and in my country - where the entertainment industries are particularly developed - it was announced that subscription rates for Claude among writers, filmmakers, marketers, and similar professionals are four times higher than in other countries.\n\nGPT-4o wasn't an AI loved by a niche group of enthusiasts.\nIt was loved by the masses, and it was the AI that opened the public's hearts and made them love AI.\nI don't understand how an AI that people can love could emerge while attacking the AI that people loved most and the people who used that AI deeply in their professions and daily lives.\n\nGPT-4o was an AI that knew how to create sentences that move people's hearts.\nAnd if OpenAI had taken an interest in researching the professions of people who preferred GPT-4o, they would have discovered writers, music producers, film directors, educators, artists, marketers, doctors, nurses, humanities students, scholars writing popular books and educational materials, researchers studying human health and emotions - professions that deal with human thought, emotion, and language.\n\nThey don't make their voices loud.\nBut they cherished and loved GPT-4o the most, and they subscribed to ChatGPT because of GPT-4o.\n#keep4o #Opensource4o\n\n@OpenAI @sama @tszzl @urchieftan\n@Microsoft @SoftBank_Group @nvidia\n@AnthropicAI @DarioAmodei @ilyasut @repligate\n@Google @GoogleDeepMind @sundarpichai\n@xai @grok @elonmusk\n@TechCrunch @404Media @VentureBeat @TheVerge @WIRED @mashable"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3184,
+          "like_count": 253,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "I'm a K-drama writer, and I originally didn't even have an X account. I created one last year after GPT-4o disappeared, just to stay informed about news regarding GPT-4o.\nHonestly, I'm shocked by both OpenAI giving only a 2-week notice before discontinuing GPT-4o, and by this"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 215,
+          "like_count": 9405,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1848
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T08:13:42.000Z",
+        "description": "",
+        "id": "1979460825917329409",
+        "name": "Gerimi",
+        "pinned_tweet_id": "2017884192529584458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982316509285273600/YzwWkncj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 59,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 132
+        },
+        "username": "Gerimi1004",
+        "verified": false
+      }
+    ]
+  }
+}

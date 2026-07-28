@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2051321168033148930",
+    "created_at": "2026-05-05T12:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051635046461894752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010554249504309248",
+          "start": 0,
+          "username": "TBusson7525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051635046461894752",
+    "in_reply_to_user_id": "2010554249504309248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051504098302886177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBusson7525 老大我私你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2051321168033148930",
+        "created_at": "2026-05-05T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051635046461894752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010554249504309248",
+              "start": 0,
+              "username": "TBusson7525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051635046461894752",
+        "in_reply_to_user_id": "2010554249504309248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051504098302886177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBusson7525 老大我私你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010554249504309248",
+        "conversation_id": "2051321168033148930",
+        "created_at": "2026-05-05T03:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051504098302886177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051504098302886177",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051321168033148930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 什么中转站呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 256,
+          "like_count": 10146,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2240
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T03:28:03.000Z",
+        "description": "",
+        "id": "2010554249504309248",
+        "name": "Turrey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011120993012785152/My4CXS5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 166,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 217
+        },
+        "username": "TBusson7525",
+        "verified": false
+      }
+    ]
+  }
+}

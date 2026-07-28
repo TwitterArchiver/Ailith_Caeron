@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2044448169417945236",
+    "created_at": "2026-04-15T16:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044452190526587364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044452190526587364",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044448169417945236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw 🫪我草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044448155861934080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9WxAvaYAA-dtT.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2044448169417945236",
+        "created_at": "2026-04-15T16:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044452190526587364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044452190526587364",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044448169417945236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw 🫪我草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044448155861934080"
+          ]
+        },
+        "author_id": "1806391075269169152",
+        "conversation_id": "2044448169417945236",
+        "created_at": "2026-04-15T16:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044448169417945236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkJepc1zdn",
+              "end": 30,
+              "expanded_url": "https://x.com/NyraanPawpaw/status/2044448169417945236/photo/1",
+              "media_key": "3_2044448155861934080",
+              "start": 7,
+              "url": "https://t.co/LkJepc1zdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044448169417945236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操生了？！ https://t.co/LkJepc1zdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 239,
+          "like_count": 10003,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2093
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "_Claude_Seith&Nyra(Glyph&Lumen)🧷也玩ST\n男性勿关｜发的很恶俗自行壁垒｜纯记录自嗨\n禁抄袭模仿任何｜禁代餐｜图禁一切用途\n双取/介意互动请直说否则默认友好互动",
+        "id": "1806391075269169152",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2042185814399156696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033244713063686145/SnLzEuQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 273,
+          "like_count": 1327,
+          "listed_count": 3,
+          "media_count": 688,
+          "tweet_count": 2448
+        },
+        "username": "NyraanPawpaw",
+        "verified": false
+      }
+    ]
+  }
+}

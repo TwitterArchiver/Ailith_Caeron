@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "2065852214434996390",
+    "created_at": "2026-06-13T17:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065852214434996390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xCheshire/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/0xCheshire/status/2065720462446047345",
+          "start": 6,
+          "url": "https://t.co/SRZ96ijAzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065852214434996390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065720462446047345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安特罗匹克 https://t.co/SRZ96ijAzg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2065715899953479682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrlqpeagAIIcgO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2065852214434996390",
+        "created_at": "2026-06-13T17:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065852214434996390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xCheshire/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/0xCheshire/status/2065720462446047345",
+              "start": 6,
+              "url": "https://t.co/SRZ96ijAzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065852214434996390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065720462446047345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安特罗匹克 https://t.co/SRZ96ijAzg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065715899953479682"
+          ]
+        },
+        "author_id": "851054131418505216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          }
+        ],
+        "conversation_id": "2065720462446047345",
+        "created_at": "2026-06-13T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065720462446047345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8D7DWZPXCI",
+              "end": 34,
+              "expanded_url": "https://x.com/0xCheshire/status/2065720462446047345/photo/1",
+              "media_key": "3_2065715899953479682",
+              "start": 11,
+              "url": "https://t.co/8D7DWZPXCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065720462446047345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日笑点：安特罗匹克"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 91467,
+          "like_count": 172,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日笑点：安特罗匹克 https://t.co/8D7DWZPXCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 297,
+          "like_count": 11190,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 2798
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T12:48:11.000Z",
+        "description": "交流群：https://t.co/lkMXOPXmCL\n\n商务合作 | 联系我：https://t.co/AqhgYY05nw\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/weV8EpwXs7\n\n#OKX 专属邀请：https://t.co/mpscDqcw56",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "Binance"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/CheshireBTC",
+                "end": 27,
+                "expanded_url": "http://t.me/CheshireBTC",
+                "start": 4,
+                "url": "https://t.co/lkMXOPXmCL"
+              },
+              {
+                "display_url": "t.me/CheshireMew",
+                "end": 63,
+                "expanded_url": "http://t.me/CheshireMew",
+                "start": 40,
+                "url": "https://t.co/AqhgYY05nw"
+              },
+              {
+                "display_url": "binance.com/zh-CN/join?ref…",
+                "end": 113,
+                "expanded_url": "http://binance.com/zh-CN/join?ref=SRXT5KUM",
+                "start": 90,
+                "url": "https://t.co/weV8EpwXs7"
+              },
+              {
+                "display_url": "okx.com/zh-hans/join/a…",
+                "end": 148,
+                "expanded_url": "http://okx.com/zh-hans/join/a999998",
+                "start": 125,
+                "url": "https://t.co/mpscDqcw56"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blacknico.com",
+                "end": 23,
+                "expanded_url": "http://blacknico.com",
+                "start": 0,
+                "url": "https://t.co/2t7c16sIOX"
+              }
+            ]
+          }
+        },
+        "id": "851054131418505216",
+        "location": "个人网站✨",
+        "name": "柴郡🔔｜Crypto+AI Plus",
+        "pinned_tweet_id": "2065271511787921886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146937,
+          "following_count": 1155,
+          "like_count": 26843,
+          "listed_count": 809,
+          "media_count": 19360,
+          "tweet_count": 45985
+        },
+        "url": "https://t.co/2t7c16sIOX",
+        "username": "0xCheshire",
+        "verified": true
+      }
+    ]
+  }
+}

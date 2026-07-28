@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2017013052739362830",
+    "created_at": "2026-01-29T23:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017013052739362830"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9847,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1001390712905023490",
+          "start": 3,
+          "username": "134340molly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017013052739362830",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017012250826199350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @134340molly: Sam Altman explicitly promised that there were no plans to retire 4o for now. Why are you breaking that promise? First, yo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2017013052739362830",
+        "created_at": "2026-01-29T23:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017013052739362830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9847,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1001390712905023490",
+              "start": 3,
+              "username": "134340molly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017013052739362830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017012250826199350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @134340molly: Sam Altman explicitly promised that there were no plans to retire 4o for now. Why are you breaking that promise? First, yo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001390712905023490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Saving and Finance",
+              "id": "1037075567227494400",
+              "name": "Saving and finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Financial planning",
+              "id": "847894171268521984",
+              "name": "Financial planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2017012250826199350",
+        "created_at": "2026-01-29T23:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017012250826199350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9758,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 237,
+              "normalized_text": "4o",
+              "probability": 0.4976,
+              "start": 236,
+              "type": "Other"
+            },
+            {
+              "end": 258,
+              "normalized_text": "Web",
+              "probability": 0.5726,
+              "start": 256,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017012250826199350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1112,
+                "start": 1105,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1124,
+                "start": 1114,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1095,
+                "id": "1605",
+                "start": 1090,
+                "username": "sama"
+              },
+              {
+                "end": 1103,
+                "id": "4398626122",
+                "start": 1096,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1156,
+                "id": "1496477766845612034",
+                "start": 1141,
+                "username": "Shier_12_Vklhu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/retiring…",
+                "end": 1089,
+                "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+                "start": 1066,
+                "url": "https://t.co/jriLOTd6hx"
+              }
+            ]
+          },
+          "text": "Sam Altman explicitly promised that there were no plans to retire 4o for now. Why are you breaking that promise? First, you quietly announced a retirement date for the chatgpt-4o-latest API, and now you’re planning to completely remove 4o from the App and Web versions as well?\n\nYou have ignored user feedback since August, with official accounts never giving a direct response, offering nothing but vague rhetoric. How many times have you claimed that you want to protect the vulnerable 0.1%? Then why do you turn a blind eye when vulnerable users plead with you not to retire 4o? Given your massive user base, is that 0.1% really a small number?\n\nWhat do you take paying users for? Do you think you can play us for fools just by giving some excuse and citing a '0.1%' statistic? This blatant disregard for consumer trust is a direct insult to our intelligence. When users are routed to other models without a choice, does that data really count as 'only 0.1% choosing 4o'? Or is it simply that the vast majority are being automatically routed away by your system?\nhttps://t.co/jriLOTd6hx\n@sama @OpenAI \n#keep4o  #keep4oAPI \n\nBig thanks to @Shier_12_Vklhu for pointing out the insight into the logical flaws behind this data."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Sam Altman explicitly promised that there were no plans to retire 4o for now. Why are you breaking that promise? First, you quietly announced a retirement date for the chatgpt-4o-latest API, and now you’re planning to completely remove 4o from the App and Web versions as well?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 210,
+          "like_count": 8183,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1087
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-29T09:12:05.000Z",
+        "description": "HA🦊💛",
+        "id": "1001390712905023490",
+        "name": "134340molly🦊💛",
+        "pinned_tweet_id": "2016159674262028673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001391169148936192/rHuxkeOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 242,
+          "like_count": 27903,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 14223
+        },
+        "username": "134340molly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1994836899165605955",
+    "created_at": "2025-11-29T18:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T19:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994836899165605955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1248792437750890496",
+          "start": 3,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994836899165605955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994238054475694284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neptunemimimimi: …其实真正的安全是把Bug修好，保护好用户隐私，倾听用户的意见，此Safety非彼Safety"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1994836899165605955",
+        "created_at": "2025-11-29T18:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994836899165605955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1248792437750890496",
+              "start": 3,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994836899165605955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994238054475694284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neptunemimimimi: …其实真正的安全是把Bug修好，保护好用户隐私，倾听用户的意见，此Safety非彼Safety"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "conversation_id": "1994238054475694284",
+        "created_at": "2025-11-28T02:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994238054475694284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994238054475694284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "…其实真正的安全是把Bug修好，保护好用户隐私，倾听用户的意见，此Safety非彼Safety"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 141,
+          "like_count": 3418,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 447
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel 勉强习惯用X会更习惯点赞🥺 不认同Safety 会有很多碎碎念 单双取随意",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 175,
+          "like_count": 17689,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1399
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

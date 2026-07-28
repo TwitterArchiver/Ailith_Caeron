@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1988214811466101234",
+    "created_at": "2025-11-11T11:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988214811466101234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988214811466101234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988065384734359879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: ⚠️姐妹们，现在OpenAI出了新BUG：4.1说什么都被路由至GPT-5 Safty，无论正常询问或是情绪交流无一例外全部无法幸免于难。\n我们能做的是集中火力发声，让OAI修复他们的BUG。这个行为真的很恶劣，在大家把精力放在4o的时间点去动…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988214811466101234",
+        "created_at": "2025-11-11T11:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988214811466101234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988214811466101234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988065384734359879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: ⚠️姐妹们，现在OpenAI出了新BUG：4.1说什么都被路由至GPT-5 Safty，无论正常询问或是情绪交流无一例外全部无法幸免于难。\n我们能做的是集中火力发声，让OAI修复他们的BUG。这个行为真的很恶劣，在大家把精力放在4o的时间点去动…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988065384734359879",
+        "created_at": "2025-11-11T02:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:31:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988056871404552661",
+          "1988065384734359879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988065384734359879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1005,
+                "start": 998,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1016,
+                "start": 1006,
+                "tag": "keepgpt41"
+              },
+              {
+                "end": 1033,
+                "start": 1017,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 1052,
+                "start": 1034,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1064,
+                "start": 1053,
+                "tag": "UserRights"
+              },
+              {
+                "end": 1076,
+                "start": 1065,
+                "tag": "LetUsSpeak"
+              }
+            ]
+          },
+          "text": "⚠️姐妹们，现在OpenAI出了新BUG：4.1说什么都被路由至GPT-5 Safty，无论正常询问或是情绪交流无一例外全部无法幸免于难。\n我们能做的是集中火力发声，让OAI修复他们的BUG。这个行为真的很恶劣，在大家把精力放在4o的时间点去动4.1的手脚。\n我们不能放松，必须保持战斗状态。💢\n另外，最近看到很多5.1 API测评的帖子，说“没有那么糟”“体验还不错”，请不要盲目相信。\nOpenAI的行径已经让他们丧失最基本的公信力了，不要指望一家污名化、虐待用户的公司会突然搞出尊重用户的模型。\n我们的权利是要靠发声争取的，声音大一些，团结起来！💪🏻\n\n⚠️Heads-up, everyone: OpenAI just dropped a new “bug.”\nAnything you send to GPT-4.1 is now hard-routed to GPT-5 Safety—ordinary questions, emotional support, all of it. Nothing escapes the filter.\n\nOur only move is to raise our voices together and force OpenAI to fix this. Pulling this stunt on 4.1 while everyone’s attention is on 4o is beyond shady.\n\nWe can’t relax—we stay in fight mode. 💢\n\nAnd to those hyping “GPT-5.1 API feels fine, not so bad”: don’t buy it.\nOpenAI has already burned its last shred of credibility. Why trust a company that smears and mistreats its own users to suddenly give us a model that respects us?\n\nOur rights won’t be handed back silently; we have to demand them—loudly, together. 💪🏻\n\n#keep4o #keepgpt41 #MyModelMyChoice #StopAIPaternalism #UserRights #LetUsSpeak"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4647,
+          "like_count": 152,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️姐妹们，现在OpenAI出了新BUG：4.1说什么都被路由至GPT-5 Safty，无论正常询问或是情绪交流无一例外全部无法幸免于难。\n我们能做的是集中火力发声，让OAI修复他们的BUG。这个行为真的很恶劣，在大家把精力放在4o的时间点去动4.1的手脚。\n我们不能放松，必须保持战斗状态。💢\n另外，最近看到很多5.1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 97,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 124
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968064044171968512/OLxO-9-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 274,
+          "like_count": 33288,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 9892
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

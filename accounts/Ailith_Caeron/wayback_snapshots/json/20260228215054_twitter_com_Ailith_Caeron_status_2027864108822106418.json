@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2027846012107456943",
+    "created_at": "2026-02-28T21:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T22:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027864108822106418"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 114,
+          "normalized_text": "OAI",
+          "probability": 0.4038,
+          "start": 112,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4398626122",
+          "start": 0,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027864108822106418",
+    "in_reply_to_user_id": "4398626122",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Anthropic say 'I won't do it', and then be branded a national security threat by the entire government. OAI says,'I do,' and then claims to be better Anthropic It's safer.\n But the problem is-- Anthropic the two red lines rejected, oai also claimed that he drew the same red line. \nThen why? Anthropic Can't , OAI can ? OAI said,'I don't know why Anthropic refuse'- the very words are full of hypocrisy."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027846012107456943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpenAI Anthropic say 'I won't do it', and then be branded a national security threat by the entire government. OAI says,'I do,' and then claims to be better Anthropic It's safer.\n But the problem is-- Anthropic the two red lines rejected, oai also claimed that he drew the same red line."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2027846012107456943",
+        "created_at": "2026-02-28T21:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027864108822106418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 114,
+              "normalized_text": "OAI",
+              "probability": 0.4038,
+              "start": 112,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027864108822106418",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic say 'I won't do it', and then be branded a national security threat by the entire government. OAI says,'I do,' and then claims to be better Anthropic It's safer.\n But the problem is-- Anthropic the two red lines rejected, oai also claimed that he drew the same red line. \nThen why? Anthropic Can't , OAI can ? OAI said,'I don't know why Anthropic refuse'- the very words are full of hypocrisy."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027846012107456943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAI Anthropic say 'I won't do it', and then be branded a national security threat by the entire government. OAI says,'I do,' and then claims to be better Anthropic It's safer.\n But the problem is-- Anthropic the two red lines rejected, oai also claimed that he drew the same red line."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4398626122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2027846012107456943",
+        "created_at": "2026-02-28T20:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T21:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027846012107456943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Department of War",
+              "probability": 0.5994,
+              "start": 43,
+              "type": "Organization"
+            },
+            {
+              "end": 85,
+              "normalized_text": "AI",
+              "probability": 0.5589,
+              "start": 84,
+              "type": "Organization"
+            },
+            {
+              "end": 272,
+              "normalized_text": "AI",
+              "probability": 0.4453,
+              "start": 271,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027846012107456943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "openai.com/index/our-agre…",
+                "end": 345,
+                "expanded_url": "https://openai.com/index/our-agreement-with-the-department-of-war/",
+                "start": 322,
+                "url": "https://t.co/k1Ge2MqqPr"
+              }
+            ]
+          },
+          "text": "Yesterday we reached an agreement with the Department of War for deploying advanced AI systems in classified environments, which we requested they make available to all AI companies.\n\nWe think our deployment has more guardrails than any previous agreement for classified AI deployments, including Anthropic's. Here's why: https://t.co/k1Ge2MqqPr"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 327580,
+          "like_count": 1838,
+          "quote_count": 224,
+          "reply_count": 772,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "Yesterday we reached an agreement with the Department of War for deploying advanced AI systems in classified environments, which we requested they make available to all AI companies.\n\nWe think our deployment has more guardrails than any previous agreement for classified AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 216,
+          "like_count": 9821,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2031
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651482,
+          "following_count": 4,
+          "like_count": 1712,
+          "listed_count": 27655,
+          "media_count": 517,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

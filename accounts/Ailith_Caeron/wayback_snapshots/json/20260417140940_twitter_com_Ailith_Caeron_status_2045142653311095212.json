@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045142641843875840"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2045142653311095212",
+    "created_at": "2026-04-17T14:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045142653311095212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQGF9l00RI",
+          "end": 23,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2045142653311095212/photo/1",
+          "media_key": "3_2045142641843875840",
+          "start": 0,
+          "url": "https://t.co/xQGF9l00RI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045142653311095212",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xQGF9l00RI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2045142641843875840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHOZaobsAANj97.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045142641843875840"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2045142653311095212",
+        "created_at": "2026-04-17T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045142653311095212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQGF9l00RI",
+              "end": 23,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2045142653311095212/photo/1",
+              "media_key": "3_2045142641843875840",
+              "start": 0,
+              "url": "https://t.co/xQGF9l00RI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142653311095212",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xQGF9l00RI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale\n里账：@ailithcaeron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ailithcaeron"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 240,
+          "like_count": 10004,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2098
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      }
+    ]
+  }
+}

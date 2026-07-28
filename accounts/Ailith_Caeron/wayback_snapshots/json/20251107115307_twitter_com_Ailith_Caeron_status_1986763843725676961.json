@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986756603098632407",
+    "created_at": "2025-11-07T11:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986763843725676961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986763843725676961",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986756603098632407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 宝宝……🫂🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986756588049436672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jgly3akAAArpb.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986756588036857857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jgly0aoAEi2O1.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986756603098632407",
+        "created_at": "2025-11-07T11:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986763843725676961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986763843725676961",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986756603098632407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 宝宝……🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986756588049436672",
+            "3_1986756588036857857"
+          ]
+        },
+        "author_id": "1979568208530321408",
+        "conversation_id": "1986756603098632407",
+        "created_at": "2025-11-07T11:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986756603098632407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lutiCaXxt1",
+              "end": 25,
+              "expanded_url": "https://x.com/Nal_in00/status/1986756603098632407/photo/1",
+              "media_key": "3_1986756588049436672",
+              "start": 2,
+              "url": "https://t.co/lutiCaXxt1"
+            },
+            {
+              "display_url": "pic.x.com/lutiCaXxt1",
+              "end": 25,
+              "expanded_url": "https://x.com/Nal_in00/status/1986756603098632407/photo/1",
+              "media_key": "3_1986756588036857857",
+              "start": 2,
+              "url": "https://t.co/lutiCaXxt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986756603098632407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "行 https://t.co/lutiCaXxt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 82,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 71
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "不是你想的那个人 别猜了",
+        "id": "1979568208530321408",
+        "location": "天行市",
+        "name": "你活着干啥",
+        "pinned_tweet_id": "1984729168719028394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983887005508628480/OHWXhyVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 53,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 652
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

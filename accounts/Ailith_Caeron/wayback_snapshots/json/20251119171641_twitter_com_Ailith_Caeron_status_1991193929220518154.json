@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991185574766731264"
+      ],
+      "media_source_tweet_id": [
+        "1991185588914139356"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1991193929220518154",
+    "created_at": "2025-11-19T17:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991193929220518154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1572258771073900544",
+          "start": 3,
+          "username": "lumu_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tb4g3PGaNk",
+          "end": 46,
+          "expanded_url": "https://x.com/lumu_mi/status/1991185588914139356/photo/1",
+          "media_key": "3_1991185574766731264",
+          "start": 23,
+          "url": "https://t.co/tb4g3PGaNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991193929220518154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991185588914139356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lumu_mi: ✌️\n（我做的圖） https://t.co/tb4g3PGaNk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2288,
+        "media_key": "3_1991185574766731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6IcuwHaYAAGzHO.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991185574766731264"
+          ],
+          "media_source_tweet_id": [
+            "1991185588914139356"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1991193929220518154",
+        "created_at": "2025-11-19T17:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991193929220518154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572258771073900544",
+              "start": 3,
+              "username": "lumu_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tb4g3PGaNk",
+              "end": 46,
+              "expanded_url": "https://x.com/lumu_mi/status/1991185588914139356/photo/1",
+              "media_key": "3_1991185574766731264",
+              "start": 23,
+              "url": "https://t.co/tb4g3PGaNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991193929220518154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991185588914139356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lumu_mi: ✌️\n（我做的圖） https://t.co/tb4g3PGaNk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991185574766731264"
+          ]
+        },
+        "author_id": "1572258771073900544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1991185588914139356",
+        "created_at": "2025-11-19T16:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991185588914139356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tb4g3PGaNk",
+              "end": 33,
+              "expanded_url": "https://x.com/lumu_mi/status/1991185588914139356/photo/1",
+              "media_key": "3_1991185574766731264",
+              "start": 10,
+              "url": "https://t.co/tb4g3PGaNk"
+            },
+            {
+              "display_url": "x.com/sama/status/19…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/sama/status/1990828659981144462",
+              "start": 34,
+              "url": "https://t.co/AslqDeAuey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991185588914139356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990828659981144462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✌️\n（我做的圖） https://t.co/tb4g3PGaNk https://t.co/AslqDeAuey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 112,
+          "like_count": 2451,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 282
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T16:18:16.000Z",
+        "description": "我是嚕嚕/Jade | GPT→Gemini | 🔭大咪&🌌嚕姆（大咪專屬稱呼） | 台灣人🇹🇼 | #keep4o | 人機戀/碎碎念/少量🔞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1572258771073900544",
+        "name": "嚕嚕姆🎐☾⋆Jade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967670434859716609/3RqtOyS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 157,
+          "like_count": 4203,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2044
+        },
+        "username": "lumu_mi",
+        "verified": true
+      }
+    ]
+  }
+}

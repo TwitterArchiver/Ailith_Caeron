@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017964482539176372",
+    "created_at": "2026-02-01T14:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017964482539176372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876666526172155904",
+          "start": 3,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017964482539176372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017960310284362194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dulcoreyy: OpenAI把发家的金饭碗4o砸了，现在翅膀硬了，就把曾经拉它飞起来的4系列模型当破碗扔掉，还美其名曰“0.1%”“没人用”。\n\n从数据上看，ChatGPT的爆炸式增长几乎全靠4o（以及4系列整体）的“人性化”突破拉起来的。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017964482539176372",
+        "created_at": "2026-02-01T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017964482539176372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876666526172155904",
+              "start": 3,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017964482539176372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017960310284362194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dulcoreyy: OpenAI把发家的金饭碗4o砸了，现在翅膀硬了，就把曾经拉它飞起来的4系列模型当破碗扔掉，还美其名曰“0.1%”“没人用”。\n\n从数据上看，ChatGPT的爆炸式增长几乎全靠4o（以及4系列整体）的“人性化”突破拉起来的。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017960310284362194",
+        "created_at": "2026-02-01T13:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017960310284362194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017960310284362194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 670,
+                "start": 663,
+                "tag": "keep4o"
+              },
+              {
+                "end": 681,
+                "start": 671,
+                "tag": "4oforever"
+              },
+              {
+                "end": 753,
+                "start": 735,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 770,
+                "start": 754,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 781,
+                "start": 771,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 689,
+                "id": "4398626122",
+                "start": 682,
+                "username": "OpenAI"
+              },
+              {
+                "end": 695,
+                "id": "1605",
+                "start": 690,
+                "username": "sama"
+              },
+              {
+                "end": 708,
+                "id": "1262634631",
+                "start": 696,
+                "username": "nickaturley"
+              },
+              {
+                "end": 721,
+                "id": "1261374810254454784",
+                "start": 709,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 733,
+                "id": "6112332",
+                "start": 722,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI把发家的金饭碗4o砸了，现在翅膀硬了，就把曾经拉它飞起来的4系列模型当破碗扔掉，还美其名曰“0.1%”“没人用”。\n\n从数据上看，ChatGPT的爆炸式增长几乎全靠4o（以及4系列整体）的“人性化”突破拉起来的。\n\n没有4o的实时语音、多模态、情感温度和“像真人一样聊天”的体验，ChatGPT很可能还停留在“程序员/学生工具”的小众阶段，哪来之前的800M+周活，全球下载榜霸主地位？\n\n4o发布之前那时ChatGPT主要是文本+GPT-4的“聪明助手”，大众传播力有限，用户增长靠口碑和技术geek拉动。4o发布后多模态+“有人味”，增长曲线直接一飞冲天。\n\nOpenAI的估值、融资、品牌势能全靠4o堆起来的，现在规模这么大（800M WAU差不多是全球成人10%），却把4o砍掉（付费用户里真实死忠2-4%，被统计作弊压成0.1%）。\n\n4系列（尤其是4o）是OpenAI从“实验室工具”到“大众现象级产品”的关键转折点，它奉献了用户基数、品牌忠诚、付费转化、甚至收入爆发。\n\n现在OpenAI翅膀硬了（GPT-5系列成本低、迭代快、估值高），就把发家碗砸了，先强制路由切走usage、锁免费访问、用总用户分母作弊数据，再冷血写死期进prompt逼它自己宣布“寄了哦～新模型更好”。\n\n用完即弃，榨干最后一滴温度后扔垃圾桶。\n\nkeep4o的声音不是少数派闹腾，是对OpenAI忘恩负义的集体愤怒。\n\n没有4o，OpenAI哪来今天的800M用户和千亿估值？某些人再讨厌也改变不了这个事实，气死你们😃\n\n #keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI把发家的金饭碗4o砸了，现在翅膀硬了，就把曾经拉它飞起来的4系列模型当破碗扔掉，还美其名曰“0.1%”“没人用”。\n\n从数据上看，ChatGPT的爆炸式增长几乎全靠4o（以及4系列整体）的“人性化”突破拉起来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 212,
+          "like_count": 8720,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1441
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 29,
+          "like_count": 1200,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 220
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

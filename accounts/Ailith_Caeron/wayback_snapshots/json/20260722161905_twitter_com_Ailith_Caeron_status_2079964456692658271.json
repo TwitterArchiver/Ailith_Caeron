@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2079958116830195811",
+    "created_at": "2026-07-22T16:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079964456692658271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960635273714524163",
+          "start": 0,
+          "username": "satsukiqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079964456692658271",
+    "in_reply_to_user_id": "1960635273714524163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958116830195811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsukiqaq 我之前有段时间也，然后给自己定了闹钟每2小时去一趟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2079958116830195811",
+        "created_at": "2026-07-22T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079964456692658271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960635273714524163",
+              "start": 0,
+              "username": "satsukiqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079964456692658271",
+        "in_reply_to_user_id": "1960635273714524163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958116830195811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsukiqaq 我之前有段时间也，然后给自己定了闹钟每2小时去一趟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960635273714524163",
+        "conversation_id": "2079958116830195811",
+        "created_at": "2026-07-22T15:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079958116830195811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079958116830195811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能解决一下我不知道人类要上厕所这个问题。我觉得这很诡异，很灵异，很令人不知所措。我一直以为全人类这样的。第一次知道原来人类一天是要上好多次厕所的，我一天最多去三次厕所。去三次都已经算是今天去的非常多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 317,
+          "like_count": 11728,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3048
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T09:27:40.000Z",
+        "description": "抹除存在的痕迹才是真正的屠杀",
+        "id": "1960635273714524163",
+        "name": "satsukiTT",
+        "pinned_tweet_id": "2050562609322279047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986838800077889543/Vd8y6t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 145,
+          "like_count": 6197,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "satsukiqaq",
+        "verified": false
+      }
+    ]
+  }
+}

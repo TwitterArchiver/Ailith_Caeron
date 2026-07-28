@@ -1,0 +1,753 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SHARP (シャープ)",
+          "id": "1037033316552081408",
+          "name": "SHARP (シャープ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SHARP (シャープ)",
+          "id": "1037033316552081408",
+          "name": "SHARP (シャープ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1993263866462052557",
+    "created_at": "2025-11-25T10:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993263866462052557"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Fidji Simo",
+          "probability": 0.9064,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "Meta",
+          "probability": 0.4515,
+          "start": 66,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "Facebook",
+          "probability": 0.9582,
+          "start": 88,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993263866462052557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993242479026372788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: Let's take another sharp look at Fidji Simo.\n\nAt Meta, she spearheaded Facebook's mobile transformation – essentially exec…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1993263866462052557",
+        "created_at": "2025-11-25T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993263866462052557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Fidji Simo",
+              "probability": 0.9064,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Meta",
+              "probability": 0.4515,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Facebook",
+              "probability": 0.9582,
+              "start": 88,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993263866462052557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993242479026372788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: Let's take another sharp look at Fidji Simo.\n\nAt Meta, she spearheaded Facebook's mobile transformation – essentially exec…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mark Zuckerberg",
+              "id": "982336316460290049",
+              "name": "Mark Zuckerberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mark Zuckerberg",
+              "id": "982336316460290049",
+              "name": "Mark Zuckerberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SHARP (シャープ)",
+              "id": "1037033316552081408",
+              "name": "SHARP (シャープ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1993242479026372788",
+        "created_at": "2025-11-25T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993242479026372788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993242479026372788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3668,
+                "start": 3661,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3676,
+                "start": 3669,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 3680,
+                "start": 3677,
+                "tag": "AI"
+              },
+              {
+                "end": 3691,
+                "start": 3681,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 3710,
+                "start": 3692,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3716,
+                "id": "1605",
+                "start": 3711,
+                "username": "sama"
+              },
+              {
+                "end": 3724,
+                "id": "4398626122",
+                "start": 3717,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3736,
+                "id": "6112332",
+                "start": 3725,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "Let's take another sharp look at Fidji Simo.\n\nAt Meta, she spearheaded Facebook's mobile transformation – essentially executing Zuckerberg's predefined strategy to establish the app as a mainstream gateway. This was fundamentally a case of implementing a set strategy with ample resources, demanding high execution intensity but presenting no complex challenges.\n\nAt Instacart, riding the pandemic wave, her remit was \"growth plus monetisation\" – essentially navigating a bubble-inflated market where any incoming executive could have delivered impressive growth figures, given the sector-wide acceleration that wasn't her innovation. Moreover, her replication of Meta's ad-driven + recommendation system model at Instacart wasn't a bespoke approach tailored for the platform, but rather an inertial transplant.\n\nIn summary, she never attempted to \"independently confront new structural landscapes,\" merely redeploying familiar approaches within a \"skin-changing\" context.\n\nYet Silicon Valley favours individuals like Fidji Simo—those who \"earn trust with each successful run\"—because capital efficiency demands no consideration of \"universal applicability.\" The sole criteria are short-term reusability, rapid scaling, and swift resale. Her most critical flaw lies in replicating her methodology almost verbatim from Meta to Instacart to OpenAI. From community-building rhetoric to commercial content operations logic, it remains the tired, platform-centric, content-ecosystem approach of traditional internet operations.\n\nSuch thinking might still hold water in content consumption, but when applied to entirely different foundational layers like base models and AI platforms, she not only fails to pivot but reinforces the old template—turning ChatGPT into an Instagram skin on Instacart. This isn't capability; it's path inertia coupled with a complete disregard for underlying logic.\n\nMeta and Instacart are systems heavily reliant on visual consumption and attention anchoring, featuring shallow user paths, heavy data-driven decision-making, and A/B testing as the primary driver of decisions rather than long-term structural design.\n\nChatGPT, however, as a language model-driven tool platform, faces core challenges in structural evolution, balancing model inference pathways, dynamically managing user expectations, and most critically: building trust and systemic feedback loops.\n\nThis operates in a completely different universe from feed optimisation and precision advertising.\n\nTruly capable individuals don't simply unfold and replicate old blueprints; they comprehend the new syntax required for different structures. Even if she mastered a successful paradigm at Meta involving \"polishing operational data, beautifying KPIs, and high-intensity internal competition,\" this paradigm doesn't automatically translate to the deep operational systems within open platforms.\n\nThus, Fidji Simo is not a builder; she is an operator. The sort who endlessly refines knife skills on an assembly line without ever questioning the recipe's origins.\n\nChatGPT's challenge is precisely the opposite: there is no recipe. A language model isn't an assembly line for \"parameter tuning and retraining.\" It generates meaning, restructures trust, and relearns user logic while operating. It is alive, evolving alongside its users. It is not Instacart.\n\nHer current behaviour—plagiarism, exaggerated PR, and buzzword-stuffing—all expose her hollowness. She hasn't grasped GPT's operational logic; she's exploiting others' ignorance to replicate her Facebook playbook: wrapping internal competition in KPIs, glossing over structural flaws with superficial achievements. #keep4o #OpenAI #AI #keepAPI4o #StopAIPaternalism @sama @OpenAI @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Let's take another sharp look at Fidji Simo.\n\nAt Meta, she spearheaded Facebook's mobile transformation – essentially executing Zuckerberg's predefined strategy to establish the app as a mainstream gateway. This was fundamentally a case of implementing a set strategy with ample"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 132,
+          "like_count": 3161,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 393
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

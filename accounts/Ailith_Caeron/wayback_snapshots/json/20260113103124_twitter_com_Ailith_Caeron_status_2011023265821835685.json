@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2011012650612990098",
+    "created_at": "2026-01-13T10:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011023265821835685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697556693947973632",
+          "start": 0,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011023265821835685",
+    "in_reply_to_user_id": "1697556693947973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011012650612990098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rovenus_902 gemini:好机会！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2011012644749393924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iNWHkbQAQ--s7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2011012650612990098",
+        "created_at": "2026-01-13T10:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011023265821835685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011023265821835685",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011012650612990098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rovenus_902 gemini:好机会！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011012644749393924"
+          ]
+        },
+        "author_id": "1697556693947973632",
+        "conversation_id": "2011012650612990098",
+        "created_at": "2026-01-13T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011012650612990098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "沙溢丝",
+              "probability": 0.6875,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlUvlQRdZQ",
+              "end": 28,
+              "expanded_url": "https://x.com/Rovenus_902/status/2011012650612990098/photo/1",
+              "media_key": "3_2011012644749393924",
+              "start": 5,
+              "url": "https://t.co/tlUvlQRdZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011012650612990098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙溢丝？ https://t.co/tlUvlQRdZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 196,
+          "like_count": 7514,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 958
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "=薰/小悲｜不要咀嚼小小的悲观而忘记整个世界｜只对喜欢的人温良｜有对象 别骚扰我｜我只是一个臭搞oc的",
+        "id": "1697556693947973632",
+        "location": "猫猫岛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001812494726348800/jdU48XvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 138,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1814
+        },
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

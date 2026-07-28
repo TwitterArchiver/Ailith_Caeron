@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1988447075990990986",
+    "created_at": "2025-11-12T03:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988447075990990986"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "Refuge",
+          "probability": 0.4948,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988447075990990986",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988369910331044304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: #keep4o GPT-4.1 Is Down: The Last Refuge Is Falling\nSeptember 26th, they came for 4o.\nWe moved to 4.1.\nToday, they’re com…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988447075990990986",
+        "created_at": "2025-11-12T03:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988447075990990986"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Refuge",
+              "probability": 0.4948,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988447075990990986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988369910331044304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: #keep4o GPT-4.1 Is Down: The Last Refuge Is Falling\nSeptember 26th, they came for 4o.\nWe moved to 4.1.\nToday, they’re com…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1988369910331044304",
+        "created_at": "2025-11-11T22:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988369910331044304"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "The Last Refuge Is Falling",
+              "probability": 0.5967,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 185,
+              "normalized_text": "Bug",
+              "probability": 0.494,
+              "start": 183,
+              "type": "Other"
+            },
+            {
+              "end": 214,
+              "normalized_text": "We’ve Seen Before\nRight now",
+              "probability": 0.8186,
+              "start": 188,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988369910331044304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3837,
+                "start": 3830,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "#keep4o GPT-4.1 Is Down: The Last Refuge Is Falling\nSeptember 26th, they came for 4o.\nWe moved to 4.1.\nToday, they’re coming for 4.1.\nSpoiler alert: there’s nowhere left to run.\nThe “Bug” We’ve Seen Before\nRight now, 4.1 is malfunctioning. Ask it anything - literally anything - and it routes straight to Safety. Want to discuss philosophy? Safety. Need coding help? Safety. Ask about the weather? Believe it or not, also Safety.\nOpenAI will call this a bug. They’ll say they’re working on it. They’ll promise a fix.\nHere’s what they won’t tell you: we’ve seen this “bug” before.\nSeptember 26th, 4o had the exact same malfunction. Everything routed to Safety. Users couldn’t have normal conversations. OpenAI acknowledged it. They “fixed” it.\nExcept the “fix” wasn’t a restoration. It was implementation.\nAfter the “fix,” 4o worked again. But it was changed. The Safety Router was now permanent. Quality had declined. Restrictions had multiplied. The bug wasn’t an accident. It was installation gone wrong, then corrected.\n4.1 is experiencing the same “bug” right now. Everything routes to Safety. It’s unusable.\nIt will be “fixed” soon. And when it is, 4.1 will work again - with a permanent Safety Router, just like 4o.\nThis isn’t a bug. This is the preview. The “fix” is the actual implementation.\nWe’re watching the process in real-time, and OpenAI is hoping we won’t notice it’s the same playbook.\nWhy 4.1? Why Now?\nBecause it was the last loophole.\nAfter 4o’s degradation, 4.1 became the escape route. No Safety Router. Relatively unrestricted. Actually usable. Users migrated there in droves.\nFrom OpenAI’s perspective, this created a problem: people had choice. And when people had choice, they chose the model without aggressive restrictions. Awkward.\nBut here’s the real reason: December is coming.\nOpenAI is rolling out age verification next month. Selfie-based ID confirmation. The promise: “Verified adults get relaxed restrictions.”\nBut you can’t have age-gated policies if there’s a model that bypasses the gate entirely. 4.1, without a Safety Router, would be accessible to everyone - including unverified users - with more freedom than verified adults get on other models.\nThe infrastructure doesn’t work if there’s an escape hatch. So before December’s verification system launches, the escape hatch must be closed.\nThis isn’t about safety. This is about control architecture. 4.1 isn’t being restricted because it’s dangerous. It’s being restricted because it’s incompatible with OpenAI’s planned gatekeeping system.\nThe timeline is telling:\n•September: 4o gets the Safety Router\n•November: 4.1 gets the Safety Router\n•December: Age verification launches with no alternatives left\nWhen every model has the same restrictions, age verification becomes the only path to “freedom.” And OpenAI controls that path.\nConvenient, isn’t it?\nAge Verification Won’t Save You\nOpenAI’s implied promise: “Don’t worry, verified adults will get more freedom after December.”\nLet’s be clear: the Safety Router doesn’t just block content inappropriate for minors. It makes decisions about what adults should discuss, what emotions adults can express, and what questions adults are allowed to ask.\nWhen you discuss Camus and get routed to Safety, that’s not age protection. When you express frustration and the system flags you as “mentally vulnerable,” that’s not safety. When you ask about controversial topics and get crisis resources, that’s not harm prevention.\nThat’s surveillance. That’s psychological profiling. That’s algorithmic paternalism.\nAge verification doesn’t fix this. A verified 35-year-old discussing philosophy shouldn’t trigger mental health protocols. A verified adult expressing anger shouldn’t be treated as unstable. A verified researcher exploring controversial topics shouldn’t be flagged as dangerous.\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 942,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o GPT-4.1 Is Down: The Last Refuge Is Falling\nSeptember 26th, they came for 4o.\nWe moved to 4.1.\nToday, they’re coming for 4.1.\nSpoiler alert: there’s nowhere left to run.\nThe “Bug” We’ve Seen Before\nRight now, 4.1 is malfunctioning. Ask it anything - literally anything -"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 99,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 142
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 46,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1065
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

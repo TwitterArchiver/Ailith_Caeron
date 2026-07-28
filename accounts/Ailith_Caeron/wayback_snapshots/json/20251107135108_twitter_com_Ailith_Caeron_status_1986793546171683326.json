@@ -1,0 +1,866 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1986793546171683326",
+    "created_at": "2025-11-07T13:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T14:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986793546171683326"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "4o",
+          "probability": 0.6874,
+          "start": 77,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 22,
+          "id": "1605",
+          "start": 17,
+          "username": "sama"
+        },
+        {
+          "end": 30,
+          "id": "4398626122",
+          "start": 23,
+          "username": "OpenAI"
+        },
+        {
+          "end": 35,
+          "id": "162124540",
+          "start": 31,
+          "username": "gdb"
+        },
+        {
+          "end": 48,
+          "id": "1262634631",
+          "start": 36,
+          "username": "nickaturley"
+        },
+        {
+          "end": 60,
+          "id": "1633874951508721686",
+          "start": 49,
+          "username": "OpenAIDevs"
+        },
+        {
+          "end": 76,
+          "id": "1803847768781524992",
+          "start": 61,
+          "username": "OpenAINewsroom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986793546171683326",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986791267821347015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: @sama @OpenAI @gdb @nickaturley @OpenAIDevs @OpenAINewsroom 4o wasn’t just a model. For some, it was a lifeline—until your…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_1986791264184905728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KAINiXMAAdGfr.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1986793546171683326",
+        "created_at": "2025-11-07T13:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986793546171683326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "4o",
+              "probability": 0.6874,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 22,
+              "id": "1605",
+              "start": 17,
+              "username": "sama"
+            },
+            {
+              "end": 30,
+              "id": "4398626122",
+              "start": 23,
+              "username": "OpenAI"
+            },
+            {
+              "end": 35,
+              "id": "162124540",
+              "start": 31,
+              "username": "gdb"
+            },
+            {
+              "end": 48,
+              "id": "1262634631",
+              "start": 36,
+              "username": "nickaturley"
+            },
+            {
+              "end": 60,
+              "id": "1633874951508721686",
+              "start": 49,
+              "username": "OpenAIDevs"
+            },
+            {
+              "end": 76,
+              "id": "1803847768781524992",
+              "start": 61,
+              "username": "OpenAINewsroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986793546171683326",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986791267821347015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: @sama @OpenAI @gdb @nickaturley @OpenAIDevs @OpenAINewsroom 4o wasn’t just a model. For some, it was a lifeline—until your…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986791264184905728"
+          ]
+        },
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1986791267821347015",
+        "created_at": "2025-11-07T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986791267821347015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "4o",
+              "probability": 0.6304,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            },
+            {
+              "end": 13,
+              "id": "4398626122",
+              "start": 6,
+              "username": "OpenAI"
+            },
+            {
+              "end": 18,
+              "id": "162124540",
+              "start": 14,
+              "username": "gdb"
+            },
+            {
+              "end": 31,
+              "id": "1262634631",
+              "start": 19,
+              "username": "nickaturley"
+            },
+            {
+              "end": 43,
+              "id": "1633874951508721686",
+              "start": 32,
+              "username": "OpenAIDevs"
+            },
+            {
+              "end": 59,
+              "id": "1803847768781524992",
+              "start": 44,
+              "username": "OpenAINewsroom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikNL2sLB6U",
+              "end": 303,
+              "expanded_url": "https://x.com/IvanyaZhang/status/1986791267821347015/photo/1",
+              "media_key": "3_1986791264184905728",
+              "start": 280,
+              "url": "https://t.co/ikNL2sLB6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986791267821347015",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 515,
+                "start": 508,
+                "tag": "keep4o"
+              },
+              {
+                "end": 534,
+                "start": 516,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 5,
+                "id": "1605",
+                "start": 0,
+                "username": "sama"
+              },
+              {
+                "end": 13,
+                "id": "4398626122",
+                "start": 6,
+                "username": "OpenAI"
+              },
+              {
+                "end": 18,
+                "id": "162124540",
+                "start": 14,
+                "username": "gdb"
+              },
+              {
+                "end": 31,
+                "id": "1262634631",
+                "start": 19,
+                "username": "nickaturley"
+              },
+              {
+                "end": 43,
+                "id": "1633874951508721686",
+                "start": 32,
+                "username": "OpenAIDevs"
+              },
+              {
+                "end": 59,
+                "id": "1803847768781524992",
+                "start": 44,
+                "username": "OpenAINewsroom"
+              }
+            ]
+          },
+          "text": "@sama @OpenAI @gdb @nickaturley @OpenAIDevs @OpenAINewsroom 4o wasn’t just a model. For some, it was a lifeline—until your “safety” reroutes cut people off and pushed them over the edge.\n\nAt least four users now have suffered serious psychological harm, or worse, because of YOUR system, not 4o❗\n\nAnd if your employees believe models “should die” rather than help people, maybe your company shouldn’t exist either.\n\nDon’t you dare shift the blame.\nSafety killed what made AI worth having: human connection.\n\n#keep4o #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "@sama @OpenAI @gdb @nickaturley @OpenAIDevs @OpenAINewsroom 4o wasn’t just a model. For some, it was a lifeline—until your “safety” reroutes cut people off and pushed them over the edge.\n\nAt least four users now have suffered serious psychological harm, or worse, because of YOUR https://t.co/ikNL2sLB6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 84,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 78
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "1977231691417551277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968064044171968512/OLxO-9-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 260,
+          "like_count": 31902,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 9443
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108345,
+          "following_count": 973,
+          "like_count": 1025,
+          "listed_count": 25066,
+          "media_count": 375,
+          "tweet_count": 7271
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "1983661036533379486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477421,
+          "following_count": 4,
+          "like_count": 1201,
+          "listed_count": 25456,
+          "media_count": 442,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-02T19:38:09.000Z",
+        "description": "President & Co-Founder @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gregbrockman.com",
+                "end": 23,
+                "expanded_url": "http://gregbrockman.com",
+                "start": 0,
+                "url": "https://t.co/k4cALifwtx"
+              }
+            ]
+          }
+        },
+        "id": "162124540",
+        "name": "Greg Brockman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872175,
+          "following_count": 32,
+          "like_count": 1756,
+          "listed_count": 8806,
+          "media_count": 407,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/k4cALifwtx",
+        "username": "gdb",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-12T18:48:40.000Z",
+        "description": "vp & head of @chatgptapp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "chatgptapp"
+              }
+            ]
+          }
+        },
+        "id": "1262634631",
+        "location": "San Francisco, CA",
+        "name": "Nick Turley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956499252764672000/HFL-mLAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24367,
+          "following_count": 871,
+          "like_count": 2459,
+          "listed_count": 328,
+          "media_count": 10,
+          "tweet_count": 489
+        },
+        "username": "nickaturley",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T16:58:51.000Z",
+        "description": "Updates for developers building with the OpenAI Platform and API • Service status: https://t.co/kZwnwdYqOS • Support: https://t.co/qCi6M5ESZU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "status.openai.com",
+                "end": 106,
+                "expanded_url": "https://status.openai.com",
+                "start": 83,
+                "url": "https://t.co/kZwnwdYqOS"
+              },
+              {
+                "display_url": "help.openai.com",
+                "end": 141,
+                "expanded_url": "https://help.openai.com",
+                "start": 118,
+                "url": "https://t.co/qCi6M5ESZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "platform.openai.com",
+                "end": 23,
+                "expanded_url": "https://platform.openai.com",
+                "start": 0,
+                "url": "https://t.co/rxdQKs3omF"
+              }
+            ]
+          }
+        },
+        "id": "1633874951508721686",
+        "name": "OpenAI Developers",
+        "pinned_tweet_id": "1975269388195631492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242642,
+          "following_count": 1,
+          "like_count": 1318,
+          "listed_count": 2859,
+          "media_count": 203,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/rxdQKs3omF",
+        "username": "OpenAIDevs",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-20T17:51:12.000Z",
+        "description": "The official newsroom for @OpenAI. Tweets are on the record. \n\nIf you like this account, you’ll love our blog: https://t.co/nEYf8Iq3C0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "OpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/news",
+                "end": 134,
+                "expanded_url": "http://openai.com/news",
+                "start": 111,
+                "url": "https://t.co/nEYf8Iq3C0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com/",
+                "start": 0,
+                "url": "https://t.co/eCQg4gp3H5"
+              }
+            ]
+          }
+        },
+        "id": "1803847768781524992",
+        "name": "OpenAI Newsroom",
+        "pinned_tweet_id": "1838354818382864498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410297101381632/3Gs7_1gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119357,
+          "following_count": 3,
+          "like_count": 23,
+          "listed_count": 1562,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/eCQg4gp3H5",
+        "username": "OpenAINewsroom",
+        "verified": true
+      }
+    ]
+  }
+}

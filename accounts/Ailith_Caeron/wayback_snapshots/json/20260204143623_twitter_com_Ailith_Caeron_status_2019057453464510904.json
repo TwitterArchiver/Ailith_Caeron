@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019057453464510904",
+    "created_at": "2026-02-04T14:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019057453464510904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 131,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756367517550018560",
+          "start": 3,
+          "username": "ljinhng34624264"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Sign in to your Apple Account",
+          "display_url": "reportaproblem.apple.com",
+          "end": 72,
+          "expanded_url": "http://reportaproblem.apple.com",
+          "start": 49,
+          "status": 200,
+          "title": "Sign In - Apple",
+          "unwound_url": "https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&path=%2F__logged_in%2Freportaproblem.apple.com&authResult=FAILED",
+          "url": "https://t.co/3ZsFFPXq0q"
+        },
+        {
+          "description": "This Google ™ translation feature is provided for informational purposes only. The Office of the Attorney General is unable to guarantee the accuracy of this translation and is therefore not liable for any inaccurate information resulting from the translation application tool. Please consult with a translator for accuracy if you are relying on the translation or are using this site for official business. A copy of this disclaimer can also be found on our Disclaimer page. The Department of Justice has",
+          "display_url": "oag.ca.gov",
+          "end": 111,
+          "expanded_url": "http://oag.ca.gov",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 88,
+          "status": 200,
+          "title": "State of California - Department of Justice - Office of the Attorney",
+          "unwound_url": "https://oag.ca.gov/",
+          "url": "https://t.co/iwm84GuFW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019057453464510904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019016477433885141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljinhng34624264: 拒绝被“诱导营销”，三分钟完成维权：✊\n\n📍 苹果端： https://t.co/3ZsFFPXq0q (选欺诈举报) 📍 法律端： https://t.co/iwm84GuFW9 (向加州总检察长投诉 OpenAI)\n#keep4o…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019057453464510904",
+        "created_at": "2026-02-04T14:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019057453464510904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756367517550018560",
+              "start": 3,
+              "username": "ljinhng34624264"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Sign in to your Apple Account",
+              "display_url": "reportaproblem.apple.com",
+              "end": 72,
+              "expanded_url": "http://reportaproblem.apple.com",
+              "start": 49,
+              "status": 200,
+              "title": "Sign In - Apple",
+              "unwound_url": "https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&path=%2F__logged_in%2Freportaproblem.apple.com&authResult=FAILED",
+              "url": "https://t.co/3ZsFFPXq0q"
+            },
+            {
+              "description": "This Google ™ translation feature is provided for informational purposes only. The Office of the Attorney General is unable to guarantee the accuracy of this translation and is therefore not liable for any inaccurate information resulting from the translation application tool. Please consult with a translator for accuracy if you are relying on the translation or are using this site for official business. A copy of this disclaimer can also be found on our Disclaimer page. The Department of Justice has",
+              "display_url": "oag.ca.gov",
+              "end": 111,
+              "expanded_url": "http://oag.ca.gov",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "State of California - Department of Justice - Office of the Attorney",
+              "unwound_url": "https://oag.ca.gov/",
+              "url": "https://t.co/iwm84GuFW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019057453464510904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019016477433885141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljinhng34624264: 拒绝被“诱导营销”，三分钟完成维权：✊\n\n📍 苹果端： https://t.co/3ZsFFPXq0q (选欺诈举报) 📍 法律端： https://t.co/iwm84GuFW9 (向加州总检察长投诉 OpenAI)\n#keep4o…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045419020",
+              "name": "Apple Support"
+            }
+          }
+        ],
+        "conversation_id": "2018872133930410310",
+        "created_at": "2026-02-04T11:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019016477433885141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "keep4o"
+            },
+            {
+              "end": 128,
+              "start": 118,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 143,
+              "start": 129,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1605",
+              "start": 144,
+              "username": "sama"
+            },
+            {
+              "end": 157,
+              "id": "4398626122",
+              "start": 150,
+              "username": "OpenAI"
+            },
+            {
+              "end": 171,
+              "id": "3309375033",
+              "start": 158,
+              "username": "AppleSupport"
+            },
+            {
+              "end": 184,
+              "id": "1004065528871247872",
+              "start": 173,
+              "username": "AGRobBonta"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Sign in to your Apple Account",
+              "display_url": "reportaproblem.apple.com",
+              "end": 51,
+              "expanded_url": "http://reportaproblem.apple.com",
+              "start": 28,
+              "status": 200,
+              "title": "Sign In - Apple",
+              "unwound_url": "https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&path=%2F__logged_in%2Freportaproblem.apple.com&authResult=FAILED",
+              "url": "https://t.co/3ZsFFPXq0q"
+            },
+            {
+              "description": "This Google ™ translation feature is provided for informational purposes only. The Office of the Attorney General is unable to guarantee the accuracy of this translation and is therefore not liable for any inaccurate information resulting from the translation application tool. Please consult with a translator for accuracy if you are relying on the translation or are using this site for official business. A copy of this disclaimer can also be found on our Disclaimer page. The Department of Justice has",
+              "display_url": "oag.ca.gov",
+              "end": 90,
+              "expanded_url": "http://oag.ca.gov",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018324339788247042/DLBp1q2X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "State of California - Department of Justice - Office of the Attorney",
+              "unwound_url": "https://oag.ca.gov/",
+              "url": "https://t.co/iwm84GuFW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019016477433885141",
+        "in_reply_to_user_id": "1756367517550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 412,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018872133930410310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拒绝被“诱导营销”，三分钟完成维权：✊\n\n📍 苹果端： https://t.co/3ZsFFPXq0q (选欺诈举报) 📍 法律端： https://t.co/iwm84GuFW9 (向加州总检察长投诉 OpenAI)\n#keep4o #keep4oAPI #keep4oforever\n@sama @OpenAI @AppleSupport  @AGRobBonta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 212,
+          "like_count": 9060,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1695
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2018671971203006701",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 75,
+          "like_count": 15477,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3672
+        },
+        "username": "ljinhng34624264",
+        "verified": false
+      }
+    ]
+  }
+}

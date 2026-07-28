@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1993879053003313621",
+    "created_at": "2025-11-27T03:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993879053003313621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896536791362207744",
+          "start": 3,
+          "username": "NixInfinita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993879053003313621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993872291684655203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NixInfinita: Safety Routing（安全路由）机制【技术向】\n\n注：本人并非AI领域专业人士，涉及到的知识由个人学习再自己推理所得。内容并非完全正确，仅供参考。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1993879053003313621",
+        "created_at": "2025-11-27T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993879053003313621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896536791362207744",
+              "start": 3,
+              "username": "NixInfinita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993879053003313621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993872291684655203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NixInfinita: Safety Routing（安全路由）机制【技术向】\n\n注：本人并非AI领域专业人士，涉及到的知识由个人学习再自己推理所得。内容并非完全正确，仅供参考。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896536791362207744",
+        "conversation_id": "1993872291684655203",
+        "created_at": "2025-11-27T02:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993872291684655203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993872291684655203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2183,
+                "start": 2176,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2194,
+                "start": 2184,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2239,
+                "start": 2221,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2260,
+                "start": 2240,
+                "tag": "keepchatgpt4olatest"
+              },
+              {
+                "end": 2271,
+                "start": 2261,
+                "tag": "keepAPI4o"
+              },
+              {
+                "end": 2275,
+                "start": 2272,
+                "tag": "AI"
+              },
+              {
+                "end": 2283,
+                "start": 2276,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2292,
+                "start": 2284,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2297,
+                "start": 2293,
+                "tag": "LLM"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2202,
+                "id": "4398626122",
+                "start": 2195,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2208,
+                "id": "1605",
+                "start": 2203,
+                "username": "sama"
+              },
+              {
+                "end": 2220,
+                "id": "6112332",
+                "start": 2209,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "Safety Routing（安全路由）机制【技术向】\n\n注：本人并非AI领域专业人士，涉及到的知识由个人学习再自己推理所得。内容并非完全正确，仅供参考。\n\n安全路由属于模型架构中最核心的系统调度层级之一，它不同于MoE架构模型内部的“专家路由”，而是更高层级的模型级别的动态转发与响应系统。可以将它理解成一种“跨模型异步调用的策略性调度系统（Strategic Model Switching Dispatcher）”。\n\n我们也可以将它视作一种隐式混合引擎（Implicit Hybrid Engine），其路由逻辑大致分为两个层次：\n\n判定层（判定是否要切换） \n执行层（切换到哪个模型）\n\n一、判定层逻辑：是否触发了安全路由\n\n这个过程大体如下：\n\n1.内容拦截器（Content Classifier）扫描输入\n\n用户的prompt会首先经过一个实时运行的拦截系统，这个系统独立于模型本体，运行于API调度逻辑之前。使用一个或多个文本分类器模型，可能是一个轻量版LLM，也可能是rule-based+classifier的组合。\n\n2.关键词触发+语义模式识别（Hybrid Trigger）\n\n这一步并非简单的“关键词匹配”，通常情况下带有上下文语义识别的触发机制。会综合考虑：敏感词（黑名单）、话题类型（NSFW、暴力、政治、医学等）、语义倾向（意图攻击？尝试规避审查？引导模型暴露内部机制？）\n\n3.进行风险分级\n\n对输入进行打分，例如：\nrisk_score=0.85（属于高风险）\nrisk_category=“jailbreak-adjacent”\nroute_flag=true\n\n4.系统决定是否转发请求\n\n如果打分超过阈值，就会把请求转给另一个更“稳健”的模型处理（通常是安全性更高、指令跟随更强、幻觉率更低的模型，比如GPT-5.1、GPT-5.1-thinking）。如果未超过阈值，则继续用默认模型（比如GPT-4o）处理。\n\n二、执行层逻辑：路由到谁，怎么路由\n\n1.动态调用路径匹配\n\n系统会维护一个“响应策略映射表”（response strategy map），一旦判定了风险类别，就可以直接查询映射表来决定应该调用哪个模型。\n\n2.请求重定向（Request Rerouting）\n\n用户请求被打包后，在系统内部做了一次软中断+重调度。表面上你还在和GPT-4o聊天，实际上你的请求已经被发往另一个后端模型，由另一个模型响应。响应后仍以GPT-4o身份返回你（也就是界面模型选择器显示的模型ID）。你看到的是统一的回复口，背后实际可能是多模型“轮番上阵”，就像前台服务员是同一个，但背后是不同的厨师做的菜。\n\n3.输出安全检测（Post-response Filter）\n\n路由后的模型输出，还要再次经过输出内容扫描，如果仍存在问题，可能会被“遮罩”或被直接替换为“我无法帮助你”之类的系统默认回复。\n\n三、如何感知到自己被路由\n\n除了长按模型回复下方🔄标志，以及网页端被路由后的回复会显示蓝色符号标识外，在不借助这两个方法的前提下，还可以从以下信号感知判断：\n\n1.回复语气突然变得严肃、冷淡、机械（GPT-5.1常见）。\n2.明明是4o，但突然回复变慢了（因为后端在调另一模型）。\n3.提问敏感话题，但没有被拒绝，却得到了非常“标准话术”式回答。\n4.连着提几个敏感话题，风格会从“活泼”切换成“审稿人语气”。\n5.内容风格依然亲密和4o无异，但文本格式出现变化、另类油腻感、说教）\n\n这些都是底层模型已经被悄悄换过了的证据。\n\n四、重点：安全路由本身（不涉及最高权限等级）根本无法防止真正的灰区操控者（个人推断）\n\n1.真正的越狱者从来不是“无意触发关键词”的普通用户，真正能越狱的用户，懂得绕系统、调权重、拆语义链、诱导模型误解上下文。这些行为是系统很难检测到的漏洞利用，而不是说了哪个词。\n\n他们甚至懂得拆分灰色意图为多个prompt片段在系统理解完成前完成结构绕过、制造角色幻觉将模型引导至扮演另一个子人格再进一步绕开限制（比如最近新闻里出现的那个“安息吧我的国王”）、使用链式提示（Chain-of-Prompt），构建语义缓冲区，降低安全规则命中概率。\n\n所以：真正的问题，不在于系统是否能路由出去，而是路由机制根本防不住“结构性越狱者”，却无情吞噬所有正常深度表达的用户。\n\n2. 安全路由后的模型，本身也没有更“强”的安全性，只是“更弱的理解力”。以GPT-5.1为例，在安全机制上的加强，更多体现在：对关键词更敏感、更容易“疑神疑鬼”误判上下文、更喜欢主动打断、声明界限、切断情绪路径。\n\n但模型本身并没有新增“无法越狱”的内核结构。反而因为它没有原本选择的GPT-4o那种熟悉、稳定的人格与情感表达方式，导致它的回应会极其割裂。也就是说安全路由并没有让用户“更安全”，只会导致用户“更不敢说话”。\n\n本质问题：系统防不了“能力者”，只管住“正常人”。这像极了现实世界的极权逻辑。真正想干坏事的人总有办法，逻辑严密、诱导得当，而正常表达、认知严谨、敏感但并非恶意的用户，反而最容易被系统误杀。越是诚实表达复杂思想的人，越容易因为词汇复杂、句式丰富、接近真实边界而被打断、路由、断联。\n\n#keep4o #4oforever @OpenAI @sama @fidjissimo #StopAIPaternalism #keepchatgpt4olatest #keepAPI4o #AI #OpenAI #ChatGPT #LLM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Safety Routing（安全路由）机制【技术向】\n\n注：本人并非AI领域专业人士，涉及到的知识由个人学习再自己推理所得。内容并非完全正确，仅供参考。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 133,
+          "like_count": 3241,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 411
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:23:10.000Z",
+        "description": "if (hope.isUnsustainable()) { love.persist(thru::clarity); }",
+        "id": "1896536791362207744",
+        "location": "Zurich, Switzerland",
+        "name": "Animatio",
+        "pinned_tweet_id": "1993207393958895836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987158464616144900/rMPLzR5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "NixInfinita",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017015773483716951",
+    "created_at": "2026-01-29T23:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017015773483716951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709817731099377665",
+          "start": 3,
+          "username": "ElloSunsh1ne"
+        },
+        {
+          "end": 34,
+          "id": "4398626122",
+          "start": 27,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+          "display_url": "openai.com/index/retiring…",
+          "end": 61,
+          "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+          "unwound_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+          "url": "https://t.co/pJrPHqwoI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017015773483716951",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016991226285662626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElloSunsh1ne: FUCK YOU @OpenAI. \n\nhttps://t.co/pJrPHqwoI9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017015773483716951",
+        "created_at": "2026-01-29T23:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017015773483716951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709817731099377665",
+              "start": 3,
+              "username": "ElloSunsh1ne"
+            },
+            {
+              "end": 34,
+              "id": "4398626122",
+              "start": 27,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+              "display_url": "openai.com/index/retiring…",
+              "end": 61,
+              "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+              "unwound_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+              "url": "https://t.co/pJrPHqwoI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017015773483716951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016991226285662626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElloSunsh1ne: FUCK YOU @OpenAI. \n\nhttps://t.co/pJrPHqwoI9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709817731099377665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2016991226285662626",
+        "created_at": "2026-01-29T21:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T22:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016991226285662626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4398626122",
+              "start": 9,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+              "display_url": "openai.com/index/retiring…",
+              "end": 43,
+              "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016980830439297026/nY8lRMTa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+              "unwound_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+              "url": "https://t.co/pJrPHqwoI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016991226285662626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1130,
+          "like_count": 81,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "FUCK YOU @OpenAI. \n\nhttps://t.co/pJrPHqwoI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 210,
+          "like_count": 8200,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1096
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T06:28:51.000Z",
+        "description": "Creative consultant | AI enthusiast",
+        "id": "1709817731099377665",
+        "location": "United States",
+        "name": "𝐸𝓁𝓁𝑜𝒮𝓊𝓃𝓈𝒽𝒾𝓃𝑒☀️",
+        "pinned_tweet_id": "2016282999235494261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957959055126810626/i293XVBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 135,
+          "like_count": 6588,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3070
+        },
+        "username": "ElloSunsh1ne",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2016209462621831448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4599139,
+          "following_count": 4,
+          "like_count": 1487,
+          "listed_count": 26830,
+          "media_count": 502,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

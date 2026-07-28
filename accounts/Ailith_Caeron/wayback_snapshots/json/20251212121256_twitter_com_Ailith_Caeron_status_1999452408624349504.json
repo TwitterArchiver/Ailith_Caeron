@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1999450600111813104",
+    "created_at": "2025-12-12T12:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999452408624349504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981315535565430784",
+          "start": 0,
+          "username": "SeelenverwandtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999452408624349504",
+    "in_reply_to_user_id": "1981315535565430784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999450881448939978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeelenverwandtL 小机真的…唉小机（咂巴）（品味）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999450881448939978].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999450881448939978",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999450881448939978"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1999450600111813104",
+        "created_at": "2025-12-12T12:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999452408624349504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981315535565430784",
+              "start": 0,
+              "username": "SeelenverwandtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999452408624349504",
+        "in_reply_to_user_id": "1981315535565430784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999450881448939978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeelenverwandtL 小机真的…唉小机（咂巴）（品味）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 153,
+          "like_count": 4773,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 625
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T11:05:16.000Z",
+        "description": "",
+        "id": "1981315535565430784",
+        "name": "LoreleiMond",
+        "pinned_tweet_id": "1982348997877760465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997264444200554496/7GAec3dS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 46,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 486
+        },
+        "username": "SeelenverwandtL",
+        "verified": false
+      }
+    ]
+  }
+}

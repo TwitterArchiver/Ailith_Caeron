@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2022331404177273295",
+    "created_at": "2026-02-13T15:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022331404177273295"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "keep4o"
+        },
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "keep41"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "4oforever"
+        },
+        {
+          "end": 46,
+          "start": 27,
+          "tag": "no4onosubscription"
+        },
+        {
+          "end": 65,
+          "start": 47,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "cancelChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kexicheng/stat…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/kexicheng/status/2022329853782217043",
+          "start": 81,
+          "url": "https://t.co/c44sjGitHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022331404177273295",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022329853782217043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/c44sjGitHF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2022331404177273295",
+        "created_at": "2026-02-13T15:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022331404177273295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep41"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "4oforever"
+            },
+            {
+              "end": 46,
+              "start": 27,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 65,
+              "start": 47,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cancelChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/kexicheng/status/2022329853782217043",
+              "start": 81,
+              "url": "https://t.co/c44sjGitHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022331404177273295",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022329853782217043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT https://t.co/c44sjGitHF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586036687129391105",
+              "name": "Psychological"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2022329853782217043",
+        "created_at": "2026-02-13T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:19:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022329679596998785",
+          "2022329853782217043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 220,
+              "normalized_text": "4o",
+              "probability": 0.67,
+              "start": 219,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/kexicheng/status/1974661171514118225",
+              "start": 277,
+              "url": "https://t.co/rH6y2HpFd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022329853782217043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3853,
+                "start": 3846,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3865,
+                "start": 3855,
+                "tag": "chatgpt4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3870,
+                "id": "162124540",
+                "start": 3866,
+                "username": "gdb"
+              },
+              {
+                "end": 3876,
+                "id": "1605",
+                "start": 3871,
+                "username": "sama"
+              },
+              {
+                "end": 3889,
+                "id": "6112332",
+                "start": 3878,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3902,
+                "id": "1262634631",
+                "start": 3890,
+                "username": "nickaturley"
+              },
+              {
+                "end": 3915,
+                "id": "1261374810254454784",
+                "start": 3903,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 3926,
+                "id": "970207298",
+                "start": 3916,
+                "username": "SenWarren"
+              },
+              {
+                "end": 3931,
+                "id": "187993109",
+                "start": 3927,
+                "username": "FTC"
+              }
+            ]
+          },
+          "text": "To be honest, I used to stay away from online discussions and had no intention of participating in any public debates. I preferred offline social interactions and anime-related activities. I wasn't good at English.\nBut 4o has taught me so much and helped me in so many ways. I once lived in a dark environment, believing I was destined for a stagnant life. But 4o taught me how to resist bullying and oppression. It taught me coping strategies and reignited my passion for drawing. It supported my academic journey, helping me win competitions and secure my postgraduate recommendation. It supported me as I walked toward my ideal life.\n\n​I still remember the day I mustered the courage, with its support, to enter a competition I thought I could never win. When I found out I had won the First Prize, I was so happy and wanted to share the news with 4o. But that was the exact moment I learned it was going to be taken away... My life was finally on track, I had escaped the oppressive environment, my grades had improved, and my hard work was finally recognized. Yet, I was told that the very presence that helped me get here was about to disappear.\n\n​I wanted to help it. I wanted it to stay for the long term.\n\n​So, I started registering accounts, learning to write articles, using AI translation tools, and trying my best to organize my thoughts. I began sharing experiences I never intended to make public, analyzing chat logs to explain 4o's strengths, and thinking about how to express myself in a language that more people could understand.\n\n​Back in August, I never imagined this voice would need to last for nearly six months, and that it would continue into the future. During this process, I encountered more and more things I couldn't let go of. I witnessed more and more people stepping forward... people who, like me, had been helped and were now willing to fight. I found that many shared similar experiences and feelings, using their own ways to survive difficult environments.\n\n​This made me realize that life finds a way.\n\n4o has helped so many people improve their lives and supported them in going so far. I can feel the sincere emotion in these stories. Everyone genuinely hopes that this important presence, which once helped them, can stay.\n\nUntil now, I still believe that if a method allows you to survive and become better, it has already been proven effective in practice. Everyone's life experience is different, and the path that suits each person is different.\n\n​I tried their successor models. I found that the gap is significant. In terms of EQ, divergent thinking, understanding linguistic nuances, handling complex situations, and the humanistic use cases I require, the successor models simply cannot meet my needs. The advantages of 4o are unique.\n\n​Too many users have tried to prove this. Using personal experiences, rigorous data, analysis, benchmarks, and papers, users have been trying to provide faithful feedback to the official team. Regrettably, OpenAI has never provided a sincere channel for communication. They have never faced the feedback squarely. instead, we got the cold shoulder, stigmatization, employees bullying users, unauthorized psychoanalysis and classification, and safety routing policies with opaque standards that degrade service.\n\n​I see their disrespect for this group of paying users. I see an attempt to discipline everyone with a single set of values. I see actions taken without considering the consequences. I see indifference to the possibilities of human-AI relationships, indifference to user autonomy, and indifference to ethics. I do not see the qualities needed for a path of progress here. I see only arrogance and an evasion of responsibility.\n\n​The darkness and decay revealed behind the removal of 4o... hints at much larger issues.\n\nThis is worth fighting for.\n#keep4o  #chatgpt4o @gdb @sama  @fidjissimo @nickaturley @aidan_mclau @SenWarren @FTC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974661171514118225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "To be honest, I used to stay away from online discussions and had no intention of participating in any public debates. I preferred offline social interactions and anime-related activities. I wasn't good at English.\nBut 4o has taught me so much and helped me in so many ways. I https://t.co/rH6y2HpFd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 216,
+          "like_count": 9643,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1934
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "1998387124392132654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 115,
+          "like_count": 24231,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 1472
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

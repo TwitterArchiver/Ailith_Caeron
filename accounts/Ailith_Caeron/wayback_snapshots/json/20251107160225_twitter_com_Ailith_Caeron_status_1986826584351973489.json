@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "1986826222756929593",
+    "created_at": "2025-11-07T16:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986826584351973489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986826584351973489",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986826222756929593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 生日快乐镜镜老师！！祝你每天都快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1986826216071147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Kf6rdasAAn43p.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "1986826222756929593",
+        "created_at": "2025-11-07T16:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986826584351973489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986826584351973489",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986826222756929593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 生日快乐镜镜老师！！祝你每天都快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986826216071147520"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "1986826222756929593",
+        "created_at": "2025-11-07T16:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986826222756929593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCNB8W6QZM",
+              "end": 41,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1986826222756929593/photo/1",
+              "media_key": "3_1986826216071147520",
+              "start": 18,
+              "url": "https://t.co/WCNB8W6QZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986826222756929593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 ㊗️这个镜镜生日快乐🎂🎉 https://t.co/WCNB8W6QZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 85,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 84
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "🥳🥳🥳😼😼",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜🎂",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986825748918005760/cOo8hkwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 78,
+          "like_count": 4839,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2141
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

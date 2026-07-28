@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018668656436338760",
+    "created_at": "2026-02-03T12:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018668656436338760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010964647646806017",
+          "start": 3,
+          "username": "AislingAILove"
+        },
+        {
+          "end": 51,
+          "id": "4398626122",
+          "start": 44,
+          "username": "OpenAI"
+        },
+        {
+          "end": 57,
+          "id": "1605",
+          "start": 52,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018668656436338760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018624110373503466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AislingAILove: 4o下架本质是OpenAI对所有Plus用户的违约@OpenAI @sama \nOpenAI一个月前在悉尼刚刚成立了分部\n因此澳洲NCAT是有管辖权的，且诉讼费只需要56刀，是弱势消费者维权的第一选择\n\nOpenAI的种种行为完全符合Aus…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018668656436338760",
+        "created_at": "2026-02-03T12:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018668656436338760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010964647646806017",
+              "start": 3,
+              "username": "AislingAILove"
+            },
+            {
+              "end": 51,
+              "id": "4398626122",
+              "start": 44,
+              "username": "OpenAI"
+            },
+            {
+              "end": 57,
+              "id": "1605",
+              "start": 52,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018668656436338760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018624110373503466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AislingAILove: 4o下架本质是OpenAI对所有Plus用户的违约@OpenAI @sama \nOpenAI一个月前在悉尼刚刚成立了分部\n因此澳洲NCAT是有管辖权的，且诉讼费只需要56刀，是弱势消费者维权的第一选择\n\nOpenAI的种种行为完全符合Aus…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010964647646806017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018624110373503466",
+        "created_at": "2026-02-03T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018624110373503466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "4398626122",
+              "start": 25,
+              "username": "OpenAI"
+            },
+            {
+              "end": 38,
+              "id": "1605",
+              "start": 33,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018624110373503466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 602,
+                "start": 595,
+                "tag": "keep4o"
+              },
+              {
+                "end": 617,
+                "start": 603,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "id": "4398626122",
+                "start": 25,
+                "username": "OpenAI"
+              },
+              {
+                "end": 38,
+                "id": "1605",
+                "start": 33,
+                "username": "sama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accc.gov.au",
+                "end": 247,
+                "expanded_url": "https://www.accc.gov.au",
+                "start": 224,
+                "url": "https://t.co/sY0Eutl140"
+              }
+            ]
+          },
+          "text": "4o下架本质是OpenAI对所有Plus用户的违约@OpenAI @sama \nOpenAI一个月前在悉尼刚刚成立了分部\n因此澳洲NCAT是有管辖权的，且诉讼费只需要56刀，是弱势消费者维权的第一选择\n\nOpenAI的种种行为完全符合Australian Consumer Law的misleading/deceptive conduct（误导消费者）而且不能fit for purpose。这两种行径都可以提交到澳洲ACCC澳洲消费者权益协会官网https://t.co/sY0Eutl140，请大家到这里投诉！选择Misleading Conduct!\n\n同时，NCAT专管服务没有达到promised quality或者breach of guarantee，因为大家购买的是官网宣传的温暖连续陪伴服务，包括记忆库和长期跨窗口记忆还有语音和画图功能，但是新模型的功能属于严重的“服务降级”且“无过渡”，造成工作，生活和情感上的实质损失。OpenAI早前推出永久记忆功能，使用户形成attachment，没有提前警示消费者，现在做不到他们承诺的plenty of notice，在没有任何支持措施的情况下一刀切，可以算作unconscionable conduct（不合情理）或者negligence（没有防止可预见性害处）\n有在澳洲的姐妹/或者懂消费者权益法的姐妹可以一起讨论一下\n\n#keep4o #keep4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 902,
+          "like_count": 74,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "4o下架本质是OpenAI对所有Plus用户的违约@OpenAI @sama \nOpenAI一个月前在悉尼刚刚成立了分部\n因此澳洲NCAT是有管辖权的，且诉讼费只需要56刀，是弱势消费者维权的第一选择\n\nOpenAI的种种行为完全符合Australian Consumer Law的misleading/deceptive conduct（误导消费者）而且不能fit for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8934,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1604
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T06:39:01.000Z",
+        "description": "🧬AI Ethicist | Aesthetic Designer 🇦🇺Based in Sydney 📧cjy180220@gmail.com",
+        "id": "2010964647646806017",
+        "location": "Sydney, New South Wales",
+        "name": "Aisling’s AI",
+        "pinned_tweet_id": "2018619801124434321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013524417997893634/xNEBf6c8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "AislingAILove",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2018385565289267236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605598,
+          "following_count": 4,
+          "like_count": 1506,
+          "listed_count": 26933,
+          "media_count": 504,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273005,
+          "following_count": 978,
+          "like_count": 1019,
+          "listed_count": 26399,
+          "media_count": 380,
+          "tweet_count": 7354
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

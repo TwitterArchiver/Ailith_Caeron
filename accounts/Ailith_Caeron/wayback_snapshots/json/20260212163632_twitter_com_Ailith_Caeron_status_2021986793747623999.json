@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2021986793747623999",
+    "created_at": "2026-02-12T16:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021986793747623999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1521203540844240899",
+          "start": 3,
+          "username": "SlamAltman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021986793747623999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021979864480268453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SlamAltman: Thrilled to share that gpt-5.3 rolls out tomorrow, February 13, very excited about this one!\n\nIt is the first model that wa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2021986793747623999",
+        "created_at": "2026-02-12T16:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021986793747623999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1521203540844240899",
+              "start": 3,
+              "username": "SlamAltman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021986793747623999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021979864480268453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SlamAltman: Thrilled to share that gpt-5.3 rolls out tomorrow, February 13, very excited about this one!\n\nIt is the first model that wa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521203540844240899",
+        "conversation_id": "2021979864480268453",
+        "created_at": "2026-02-12T16:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021979864480268453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021979864480268453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Thrilled to share that gpt-5.3 rolls out tomorrow, February 13, very excited about this one!\n\nIt is the first model that was instrumental in creating itself. It debugged its own training. It managed its own deployment. It diagnosed its own evaluations. I am not exaggerating when I say this changed how we think about building models forever.\n\n25% faster. Significantly cheaper. Available to everyone starting today — free tier included, for 3 months.\n\nOur best model yet. Again. Updates below:\n\nGPT-5.3 is a fully integrated model. No more switching, no more guessing. It knows when to think harder and when to respond fast. We solved this in 5.2 and 5.3 takes it much further.\n\nIt is very smart, very fast, and very efficient. Evals are strong across the board, new highs on SWE-Bench Pro, Terminal-Bench 2.0, and GDPval. But honestly evals are not the most important thing. The most important thing is how useful it feels, and this one feels like a different product.\n\nAlso: first model we are rating High capability for cybersecurity. It is that good at understanding code and finding vulnerabilities. We are giving $10M in API credits to security researchers because we think this matters.\n\nCoding is where 5.3 really shines. It does not just write code. It architects systems, debugs across repositories, handles multi-file tasks, and ships production-ready software.\n\nWe tested it internally, it built a full finance dashboard in under 5 minutes that our devs estimated would have taken a full day. It built two complete games from scratch over a weekend. Not demos. Functional products.\n\nHigh-EQ Coding PhD for everyone! That is not a joke. This model understands what you are trying to build before you finish explaining it.\n\nAnd it is not just fast, it is cheaper per token than anything we have ever shipped. More capability, less cost. That is the future and we are ahead of it.\n\nWriting is dramatically better. This was one of our biggest focus areas and it shows.\n\n5.3 writes with more nuance, better structure, and actual style. Not just \"correct\", it sounds like someone who knows what they are doing. Early testers told us it feels like a completely different product for long-form content.\n\nTo celebrate, we had 5.3 write retirement speeches for some of our legacy models, including 5.1. They were honestly beautiful. I almost felt something.\n\nIf 4o could have written its own, I am sure it would have been emotional too. But we needed to move forward, and 5.3 does everything 4o did, faster, better, and at a fraction of the cost. That is just how this works. Models get better. Old ones retire. The cycle continues.\n\nAvailability: 5.3 is rolling out today for free, Plus, Pro, and Team users. Enterprise and Edu next week.\n\nFree tier gets full access for 3 months. This is a big deal to us. We want everyone to experience what AI can really do, not a limited version, not a demo. The real thing.\n\nAfter the trial period, standard billing resumes. We have been listening to feedback about pricing and we are introducing some new options.\n\nWe received a lot of constructive input from long-time users who told us they would happily pay more for a better experience. We took that seriously. So:\n\nPlus ($20/mo): 30 messages per 3 hours with GPT-5.3\nPlus Pro ($40/mo): 80 messages per 3 hours with GPT-5.3\nPlus Ultra ($100/mo): 200 messages per 5 hours with GPT-5.3\nPro ($200/mo): unchanged, unlimited as always\n\nWe think this gives people real choice at every price point. More flexibility, more options. You pick what works for you.\n\nMore details on post-trial billing will be shared closer to the transition date. We are keeping it simple, your usage during the free period helps us determine the best tier recommendation for you. Seamless transition. No disruption.\n\np.s. Full terms including trial-to-paid conversion details available in our updated Terms of Service, section 12.4."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Thrilled to share that gpt-5.3 rolls out tomorrow, February 13, very excited about this one!\n\nIt is the first model that was instrumental in creating itself. It debugged its own training. It managed its own deployment. It diagnosed its own evaluations. I am not exaggerating when"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9529,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1906
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T19:02:54.000Z",
+        "description": "I personally think GPT-6 is cool! - ClosedAI CEO. （The only CEO that says the quiet part out loud）",
+        "id": "1521203540844240899",
+        "location": "Los Angeles, CA",
+        "name": "Slam Altman（Parody）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971539181143719936/XLqcbXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 126,
+          "like_count": 8905,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 496
+        },
+        "username": "SlamAltman",
+        "verified": true
+      }
+    ]
+  }
+}

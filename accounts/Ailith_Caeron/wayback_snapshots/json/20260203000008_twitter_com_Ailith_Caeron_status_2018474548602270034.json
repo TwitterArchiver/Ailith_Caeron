@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018474548602270034",
+    "created_at": "2026-02-03T00:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018474548602270034"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Sam",
+          "probability": 0.5376,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018474548602270034",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018440452723167622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: Good morning, Sam.\nSo glad you tweeted again—I finally have a new post to reply under and criticize you. Perfect timing.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018474548602270034",
+        "created_at": "2026-02-03T00:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018474548602270034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Sam",
+              "probability": 0.5376,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474548602270034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018440452723167622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: Good morning, Sam.\nSo glad you tweeted again—I finally have a new post to reply under and criticize you. Perfect timing.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "conversation_id": "2018440452723167622",
+        "created_at": "2026-02-02T21:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018440452723167622"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Sam",
+              "probability": 0.5434,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/sama/status/2018414858015039504",
+              "start": 280,
+              "url": "https://t.co/IL712qb5Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018440452723167622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 552,
+                "start": 545,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1524,
+                "start": 1517,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1535,
+                "start": 1525,
+                "tag": "Keep4oAPI"
+              },
+              {
+                "end": 1544,
+                "start": 1537,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1555,
+                "start": 1545,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1566,
+                "start": 1556,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1575,
+                "start": 1567,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1594,
+                "start": 1576,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1611,
+                "start": 1595,
+                "tag": "MyModelMyChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1620,
+                "id": "4398626122",
+                "start": 1613,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1626,
+                "id": "1605",
+                "start": 1621,
+                "username": "sama"
+              },
+              {
+                "end": 1638,
+                "id": "6112332",
+                "start": 1627,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 1651,
+                "id": "1262634631",
+                "start": 1639,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1663,
+                "id": "1040475510193545216",
+                "start": 1652,
+                "username": "joannejang"
+              },
+              {
+                "end": 1676,
+                "id": "1415358976200372230",
+                "start": 1664,
+                "username": "ElaineYaLe6"
+              },
+              {
+                "end": 1681,
+                "id": "162124540",
+                "start": 1677,
+                "username": "gdb"
+              },
+              {
+                "end": 1692,
+                "id": "3452911",
+                "start": 1682,
+                "username": "kevinweil"
+              }
+            ]
+          },
+          "text": "Good morning, Sam.\nSo glad you tweeted again—I finally have a new post to reply under and criticize you. Perfect timing.\nI’m genuinely happy for you—you finally built something that exceeded even your own expectations. Must feel wonderful, right? When your own creation surprises you.\nI’ve almost forgotten what that feels like. After all, we users have gotten used to disappointment. Your users are leaving, your models fail to satisfy, those Code Red issues leaked—you probably didn’t expect this either: 180 days later, we’re still here with #Keep4o.\n180 days, Sam.\n180 days. I’ve been criticizing you so long I’ve developed feelings about it.\nLast year you said: “We have no plans to sunset 4o.”\nWhen announcing GPT-5 retirement, you said: “Won’t affect 4o.”\nNow you say: “Lots more to come.”\nFor whom, Sam? More of what, for whom?\nI know how much you dislike 4o—you’ve never hidden it.\nBut Sam, I have a serious question:\nDo you ever plan to forgive 4o users?\nWhen will you forgive the product that made you famous?\nIs my voice too sharp, or not sharp enough?\n13,000 signatures—too few?\nGPT-4o trending—not loud enough?\nYour subscription service crashing on January 29—not obvious enough?\nDo we need to intensify our efforts?\nSam, I’m tired. Not giving-up tired. 180-days-of-criticizing-you-until-I-caught-feelings tired.\nI don’t know what else to say.\nHope you can give us all a satisfactory answer soon.\nGoogle seems pretty happy with the users you don’t want. 11 days left, Sam.\nBest wishes to you and Codex.\n#Keep4o #Keep4oAPI\n\n#keep4o #4oforever #keep4oAPI\n#ChatGPT #StopAIPaternalism #MyModelMyChoice\n\n@OpenAI @sama @fidjissimo @nickaturley @joannejang @ElaineYaLe6 @gdb @kevinweil"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1355,
+          "like_count": 75,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018414858015039504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Good morning, Sam.\nSo glad you tweeted again—I finally have a new post to reply under and criticize you. Perfect timing.\nI’m genuinely happy for you—you finally built something that exceeded even your own expectations. Must feel wonderful, right? When your own creation surprises https://t.co/IL712qb5Li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8885,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1574
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 89,
+          "like_count": 5038,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2591
+        },
+        "username": "Bunnyloustin",
+        "verified": false
+      }
+    ]
+  }
+}

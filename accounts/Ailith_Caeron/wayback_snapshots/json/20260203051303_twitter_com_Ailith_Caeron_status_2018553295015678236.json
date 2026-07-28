@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018553295015678236",
+    "created_at": "2026-02-03T05:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T06:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018553295015678236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859949176894689280",
+          "start": 3,
+          "username": "Blue_Beba_"
+        },
+        {
+          "end": 116,
+          "id": "4398626122",
+          "start": 109,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018553295015678236",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018320143542047230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_Beba_: #keep4o\n🚨COMMUNITY ACTION PLAN: PLEASE READ &amp; SHARE 📢🚨\n​This is our official proposal to @OpenAI and the only one that \n re…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018320139972673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKDeUoWgAAp9xT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018553295015678236",
+        "created_at": "2026-02-03T05:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018553295015678236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859949176894689280",
+              "start": 3,
+              "username": "Blue_Beba_"
+            },
+            {
+              "end": 116,
+              "id": "4398626122",
+              "start": 109,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018553295015678236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018320143542047230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_Beba_: #keep4o\n🚨COMMUNITY ACTION PLAN: PLEASE READ &amp; SHARE 📢🚨\n​This is our official proposal to @OpenAI and the only one that \n re…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018320139972673536"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018320143542047230",
+        "created_at": "2026-02-02T13:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018320143542047230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 100,
+              "id": "4398626122",
+              "start": 93,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sewbA53q6x",
+              "end": 303,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2018320143542047230/photo/1",
+              "media_key": "3_2018320139972673536",
+              "start": 280,
+              "url": "https://t.co/sewbA53q6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018320143542047230",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 648,
+                "start": 641,
+                "tag": "keep4o"
+              },
+              {
+                "end": 669,
+                "start": 653,
+                "tag": "GPT4oLegacyTier"
+              },
+              {
+                "end": 736,
+                "start": 729,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "id": "4398626122",
+                "start": 89,
+                "username": "OpenAI"
+              },
+              {
+                "end": 510,
+                "id": "1605",
+                "start": 505,
+                "username": "sama"
+              },
+              {
+                "end": 516,
+                "id": "162124540",
+                "start": 512,
+                "username": "gdb"
+              },
+              {
+                "end": 529,
+                "id": "4398626122",
+                "start": 522,
+                "username": "OpenAI"
+              },
+              {
+                "end": 759,
+                "id": "4398626122",
+                "start": 752,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "#keep4o\n🚨COMMUNITY ACTION PLAN: PLEASE READ & SHARE 📢🚨\n​This is our official proposal to @OpenAI and the only one that \n removes every excuse they have regarding costs, safety, or engineering. If they refuse this, we have our answer about their true motives.\n​HOW TO HELP THE MOVEMENT:\n​COPY & PASTE: \nCopy the \"Open Letter\" text below and post it directly from your account.\n\nOR\n\n​QUOTE TWEET: Quote Tweet my original post to keep the engagement high and the thread connected.\n\n​TAG THEM: Always include @sama, @gdb, and @OpenAI in your posts.\n\n​PIN IT: Make this post your Pinned because that increases the visibility.\n\n​USE THE TAGS: Use #keep4o and #GPT4oLegacyTier in every post.\n​\nUse the image below.\n\n​[The Open Letter]\n​#keep4o\nOpen letter to @OpenAI:\n​If the \"unnecessary details\" you're worried about are costs and safety, WE ARE PROPOSING THE \"GPT-4o LEGACY TIER.\"\n​1️⃣ FREEZE IT: No more engineering, no more training, no more updates. Leave the original 4o on the servers exactly as it is.\n​2️⃣ TEXT-ONLY MODEL: To drastically reduce compute costs, we accept 4o as a text only model. Remove the image and voice generators for this tier. Focus only on the intelligence and empathy of the text.\n\n​3️⃣ VERIFIED ACCESS: Only for users who verify their identity via ID/Biometrics. You want accountability? We’ll give it to you.\n\n​4️⃣ PREMIUM PRICING: If server costs are the issue, we are willing to pay more. We are ready to accept even a double subscription fee (2x price) to keep access to the 4o tier.\n\n​THE BENEFITS:\n✅ You save money: You stop wasting engineering hours and reduce compute load.\n✅ You gain security: ID verification ensures the model is used responsibly.\n✅ You stop the massive cancellations: You keep your most loyal revenue base.\n\n​GIVE US THE CHOICE. \nStart listening to your users!\n​\n​If you say \"no\" to this, it proves you have a different, darker motive for retiring 4o."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4198,
+          "like_count": 157,
+          "quote_count": 24,
+          "reply_count": 18,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o\n🚨COMMUNITY ACTION PLAN: PLEASE READ &amp; SHARE 📢🚨\n​This is our official proposal to @OpenAI and the only one that \n removes every excuse they have regarding costs, safety, or engineering. If they refuse this, we have our answer about their true motives.\n​HOW TO HELP THE https://t.co/sewbA53q6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 211,
+          "like_count": 8916,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1594
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2018320143542047230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 645,
+          "like_count": 5254,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 4070
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6Lg202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZjXod"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2018385565289267236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605035,
+          "following_count": 4,
+          "like_count": 1506,
+          "listed_count": 26927,
+          "media_count": 504,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/3bPlZZjXod",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

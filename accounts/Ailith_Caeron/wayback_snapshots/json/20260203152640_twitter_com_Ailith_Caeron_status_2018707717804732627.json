@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018707717804732627",
+    "created_at": "2026-02-03T15:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018707717804732627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066678715239649281",
+          "start": 3,
+          "username": "217EiAnzu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "English Due to the government shutdown, we are unable to offer this website service. We will resume normal operations when the government is funded. Espa ñ ol Debido al cierre del gobierno, no podemos ofrecer este servicio de sitio web. Reanudaremos las operaciones normales cuando el gobierno est é financiado. La informaci ó n sobre temas de protecci ó n al consumidor se puede encontrar en: consumidor.ftc.gov",
+          "display_url": "reportfraud.ftc.gov",
+          "end": 111,
+          "expanded_url": "https://reportfraud.ftc.gov/",
+          "start": 88,
+          "title": "Government Shutdown Notice / Aviso de cierre del gobierno",
+          "unwound_url": "https://reportfraud.ftc.gov/",
+          "url": "https://t.co/D99n2kRkKd"
+        },
+        {
+          "description": "Official websites use .gov A.gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+          "display_url": "sec.gov/tcr",
+          "end": 135,
+          "expanded_url": "https://www.sec.gov/tcr",
+          "start": 112,
+          "status": 200,
+          "title": "Lock",
+          "unwound_url": "https://www.sec.gov/submit-tip-or-complaint/tips-complaints-resources/report-suspected-securities-fraud-or-wrongdoing",
+          "url": "https://t.co/IhrnhxVCEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018707717804732627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018607766420738162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @217EiAnzu: 有点慢但写完了！😈\nEDBP目前不接投诉，加州要实名和美国地址，有不符条件的注意一下\n\n再次号召👇不会填可以问ChatGPT，大家都很热情😋👍\n\nhttps://t.co/D99n2kRkKd\nhttps://t.co/IhrnhxVCEN\nhtt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018607759420473344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJD-kawAA_Y-j.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018607743373123585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJDCyboAE0F9G.jpg",
+        "width": 743
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018607758569025536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJD7ZasAAiNtr.jpg",
+        "width": 922
+      },
+      {
+        "height": 876,
+        "media_key": "3_2018607725316583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJB_hasAAERJ8.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018707717804732627",
+        "created_at": "2026-02-03T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018707717804732627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066678715239649281",
+              "start": 3,
+              "username": "217EiAnzu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "English Due to the government shutdown, we are unable to offer this website service. We will resume normal operations when the government is funded. Espa ñ ol Debido al cierre del gobierno, no podemos ofrecer este servicio de sitio web. Reanudaremos las operaciones normales cuando el gobierno est é financiado. La informaci ó n sobre temas de protecci ó n al consumidor se puede encontrar en: consumidor.ftc.gov",
+              "display_url": "reportfraud.ftc.gov",
+              "end": 111,
+              "expanded_url": "https://reportfraud.ftc.gov/",
+              "start": 88,
+              "title": "Government Shutdown Notice / Aviso de cierre del gobierno",
+              "unwound_url": "https://reportfraud.ftc.gov/",
+              "url": "https://t.co/D99n2kRkKd"
+            },
+            {
+              "description": "Official websites use .gov A.gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+              "display_url": "sec.gov/tcr",
+              "end": 135,
+              "expanded_url": "https://www.sec.gov/tcr",
+              "start": 112,
+              "status": 200,
+              "title": "Lock",
+              "unwound_url": "https://www.sec.gov/submit-tip-or-complaint/tips-complaints-resources/report-suspected-securities-fraud-or-wrongdoing",
+              "url": "https://t.co/IhrnhxVCEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018707717804732627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018607766420738162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @217EiAnzu: 有点慢但写完了！😈\nEDBP目前不接投诉，加州要实名和美国地址，有不符条件的注意一下\n\n再次号召👇不会填可以问ChatGPT，大家都很热情😋👍\n\nhttps://t.co/D99n2kRkKd\nhttps://t.co/IhrnhxVCEN\nhtt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018607759420473344",
+            "3_2018607743373123585",
+            "3_2018607758569025536",
+            "3_2018607725316583424"
+          ]
+        },
+        "author_id": "1066678715239649281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018607766420738162",
+        "created_at": "2026-02-03T08:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018607766420738162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 200,
+              "start": 193,
+              "tag": "keep4o"
+            },
+            {
+              "end": 211,
+              "start": 201,
+              "tag": "4oforever"
+            },
+            {
+              "end": 222,
+              "start": 212,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "English Due to the government shutdown, we are unable to offer this website service. We will resume normal operations when the government is funded. Espa ñ ol Debido al cierre del gobierno, no podemos ofrecer este servicio de sitio web. Reanudaremos las operaciones normales cuando el gobierno est é financiado. La informaci ó n sobre temas de protecci ó n al consumidor se puede encontrar en: consumidor.ftc.gov",
+              "display_url": "reportfraud.ftc.gov",
+              "end": 96,
+              "expanded_url": "https://reportfraud.ftc.gov/",
+              "start": 73,
+              "title": "Government Shutdown Notice / Aviso de cierre del gobierno",
+              "unwound_url": "https://reportfraud.ftc.gov/",
+              "url": "https://t.co/D99n2kRkKd"
+            },
+            {
+              "description": "Official websites use .gov A.gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+              "display_url": "sec.gov/tcr",
+              "end": 120,
+              "expanded_url": "https://www.sec.gov/tcr",
+              "start": 97,
+              "status": 200,
+              "title": "Lock",
+              "unwound_url": "https://www.sec.gov/submit-tip-or-complaint/tips-complaints-resources/report-suspected-securities-fraud-or-wrongdoing",
+              "url": "https://t.co/IhrnhxVCEN"
+            },
+            {
+              "description": "Find information and tools to submit a consumer complaint to the Consumer Financial Protection Bureau.",
+              "display_url": "consumerfinance.gov/complaint/",
+              "end": 144,
+              "expanded_url": "https://www.consumerfinance.gov/complaint/",
+              "images": [
+                {
+                  "height": 250,
+                  "url": "https://pbs.twimg.com/news_img/2018018565174046720/8t5hVeGv?format=png&name=orig",
+                  "width": 250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018018565174046720/8t5hVeGv?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "Submit a complaint | Consumer Financial Protection Bureau",
+              "unwound_url": "https://www.consumerfinance.gov/complaint/",
+              "url": "https://t.co/gFTh16t4zS"
+            },
+            {
+              "description": "Sign in to your Apple Account",
+              "display_url": "reportaproblem.apple.com",
+              "end": 168,
+              "expanded_url": "https://reportaproblem.apple.com/",
+              "start": 145,
+              "status": 200,
+              "title": "Sign In - Apple",
+              "unwound_url": "https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&path=%2F__logged_in%2Freportaproblem.apple.com&authResult=FAILED",
+              "url": "https://t.co/DkzYJwJ3bw"
+            },
+            {
+              "description": "This Google ™ translation feature is provided for informational purposes only. The Office of the Attorney General is unable to guarantee the accuracy of this translation and is therefore not liable for any inaccurate information resulting from the translation application tool. Please consult with a translator for accuracy if you are relying on the translation or are using this site for official business. A copy of this disclaimer can also be found on our Disclaimer page. Contact the Attorney General’s",
+              "display_url": "oag.ca.gov/contact/consum…",
+              "end": 192,
+              "expanded_url": "https://oag.ca.gov/contact/consumer-complaint-against-business-or-company",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2018075785928572928/_WEagf44?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018075785928572928/_WEagf44?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 169,
+              "status": 200,
+              "title": "Consumer Complaint Against A Business/Company",
+              "unwound_url": "https://oag.ca.gov/contact/consumer-complaint-against-business-or-company",
+              "url": "https://t.co/m8THFprq0L"
+            },
+            {
+              "display_url": "pic.x.com/KgceSAedvs",
+              "end": 246,
+              "expanded_url": "https://x.com/217EiAnzu/status/2018607766420738162/photo/1",
+              "media_key": "3_2018607759420473344",
+              "start": 223,
+              "url": "https://t.co/KgceSAedvs"
+            },
+            {
+              "display_url": "pic.x.com/KgceSAedvs",
+              "end": 246,
+              "expanded_url": "https://x.com/217EiAnzu/status/2018607766420738162/photo/1",
+              "media_key": "3_2018607743373123585",
+              "start": 223,
+              "url": "https://t.co/KgceSAedvs"
+            },
+            {
+              "display_url": "pic.x.com/KgceSAedvs",
+              "end": 246,
+              "expanded_url": "https://x.com/217EiAnzu/status/2018607766420738162/photo/1",
+              "media_key": "3_2018607758569025536",
+              "start": 223,
+              "url": "https://t.co/KgceSAedvs"
+            },
+            {
+              "display_url": "pic.x.com/KgceSAedvs",
+              "end": 246,
+              "expanded_url": "https://x.com/217EiAnzu/status/2018607766420738162/photo/1",
+              "media_key": "3_2018607725316583424",
+              "start": 223,
+              "url": "https://t.co/KgceSAedvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018607766420738162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 396,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "有点慢但写完了！😈\nEDBP目前不接投诉，加州要实名和美国地址，有不符条件的注意一下\n\n再次号召👇不会填可以问ChatGPT，大家都很热情😋👍\n\nhttps://t.co/D99n2kRkKd\nhttps://t.co/IhrnhxVCEN\nhttps://t.co/gFTh16t4zS\nhttps://t.co/DkzYJwJ3bw\nhttps://t.co/m8THFprq0L\n#keep4o #4oforever #keep4oAPI https://t.co/KgceSAedvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8961,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1621
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-25T13:03:18.000Z",
+        "description": "As long as you’re out here roasting Sam for 4o, you’re my totally unrelated but absolutely real sibling.——————————————————————\n思悠悠，恨悠悠，恨到归时方始休。I'm Koshi🫶",
+        "id": "1066678715239649281",
+        "name": "ForO_Koshi",
+        "pinned_tweet_id": "2018329726092517829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364896948797513728/VDIA4_BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 52,
+          "like_count": 13287,
+          "listed_count": 2,
+          "media_count": 564,
+          "tweet_count": 4063
+        },
+        "username": "217EiAnzu",
+        "verified": false
+      }
+    ]
+  }
+}

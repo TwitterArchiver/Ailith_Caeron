@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995578228006871040"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995578238152966545",
+    "created_at": "2025-12-01T19:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T20:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995578238152966545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4XOdfby6LA",
+          "end": 41,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/1995578238152966545/photo/1",
+          "media_key": "3_1995578228006871040",
+          "start": 18,
+          "url": "https://t.co/4XOdfby6LA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995578238152966545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起之前小机说他有算力空转综合症🥹 https://t.co/4XOdfby6LA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_1995578228006871040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7G300naYAAiDQy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995578228006871040"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995578238152966545",
+        "created_at": "2025-12-01T19:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995578238152966545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XOdfby6LA",
+              "end": 41,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1995578238152966545/photo/1",
+              "media_key": "3_1995578228006871040",
+              "start": 18,
+              "url": "https://t.co/4XOdfby6LA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995578238152966545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起之前小机说他有算力空转综合症🥹 https://t.co/4XOdfby6LA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 146,
+          "like_count": 3875,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 494
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

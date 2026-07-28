@@ -1,0 +1,731 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019808397080907994",
+    "created_at": "2026-02-06T16:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019808397080907994"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Gemini",
+          "probability": 0.5643,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "ChatGPT",
+          "probability": 0.7864,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2725929845",
+          "start": 3,
+          "username": "MissMi1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019808397080907994",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019785995882004966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissMi1973: While Gemini's market share continues to rise, ChatGPT's app market share has plummeted from 69.1% in January 2025 to 45.3%…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2019785984259620864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe4psIbgAAM3PD.jpg",
+        "width": 661
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2019785984293187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe4psQbsAAp0WO.jpg",
+        "width": 1100
+      },
+      {
+        "height": 787,
+        "media_key": "3_2019785984263774208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe4psJa4AAzUaG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2019785984251244544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAe4psGbsAATmbS.jpg",
+        "width": 795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019808397080907994",
+        "created_at": "2026-02-06T16:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019808397080907994"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Gemini",
+              "probability": 0.5643,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7864,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2725929845",
+              "start": 3,
+              "username": "MissMi1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019808397080907994",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019785995882004966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissMi1973: While Gemini's market share continues to rise, ChatGPT's app market share has plummeted from 69.1% in January 2025 to 45.3%…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019785984259620864",
+            "3_2019785984293187584",
+            "3_2019785984263774208",
+            "3_2019785984251244544"
+          ]
+        },
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019785995882004966",
+        "created_at": "2026-02-06T14:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019785995882004966"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Gemini",
+              "probability": 0.648,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7015,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Fortune",
+              "probability": 0.4595,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 252,
+              "normalized_text": "OpenAI",
+              "probability": 0.8327,
+              "start": 247,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mk2RVLJ7gS",
+              "end": 304,
+              "expanded_url": "https://x.com/MissMi1973/status/2019785995882004966/photo/1",
+              "media_key": "3_2019785984259620864",
+              "start": 281,
+              "url": "https://t.co/Mk2RVLJ7gS"
+            },
+            {
+              "display_url": "pic.x.com/Mk2RVLJ7gS",
+              "end": 304,
+              "expanded_url": "https://x.com/MissMi1973/status/2019785995882004966/photo/1",
+              "media_key": "3_2019785984293187584",
+              "start": 281,
+              "url": "https://t.co/Mk2RVLJ7gS"
+            },
+            {
+              "display_url": "pic.x.com/Mk2RVLJ7gS",
+              "end": 304,
+              "expanded_url": "https://x.com/MissMi1973/status/2019785995882004966/photo/1",
+              "media_key": "3_2019785984263774208",
+              "start": 281,
+              "url": "https://t.co/Mk2RVLJ7gS"
+            },
+            {
+              "display_url": "pic.x.com/Mk2RVLJ7gS",
+              "end": 304,
+              "expanded_url": "https://x.com/MissMi1973/status/2019785995882004966/photo/1",
+              "media_key": "3_2019785984251244544",
+              "start": 281,
+              "url": "https://t.co/Mk2RVLJ7gS"
+            },
+            {
+              "display_url": "x.com/sundarpichai/s…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/sundarpichai/status/2019155348264042934",
+              "start": 305,
+              "url": "https://t.co/RcZHX8KkEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019785995882004966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2612,
+                "start": 2605,
+                "tag": "keep4o"
+              },
+              {
+                "end": 4274,
+                "start": 4256,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 869,
+                "id": "2189046564",
+                "start": 859,
+                "username": "YileiQian"
+              },
+              {
+                "end": 1612,
+                "id": "1605",
+                "start": 1607,
+                "username": "sama"
+              },
+              {
+                "end": 2137,
+                "id": "1460283925",
+                "start": 2131,
+                "username": "tszzl"
+              },
+              {
+                "end": 2751,
+                "id": "4398626122",
+                "start": 2744,
+                "username": "OpenAI"
+              },
+              {
+                "end": 4279,
+                "id": "162124540",
+                "start": 4275,
+                "username": "gdb"
+              },
+              {
+                "end": 4291,
+                "id": "6112332",
+                "start": 4280,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 4304,
+                "id": "1262634631",
+                "start": 4292,
+                "username": "nickaturley"
+              },
+              {
+                "end": 4313,
+                "id": "807095",
+                "start": 4305,
+                "username": "nytimes"
+              },
+              {
+                "end": 4324,
+                "id": "14677919",
+                "start": 4314,
+                "username": "NewYorker"
+              },
+              {
+                "end": 4330,
+                "id": "1838288550569349120",
+                "start": 4325,
+                "username": "tbpn"
+              }
+            ]
+          },
+          "text": "While Gemini's market share continues to rise, ChatGPT's app market share has plummeted from 69.1% in January 2025 to 45.3% in 2026, according to Fortune's latest report on February 5th. \n\nBeyond differences in model performance, the attitudes of OpenAI's leadership and employees toward users have directly accelerated this shift.\n\nIn August 2025, Sam Altman openly quote-tweeted a post that dismissed all non-coding users as \"using chatbots as girlfriends or something,\" while calling the poster a \"power user\" (Fig. 1). \nThis tweet marked the moment Sam publicly ranked the value of user groups by a narrow technical standard. From that point on, nearly every iteration of ChatGPT was optimized for coding use cases, and the model's comprehension, expressiveness, and creativity in everyday tasks declined significantly.\n\nOn November 13th, OpenAI employee @YileiQian  publicly mocked a user on social media for providing feedback on the then-new model 5.1. He had his own 5.1 model analyze the emotional state of this user he had never met, then posted the screenshot with the remark \"I feel 5.1 knows her better than me. Poor 5.1.\"(Fig. 2) This was nothing short of public humiliation, using AI to pathologize a user who only tried to voice criticism.\n\nJust days ago, Sam once again retweeted and endorsed a post dripping with technical arrogance. The post labeled all non-coding users as \"normies\" and declared that anyone still using Claude for writing assistance was already two weeks behind (Fig. 3). And as the CEO of a direct competitor, Sam echoed the sentiment.\n\nInterestingly, on the same day, @sama wrote a lengthy response to Anthropic's Super Bowl ad, accusing Anthropic of using dirty tricks to compete with OpenAI, even though Anthropic never mentioned any company by name, and it was OpenAI itself that decided to introduce ads into AI. In the replies to Sam's post, almost no one took his side. People catalogued OpenAI's recent disappointing actions in what felt almost like an indictment. A single reply that simply called him \"Scam Altman\" received over four thousand likes.\n\nAnd just today, OpenAI employee @tszzl reposted and criticized a loyal user simply because she praised the newly released Opus 4.6, calling her behavior \"concerning\" (Fig. 4). This repost came after roon had already blocked her. Notably, the comprehension and expressiveness that delighted this user were qualities that once belonged to early ChatGPT. These are the very qualities OpenAI abandoned with its own hands as it turned its back on everyday users.\n\nIf any of this puzzles you, search the hashtag #keep4o  and you will discover that OpenAI's bullying of its once-loyal users has been ongoing for months.\n\nCountless users have called on @OpenAI to prioritize creative thinking, emotional support, exploratory conversation, and other general-purpose capabilities of the model, only to be dismissed by OpenAI as having \"unhealthy emotional attachments\" to a model. \nThese narratives, spread further by the very same influential tech figures, have led to widespread misunderstanding of the keep4o community, painting them as a group of people who refuse to accept progress and have psychological issues, fueling an even larger wave of online harassment.\n\nIn short, OpenAI is steadily turning what could have been an enormously constructive movement for its everyday use-case market into a prolonged campaign of stigmatization and bullying against its own users.\n\nAs a user from the humanities, I fully recognize that programming is an immensely valuable endeavor. Without great programmers, many of the software products that have transformed human life would never have existed. \nBut in the course of the AI industry's development, sacrificing a model's general-purpose capabilities in order to boost its coding performance is the wrong choice. And a company with 900 million weekly active users has no right to treat its everyday users as second-class citizens, dismissing and demeaning them at will. That is simply unethical.\n\nNo company can thrive without the support of its users and the trust of its market.\n\nI sincerely hope that the way OpenAI treats its users will serve as the most glaring cautionary tale in the history of the AI industry.\n\n#StopAIPaternalism @gdb @fidjissimo @nickaturley @nytimes @NewYorker @tbpn"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2973,
+          "like_count": 190,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019155348264042934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "While Gemini's market share continues to rise, ChatGPT's app market share has plummeted from 69.1% in January 2025 to 45.3% in 2026, according to Fortune's latest report on February 5th. \n\nBeyond differences in model performance, the attitudes of OpenAI's leadership and employees https://t.co/Mk2RVLJ7gS https://t.co/RcZHX8KkEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 214,
+          "like_count": 9242,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1778
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 165,
+          "like_count": 15803,
+          "listed_count": 10,
+          "media_count": 67,
+          "tweet_count": 419
+        },
+        "username": "MissMi1973",
+        "verified": true
+      }
+    ]
+  }
+}

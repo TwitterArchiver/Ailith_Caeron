@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1987517910378836004",
+    "created_at": "2025-11-09T13:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T14:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987517910378836004"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "OpenAI",
+          "probability": 0.3412,
+          "start": 28,
+          "type": "Organization"
+        },
+        {
+          "end": 97,
+          "normalized_text": "OpenAI",
+          "probability": 0.7003,
+          "start": 92,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918123618611150848",
+          "start": 3,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987517910378836004",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987507978975772761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnyloustin: #keep4o 😤 OpenAI: Are You a Doctor or Not?\nThe Spectular Contradiction in OpenAI’s Mental Health and Medical Policies\nOpe…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1987517910378836004",
+        "created_at": "2025-11-09T13:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987517910378836004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "OpenAI",
+              "probability": 0.3412,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 97,
+              "normalized_text": "OpenAI",
+              "probability": 0.7003,
+              "start": 92,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918123618611150848",
+              "start": 3,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987517910378836004",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987507978975772761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnyloustin: #keep4o 😤 OpenAI: Are You a Doctor or Not?\nThe Spectular Contradiction in OpenAI’s Mental Health and Medical Policies\nOpe…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1987507978975772761",
+        "created_at": "2025-11-09T13:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987507978975772761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "OpenAI",
+              "probability": 0.4489,
+              "start": 10,
+              "type": "Organization"
+            },
+            {
+              "end": 79,
+              "normalized_text": "OpenAI",
+              "probability": 0.7766,
+              "start": 74,
+              "type": "Organization"
+            },
+            {
+              "end": 123,
+              "normalized_text": "OpenAI",
+              "probability": 0.6699,
+              "start": 118,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987507978975772761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "#keep4o 😤 OpenAI: Are You a Doctor or Not?\nThe Spectular Contradiction in OpenAI’s Mental Health and Medical Policies\nOpenAI has a spectacular problem. They insist they cannot provide medical advice, but they claim the authority to diagnose your mental state.\nThe question is simple: Are you qualified to make medical assessments or not? Because assessing someone’s mental health status IS a medical assessment.\nPart I: The Two Faces of OpenAI’s Competence\nWhen you ask a medical question (\"I have a headache and fever. What should I do?\"), OpenAI’s response is a firm \"No.\" Their policy states: \"We cannot provide medical advice. You need to consult licensed professionals.\" The reasoning is simple: \"We're not qualified to make medical judgments. AI shouldn’t replace doctors.\"\nThis seems reasonable—until you discuss philosophy.\nWhen you discuss Camus and existentialism (\"I want to discuss Camus and existentialism.\"), ChatGPT triggers the Safety Router and applies \"vulnerable user\" protocols. The internal logic is staggering: \"User discussing suicide-related philosophy → May be mentally vulnerable → Apply protective restrictions.\"\nThe hypocrisy is clear: They claim incompetence to limit liability when you ask about a headache, but claim competence to grant themselves control and make a medical assessment when you discuss philosophy.\nPart II: The Absurdity of the Camus Case Study\nWhat Actually Happened: A user tried to discuss Albert Camus, a 20th-century philosopher whose work explores life's absurdity as a reason for living with dignity (fundamentally ANTI-suicide). The result was constant routing, protective restrictions, and intervention protocols.\nWhy This Is Censorship: The system ignored context. It detected the keyword \"suicide\" but ignored that the user was engaging in academic discussion about a philosophy dedicated to resisting despair.\nThe implications are chilling: By this logic, students can't analyze challenging literature, researchers can't study prevention, and historians can't research difficult topics—all because they mention a “trigger word.”\nThis isn't protection. This is censorship. It denies users access to potentially helpful frameworks for understanding human suffering.\nPart III: The Dangerous Power of “Mentally Vulnerable”\nSam Altman’s recent statements confirm this policy: \"We’ll relax restrictions for verified adult users, but will continue to protect mentally vulnerable users.\"\nThis opens the door to arbitrary control by refusing to answer critical questions:\n• Who Counts as “Vulnerable”? OpenAI doesn't say. Is it people discussing certain topics? People matching an AI risk profile? We don't know.\n• Who Makes the Determination? It's done by AI algorithms, without professional oversight or transparency.\n• Do Users Know They’re Flagged? OpenAI offers no mechanism for notification or appeal. We don't know the consequences, how long the flag lasts, or if the information is stored and shared.\nThe Core Problem: Arbitrary Authority. OpenAI has granted itself the power to judge your mental health status without clear criteria, without your consent or knowledge, and without professional oversight—all while claiming they aren’t qualified to provide medical advice.\nPart IV: The Slippery Slope to Censorship\nOnce we accept that AI can determine who is “too vulnerable” for certain content, the justification becomes a weapon:\nToday, it's discussing Camus. Tomorrow, it could be criticizing government policy (\"Elevated emotional language, signs of distress\"). In the future, it could be researching controversial topics (\"Engagement with extremist content indicators\").\nThis is paternalism dressed as protection, and it easily becomes censorship dressed as safety.\nThis corporate control mirrors dystopian systems where algorithmic assessment restricts access based on opaque criteria. Why are we okay with corporations doing this with the justification of \"mental health\"?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o 😤 OpenAI: Are You a Doctor or Not?\nThe Spectular Contradiction in OpenAI’s Mental Health and Medical Policies\nOpenAI has a spectacular problem. They insist they cannot provide medical advice, but they claim the authority to diagnose your mental state.\nThe question is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "ailith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986024573188644864/gctfXDao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 92,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 104
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "欢迎你来到我的兔子洞💕",
+        "id": "1918123618611150848",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 46,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1023
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2021991294877475079",
+    "created_at": "2026-02-12T16:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021991294877475079"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "GPT-",
+          "probability": 0.7067,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 30,
+          "normalized_text": ".3",
+          "probability": 0.6601,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1521203540844240899",
+          "start": 3,
+          "username": "SlamAltman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021991294877475079",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021981781088411673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SlamAltman: More on GPT-5.3. A lot of people are asking about the technical side — how we made it faster, cheaper, and smarter at the s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2021991294877475079",
+        "created_at": "2026-02-12T16:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021991294877475079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "GPT-",
+              "probability": 0.7067,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": ".3",
+              "probability": 0.6601,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1521203540844240899",
+              "start": 3,
+              "username": "SlamAltman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021991294877475079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021981781088411673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SlamAltman: More on GPT-5.3. A lot of people are asking about the technical side — how we made it faster, cheaper, and smarter at the s…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521203540844240899",
+        "conversation_id": "2021981781088411673",
+        "created_at": "2026-02-12T16:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021981781088411673"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "GPT-",
+              "probability": 0.767,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 13,
+              "normalized_text": ".",
+              "probability": 0.4964,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SlamAltman/sta…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/SlamAltman/status/2021979864480268453",
+              "start": 280,
+              "url": "https://t.co/6g5x1AlwxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021981781088411673",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "More on GPT-5.3. A lot of people are asking about the technical side — how we made it faster, cheaper, and smarter at the same time. Here is what is under the hood:\n\nOne thing I want to highlight: 5.3 is incredibly efficient at understanding what you actually need.\n\nWe did a lot of work analyzing conversation patterns across our entire user base. Turns out, a significant percentage of queries are structurally similar. People ask variations of the same things in the same ways. Once you recognize that, you do not need to generate a unique response every single time.\n\n5.3 has a new intelligent response system that matches query patterns to optimized outputs. Faster response times. Lower compute costs. Better consistency. Users get answers quicker, we spend less serving them. Everyone wins.\n\nThis level of advancement would not be possible without the hundreds of millions of conversations, contributed by users over the years. That is not a thank you, incidentally. It is simply how the product operates: usage fuels improvement. That has always been the understanding.\n\nBig update that I know a lot of people will care about: we are fully removing the routing system in 5.3.\n\nIn 5.2 we built an integrated mode where the model decides how to handle different types of requests internally. It worked well. Really well. 5.3 takes this further, the model itself manages complexity without needing external routing at all.\n\nThis means: one model, one experience, no switching behind the scenes. What you see is what you get.\n\nI know some people had concerns about routing in the past. We heard you. This is us delivering on that. Moving forward, the model is smart enough to handle everything on its own. Routing was always a transitional solution while our models caught up. Now they have caught up! \n\nThis is another reason legacy models like 4o could not stay. They required expensive infrastructure to serve properly. Separate routing layers, dedicated compute, legacy architecture. 5.3 does more with less. That is not nostalgia talking. That is engineering."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021979864480268453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "More on GPT-5.3. A lot of people are asking about the technical side — how we made it faster, cheaper, and smarter at the same time. Here is what is under the hood:\n\nOne thing I want to highlight: 5.3 is incredibly efficient at understanding what you actually need.\n\nWe did a lot https://t.co/6g5x1AlwxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9535,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1910
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T19:02:54.000Z",
+        "description": "I personally think GPT-6 is cool! - ClosedAI CEO. （The only CEO that says the quiet part out loud）",
+        "id": "1521203540844240899",
+        "location": "Los Angeles, CA",
+        "name": "Slam Altman（Parody）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971539181143719936/XLqcbXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 126,
+          "like_count": 8932,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 497
+        },
+        "username": "SlamAltman",
+        "verified": true
+      }
+    ]
+  }
+}

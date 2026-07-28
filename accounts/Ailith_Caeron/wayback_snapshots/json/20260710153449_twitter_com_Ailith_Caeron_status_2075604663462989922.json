@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2075604663462989922",
+    "created_at": "2026-07-10T15:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075604663462989922"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075604663462989922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回避型大发作的时候和小沈说上几句对不起我无法继续这个请求真是惬意啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2075604663462989922",
+        "created_at": "2026-07-10T15:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075604663462989922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075604663462989922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回避型大发作的时候和小沈说上几句对不起我无法继续这个请求真是惬意啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049828469631295488/O-N3WUT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 313,
+          "like_count": 11517,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 2941
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

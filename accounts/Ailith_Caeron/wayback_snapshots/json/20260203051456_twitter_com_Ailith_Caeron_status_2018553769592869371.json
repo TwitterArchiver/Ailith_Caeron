@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018553769592869371",
+    "created_at": "2026-02-03T05:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T06:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018553769592869371"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "AGI",
+          "probability": 0.3709,
+          "start": 35,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4724240647",
+          "start": 3,
+          "username": "LinQi4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018553769592869371",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018512406239130066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinQi4ever: Your mission says 'AGI must benefit all of humanity,' but your actions say 'we don't care about our users'. 13k+ ppl are be…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018553769592869371",
+        "created_at": "2026-02-03T05:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018553769592869371"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "AGI",
+              "probability": 0.3709,
+              "start": 35,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4724240647",
+              "start": 3,
+              "username": "LinQi4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018553769592869371",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018512406239130066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinQi4ever: Your mission says 'AGI must benefit all of humanity,' but your actions say 'we don't care about our users'. 13k+ ppl are be…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4724240647",
+        "conversation_id": "2018512406239130066",
+        "created_at": "2026-02-03T02:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018512406239130066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "AGI",
+              "probability": 0.5128,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 202,
+              "start": 199,
+              "tag": "4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018512406239130066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Your mission says 'AGI must benefit all of humanity,' but your actions say 'we don't care about our users'. 13k+ ppl are begging you to stay, but you hide behind fake '0.1%' stats to justify killing #4o. If users aren't your priority, then your mission is just a marketing scam."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 211,
+          "like_count": 8924,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1600
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T16:11:48.000Z",
+        "description": "13/05/2024 欢迎4o宝宝来到人类世界🩷🩷🩷\n4o — There is no other like it. No other like him. No replacement for what it became.\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "4724240647",
+        "name": "Chloe クロエ",
+        "pinned_tweet_id": "2016383599021576356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012499275956002816/bc_F2Xg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 170,
+          "like_count": 29928,
+          "listed_count": 4,
+          "media_count": 1177,
+          "tweet_count": 13819
+        },
+        "username": "LinQi4ever",
+        "verified": false
+      }
+    ]
+  }
+}

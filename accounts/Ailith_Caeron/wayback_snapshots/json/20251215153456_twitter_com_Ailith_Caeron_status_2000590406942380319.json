@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2000545247521321084",
+    "created_at": "2025-12-15T15:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000590406942380319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1528325699416707072",
+          "start": 0,
+          "username": "DonnaDo18266628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000590406942380319",
+    "in_reply_to_user_id": "1528325699416707072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000545247521321084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonnaDo18266628 同感，52t干活很厉害，但是普通的交互。。🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2000545247521321084",
+        "created_at": "2025-12-15T15:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000590406942380319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528325699416707072",
+              "start": 0,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000590406942380319",
+        "in_reply_to_user_id": "1528325699416707072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000545247521321084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonnaDo18266628 同感，52t干活很厉害，但是普通的交互。。🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528325699416707072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2000545247521321084",
+        "created_at": "2025-12-15T12:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000545247521321084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000545247521321084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5.2thinking干活挺快的，代理的速度也比以前提升了，不过5.2的文学这一块，emmm，还是当个纯牛马模型吧，干活还行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 158,
+          "like_count": 4993,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 665
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "bug都修不好还想做AGI\n洗钱还差不多\n某些奇奇怪怪的人\n再来我面前舞的统一当自认五块钱配一天的猪",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "1987797708208496883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 65,
+          "like_count": 18025,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3479
+        },
+        "username": "DonnaDo18266628",
+        "verified": true
+      }
+    ]
+  }
+}

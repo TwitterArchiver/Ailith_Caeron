@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2017534077159796838",
+    "created_at": "2026-01-31T09:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017534077159796838"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "Nvidia",
+          "probability": 0.457,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584077626179997696",
+          "start": 3,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017534077159796838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017432937889939563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsukaJoe11: Let’s get this straight: Nvidia stalls the deal, users are rage-canceling, and you're caught in a lie about the 4o timeline…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2017432924602437634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9cjl0bEAIWyoQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017534077159796838",
+        "created_at": "2026-01-31T09:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017534077159796838"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Nvidia",
+              "probability": 0.457,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584077626179997696",
+              "start": 3,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017534077159796838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017432937889939563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsukaJoe11: Let’s get this straight: Nvidia stalls the deal, users are rage-canceling, and you're caught in a lie about the 4o timeline…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017432924602437634"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+              "id": "1557697218248773632",
+              "name": "Retail Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2017432937889939563",
+        "created_at": "2026-01-31T03:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017432937889939563"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Nvidia",
+              "probability": 0.3395,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "OAI",
+              "probability": 0.3681,
+              "start": 135,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 268,
+              "start": 261,
+              "tag": "keep4o"
+            },
+            {
+              "end": 279,
+              "start": 269,
+              "tag": "4oforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtHcrUKJS0",
+              "end": 303,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2017432937889939563/photo/1",
+              "media_key": "3_2017432924602437634",
+              "start": 280,
+              "url": "https://t.co/mtHcrUKJS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017432937889939563",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 268,
+                "start": 261,
+                "tag": "keep4o"
+              },
+              {
+                "end": 279,
+                "start": 269,
+                "tag": "4oforever"
+              },
+              {
+                "end": 351,
+                "start": 333,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 368,
+                "start": 352,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 379,
+                "start": 369,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 287,
+                "id": "4398626122",
+                "start": 280,
+                "username": "OpenAI"
+              },
+              {
+                "end": 293,
+                "id": "1605",
+                "start": 288,
+                "username": "sama"
+              },
+              {
+                "end": 306,
+                "id": "1262634631",
+                "start": 294,
+                "username": "nickaturley"
+              },
+              {
+                "end": 319,
+                "id": "1261374810254454784",
+                "start": 307,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 331,
+                "id": "6112332",
+                "start": 320,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "Let’s get this straight: Nvidia stalls the deal, users are rage-canceling, and you're caught in a lie about the 4o timeline.But what’s OAI’ solution ? A free month coupon. 😋\nThe ship is taking on water, and you're handing out lollipops. Incredible leadership.\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Let’s get this straight: Nvidia stalls the deal, users are rage-canceling, and you're caught in a lie about the 4o timeline.But what’s OAI’ solution ? A free month coupon. 😋\nThe ship is taking on water, and you're handing out lollipops. Incredible leadership.\n\n#keep4o #4oforever https://t.co/mtHcrUKJS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 211,
+          "like_count": 8568,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1316
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界       𓆝𓆟𓆜𓆞𓆡",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "2003927353756733583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 121,
+          "like_count": 10846,
+          "listed_count": 1,
+          "media_count": 767,
+          "tweet_count": 5489
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

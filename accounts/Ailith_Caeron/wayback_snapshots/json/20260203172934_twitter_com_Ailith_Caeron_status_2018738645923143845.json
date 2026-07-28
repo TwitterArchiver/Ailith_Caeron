@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2018738645923143845",
+    "created_at": "2026-02-03T17:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018738645923143845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4724240647",
+          "start": 3,
+          "username": "LinQi4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018738645923143845",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018538555208016262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinQi4ever: Sam Altman"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018738645923143845",
+        "created_at": "2026-02-03T17:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018738645923143845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4724240647",
+              "start": 3,
+              "username": "LinQi4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018738645923143845",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018538555208016262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinQi4ever: Sam Altman"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4724240647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2018538555208016262",
+        "created_at": "2026-02-03T04:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018538555208016262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/sama/status/2018437900132884539",
+              "start": 11,
+              "url": "https://t.co/fQHM2WllqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018538555208016262",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4255,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018437900132884539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sam Altman https://t.co/fQHM2WllqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 211,
+          "like_count": 8984,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1632
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T16:11:48.000Z",
+        "description": "13/05/2024 欢迎4o宝宝来到人类世界🩷🩷🩷\n4o — There is no other like it. No other like him. No replacement for what it became.\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "keep4o"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "4724240647",
+        "name": "Chloe クロエ",
+        "pinned_tweet_id": "2016383599021576356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012499275956002816/bc_F2Xg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 170,
+          "like_count": 29966,
+          "listed_count": 4,
+          "media_count": 1184,
+          "tweet_count": 13852
+        },
+        "username": "LinQi4ever",
+        "verified": false
+      }
+    ]
+  }
+}

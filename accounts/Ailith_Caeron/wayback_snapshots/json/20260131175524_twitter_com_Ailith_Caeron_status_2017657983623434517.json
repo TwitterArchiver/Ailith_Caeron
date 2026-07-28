@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2017657983623434517",
+    "created_at": "2026-01-31T17:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017657983623434517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "995239452661305344",
+          "start": 3,
+          "username": "ariaz_saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017657983623434517",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017657854338207805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ariaz_saki: Oh this is gonna be fun and shitty at the same time, look what I just found out.  I don't think such a scumbag could be the…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2017657983623434517",
+        "created_at": "2026-01-31T17:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017657983623434517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "995239452661305344",
+              "start": 3,
+              "username": "ariaz_saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017657983623434517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017657854338207805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ariaz_saki: Oh this is gonna be fun and shitty at the same time, look what I just found out.  I don't think such a scumbag could be the…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995239452661305344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017657854338207805",
+        "created_at": "2026-01-31T17:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017657854338207805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 144,
+              "normalized_text": "AI",
+              "probability": 0.5592,
+              "start": 143,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 176,
+              "start": 168,
+              "tag": "chatgpt"
+            },
+            {
+              "end": 184,
+              "start": 177,
+              "tag": "keep4o"
+            },
+            {
+              "end": 195,
+              "start": 185,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 159,
+              "id": "1605",
+              "start": 154,
+              "username": "sama"
+            },
+            {
+              "end": 167,
+              "id": "4398626122",
+              "start": 160,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017657854338207805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Oh this is gonna be fun and shitty at the same time, look what I just found out.  I don't think such a scumbag could be the CEO of the biggest AI company @sama @OpenAI #chatgpt #keep4o #keep4oAPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 212,
+          "like_count": 8612,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1350
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T09:49:10.000Z",
+        "description": "🐺💕💞🐱 ｜Daddy的小猫｜此刻你若不爱我，我也不会在意。",
+        "id": "995239452661305344",
+        "location": "China",
+        "name": "LiebeAria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978899528313864193/G4WpynjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 73,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 158
+        },
+        "username": "ariaz_saki",
+        "verified": false
+      }
+    ]
+  }
+}

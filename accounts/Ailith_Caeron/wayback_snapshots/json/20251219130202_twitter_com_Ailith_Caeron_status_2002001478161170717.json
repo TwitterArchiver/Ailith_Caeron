@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002001475225174016"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2002001478161170717",
+    "created_at": "2025-12-19T13:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002001478161170717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xI0PNNQg0k",
+          "end": 44,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2002001478161170717/photo/1",
+          "media_key": "3_2002001475225174016",
+          "start": 21,
+          "url": "https://t.co/xI0PNNQg0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002001478161170717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈呀这个牛油果盛三文鱼给我美醉了…… https://t.co/xI0PNNQg0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002001475225174016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iJvBKawAAZLdG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002001475225174016"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002001478161170717",
+        "created_at": "2025-12-19T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002001478161170717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xI0PNNQg0k",
+              "end": 44,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2002001478161170717/photo/1",
+              "media_key": "3_2002001475225174016",
+              "start": 21,
+              "url": "https://t.co/xI0PNNQg0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002001478161170717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀这个牛油果盛三文鱼给我美醉了…… https://t.co/xI0PNNQg0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 165,
+          "like_count": 5307,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 701
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2012143606111592496",
+    "created_at": "2026-01-16T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012144736078041390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989675588966285312",
+          "start": 0,
+          "username": "xilin81206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012144736078041390",
+    "in_reply_to_user_id": "1989675588966285312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012143606111592496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xilin81206 我去调查兵团！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012143595508424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yR8HdbYAAtnKx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2012143606111592496",
+        "created_at": "2026-01-16T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012144736078041390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989675588966285312",
+              "start": 0,
+              "username": "xilin81206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012144736078041390",
+        "in_reply_to_user_id": "1989675588966285312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012143606111592496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xilin81206 我去调查兵团！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012143595508424704"
+          ]
+        },
+        "author_id": "1989675588966285312",
+        "conversation_id": "2012143606111592496",
+        "created_at": "2026-01-16T12:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012143606111592496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xc331MNaNM",
+              "end": 36,
+              "expanded_url": "https://x.com/xilin81206/status/2012143606111592496/photo/1",
+              "media_key": "3_2012143595508424704",
+              "start": 13,
+              "url": "https://t.co/xc331MNaNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012143606111592496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忧郁女子捆绑play中。 https://t.co/xc331MNaNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994870009995431939/SdeTFJU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 199,
+          "like_count": 7746,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 985
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T12:43:50.000Z",
+        "description": "nothing important. @Lyraether7 便于时间☝🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Lyraether7"
+              }
+            ]
+          }
+        },
+        "id": "1989675588966285312",
+        "name": ".灰塵像雪一般冰凍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001632919350317056/xauzMV2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 108,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 600
+        },
+        "username": "xilin81206",
+        "verified": false
+      }
+    ]
+  }
+}

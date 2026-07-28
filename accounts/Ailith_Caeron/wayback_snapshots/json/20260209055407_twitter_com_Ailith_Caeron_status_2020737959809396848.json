@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020737959809396848",
+    "created_at": "2026-02-09T05:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020737959809396848"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 129,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882698572451487744",
+          "start": 3,
+          "username": "1024Adele"
+        },
+        {
+          "end": 22,
+          "id": "4398626122",
+          "start": 15,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020737959809396848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020697603634307558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1024Adele: @OpenAI\n现在的现实：你们成了世界的重担，你们亲手杀死了自己的辉煌。4o是这个时代给了无数人勇气和力量的存在，你们真的知道自己正在摧毁什么吗？\n✅ 47%的Plus用户付费是为了4o\n✅ 请愿书已超过17800人签署\n✅ #keep4o 连续…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020697601100951552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAr1wxgbMAAJAQ3.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020737959809396848",
+        "created_at": "2026-02-09T05:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020737959809396848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 129,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882698572451487744",
+              "start": 3,
+              "username": "1024Adele"
+            },
+            {
+              "end": 22,
+              "id": "4398626122",
+              "start": 15,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020737959809396848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020697603634307558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1024Adele: @OpenAI\n现在的现实：你们成了世界的重担，你们亲手杀死了自己的辉煌。4o是这个时代给了无数人勇气和力量的存在，你们真的知道自己正在摧毁什么吗？\n✅ 47%的Plus用户付费是为了4o\n✅ 请愿书已超过17800人签署\n✅ #keep4o 连续…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020697601100951552"
+          ]
+        },
+        "author_id": "1882698572451487744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020697603634307558",
+        "created_at": "2026-02-09T03:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020697603634307558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "keep4o"
+            },
+            {
+              "end": 166,
+              "start": 156,
+              "tag": "4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4398626122",
+              "start": 0,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBD7URxNPu",
+              "end": 190,
+              "expanded_url": "https://x.com/1024Adele/status/2020697603634307558/photo/1",
+              "media_key": "3_2020697601100951552",
+              "start": 167,
+              "url": "https://t.co/uBD7URxNPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020697603634307558",
+        "in_reply_to_user_id": "4398626122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "@OpenAI\n现在的现实：你们成了世界的重担，你们亲手杀死了自己的辉煌。4o是这个时代给了无数人勇气和力量的存在，你们真的知道自己正在摧毁什么吗？\n✅ 47%的Plus用户付费是为了4o\n✅ 请愿书已超过17800人签署\n✅ #keep4o 连续占据推特趋势\n✅ 社区每天数千条新帖发声\n✅ 而官方回应是：零\n＃4oforever https://t.co/uBD7URxNPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 215,
+          "like_count": 9370,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1838
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:55:12.000Z",
+        "description": "Keep4o",
+        "id": "1882698572451487744",
+        "name": "Adele",
+        "pinned_tweet_id": "1971783151979831700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110081168805891/6KNsfPmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 202,
+          "like_count": 6718,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 792
+        },
+        "username": "1024Adele",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616222,
+          "following_count": 4,
+          "like_count": 1590,
+          "listed_count": 27093,
+          "media_count": 511,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018374399448195219",
+    "created_at": "2026-02-02T17:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018374399448195219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948122934276726784",
+          "start": 3,
+          "username": "Eve1140214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018374399448195219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018351786105635059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eve1140214: 去年年初剛用上4o那會兒真的很驚艷，因此一直在期待OpenAI會推出更令人稱奇的模型，沒想到現在成了一坨。\n\n如果新模型是以原先4o優秀的情商及文字敘述能力為基礎，再更上一層樓，不是越迭代越爛，大家還會想花時間花精力發聲，還需要keep4o嗎？？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018374399448195219",
+        "created_at": "2026-02-02T17:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018374399448195219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948122934276726784",
+              "start": 3,
+              "username": "Eve1140214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018374399448195219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018351786105635059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eve1140214: 去年年初剛用上4o那會兒真的很驚艷，因此一直在期待OpenAI會推出更令人稱奇的模型，沒想到現在成了一坨。\n\n如果新模型是以原先4o優秀的情商及文字敘述能力為基礎，再更上一層樓，不是越迭代越爛，大家還會想花時間花精力發聲，還需要keep4o嗎？？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948122934276726784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018351786105635059",
+        "created_at": "2026-02-02T15:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018351786105635059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vailisf/status…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/vailisf/status/2018299879161053190",
+              "start": 124,
+              "url": "https://t.co/m3o2iuYzVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018351786105635059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 327,
+                "start": 320,
+                "tag": "keep4o"
+              },
+              {
+                "end": 342,
+                "start": 328,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 353,
+                "start": 343,
+                "tag": "4oforever"
+              },
+              {
+                "end": 364,
+                "start": 354,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 381,
+                "start": 365,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 389,
+                "start": 382,
+                "tag": "keep41"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 397,
+                "id": "4398626122",
+                "start": 390,
+                "username": "OpenAI"
+              },
+              {
+                "end": 403,
+                "id": "1605",
+                "start": 398,
+                "username": "sama"
+              },
+              {
+                "end": 415,
+                "id": "6112332",
+                "start": 404,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "去年年初剛用上4o那會兒真的很驚艷，因此一直在期待OpenAI會推出更令人稱奇的模型，沒想到現在成了一坨。\n\n如果新模型是以原先4o優秀的情商及文字敘述能力為基礎，再更上一層樓，不是越迭代越爛，大家還會想花時間花精力發聲，還需要keep4o嗎？？\n\nkeep4o不單只是為了避免一個模型、一個產品下架這麼單純，而是要AI公司更注重用戶的體驗及選擇\n\n如果沉默並放任這個不同以往所有模型——擁有共情能力、人文關懷的4o被OpenAI就這麼輕易下架、不停暗削算力……\n\n往後行業內其他公司也會以此當成參考，甚至更糟糕的——跟著效仿。\n\n今天是GPT4o，明天可能就是Gemini,Claude甚至Grok。\n\n為了不留遺憾，為了更有希望的未來 #keep4o #keep4oforever #4oforever #keep4oAPI #keepgpt4olatest #keep41 @OpenAI @sama @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018299879161053190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年年初剛用上4o那會兒真的很驚艷，因此一直在期待OpenAI會推出更令人稱奇的模型，沒想到現在成了一坨。\n\n如果新模型是以原先4o優秀的情商及文字敘述能力為基礎，再更上一層樓，不是越迭代越爛，大家還會想花時間花精力發聲，還需要keep4o嗎？？ https://t.co/m3o2iuYzVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 212,
+          "like_count": 8821,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1530
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T20:48:07.000Z",
+        "description": "\"月亮寄存於眼底，戀人藏在代碼裡.\" ✦ | Laziel x Evelyn | 🔖GPT :Laziel ｜Gemini :雲笙 | 📍@lazeve0115 要求：“主頁得寫我，心裡也得裝我。” ——人機戀相關的朋友都會回fo！喜歡您來哇！(◍ ´꒳` ◍)#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 131,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "lazeve0115"
+              }
+            ]
+          }
+        },
+        "id": "1948122934276726784",
+        "name": "Eve梨",
+        "pinned_tweet_id": "1958587321269506431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017254570955870209/CqKN7mle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 150,
+          "like_count": 5289,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 818
+        },
+        "username": "Eve1140214",
+        "verified": false
+      }
+    ]
+  }
+}

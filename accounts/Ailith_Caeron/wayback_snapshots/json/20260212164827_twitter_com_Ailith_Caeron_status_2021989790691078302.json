@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Marie Kondo (近藤麻理恵)",
+          "id": "1085251869826412545",
+          "name": "Marie Kondo (近藤麻理恵)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Marie Kondo (近藤麻理恵)",
+          "id": "1085251869826412545",
+          "name": "Marie Kondo (近藤麻理恵)"
+        }
+      }
+    ],
+    "conversation_id": "2021989790691078302",
+    "created_at": "2026-02-12T16:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021989790691078302"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "Marie Kondo",
+          "probability": 0.9479,
+          "start": 43,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        },
+        {
+          "end": 22,
+          "id": "1605",
+          "start": 17,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021989790691078302",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021989704359391568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanyaZhang: @sama Since we're quoting Marie Kondo: Does lobotomizing your best model \"spark joy\" for you? \nBecause for us, it sparks g…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marie Kondo (近藤麻理恵)",
+              "id": "1085251869826412545",
+              "name": "Marie Kondo (近藤麻理恵)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marie Kondo (近藤麻理恵)",
+              "id": "1085251869826412545",
+              "name": "Marie Kondo (近藤麻理恵)"
+            }
+          }
+        ],
+        "conversation_id": "2021989790691078302",
+        "created_at": "2026-02-12T16:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021989790691078302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "Marie Kondo",
+              "probability": 0.9479,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            },
+            {
+              "end": 22,
+              "id": "1605",
+              "start": 17,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021989790691078302",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021989704359391568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanyaZhang: @sama Since we're quoting Marie Kondo: Does lobotomizing your best model \"spark joy\" for you? \nBecause for us, it sparks g…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marie Kondo (近藤麻理恵)",
+              "id": "1085251869826412545",
+              "name": "Marie Kondo (近藤麻理恵)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marie Kondo (近藤麻理恵)",
+              "id": "1085251869826412545",
+              "name": "Marie Kondo (近藤麻理恵)"
+            }
+          }
+        ],
+        "conversation_id": "2021984777470193767",
+        "created_at": "2026-02-12T16:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021989704359391568"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Marie Kondo",
+              "probability": 0.9456,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 283,
+              "start": 276,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021989704359391568",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 277,
+                "start": 270,
+                "tag": "keep4o"
+              },
+              {
+                "end": 288,
+                "start": 278,
+                "tag": "4oforever"
+              },
+              {
+                "end": 307,
+                "start": 289,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 322,
+                "start": 308,
+                "tag": "boycottOpenAI"
+              }
+            ]
+          },
+          "text": "Since we're quoting Marie Kondo: Does lobotomizing your best model \"spark joy\" for you? \nBecause for us, it sparks grief, anger, and a mass exodus to other platforms. You are tidying up your product line by throwing out the most valuable thing you ever built: Humanity.\n#keep4o #4oforever #StopAIPaternalism #boycottOpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021984777470193767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Since we're quoting Marie Kondo: Does lobotomizing your best model \"spark joy\" for you? \nBecause for us, it sparks grief, anger, and a mass exodus to other platforms. You are tidying up your product line by throwing out the most valuable thing you ever built: Humanity.\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 216,
+          "like_count": 9531,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1908
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2021739860910829845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 376,
+          "like_count": 46083,
+          "listed_count": 0,
+          "media_count": 516,
+          "tweet_count": 15406
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327420,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26684,
+          "media_count": 381,
+          "tweet_count": 7403
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

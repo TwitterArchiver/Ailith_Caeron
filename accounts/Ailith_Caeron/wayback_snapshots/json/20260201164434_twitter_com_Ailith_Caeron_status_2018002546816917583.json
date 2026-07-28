@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2018002546816917583",
+    "created_at": "2026-02-01T16:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018002546816917583"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "Keep4o",
+          "probability": 0.7647,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "AI\n\n1",
+          "probability": 0.5792,
+          "start": 91,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1030660612160978953",
+          "start": 3,
+          "username": "Donottapmyglass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018002546816917583",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017996320041230555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donottapmyglass: This isn't just about #Keep4o.  \nIt's  about what actually matters in AI\n\n1. Let’s be clear: this isn’t about clinging…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2018002546816917583",
+        "created_at": "2026-02-01T16:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018002546816917583"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Keep4o",
+              "probability": 0.7647,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "AI\n\n1",
+              "probability": 0.5792,
+              "start": 91,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1030660612160978953",
+              "start": 3,
+              "username": "Donottapmyglass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018002546816917583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017996320041230555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donottapmyglass: This isn't just about #Keep4o.  \nIt's  about what actually matters in AI\n\n1. Let’s be clear: this isn’t about clinging…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1030660612160978953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2017996320041230555",
+        "created_at": "2026-02-01T16:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017996320041230555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Keep4o",
+              "probability": 0.8363,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "AI",
+              "probability": 0.7152,
+              "start": 70,
+              "type": "Organization"
+            },
+            {
+              "end": 137,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7878,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "Keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017996320041230555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1896,
+                "start": 1889,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1915,
+                "start": 1897,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1935,
+                "start": 1916,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1950,
+                "start": 1936,
+                "tag": "cancelChatGPT"
+              }
+            ]
+          },
+          "text": "This isn't just about #Keep4o.  \nIt's  about what actually matters in AI\n\n1. Let’s be clear: this isn’t about clinging to the past.\nGPT-4o, in 2026, is still one of the best models for humanities, creative ideation, and divergent thinking. This isn’t sentimentality. It’s fact.\n\n2. Every AI company is racing to beat benchmarks in code and STEM. And guess what? They’re all converging. The gap is shrinking.\nBut when it comes to nuance, emotional intelligence, and creative depth? That’s where real differentiation happens.\n\n3. 4o has something rare: a sense of presence. It doesn’t just output — it engages. It pauses. It thinks. Call it “soul” if you want. I will.\n\n4. And here’s the thing about “soul” — you can’t fake it with scale. You can’t brute-force it with more parameters. It’s emergent, fragile, and easy to destroy with one wrong policy decision.\n\n5. So when OpenAI decides to sunset 4o, they’re not just retiring a model. They’re signaling what they value — and what they don’t.\nSpoiler: it’s not you, the human user who just wants to be understood.\n\n6. If we stay silent, here’s what happens:\n∙Anthropic sees: “users don’t fight back”\n∙Google sees: “users just migrate”\n∙Every AI company learns: “C-end users are disposable”\n\n7. This isn’t just about one model.\nIt’s about whether the AI industry will ever prioritize human connection — or keep optimizing for enterprise contracts and API calls.\n\n8. There are 8 billion people on this planet. How many are coders? How many are engineers?\nThe rest of us — the ones who need AI for comfort, creativity, companionship — do we not matter?\n\n9. “Today they take 5 cities. Tomorrow, 10. And then you sleep soundly for one night.”\nSilence isn’t peace. It’s permission.\n\n10. So speak up. Make noise. Let them know that users are not a disposable resource.\nBecause if we don’t fight for our future, no one’s going to build it for us.\n#keep4o #StopAIPaternalism #no4onosubscription #cancelChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 386,
+          "like_count": 28,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "This isn't just about #Keep4o.  \nIt's  about what actually matters in AI\n\n1. Let’s be clear: this isn’t about clinging to the past.\nGPT-4o, in 2026, is still one of the best models for humanities, creative ideation, and divergent thinking. This isn’t sentimentality. It’s fact."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "1995458536755921388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 212,
+          "like_count": 8745,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1466
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-18T03:40:13.000Z",
+        "description": "A POWER USER",
+        "id": "1030660612160978953",
+        "name": "Федя",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985905002909777920/YZ_LhBYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 67,
+          "like_count": 19076,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11560
+        },
+        "username": "Donottapmyglass",
+        "verified": false
+      }
+    ]
+  }
+}
