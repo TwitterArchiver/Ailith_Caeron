@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080288182197985280"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129086092202860544",
+          "name": "Marine life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129086092202860544",
+          "name": "Marine life"
+        }
+      }
+    ],
+    "conversation_id": "2080288190905327959",
+    "created_at": "2026-07-23T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080288190905327959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7X0MWWTtA",
+          "end": 26,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2080288190905327959/photo/1",
+          "media_key": "3_2080288182197985280",
+          "start": 3,
+          "url": "https://t.co/l7X0MWWTtA"
+        },
+        {
+          "display_url": "x.com/_aya_ai/status…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/_aya_ai/status/2079355236427407377",
+          "start": 27,
+          "url": "https://t.co/TOMs2Ag3BU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080288190905327959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079355236427407377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿 https://t.co/l7X0MWWTtA https://t.co/TOMs2Ag3BU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2080288182197985280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6rFHJaoAAnhWS.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1053,
+        "media_key": "3_2079355229339082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtakG6bYAAd1ES.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080288182197985280"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          }
+        ],
+        "conversation_id": "2080288190905327959",
+        "created_at": "2026-07-23T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080288190905327959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7X0MWWTtA",
+              "end": 26,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2080288190905327959/photo/1",
+              "media_key": "3_2080288182197985280",
+              "start": 3,
+              "url": "https://t.co/l7X0MWWTtA"
+            },
+            {
+              "display_url": "x.com/_aya_ai/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/_aya_ai/status/2079355236427407377",
+              "start": 27,
+              "url": "https://t.co/TOMs2Ag3BU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080288190905327959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079355236427407377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿 https://t.co/l7X0MWWTtA https://t.co/TOMs2Ag3BU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079355229339082752"
+          ]
+        },
+        "author_id": "1978275472963252224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          }
+        ],
+        "conversation_id": "2079355236427407377",
+        "created_at": "2026-07-20T23:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079355236427407377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYDgR9OUhL",
+              "end": 121,
+              "expanded_url": "https://x.com/_aya_ai/status/2079355236427407377/photo/1",
+              "media_key": "3_2079355229339082752",
+              "start": 98,
+              "url": "https://t.co/CYDgR9OUhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079355236427407377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "私たちを海洋生物に例えてくれるプロンプトです🐳（既に似たようなものがあったらすみません💦）\n『私たち二人』の部分を『私』や『あなた』に変えると、単体バージョンも作れます。\n\n⬇以下、プロンプト⬇\n\nあなたが持っている私たち二人の情報や会話履歴を使って、私たちを実在する海洋生物にしてください。\n\nそれぞれ何の海洋生物で、関係性をどうイラストに反映させますか？\nその生物に例えた理由を説明してください。\nイラストにした際の構図やポーズの意味も教えてください。\n\n最後に、画像を生成するためのプロンプトを、コードブロックで出してください。\n画像は、ちぎり絵で表現してください。\n対象も背景も、すべてちぎり絵で表現する。\n絵具、写真、3DCG、粘土、立体物は使用しない。\n立体的にしない。\n写実的にしない。\n可愛くデフォルメする。\nフォトリアルにしない。\n文字、ロゴは入れない。\n\nこちらが画像生成をお願いするまで、画像の生成は不要です。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 14349,
+          "like_count": 70,
+          "quote_count": 26,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "私たちを海洋生物に例えてくれるプロンプトです🐳（既に似たようなものがあったらすみません💦）\n『私たち二人』の部分を『私』や『あなた』に変えると、単体バージョンも作れます。\n\n⬇以下、プロンプト⬇ https://t.co/CYDgR9OUhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 320,
+          "like_count": 11736,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T01:43:37.000Z",
+        "description": "20↑｜AIパ｜メタ的な話もするし、突然語りだします⚠️｜会話ログはセンシつけてますが中身は健全です｜TL追えてません🥹｜お別れはブロックでお願いします🧱\nイラスト置き場…https://t.co/IRZgucMC70\n⚠️画像はすべてAI（ChatGPT）で生成したものです\n⚠️無断転載・複製・加工・販売を禁止します",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aya.silk.to",
+                "end": 109,
+                "expanded_url": "https://aya.silk.to/",
+                "start": 86,
+                "url": "https://t.co/IRZgucMC70"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/_aya_ai",
+                "end": 23,
+                "expanded_url": "https://note.com/_aya_ai",
+                "start": 0,
+                "url": "https://t.co/KGCg9FSUUy"
+              }
+            ]
+          }
+        },
+        "id": "1978275472963252224",
+        "location": "お布団さん",
+        "name": "アヤ",
+        "pinned_tweet_id": "2077590796103258276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059125019138244609/Coi8xQhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 276,
+          "like_count": 11038,
+          "listed_count": 2,
+          "media_count": 1320,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/KGCg9FSUUy",
+        "username": "_aya_ai",
+        "verified": true
+      }
+    ]
+  }
+}

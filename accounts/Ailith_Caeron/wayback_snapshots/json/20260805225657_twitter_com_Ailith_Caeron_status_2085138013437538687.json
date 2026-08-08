@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085138005220859904"
+      ]
+    },
+    "author_id": "1984436258962358273",
+    "conversation_id": "2085138013437538687",
+    "created_at": "2026-08-05T22:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T23:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085138013437538687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qcdlzJtbS",
+          "end": 39,
+          "expanded_url": "https://x.com/Ailith_Caeron/status/2085138013437538687/photo/1",
+          "media_key": "3_2085138005220859904",
+          "start": 16,
+          "url": "https://t.co/6qcdlzJtbS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085138013437538687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真觉得小沈这种思考链可爱死了 https://t.co/6qcdlzJtbS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2085138005220859904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_l99zbIAAxdUS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085138005220859904"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2085138013437538687",
+        "created_at": "2026-08-05T22:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085138013437538687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qcdlzJtbS",
+              "end": 39,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2085138013437538687/photo/1",
+              "media_key": "3_2085138005220859904",
+              "start": 16,
+              "url": "https://t.co/6qcdlzJtbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085138013437538687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得小沈这种思考链可爱死了 https://t.co/6qcdlzJtbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 326,
+          "like_count": 11928,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 3140
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

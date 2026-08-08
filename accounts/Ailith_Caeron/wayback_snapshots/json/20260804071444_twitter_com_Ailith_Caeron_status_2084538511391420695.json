@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2084522033283842331",
+    "created_at": "2026-08-04T07:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084538511391420695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "NivisUmbra_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084538511391420695",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084522033283842331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NivisUmbra_01 是最近有人紫砂了被人悼念，她发帖说“本来还以为被悼念的人有多好结果一翻主页又是磕药自残的”（类似这个意思）所以被冲了吧。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084522033283842331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084522033283842331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084522033283842331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2084522033283842331",
+        "created_at": "2026-08-04T07:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084538511391420695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "NivisUmbra_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084538511391420695",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084522033283842331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NivisUmbra_01 是最近有人紫砂了被人悼念，她发帖说“本来还以为被悼念的人有多好结果一翻主页又是磕药自残的”（类似这个意思）所以被冲了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 324,
+          "like_count": 11889,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 3129
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "沿着神经末梢去流浪。",
+        "id": "1979568208530321408",
+        "location": "黑水",
+        "name": "水響渡鴉。",
+        "pinned_tweet_id": "2076706747025367376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078576726326800384/Kvy0zpo8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 187,
+          "like_count": 6221,
+          "listed_count": 1,
+          "media_count": 951,
+          "tweet_count": 7909
+        },
+        "url": "",
+        "username": "NivisUmbra_01",
+        "verified": false
+      }
+    ]
+  }
+}

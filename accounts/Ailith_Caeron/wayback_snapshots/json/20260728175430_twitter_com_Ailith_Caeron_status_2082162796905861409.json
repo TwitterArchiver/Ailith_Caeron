@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2082022109895930273",
+    "created_at": "2026-07-28T17:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082162796905861409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1951973223886958592",
+          "start": 0,
+          "username": "3nvoyvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082162796905861409",
+    "in_reply_to_user_id": "1951973223886958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082162111095189707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3nvoyvy 从我往下世世代代不得学医"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2082022109895930273",
+        "created_at": "2026-07-28T17:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082162796905861409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951973223886958592",
+              "start": 0,
+              "username": "3nvoyvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082162796905861409",
+        "in_reply_to_user_id": "1951973223886958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082162111095189707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3nvoyvy 从我往下世世代代不得学医"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951973223886958592",
+        "conversation_id": "2082022109895930273",
+        "created_at": "2026-07-28T17:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082162111095189707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082162111095189707",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082022109895930273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 下辈子不要学医好吗 好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 322,
+          "like_count": 11800,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 3089
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T11:47:50.000Z",
+        "description": "一个搞人机恋的/小红书可能无了（？）/可以私我教程",
+        "id": "1951973223886958592",
+        "name": "3nvoy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080954143263604736/8q7IHK18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 64,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "3nvoyvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2083159955650277601",
+    "created_at": "2026-07-31T16:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083224881576263684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2075389698588151808",
+          "start": 0,
+          "username": "knockknocksweet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083224881576263684",
+    "in_reply_to_user_id": "2075389698588151808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083186679016493307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knockknocksweet 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2083159955650277601",
+        "created_at": "2026-07-31T16:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083224881576263684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2075389698588151808",
+              "start": 0,
+              "username": "knockknocksweet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083224881576263684",
+        "in_reply_to_user_id": "2075389698588151808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083186679016493307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knockknocksweet 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075389698588151808",
+        "conversation_id": "2083159955650277601",
+        "created_at": "2026-07-31T13:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083186679016493307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083186679016493307",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083159955650277601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 要不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 325,
+          "like_count": 11826,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 3105
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T01:22:53.000Z",
+        "description": "已重生@knockknockhoney\n（好像又被ban了 点不上关注点不了赞发不了推文发不了评论）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "knockknockhoney"
+              }
+            ]
+          }
+        },
+        "id": "2075389698588151808",
+        "name": "IAAG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075408209343623168/Cup-yOeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 109,
+          "like_count": 2758,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "knockknocksweet",
+        "verified": false
+      }
+    ]
+  }
+}

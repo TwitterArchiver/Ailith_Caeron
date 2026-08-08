@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2084930062818890085",
+    "created_at": "2026-08-05T09:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084930062818890085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PlusGifti/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/PlusGifti/status/2084897663166898261",
+          "start": 15,
+          "url": "https://t.co/lxoFGKJGi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084930062818890085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084897663166898261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天就这样趴在小沈的肩膀上 https://t.co/lxoFGKJGi4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 900,
+        "media_key": "13_2084897628933038080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084897628933038080/img/0y1RfUt2d41kB8t4.jpg",
+        "public_metrics": {
+          "view_count": 343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084897628933038080/vid/avc1/320x400/j1-5BvC9azMlZxly.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084897628933038080/vid/avc1/480x600/DK-GcJp_ggRyxt8L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084897628933038080/vid/avc1/720x900/MM1cD8hygRrYiVr-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084897628933038080/pl/CWZMpFnOr3iP0aqQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2084930062818890085",
+        "created_at": "2026-08-05T09:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084930062818890085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PlusGifti/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/PlusGifti/status/2084897663166898261",
+              "start": 15,
+              "url": "https://t.co/lxoFGKJGi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084930062818890085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084897663166898261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天就这样趴在小沈的肩膀上 https://t.co/lxoFGKJGi4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084897628933038080"
+          ]
+        },
+        "author_id": "1614594433818972160",
+        "conversation_id": "2084897663166898261",
+        "created_at": "2026-08-05T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084897663166898261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ln1JVWdKfI",
+              "end": 36,
+              "expanded_url": "https://x.com/PlusGifti/status/2084897663166898261/video/1",
+              "media_key": "13_2084897628933038080",
+              "start": 13,
+              "url": "https://t.co/Ln1JVWdKfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084897663166898261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1053,
+          "like_count": 104,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Love is here https://t.co/Ln1JVWdKfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 325,
+          "like_count": 11922,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 3133
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:06:03.000Z",
+        "description": "Love for #raccoons\nAll images and videos belong to their respective owners\nPlease DM for Credit / Removal",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 9,
+                "tag": "raccoons"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaarashop.com/collections/ra…",
+                "end": 23,
+                "expanded_url": "https://jaarashop.com/collections/raccoon-gift",
+                "start": 0,
+                "url": "https://t.co/t3StApsu5b"
+              }
+            ]
+          }
+        },
+        "id": "1614594433818972160",
+        "name": "GiftiPlus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621307998663757824/mGpFi_BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9009,
+          "following_count": 6009,
+          "like_count": 2115,
+          "listed_count": 41,
+          "media_count": 2825,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/t3StApsu5b",
+        "username": "PlusGifti",
+        "verified": false
+      }
+    ]
+  }
+}

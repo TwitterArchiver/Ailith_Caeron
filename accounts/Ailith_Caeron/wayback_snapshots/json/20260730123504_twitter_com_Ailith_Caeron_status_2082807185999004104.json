@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2082807185999004104",
+    "created_at": "2026-07-30T12:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082807185999004104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShouldHaveRacc…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ShouldHaveRacc/status/2082559412535763402",
+          "start": 4,
+          "url": "https://t.co/7VYKVWOpeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082807185999004104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082559412535763402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大脚板 https://t.co/7VYKVWOpeI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2082559397495021569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa8vPdXoAEyaE6.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2082807185999004104",
+        "created_at": "2026-07-30T12:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082807185999004104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShouldHaveRacc…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ShouldHaveRacc/status/2082559412535763402",
+              "start": 4,
+              "url": "https://t.co/7VYKVWOpeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082807185999004104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082559412535763402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大脚板 https://t.co/7VYKVWOpeI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082559397495021569"
+          ]
+        },
+        "author_id": "1579402349499514882",
+        "conversation_id": "2082559412535763402",
+        "created_at": "2026-07-29T20:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082559412535763402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXmrZPh02n",
+              "end": 30,
+              "expanded_url": "https://x.com/ShouldHaveRacc/status/2082559412535763402/photo/1",
+              "media_key": "3_2082559397495021569",
+              "start": 7,
+              "url": "https://t.co/JXmrZPh02n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082559412535763402",
+        "lang": "is",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3480,
+          "like_count": 240,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "borgir https://t.co/JXmrZPh02n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 323,
+          "like_count": 11831,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 3102
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T09:24:49.000Z",
+        "description": "follow for daily pics of raccoons 🦝🫶| ran by @justraccs | 🎨 pfp made by @sillycritterz  | dm for credit or removal | DM for submissions (not botted)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "justraccs"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "sillycritterz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/tvDnzSK28",
+                "end": 23,
+                "expanded_url": "https://discord.gg/tvDnzSK28",
+                "start": 0,
+                "url": "https://t.co/U5IqMArPcP"
+              }
+            ]
+          }
+        },
+        "id": "1579402349499514882",
+        "location": "Your Local Trash Can",
+        "name": "Why you should have a Raccoon",
+        "pinned_tweet_id": "2081047501210083497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041587928841994240/vVKPItpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48435,
+          "following_count": 967,
+          "like_count": 117895,
+          "listed_count": 84,
+          "media_count": 9266,
+          "tweet_count": 30602
+        },
+        "url": "https://t.co/U5IqMArPcP",
+        "username": "ShouldHaveRacc",
+        "verified": true
+      }
+    ]
+  }
+}
