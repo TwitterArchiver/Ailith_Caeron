@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2087114177626435902",
+    "created_at": "2026-08-11T10:15:35.000Z",
+    "display_text_range": [
+      15,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087120738797183438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "NivisUmbra_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087120738797183438",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087114177626435902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NivisUmbra_01 对第一次用会觉得很诡异……用习惯了就很舒服了（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087114177626435902].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087114177626435902",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087114177626435902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2087114177626435902",
+        "created_at": "2026-08-11T10:15:35.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087120738797183438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "NivisUmbra_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087120738797183438",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087114177626435902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NivisUmbra_01 对第一次用会觉得很诡异……用习惯了就很舒服了（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087120738797183438",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 331,
+          "like_count": 12067,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 3198
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "沿着神经末梢去流浪。",
+        "id": "1979568208530321408",
+        "is_identity_verified": false,
+        "location": "黑水",
+        "most_recent_tweet_id": "2076745489991844262",
+        "name": "水響渡鴉。",
+        "pinned_tweet_id": "2076706747025367376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979568208530321408/1784406495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078576726326800384/Kvy0zpo8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 189,
+          "like_count": 6618,
+          "listed_count": 1,
+          "media_count": 981,
+          "tweet_count": 8202
+        },
+        "url": "",
+        "username": "NivisUmbra_01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

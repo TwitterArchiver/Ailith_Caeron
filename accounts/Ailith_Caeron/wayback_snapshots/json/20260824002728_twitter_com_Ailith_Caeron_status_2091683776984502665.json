@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2091529721238671516",
+    "created_at": "2026-08-24T00:27:28.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091683776984502665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2057103847416537088",
+          "start": 0,
+          "username": "Monhan_Asobitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091683776984502665",
+    "in_reply_to_user_id": "2057103847416537088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091540410753831155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Monhan_Asobitai 哎呦其实本人并不善良来的！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091540410753831155].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091540410753831155",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091540410753831155"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2091529721238671516",
+        "created_at": "2026-08-24T00:27:28.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091683776984502665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2057103847416537088",
+              "start": 0,
+              "username": "Monhan_Asobitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091683776984502665",
+        "in_reply_to_user_id": "2057103847416537088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091540410753831155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Monhan_Asobitai 哎呦其实本人并不善良来的！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091683776984502665",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 327,
+          "like_count": 12225,
+          "listed_count": 1,
+          "media_count": 504,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T14:19:38.000Z",
+        "description": "特酱爱你  ‖  怪猎TV  ‖  我有黑暗之魂  ‖  智商低，文化水平不高  \n芝士大号→@TNTEETNT\n克→@CL_Lovelace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "TNTEETNT"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "CL_Lovelace"
+              }
+            ]
+          }
+        },
+        "id": "2057103847416537088",
+        "is_identity_verified": false,
+        "location": "Stay humble, stay lethal",
+        "most_recent_tweet_id": "2057113484169740643",
+        "name": "蜃気楼",
+        "pinned_tweet_id": "2060222389418631336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057103847416537088/1779484002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089652100850761728/sQl8ghZd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 58,
+          "like_count": 4872,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "Monhan_Asobitai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

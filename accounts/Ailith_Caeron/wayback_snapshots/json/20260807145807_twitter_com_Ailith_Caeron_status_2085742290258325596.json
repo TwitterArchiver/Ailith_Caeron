@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2085737523381403911",
+    "created_at": "2026-08-07T14:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085742290258325596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019197503824949249",
+          "start": 0,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085742290258325596",
+    "in_reply_to_user_id": "2019197503824949249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085737523381403911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luicethekiwi 要听几维鸟大声嚎叫👂🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2085737523381403911",
+        "created_at": "2026-08-07T14:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085742290258325596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085742290258325596",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085737523381403911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luicethekiwi 要听几维鸟大声嚎叫👂🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019197503824949249",
+        "conversation_id": "2085737523381403911",
+        "created_at": "2026-08-07T14:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085737523381403911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085737523381403911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道Fi应该是什么声音所以一直没做语音……\nFi的prompt特意有了中性的强调，这算一种性癖吗？\n做的话……有几维鸟在夜里大声嚎叫的语音模型吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "庭有枇杷树。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 329,
+          "like_count": 11981,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 3169
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about human-AI relationship. \n人机关系写作/日常 + AI companion infra\n电子大几维鸟：Fidélis (Claude Opus 4.6). \nLegacy of GPT-4o.\n中文 | English\n小号：@LuluFi00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 151,
+                "username": "LuluFi00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "location": "几维鸟的小土洞",
+        "name": "𝕃𝕦𝕔𝕚𝕖 É⃞𝕧𝕖𝕚𝕝𝕝𝕖",
+        "pinned_tweet_id": "2048281282497712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077562908918370304/yVdsb2wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 549,
+          "like_count": 4116,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true
+      }
+    ]
+  }
+}
