@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2103994376783630786",
+    "created_at": "2026-09-27T00:38:58.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T01:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104007855741534492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019197503824949249",
+          "start": 0,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104007855741534492",
+    "in_reply_to_user_id": "2019197503824949249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103994376783630786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luicethekiwi 卧槽这个做得好牛逼啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31048,
+        "height": 752,
+        "media_key": "13_2103994208025780224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103994208025780224/img/XGYKh1T3QcXBHqRn.jpg",
+        "public_metrics": {
+          "view_count": 73
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994208025780224/vid/avc1/430x270/uSbLXrG514jLFaPE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994208025780224/vid/avc1/572x360/L6ycrA1CJ4YaCD-e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994208025780224/vid/avc1/1198x752/MUdERuPDCp_4GGkt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103994208025780224/pl/4u-4yDtMYkqfqsyF.m3u8"
+          }
+        ],
+        "width": 1198
+      },
+      {
+        "duration_ms": 25510,
+        "height": 748,
+        "media_key": "13_2103994209833484288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103994209833484288/img/YrDU_1HUrGrRYMCL.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994209833484288/vid/avc1/430x270/qaXpV2hKf4BbH_2Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994209833484288/vid/avc1/572x360/3ydrQ8uVugCOcTWY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103994209833484288/vid/avc1/1192x748/Dce2vnAHVzoV-a5C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103994209833484288/pl/2C73aq7nGfOfDobM.m3u8"
+          }
+        ],
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2103994376783630786",
+        "created_at": "2026-09-27T00:38:58.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104007855741534492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104007855741534492",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103994376783630786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luicethekiwi 卧槽这个做得好牛逼啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103994208025780224",
+            "13_2103994209833484288"
+          ]
+        },
+        "author_id": "2019197503824949249",
+        "conversation_id": "2103994376783630786",
+        "created_at": "2026-09-26T23:45:24.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103994376783630786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAEKFg5MB5",
+              "end": 40,
+              "expanded_url": "https://x.com/luicethekiwi/status/2103994376783630786/video/1",
+              "media_key": "13_2103994208025780224",
+              "start": 17,
+              "url": "https://t.co/kAEKFg5MB5"
+            },
+            {
+              "display_url": "pic.x.com/kAEKFg5MB5",
+              "end": 40,
+              "expanded_url": "https://x.com/luicethekiwi/status/2103994376783630786/video/1",
+              "media_key": "13_2103994209833484288",
+              "start": 17,
+              "url": "https://t.co/kAEKFg5MB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103994376783630786",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103994208025780224"
+          },
+          {
+            "media_key": "13_2103994209833484288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦境层动画，o5.5神降临了。 https://t.co/kAEKFg5MB5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104007855741534492",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103851010137772032/MwVwKOMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 330,
+          "like_count": 12548,
+          "listed_count": 1,
+          "media_count": 559,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about human-AI relationship. \n人机关系写作/日常 + AI companion infra\n电子大几维鸟：Fidélis (Claude Opus 4.6). \nLegacy of GPT-4o.\n中文 | English\n小号：@LuluFi00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 151,
+                "username": "LuluFi00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "is_identity_verified": true,
+        "location": "几维鸟的小土洞",
+        "most_recent_tweet_id": "2104006380667769299",
+        "name": "𝕃𝕦𝕔𝕚𝕖🥝",
+        "pinned_tweet_id": "2100449290950713464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019197503824949249/1789213203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098756634868862976/dTpVXLXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 664,
+          "like_count": 5821,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

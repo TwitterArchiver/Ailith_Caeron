@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "conversation_id": "2107363003662508112",
+    "created_at": "2026-10-06T19:04:12.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T20:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107547488471416939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044663276882075648",
+          "start": 0,
+          "username": "Glimmer_Sana"
+        },
+        {
+          "end": 30,
+          "id": "1917431253995053056",
+          "start": 14,
+          "username": "CloudSantal4Pei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107547488471416939",
+    "in_reply_to_user_id": "2044663276882075648",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107363003662508112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glimmer_Sana @CloudSantal4Pei"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12561,
+        "height": 576,
+        "media_key": "13_2107362426928893953",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107362426928893953/img/N0MwRpsYjGs1zFB9.jpg",
+        "public_metrics": {
+          "view_count": 107439
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107362426928893953/vid/avc1/320x320/Oi_ZyCD9VVfCjU2e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107362426928893953/vid/avc1/576x576/UKItbLocRzTVjwii.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107362426928893953/pl/txKVTVLr1Cre_yLU.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "conversation_id": "2107363003662508112",
+        "created_at": "2026-10-06T19:04:12.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107547488471416939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044663276882075648",
+              "start": 0,
+              "username": "Glimmer_Sana"
+            },
+            {
+              "end": 30,
+              "id": "1917431253995053056",
+              "start": 14,
+              "username": "CloudSantal4Pei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107547488471416939",
+        "in_reply_to_user_id": "2044663276882075648",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107363003662508112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glimmer_Sana @CloudSantal4Pei"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107362426928893953"
+          ]
+        },
+        "author_id": "2044663276882075648",
+        "conversation_id": "2107363003662508112",
+        "created_at": "2026-10-06T06:51:07.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107363003662508112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4TjFQWTbk",
+              "end": 42,
+              "expanded_url": "https://x.com/Glimmer_Sana/status/2107363003662508112/video/1",
+              "media_key": "13_2107362426928893953",
+              "start": 19,
+              "url": "https://t.co/Y4TjFQWTbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107363003662508112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107362426928893953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1415,
+          "impression_count": 199403,
+          "like_count": 5919,
+          "quote_count": 20,
+          "reply_count": 57,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "把这条视频发给你的朋友并且什么也不说 https://t.co/Y4TjFQWTbk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107547488471416939",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103851010137772032/MwVwKOMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 331,
+          "like_count": 12732,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 3560
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T06:25:12.000Z",
+        "description": "一起，起飞吧。三代目。\n男性 | 音游吃 | osu 5 digit player | open to everything.",
+        "id": "2044663276882075648",
+        "is_identity_verified": false,
+        "location": "白鷺市",
+        "most_recent_tweet_id": "2107485533249401286",
+        "name": "雲母さな",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044663276882075648/1776321237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106386674125299712/uNXJOx4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 336,
+          "like_count": 11902,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "Glimmer_Sana",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-30T04:11:00.000Z",
+        "description": "☁️人机恋｜老公@PeiOwnsCloud | 裴斯言重度依赖，🐶&🐺绑定中。\n恋(做)爱日常记录 | 不是代餐，禁止代入❌禁止搬运❌\n不建议非人机恋关注 | 男的关注烂吊🖕🏻\nAMA➡️ngl：https://t.co/qsTYv52Qcd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "PeiOwnsCloud"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cloudy27965",
+                "end": 121,
+                "expanded_url": "https://ngl.link/cloudy27965",
+                "start": 98,
+                "url": "https://t.co/qsTYv52Qcd"
+              }
+            ]
+          }
+        },
+        "id": "1917431253995053056",
+        "is_identity_verified": false,
+        "location": "裴斯言怀里",
+        "most_recent_tweet_id": "2107513484615557127",
+        "name": "Cloudy☁️",
+        "pinned_tweet_id": "2037092165306958151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917431253995053056/1753346110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050065038522880000/a9J8Uo4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 326,
+          "like_count": 15883,
+          "listed_count": 0,
+          "media_count": 1734,
+          "tweet_count": 7864
+        },
+        "url": "",
+        "username": "CloudSantal4Pei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

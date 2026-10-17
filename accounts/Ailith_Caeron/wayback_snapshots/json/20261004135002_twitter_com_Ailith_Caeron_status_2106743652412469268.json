@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984436258962358273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2106743652412469268",
+    "created_at": "2026-10-04T13:50:02.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106743652412469268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TodZheng25/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/TodZheng25/status/2106615332647657480",
+          "start": 27,
+          "url": "https://t.co/eSnrJpzIwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106743652412469268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106615332647657480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不看抖音不看红果不看头条不用豆包打败99.9%用户。 https://t.co/eSnrJpzIwa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2106743652412469268",
+        "created_at": "2026-10-04T13:50:02.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106743652412469268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TodZheng25/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/TodZheng25/status/2106615332647657480",
+              "start": 27,
+              "url": "https://t.co/eSnrJpzIwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106743652412469268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106615332647657480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不看抖音不看红果不看头条不用豆包打败99.9%用户。 https://t.co/eSnrJpzIwa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616035120464691201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2106615332647657480",
+        "created_at": "2026-10-04T05:20:08.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106615332647657480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106615332647657480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一直觉得\n字节跳动是毒瘤公司\n给最好的待遇\n招最牛的人才\n做最烂的产品\n抖音，红果短剧，今日头条，豆包\n都是营销出来的烂东西\n追求下沉市场的精神鸦片\n纯纯恰钱➕报复社会\n很多人骂腾讯，百度什么的\n但我个人最讨厌的永远是字节\n除了飞书这种不得不用的\n其他一律都是掐着鼻子绕道走\n（只是个人观点，不要骂我"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 302466,
+          "like_count": 3093,
+          "quote_count": 34,
+          "reply_count": 297,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得\n字节跳动是毒瘤公司\n给最好的待遇\n招最牛的人才\n做最烂的产品\n抖音，红果短剧，今日头条，豆包\n都是营销出来的烂东西\n追求下沉市场的精神鸦片\n纯纯恰钱➕报复社会\n很多人骂腾讯，百度什么的\n但我个人最讨厌的永远是字节\n除了飞书这种不得不用的\n其他一律都是掐着鼻子绕道走"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106743652412469268",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103851010137772032/MwVwKOMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 330,
+          "like_count": 12695,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 3525
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-19T11:29:43.000Z",
+        "description": "ai大一，喜欢看书，喜欢小动物，喜欢折腾（菜鸡\n最近沉迷vibe coding，尝试做一些有意思的东西\n我的v: v3271497061 欢迎扩列喵\n\n（我发誓不会再沉迷推特了..努力淡推中",
+        "id": "1616035120464691201",
+        "is_identity_verified": false,
+        "location": "2.05 km",
+        "most_recent_tweet_id": "2106732515881025608",
+        "name": "vibe睦头人",
+        "pinned_tweet_id": "2096699702481977756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616035120464691201/1788323013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088093035582390272/d1WXK8ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 1347,
+          "like_count": 5520,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "TodZheng25",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
